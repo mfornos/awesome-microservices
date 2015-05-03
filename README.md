@@ -52,27 +52,27 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Configuration & Discovery
 
-- [ZooKeeper](https://zookeeper.apache.org/)
-- [Etcd](https://github.com/coreos/etcd)
-- [Consul](https://consul.io/)
-- [Eureka](https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance)
+- [ZooKeeper](https://zookeeper.apache.org/) is an effort to develop and maintain an open-source server which enables highly reliable distributed coordination.
+- [Etcd](https://github.com/coreos/etcd) a highly-available key-value store for shared configuration and service discovery.
+- [Consul](https://consul.io/) Service discovery and configuration made easy. Distributed, highly available, and datacenter-aware.
+- [Eureka](https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance) is a REST based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers.
 
 ### Monitoring
 
-- [Graphite](http://graphite.wikidot.com/)
-- [Riemann](http://riemann.io/)
-- [Suro](https://github.com/Netflix/suro/wiki)
+- [Graphite](http://graphite.wikidot.com/) scalable realtime graphing.
+- [Riemann](http://riemann.io/) monitors distributed systems.
+- [Suro](https://github.com/Netflix/suro/wiki) is a distributed data pipeline which enables services for moving, aggregating, routing, storing data.
 
 ### Logging
 
-- [Fluentd](http://www.fluentd.org/)
-- [Logstash](http://logstash.net/)
-- [Kibana](https://www.elastic.co/products/kibana)
-- [Graylog](https://www.graylog.org/)
+- [Fluentd](http://www.fluentd.org/) is an open source data collector for unified logging layer.
+- [Logstash](http://logstash.net/) is a tool for managing events and logs.
+- [Kibana](https://www.elastic.co/products/kibana) flexible analytics and visualization platform.
+- [Graylog](https://www.graylog.org/) is a fully integrated open source log management platform.
 
 ## Platforms
 
-- [Fabric8](http://fabric8.io/)
+- [Fabric8](http://fabric8.io/) is an open-source integration platform for deep management of Java Containers (JVMs).
 
 ## Runtimes
 
@@ -81,14 +81,14 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ## In-Memory Data Grids
 
-- [Hazelcast](http://hazelcast.org/)
-- [Galaxy](http://www.paralleluniverse.co/galaxy/)
+- [Hazelcast](http://hazelcast.org/) is an open source in-memory data grid.
+- [Galaxy](http://www.paralleluniverse.co/galaxy/) is an open-source high-performance in-memory data-grid.
 
 ## Deployment
 
-- [Docker](https://www.docker.com/)
-- [ECS](http://aws.amazon.com/ecs/)
-- [Capsule](https://github.com/puniverse/capsule)
+- [Docker](https://www.docker.com/) an open platform for distributed applications for developers and sysadmins.
+- [ECS](http://aws.amazon.com/ecs/) easily run and manage Docker-enabled applications across a cluster of Amazon EC2 instances.
+- [Capsule](https://github.com/puniverse/capsule) is a packaging and deployment tool for JVM applications.
 
 ## Theory
 
