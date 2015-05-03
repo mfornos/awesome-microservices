@@ -14,8 +14,9 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Infrastructure](#infrastructure)
   - [API Gateway](#api-gateway)
   - [Serialization](#serialization)
-  - [Horizontal Scalability](#horizontal-scalability)
-  - [Resiliency](#resiliency)
+  - [Messaging](#messaging)
+  - [Data Grid](#data-grid)
+  - [Resilience](#resilience)
   - [Configuration & Discovery](#configuration-&-discovery)
   - [Monitoring](#monitoring)
   - [Logging](#logging)
@@ -42,7 +43,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Finagle](http://twitter.github.io/finagle) is an extensible RPC system for the JVM, used to construct high-concurrency servers.
 - [Spring Boot](http://projects.spring.io/spring-boot/) makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
 - [Dropwizard](https://dropwizard.github.io/) is a Java framework for developing ops-friendly, high-performance, RESTful web services.
-- [Spray](http://spray.io/) is an open-source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka. 
+- [Spray](http://spray.io/) is an open-source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka.
 
 ### Go
 
@@ -54,6 +55,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Karaf](http://karaf.apache.org/) is a small OSGi based runtime which provides a lightweight container.
 - [Akka](http://akka.io/) is a toolkit and runtime for building highly concurrent, distributed, and resilient message-driven applications on the JVM.
+- [Erlang/OTP](http://www.erlang.org/doc/design_principles/users_guide.html) is a programming language used to build massively scalable soft real-time systems with requirements on high availability.
 
 ## Platforms
 
@@ -74,12 +76,25 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Cereal](http://uscilab.github.io/cereal/) a C++11 library for serialization.
 - [Kryo](https://github.com/EsotericSoftware/kryo) Java serialization and cloning: fast, efficient, automatic.
 
-### Horizontal Scalability
+### Messaging
+
+- [NATS](https://nats.io/) is an open-source, high-performance, lightweight cloud messaging system.
+- [RabbitMQ](https://www.rabbitmq.com/) is an open source Erlang-based message broker that just works.
+- [ActiveMQ](http://activemq.apache.org/) is a popular and powerful open source messaging and integration patterns server.
+- [Apollo](http://activemq.apache.org/apollo/) is a faster, more reliable, easier to maintain messaging broker built from the foundations of the original ActiveMQ.
+- [Qpid](https://qpid.apache.org/) cross-platform messaging components built on AMQP.
+- [Beanstalk](http://kr.github.io/beanstalkd/) is a simple, fast work queue.
+- [Nanomsg](http://nanomsg.org/) is a socket library that provides several common communication patterns for building distributed systems.
+- [ØMQ](http://zeromq.org/) is a brokerless intelligent transport layer.
+- [Kafka](http://kafka.apache.org/) is publish-subscribe messaging rethought as a distributed commit log.
+- [Disque](https://github.com/antirez/disque) is a distributed message broker.
+
+### Data Grid
 
 - [Hazelcast](http://hazelcast.org/) is an open source in-memory data grid.
 - [Galaxy](http://www.paralleluniverse.co/galaxy/) is an open-source high-performance in-memory data-grid.
 
-### Resiliency
+### Resilience
 
 - [Simian Army](https://github.com/Netflix/SimianArmy) is a suite of tools for keeping your cloud operating in top form. Chaos Monkey, the first member, is a resiliency tool that helps ensure that your applications can tolerate random instance failures.
 - [Hystrix](https://github.com/Netflix/Hystrix) is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
@@ -88,6 +103,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [ZooKeeper](https://zookeeper.apache.org/) is an effort to develop and maintain an open-source server which enables highly reliable distributed coordination.
 - [Etcd](https://github.com/coreos/etcd) a highly-available key-value store for shared configuration and service discovery.
+- [SkyDNS](https://github.com/skynetservices/skydns) is a distributed service for announcement and discovery of services built on top of etcd. It utilizes DNS queries to discover available services.
 - [Consul](https://consul.io/) Service discovery and configuration made easy. Distributed, highly available, and datacenter-aware.
 - [Eureka](https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance) is a REST based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers.
 
@@ -132,6 +148,7 @@ of the testing and deployment process.
 - [Docker](https://www.docker.com/) an open platform for distributed applications for developers and sysadmins.
 - [Kubernetes](http://kubernetes.io/) is an open source orchestration system for Docker containers.
 - [AWS ECS](http://aws.amazon.com/ecs/) easily run and manage Docker-enabled applications across a cluster of Amazon EC2 instances.
+- [CoreOS](https://coreos.com/) is an open source lightweight operating system based on the Linux kernel and designed for providing infrastructure to clustered deployments.
 
 ## Theory
 
@@ -143,6 +160,7 @@ of the testing and deployment process.
 - [CQRS](http://martinfowler.com/bliki/CQRS.html)
 - [Event Sourcing](http://martinfowler.com/eaaDev/EventSourcing.html)
 - [CALM](http://db.cs.berkeley.edu/papers/cidr11-bloom.pdf)
+- [CAP Theorem](http://blog.thislongrun.com/2015/03/the-cap-theorem-series.html)
 
 ### Books
 
