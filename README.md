@@ -9,15 +9,15 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Toolkits](#toolkits)
   - [JVM](#jvm)
   - [Go](#go)
+- [Platforms](#platforms)
+- [Runtimes](#runtimes)
 - [Infrastructure](#infrastructure)
   - [API Gateway](#api-gateway)
   - [Configuration & Discovery](#configuration-&-discovery)
   - [Monitoring](#monitoring)
   - [Logging](#logging)
-- [Platforms](#platforms)
-- [Runtimes](#runtimes)
-- [Horizontal Scalability](#horizontal-scalability)
-- [Resiliency](#resiliency)
+  - [Horizontal Scalability](#horizontal-scalability)
+  - [Resiliency](#resiliency)
 - [IT Automation / Provisioning](#it-automation--provisioning)
 - [Continuous Integration & Deployment](#continuous-integration-&-deployment)
   - [On-prem](#on-prem)
@@ -72,6 +72,12 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Etcd](https://github.com/coreos/etcd) a highly-available key-value store for shared configuration and service discovery.
 - [Consul](https://consul.io/) Service discovery and configuration made easy. Distributed, highly available, and datacenter-aware.
 - [Eureka](https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance) is a REST based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers.
+
+### Serialization
+
+- [MessagePack](http://msgpack.org/) is an efficient binary serialization format.
+- [Cereal](http://uscilab.github.io/cereal/) a C++11 library for serialization.
+- [Kryo](https://github.com/EsotericSoftware/kryo) Java serialization and cloning: fast, efficient, automatic
 
 ### Monitoring
 
