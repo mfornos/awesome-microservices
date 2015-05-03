@@ -4,7 +4,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Toolkits](#toolkits)
   - [JVM](#jvm)
@@ -14,6 +14,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Infrastructure](#infrastructure)
   - [API Gateway](#api-gateway)
   - [Configuration & Discovery](#configuration-&-discovery)
+  - [Serialization](#serialization)
   - [Monitoring](#monitoring)
   - [Logging](#logging)
   - [Horizontal Scalability](#horizontal-scalability)
