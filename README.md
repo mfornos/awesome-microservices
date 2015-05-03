@@ -19,10 +19,10 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Horizontal Scalability](#horizontal-scalability)
 - [Resiliency](#resiliency)
 - [IT Automation / Provisioning](#it-automation--provisioning)
-- [Lightweight Packaging](#lightweight-packaging)
 - [Continuous Integration & Deployment](#continuous-integration-&-deployment)
   - [On-prem](#on-prem)
   - [SaaS](#saas)
+  - [Lightweight Packaging](#lightweight-packaging)
 - [Theory](#theory)
   - [Articles](#articles)
   - [Books](#books)
@@ -102,10 +102,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Puppet](https://puppetlabs.com/) from provisioning bare metal & launching containers to new ways to manage infrastructure as code.
 - [Chef](https://www.chef.io/chef/) automate how you build, deploy, and manage your infrastructure.
 
-## Lightweight Packaging
-
-- [Capsule](https://github.com/puniverse/capsule) is a packaging and deployment tool for JVM applications.
-
 ## Continuous Integration & Deployment
 
 ### On-prem
@@ -119,6 +115,10 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Travis](https://travis-ci.org/) continuous integration and deployment service.
 - [Codeship](https://codeship.com/) is a hosted Continuous Delivery platform that takes care
 of the testing and deployment process.
+
+### Lightweight Packaging
+
+- [Capsule](https://github.com/puniverse/capsule) is a packaging and deployment tool for JVM applications.
 
 ## Theory
 
