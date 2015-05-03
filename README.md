@@ -23,7 +23,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [IT Automation / Provisioning](#it-automation--provisioning)
 - [Deployment & Continuous Integration](#deployment-&-continuous-integration)
   - [On-prem](#on-prem)
-  - [SaaS](#saas)
+  - [Hosted](#hosted)
   - [Lightweight Packaging](#lightweight-packaging)
 - [Containers](#containers)
 - [Theory](#theory)
@@ -31,6 +31,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Books](#books)
   - [Sites](#sites)
 - [License](#license)
+- [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
