@@ -14,18 +14,18 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Infrastructure](#infrastructure)
   - [API Gateway](#api-gateway)
   - [Serialization](#serialization)
+  - [Horizontal Scalability](#horizontal-scalability)
+  - [Resiliency](#resiliency)
   - [Configuration & Discovery](#configuration-&-discovery)
   - [Monitoring](#monitoring)
   - [Logging](#logging)
-  - [Horizontal Scalability](#horizontal-scalability)
-  - [Resiliency](#resiliency)
 - [IT Automation / Provisioning](#it-automation--provisioning)
-- [Continuous Integration & Deployment](#continuous-integration-&-deployment)
+- [Deployment & Continuous Integration](#deployment-&-continuous-integration)
   - [On-prem](#on-prem)
   - [SaaS](#saas)
   - [Lightweight Packaging](#lightweight-packaging)
 - [Theory](#theory)
-  - [Articles](#articles)
+  - [Articles & Papers](#articles-&-papers)
   - [Books](#books)
   - [Sites](#sites)
 - [License](#license)
@@ -73,6 +73,16 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Cereal](http://uscilab.github.io/cereal/) a C++11 library for serialization.
 - [Kryo](https://github.com/EsotericSoftware/kryo) Java serialization and cloning: fast, efficient, automatic.
 
+### Horizontal Scalability
+
+- [Hazelcast](http://hazelcast.org/) is an open source in-memory data grid.
+- [Galaxy](http://www.paralleluniverse.co/galaxy/) is an open-source high-performance in-memory data-grid.
+
+### Resiliency
+
+- [Simian Army](https://github.com/Netflix/SimianArmy) is a suite of tools for keeping your cloud operating in top form. Chaos Monkey, the first member, is a resiliency tool that helps ensure that your applications can tolerate random instance failures.
+- [Hystrix](https://github.com/Netflix/Hystrix) is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
+
 ### Configuration & Discovery
 
 - [ZooKeeper](https://zookeeper.apache.org/) is an effort to develop and maintain an open-source server which enables highly reliable distributed coordination.
@@ -93,23 +103,13 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Kibana](https://www.elastic.co/products/kibana) flexible analytics and visualization platform.
 - [Graylog](https://www.graylog.org/) is a fully integrated open source log management platform.
 
-### Horizontal Scalability
-
-- [Hazelcast](http://hazelcast.org/) is an open source in-memory data grid.
-- [Galaxy](http://www.paralleluniverse.co/galaxy/) is an open-source high-performance in-memory data-grid.
-
-### Resiliency
-
-- [Simian Army](https://github.com/Netflix/SimianArmy) is a suite of tools for keeping your cloud operating in top form. Chaos Monkey, the first member, is a resiliency tool that helps ensure that your applications can tolerate random instance failures.
-- [Hystrix](https://github.com/Netflix/Hystrix) is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
-
 ## IT Automation / Provisioning
 
 - [Ansible](http://www.ansible.com/) is a radically simple IT automation platform that makes your applications and systems easier to deploy.
 - [Puppet](https://puppetlabs.com/) from provisioning bare metal & launching containers to new ways to manage infrastructure as code.
 - [Chef](https://www.chef.io/chef/) automate how you build, deploy, and manage your infrastructure.
 
-## Continuous Integration & Deployment
+## Deployment & Continuous Integration
 
 ### On-prem
 
@@ -129,13 +129,14 @@ of the testing and deployment process.
 
 ## Theory
 
-### Articles
+### Articles & Papers
 
 - [Hexagonal Architecture](http://alistair.cockburn.us/Hexagonal+architecture)
 - [Microservice Architecture](http://martinfowler.com/articles/microservices.html)
 - [AKF Scale Cube](http://akfpartners.com/techblog/2008/05/08/splitting-applications-or-services-for-scale/)
 - [CQRS](http://martinfowler.com/bliki/CQRS.html)
 - [Event Sourcing](http://martinfowler.com/eaaDev/EventSourcing.html)
+- [CALM](http://db.cs.berkeley.edu/papers/cidr11-bloom.pdf)
 
 ### Books
 
