@@ -30,25 +30,25 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### JVM
 
-- [Vert.X](http://vertx.io/)
-- [Finagle](http://twitter.github.io/finagle)
-- [Spring Boot](http://projects.spring.io/spring-boot/)
-- [Dropwizard](https://dropwizard.github.io/)
-- [Spray](http://spray.io/)
+- [Vert.X](http://vertx.io/) is a tool-kit for building reactive applications on the JVM.
+- [Finagle](http://twitter.github.io/finagle) is an extensible RPC system for the JVM, used to construct high-concurrency servers.
+- [Spring Boot](http://projects.spring.io/spring-boot/) makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
+- [Dropwizard](https://dropwizard.github.io/) is a Java framework for developing ops-friendly, high-performance, RESTful web services.
+- [Spray](http://spray.io/) is an open-source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka. 
 
 ### Go
 
-- [Kite](https://github.com/koding/kite)
-- [Martini](http://martini.codegangsta.io/)
-- [Negroni](https://github.com/codegangsta/negroni)
+- [Kite](https://github.com/koding/kite) is a micro-service framework in Go.
+- [Martini](http://martini.codegangsta.io/) classy web development in Go.
+- [Negroni](https://github.com/codegangsta/negroni) idiomatic HTTP Middleware for Golang.
 
 ## Infrastructure
 
 ### API Gateway
 
-- [Kong](http://getkong.org/)
-- [Tyk](https://tyk.io/)
-- [Camel](http://camel.apache.org/)
+- [Kong](http://getkong.org/) is an open-source management layer for APIs.
+- [Tyk](https://tyk.io/) is an open source, fast and scalable API gateway, portal and API management platform.
+- [Camel](http://camel.apache.org/) empowers you to define routing and mediation rules in a variety of domain-specific languages, including a Java-based Fluent API, Spring or Blueprint XML Configuration files, and a Scala DSL.
 
 ### Configuration & Discovery
 
@@ -76,8 +76,8 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ## Runtimes
 
-- [Karaf](http://karaf.apache.org/)
-- [Akka](http://akka.io/)
+- [Karaf](http://karaf.apache.org/) is a small OSGi based runtime which provides a lightweight container.
+- [Akka](http://akka.io/) is a toolkit and runtime for building highly concurrent, distributed, and resilient message-driven applications on the JVM.
 
 ## In-Memory Data Grids
 
