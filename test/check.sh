@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
-
 #
-# Checks the README links.
+# README Checks
+# =============
+#
+# - Prints dead links
 #
 
 DIR=$(dirname $0)
