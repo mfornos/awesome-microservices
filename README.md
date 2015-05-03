@@ -49,15 +49,15 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Martini](http://martini.codegangsta.io/) classy web development in Go.
 - [Negroni](https://github.com/codegangsta/negroni) idiomatic HTTP Middleware for Golang.
 
-## Platforms
-
-- [Docker](https://www.docker.com/) an open platform for distributed applications for developers and sysadmins.
-- [Fabric8](http://fabric8.io/) is an open-source integration platform for deep management of Java Containers (JVMs).
-
 ## Runtimes
 
 - [Karaf](http://karaf.apache.org/) is a small OSGi based runtime which provides a lightweight container.
 - [Akka](http://akka.io/) is a toolkit and runtime for building highly concurrent, distributed, and resilient message-driven applications on the JVM.
+
+## Platforms
+
+- [VAMP](http://vamp.io/) build, deploy and manage microservices with power and ease.
+- [Fabric8](http://fabric8.io/) is an open-source integration platform for deep management of Java Containers (JVMs).
 
 ## Infrastructure
 
@@ -117,15 +117,20 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### SaaS
 
-- [AWS OpsWorks](http://aws.amazon.com/opsworks/) provides a simple and flexible way to create and manage stacks and applications.
-- [AWS ECS](http://aws.amazon.com/ecs/) easily run and manage Docker-enabled applications across a cluster of Amazon EC2 instances.
 - [Travis](https://travis-ci.org/) continuous integration and deployment service.
 - [Codeship](https://codeship.com/) is a hosted continuous delivery platform that takes care
 of the testing and deployment process.
+- [AWS OpsWorks](http://aws.amazon.com/opsworks/) provides a simple and flexible way to create and manage stacks and applications.
 
 ### Lightweight Packaging
 
 - [Capsule](https://github.com/puniverse/capsule) is a packaging and deployment tool for JVM applications.
+
+## Containers
+
+- [Docker](https://www.docker.com/) an open platform for distributed applications for developers and sysadmins.
+- [Kubernetes](http://kubernetes.io/) is an open source orchestration system for Docker containers.
+- [AWS ECS](http://aws.amazon.com/ecs/) easily run and manage Docker-enabled applications across a cluster of Amazon EC2 instances.
 
 ## Theory
 
