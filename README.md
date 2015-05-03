@@ -112,12 +112,12 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Graphite](http://graphite.wikidot.com/) - Scalable realtime graphing.
 - [Riemann](http://riemann.io/) - Monitors distributed systems.
-- [Suro](https://github.com/Netflix/suro/wiki) - Distributed data pipeline which enables services for moving, aggregating, routing, storing data.
 
 ### Logging
 
 - [Fluentd](http://www.fluentd.org/) - Open source data collector for unified logging layer.
 - [Logstash](http://logstash.net/) - Tool for managing events and logs.
+- [Suro](https://github.com/Netflix/suro/wiki) - Distributed data pipeline which enables services for moving, aggregating, routing, storing data.
 - [Kibana](https://www.elastic.co/products/kibana) - Flexible analytics and visualization platform.
 - [Graylog](https://www.graylog.org/) - Fully integrated open source log management platform.
 
