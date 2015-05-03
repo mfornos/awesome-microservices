@@ -176,6 +176,14 @@ of the testing and deployment process.
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
+## Contributing
+
+To contribute, please, [open an issue](https://github.com/mfornos/awesome-microservices/issues) or [create a pull request](https://github.com/mfornos/awesome-microservices/pulls).
+
+Additions, suggestions, and structural amendments are welcome.
+
+Thank you!
+
 ## Acknowledgments
 
 Table of contents generated with [DocToc](https://github.com/thlorenz/doctoc)
