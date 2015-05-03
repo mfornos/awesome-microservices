@@ -16,7 +16,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Logging](#logging)
 - [Platforms](#platforms)
 - [Runtimes](#runtimes)
-- [Horizontal Scaling](#horizontal-scaling)
+- [Horizontal Scalability](#horizontal-scalability)
 - [Resiliency](#resiliency)
 - [IT Automation / Provisioning](#it-automation--provisioning)
 - [Lightweight Packaging](#lightweight-packaging)
@@ -86,7 +86,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Karaf](http://karaf.apache.org/) is a small OSGi based runtime which provides a lightweight container.
 - [Akka](http://akka.io/) is a toolkit and runtime for building highly concurrent, distributed, and resilient message-driven applications on the JVM.
 
-## Horizontal Scaling
+## Horizontal Scalability
 
 - [Hazelcast](http://hazelcast.org/) is an open source in-memory data grid.
 - [Galaxy](http://www.paralleluniverse.co/galaxy/) is an open-source high-performance in-memory data-grid.
