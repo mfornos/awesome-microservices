@@ -48,6 +48,16 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Martini](http://martini.codegangsta.io/) classy web development in Go.
 - [Negroni](https://github.com/codegangsta/negroni) idiomatic HTTP Middleware for Golang.
 
+## Platforms
+
+- [Docker](https://www.docker.com/) an open platform for distributed applications for developers and sysadmins.
+- [Fabric8](http://fabric8.io/) is an open-source integration platform for deep management of Java Containers (JVMs).
+
+## Runtimes
+
+- [Karaf](http://karaf.apache.org/) is a small OSGi based runtime which provides a lightweight container.
+- [Akka](http://akka.io/) is a toolkit and runtime for building highly concurrent, distributed, and resilient message-driven applications on the JVM.
+
 ## Infrastructure
 
 ### API Gateway
@@ -76,22 +86,12 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Kibana](https://www.elastic.co/products/kibana) flexible analytics and visualization platform.
 - [Graylog](https://www.graylog.org/) is a fully integrated open source log management platform.
 
-## Platforms
-
-- [Docker](https://www.docker.com/) an open platform for distributed applications for developers and sysadmins.
-- [Fabric8](http://fabric8.io/) is an open-source integration platform for deep management of Java Containers (JVMs).
-
-## Runtimes
-
-- [Karaf](http://karaf.apache.org/) is a small OSGi based runtime which provides a lightweight container.
-- [Akka](http://akka.io/) is a toolkit and runtime for building highly concurrent, distributed, and resilient message-driven applications on the JVM.
-
-## Horizontal Scalability
+### Horizontal Scalability
 
 - [Hazelcast](http://hazelcast.org/) is an open source in-memory data grid.
 - [Galaxy](http://www.paralleluniverse.co/galaxy/) is an open-source high-performance in-memory data-grid.
 
-## Resiliency
+### Resiliency
 
 - [Simian Army](https://github.com/Netflix/SimianArmy) is a suite of tools for keeping your cloud operating in top form. Chaos Monkey, the first member, is a resiliency tool that helps ensure that your applications can tolerate random instance failures.
 - [Hystrix](https://github.com/Netflix/Hystrix) is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
