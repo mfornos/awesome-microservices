@@ -15,7 +15,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [API Gateway](#api-gateway)
   - [Serialization](#serialization)
   - [Messaging](#messaging)
-  - [Data Grid](#data-grid)
+  - [Elastic Computing](#elastic-computing)
   - [Resilience](#resilience)
   - [Configuration & Discovery](#configuration-&-discovery)
   - [Monitoring](#monitoring)
