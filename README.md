@@ -1,31 +1,30 @@
+# Awesome Microservices
+
+A curated list of Microservice Architecture related principles and technologies.
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Awesome Microservices](#awesome-microservices)
-  - [Toolkits](#toolkits)
-    - [JVM](#jvm)
-    - [Go](#go)
-  - [Infrastructure](#infrastructure)
-    - [API Gateway](#api-gateway)
-    - [Configuration & Discovery](#configuration-&-discovery)
-    - [Monitoring](#monitoring)
-    - [Logging](#logging)
-  - [Platforms](#platforms)
-  - [Runtimes](#runtimes)
-  - [In-Memory Data Grids](#in-memory-data-grids)
-  - [Deployment](#deployment)
-  - [Theory](#theory)
-    - [Articles](#articles)
-    - [Books](#books)
-    - [Sites](#sites)
-  - [License](#license)
+- [Toolkits](#toolkits)
+  - [JVM](#jvm)
+  - [Go](#go)
+- [Infrastructure](#infrastructure)
+  - [API Gateway](#api-gateway)
+  - [Configuration & Discovery](#configuration-&-discovery)
+  - [Monitoring](#monitoring)
+  - [Logging](#logging)
+- [Platforms](#platforms)
+- [Runtimes](#runtimes)
+- [In-Memory Data Grids](#in-memory-data-grids)
+- [Deployment](#deployment)
+- [Theory](#theory)
+  - [Articles](#articles)
+  - [Books](#books)
+  - [Sites](#sites)
+- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-# Awesome Microservices
-
-A curated list of Microservice Architecture related principles and technologies.
 
 ## Toolkits
 
