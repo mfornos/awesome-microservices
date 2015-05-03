@@ -26,6 +26,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Hosted](#hosted)
   - [Lightweight Packaging](#lightweight-packaging)
 - [Containers](#containers)
+- [Real Life Stories](#real-life-stories)
 - [Theory](#theory)
   - [Articles & Papers](#articles-&-papers)
   - [Books](#books)
@@ -150,6 +151,12 @@ of the testing and deployment process.
 - [Kubernetes](http://kubernetes.io/) - Open source orchestration system for Docker containers.
 - [AWS ECS](http://aws.amazon.com/ecs/) - Easily run and manage Docker-enabled applications across a cluster of Amazon EC2 instances.
 - [CoreOS](https://coreos.com/) - Open source lightweight operating system based on the Linux kernel and designed for providing infrastructure to clustered deployments.
+
+## Real Life Stories
+
+- [Failing at Microservices](https://rclayton.silvrback.com/failing-at-microservices)
+- [How we build microservices at Karma](https://blog.yourkarma.com/building-microservices-at-karma)
+- [Microservices: Lessons from the Frontline](http://www.thoughtworks.com/insights/blog/microservices-lessons-frontline)
 
 ## Theory
 
