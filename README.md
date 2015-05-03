@@ -16,13 +16,19 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Logging](#logging)
 - [Platforms](#platforms)
 - [Runtimes](#runtimes)
-- [In-Memory Data Grids](#in-memory-data-grids)
-- [Deployment](#deployment)
+- [Horizontal Scaling](#horizontal-scaling)
+- [Resiliency](#resiliency)
+- [IT Automation / Provisioning](#it-automation--provisioning)
+- [Lightweight Packaging](#lightweight-packaging)
+- [Continuous Integration & Deployment](#continuous-integration-&-deployment)
+  - [On-prem](#on-prem)
+  - [SaaS](#saas)
 - [Theory](#theory)
   - [Articles](#articles)
   - [Books](#books)
   - [Sites](#sites)
 - [License](#license)
+- [Acknowledgments](#acknowledgments)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -80,15 +86,39 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Karaf](http://karaf.apache.org/) is a small OSGi based runtime which provides a lightweight container.
 - [Akka](http://akka.io/) is a toolkit and runtime for building highly concurrent, distributed, and resilient message-driven applications on the JVM.
 
-## In-Memory Data Grids
+## Horizontal Scaling
 
 - [Hazelcast](http://hazelcast.org/) is an open source in-memory data grid.
 - [Galaxy](http://www.paralleluniverse.co/galaxy/) is an open-source high-performance in-memory data-grid.
 
-## Deployment
+## Resiliency
 
-- [ECS](http://aws.amazon.com/ecs/) easily run and manage Docker-enabled applications across a cluster of Amazon EC2 instances.
+- [Simian Army](https://github.com/Netflix/SimianArmy) is a suite of tools for keeping your cloud operating in top form. Chaos Monkey, the first member, is a resiliency tool that helps ensure that your applications can tolerate random instance failures.
+- [Hystrix](https://github.com/Netflix/Hystrix) is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
+
+## IT Automation / Provisioning
+
+- [Ansible](http://www.ansible.com/) is a radically simple IT automation platform that makes your applications and systems easier to deploy.
+- [Puppet](https://puppetlabs.com/) from provisioning bare metal & launching containers to new ways to manage infrastructure as code.
+- [Chef](https://www.chef.io/chef/) automate how you build, deploy, and manage your infrastructure.
+
+## Lightweight Packaging
+
 - [Capsule](https://github.com/puniverse/capsule) is a packaging and deployment tool for JVM applications.
+
+## Continuous Integration & Deployment
+
+### On-prem
+
+- [Jenkins](http://jenkins-ci.org/) an extensible open source continuous integration server.
+
+### SaaS
+
+- [AWS OpsWorks](http://aws.amazon.com/opsworks/) provides a simple and flexible way to create and manage stacks and applications.
+- [AWS ECS](http://aws.amazon.com/ecs/) easily run and manage Docker-enabled applications across a cluster of Amazon EC2 instances.
+- [Travis](https://travis-ci.org/) continuous integration and deployment service.
+- [Codeship](https://codeship.com/) is a hosted Continuous Delivery platform that takes care
+of the testing and deployment process.
 
 ## Theory
 
@@ -116,5 +146,5 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ## Acknowledgments
 
-Table of contents *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+Table of contents generated with [DocToc](https://github.com/thlorenz/doctoc)
 
