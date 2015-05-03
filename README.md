@@ -13,8 +13,8 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Runtimes](#runtimes)
 - [Infrastructure](#infrastructure)
   - [API Gateway](#api-gateway)
-  - [Configuration & Discovery](#configuration-&-discovery)
   - [Serialization](#serialization)
+  - [Configuration & Discovery](#configuration-&-discovery)
   - [Monitoring](#monitoring)
   - [Logging](#logging)
   - [Horizontal Scalability](#horizontal-scalability)
@@ -67,18 +67,18 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Tyk](https://tyk.io/) is an open source, fast and scalable API gateway, portal and API management platform.
 - [Camel](http://camel.apache.org/) empowers you to define routing and mediation rules in a variety of domain-specific languages, including a Java-based Fluent API, Spring or Blueprint XML Configuration files, and a Scala DSL.
 
+### Serialization
+
+- [MessagePack](http://msgpack.org/) is an efficient binary serialization format.
+- [Cereal](http://uscilab.github.io/cereal/) a C++11 library for serialization.
+- [Kryo](https://github.com/EsotericSoftware/kryo) Java serialization and cloning: fast, efficient, automatic
+
 ### Configuration & Discovery
 
 - [ZooKeeper](https://zookeeper.apache.org/) is an effort to develop and maintain an open-source server which enables highly reliable distributed coordination.
 - [Etcd](https://github.com/coreos/etcd) a highly-available key-value store for shared configuration and service discovery.
 - [Consul](https://consul.io/) Service discovery and configuration made easy. Distributed, highly available, and datacenter-aware.
 - [Eureka](https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance) is a REST based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers.
-
-### Serialization
-
-- [MessagePack](http://msgpack.org/) is an efficient binary serialization format.
-- [Cereal](http://uscilab.github.io/cereal/) a C++11 library for serialization.
-- [Kryo](https://github.com/EsotericSoftware/kryo) Java serialization and cloning: fast, efficient, automatic
 
 ### Monitoring
 
