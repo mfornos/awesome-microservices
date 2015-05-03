@@ -39,116 +39,116 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### JVM
 
-- [Vert.X](http://vertx.io/) is a tool-kit for building reactive applications on the JVM.
-- [Finagle](http://twitter.github.io/finagle) is an extensible RPC system for the JVM, used to construct high-concurrency servers.
-- [Spring Boot](http://projects.spring.io/spring-boot/) makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
-- [Dropwizard](https://dropwizard.github.io/) is a Java framework for developing ops-friendly, high-performance, RESTful web services.
-- [Spray](http://spray.io/) is an open-source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka.
+- [Vert.X](http://vertx.io/) - Toolkit for building reactive applications on the JVM.
+- [Finagle](http://twitter.github.io/finagle) - Extensible RPC system for the JVM, used to construct high-concurrency servers.
+- [Spring Boot](http://projects.spring.io/spring-boot/) - Makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
+- [Dropwizard](https://dropwizard.github.io/) - Java framework for developing ops-friendly, high-performance, RESTful web services.
+- [Spray](http://spray.io/) - Open-source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka.
 
 ### Go
 
-- [Kite](https://github.com/koding/kite) is a micro-service framework in Go.
-- [Martini](http://martini.codegangsta.io/) classy web development in Go.
-- [Negroni](https://github.com/codegangsta/negroni) idiomatic HTTP Middleware for Golang.
+- [Kite](https://github.com/koding/kite) - Microservice framework in Go.
+- [Martini](http://martini.codegangsta.io/) - Classy web development in Go.
+- [Negroni](https://github.com/codegangsta/negroni) - Idiomatic HTTP Middleware for Golang.
 
 ## Runtimes
 
-- [Karaf](http://karaf.apache.org/) is a small OSGi based runtime which provides a lightweight container.
-- [Akka](http://akka.io/) is a toolkit and runtime for building highly concurrent, distributed, and resilient message-driven applications on the JVM.
-- [Erlang/OTP](http://www.erlang.org/doc/design_principles/users_guide.html) is a programming language used to build massively scalable soft real-time systems with requirements on high availability.
+- [Karaf](http://karaf.apache.org/) - Small OSGi based runtime which provides a lightweight container.
+- [Akka](http://akka.io/) - Toolkit and runtime for building highly concurrent, distributed, and resilient message-driven applications on the JVM.
+- [Erlang/OTP](http://www.erlang.org/doc/design_principles/users_guide.html) - Programming language used to build massively scalable soft real-time systems with requirements on high availability.
 
 ## Platforms
 
-- [VAMP](http://vamp.io/) build, deploy and manage microservices with power and ease.
-- [Fabric8](http://fabric8.io/) is an open-source integration platform for deep management of Java Containers (JVMs).
+- [VAMP](http://vamp.io/) - Build, deploy and manage microservices with power and ease.
+- [Fabric8](http://fabric8.io/) - Open-source integration platform for deep management of Java Containers (JVMs).
 
 ## Infrastructure
 
 ### API Gateway
 
-- [Kong](http://getkong.org/) is an open-source management layer for APIs.
-- [Tyk](https://tyk.io/) is an open source, fast and scalable API gateway, portal and API management platform.
-- [Camel](http://camel.apache.org/) empowers you to define routing and mediation rules in a variety of domain-specific languages, including a Java-based Fluent API, Spring or Blueprint XML Configuration files, and a Scala DSL.
+- [Kong](http://getkong.org/) - Open-source management layer for APIs.
+- [Tyk](https://tyk.io/) - Open-source, fast and scalable API gateway, portal and API management platform.
+- [Camel](http://camel.apache.org/) - Empowers you to define routing and mediation rules in a variety of domain-specific languages, including a Java-based Fluent API, Spring or Blueprint XML Configuration files, and a Scala DSL.
 
 ### Serialization
 
-- [MessagePack](http://msgpack.org/) is an efficient binary serialization format.
-- [Cereal](http://uscilab.github.io/cereal/) a C++11 library for serialization.
-- [Kryo](https://github.com/EsotericSoftware/kryo) Java serialization and cloning: fast, efficient, automatic.
+- [MessagePack](http://msgpack.org/) - Efficient binary serialization format.
+- [Cereal](http://uscilab.github.io/cereal/) - C++11 library for serialization.
+- [Kryo](https://github.com/EsotericSoftware/kryo) - Java serialization and cloning: fast, efficient, automatic.
 
 ### Messaging
 
-- [NATS](https://nats.io/) is an open-source, high-performance, lightweight cloud messaging system.
-- [RabbitMQ](https://www.rabbitmq.com/) is an open source Erlang-based message broker that just works.
-- [ActiveMQ](http://activemq.apache.org/) is a popular and powerful open source messaging and integration patterns server.
-- [Apollo](http://activemq.apache.org/apollo/) is a faster, more reliable, easier to maintain messaging broker built from the foundations of the original ActiveMQ.
-- [Qpid](https://qpid.apache.org/) cross-platform messaging components built on AMQP.
-- [Beanstalk](http://kr.github.io/beanstalkd/) is a simple, fast work queue.
-- [Nanomsg](http://nanomsg.org/) is a socket library that provides several common communication patterns for building distributed systems.
-- [ØMQ](http://zeromq.org/) is a brokerless intelligent transport layer.
-- [Kafka](http://kafka.apache.org/) is publish-subscribe messaging rethought as a distributed commit log.
-- [Disque](https://github.com/antirez/disque) is a distributed message broker.
+- [NATS](https://nats.io/) - Open-source, high-performance, lightweight cloud messaging system.
+- [RabbitMQ](https://www.rabbitmq.com/) - Open source Erlang-based message broker that just works.
+- [ActiveMQ](http://activemq.apache.org/) - Powerful open source messaging and integration patterns server.
+- [Apollo](http://activemq.apache.org/apollo/) - Faster, more reliable, easier to maintain messaging broker built from the foundations of the original ActiveMQ.
+- [Qpid](https://qpid.apache.org/) - Cross-platform messaging components built on AMQP.
+- [Beanstalk](http://kr.github.io/beanstalkd/) - Simple, fast work queue.
+- [Nanomsg](http://nanomsg.org/) - Socket library that provides several common communication patterns for building distributed systems.
+- [ØMQ](http://zeromq.org/) - Brokerless intelligent transport layer.
+- [Kafka](http://kafka.apache.org/) - Publish-subscribe messaging rethought as a distributed commit log.
+- [Disque](https://github.com/antirez/disque) - Distributed message broker.
 
 ### Data Grid
 
-- [Hazelcast](http://hazelcast.org/) is an open source in-memory data grid.
-- [Galaxy](http://www.paralleluniverse.co/galaxy/) is an open-source high-performance in-memory data-grid.
+- [Hazelcast](http://hazelcast.org/) - Open source in-memory data grid.
+- [Galaxy](http://www.paralleluniverse.co/galaxy/) - Open-source high-performance in-memory data-grid.
 
 ### Resilience
 
-- [Simian Army](https://github.com/Netflix/SimianArmy) is a suite of tools for keeping your cloud operating in top form. Chaos Monkey, the first member, is a resiliency tool that helps ensure that your applications can tolerate random instance failures.
-- [Hystrix](https://github.com/Netflix/Hystrix) is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
+- [Simian Army](https://github.com/Netflix/SimianArmy) - Suite of tools for keeping your cloud operating in top form. Chaos Monkey, the first member, is a resiliency tool that helps ensure that your applications can tolerate random instance failures.
+- [Hystrix](https://github.com/Netflix/Hystrix) - Latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
 
 ### Configuration & Discovery
 
-- [ZooKeeper](https://zookeeper.apache.org/) is an effort to develop and maintain an open-source server which enables highly reliable distributed coordination.
-- [Etcd](https://github.com/coreos/etcd) a highly-available key-value store for shared configuration and service discovery.
-- [SkyDNS](https://github.com/skynetservices/skydns) is a distributed service for announcement and discovery of services built on top of etcd. It utilizes DNS queries to discover available services.
-- [Consul](https://consul.io/) Service discovery and configuration made easy. Distributed, highly available, and datacenter-aware.
-- [Eureka](https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance) is a REST based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers.
+- [ZooKeeper](https://zookeeper.apache.org/) - Open-source server which enables highly reliable distributed coordination.
+- [Etcd](https://github.com/coreos/etcd) - Highly-available key-value store for shared configuration and service discovery.
+- [SkyDNS](https://github.com/skynetservices/skydns) - Distributed service for announcement and discovery of services built on top of etcd. It utilizes DNS queries to discover available services.
+- [Consul](https://consul.io/) - Service discovery and configuration made easy. Distributed, highly available, and datacenter-aware.
+- [Eureka](https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance) - REST based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers.
 
 ### Monitoring
 
-- [Graphite](http://graphite.wikidot.com/) scalable realtime graphing.
-- [Riemann](http://riemann.io/) monitors distributed systems.
-- [Suro](https://github.com/Netflix/suro/wiki) is a distributed data pipeline which enables services for moving, aggregating, routing, storing data.
+- [Graphite](http://graphite.wikidot.com/) - Scalable realtime graphing.
+- [Riemann](http://riemann.io/) - Monitors distributed systems.
+- [Suro](https://github.com/Netflix/suro/wiki) - Distributed data pipeline which enables services for moving, aggregating, routing, storing data.
 
 ### Logging
 
-- [Fluentd](http://www.fluentd.org/) is an open source data collector for unified logging layer.
-- [Logstash](http://logstash.net/) is a tool for managing events and logs.
-- [Kibana](https://www.elastic.co/products/kibana) flexible analytics and visualization platform.
-- [Graylog](https://www.graylog.org/) is a fully integrated open source log management platform.
+- [Fluentd](http://www.fluentd.org/) - Open source data collector for unified logging layer.
+- [Logstash](http://logstash.net/) - Tool for managing events and logs.
+- [Kibana](https://www.elastic.co/products/kibana) - Flexible analytics and visualization platform.
+- [Graylog](https://www.graylog.org/) - Fully integrated open source log management platform.
 
 ## IT Automation / Provisioning
 
-- [Ansible](http://www.ansible.com/) is a radically simple IT automation platform that makes your applications and systems easier to deploy.
-- [Puppet](https://puppetlabs.com/) from provisioning bare metal & launching containers to new ways to manage infrastructure as code.
-- [Chef](https://www.chef.io/chef/) automate how you build, deploy, and manage your infrastructure.
+- [Ansible](http://www.ansible.com/) - Radically simple IT automation platform that makes your applications and systems easier to deploy.
+- [Puppet](https://puppetlabs.com/) - From provisioning bare metal & launching containers to new ways to manage infrastructure as code.
+- [Chef](https://www.chef.io/chef/) - Automate how you build, deploy, and manage your infrastructure.
 
 ## Deployment & Continuous Integration
 
 ### On-prem
 
-- [Jenkins](http://jenkins-ci.org/) an extensible open source continuous integration server.
+- [Jenkins](http://jenkins-ci.org/) - Extensible open source continuous integration server.
 
-### SaaS
+### Hosted
 
-- [Travis](https://travis-ci.org/) continuous integration and deployment service.
-- [Codeship](https://codeship.com/) is a hosted continuous delivery platform that takes care
+- [Travis](https://travis-ci.org/) - Continuous integration and deployment service.
+- [Codeship](https://codeship.com/) - Hosted continuous delivery platform that takes care
 of the testing and deployment process.
-- [AWS OpsWorks](http://aws.amazon.com/opsworks/) provides a simple and flexible way to create and manage stacks and applications.
+- [AWS OpsWorks](http://aws.amazon.com/opsworks/) - Provides a simple and flexible way to create and manage stacks and applications.
 
 ### Lightweight Packaging
 
-- [Capsule](https://github.com/puniverse/capsule) is a packaging and deployment tool for JVM applications.
+- [Capsule](https://github.com/puniverse/capsule) - Packaging and deployment tool for JVM applications.
 
 ## Containers
 
-- [Docker](https://www.docker.com/) an open platform for distributed applications for developers and sysadmins.
-- [Kubernetes](http://kubernetes.io/) is an open source orchestration system for Docker containers.
-- [AWS ECS](http://aws.amazon.com/ecs/) easily run and manage Docker-enabled applications across a cluster of Amazon EC2 instances.
-- [CoreOS](https://coreos.com/) is an open source lightweight operating system based on the Linux kernel and designed for providing infrastructure to clustered deployments.
+- [Docker](https://www.docker.com/) - Open platform for distributed applications for developers and sysadmins.
+- [Kubernetes](http://kubernetes.io/) - Open source orchestration system for Docker containers.
+- [AWS ECS](http://aws.amazon.com/ecs/) - Easily run and manage Docker-enabled applications across a cluster of Amazon EC2 instances.
+- [CoreOS](https://coreos.com/) - Open source lightweight operating system based on the Linux kernel and designed for providing infrastructure to clustered deployments.
 
 ## Theory
 
