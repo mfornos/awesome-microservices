@@ -120,7 +120,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [AWS OpsWorks](http://aws.amazon.com/opsworks/) provides a simple and flexible way to create and manage stacks and applications.
 - [AWS ECS](http://aws.amazon.com/ecs/) easily run and manage Docker-enabled applications across a cluster of Amazon EC2 instances.
 - [Travis](https://travis-ci.org/) continuous integration and deployment service.
-- [Codeship](https://codeship.com/) is a hosted Continuous Delivery platform that takes care
+- [Codeship](https://codeship.com/) is a hosted continuous delivery platform that takes care
 of the testing and deployment process.
 
 ### Lightweight Packaging
