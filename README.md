@@ -72,6 +72,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ## Platforms
 
+- [Docker](https://www.docker.com/) an open platform for distributed applications for developers and sysadmins.
 - [Fabric8](http://fabric8.io/) is an open-source integration platform for deep management of Java Containers (JVMs).
 
 ## Runtimes
@@ -86,7 +87,6 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ## Deployment
 
-- [Docker](https://www.docker.com/) an open platform for distributed applications for developers and sysadmins.
 - [ECS](http://aws.amazon.com/ecs/) easily run and manage Docker-enabled applications across a cluster of Amazon EC2 instances.
 - [Capsule](https://github.com/puniverse/capsule) is a packaging and deployment tool for JVM applications.
 
