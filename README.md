@@ -71,7 +71,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [MessagePack](http://msgpack.org/) is an efficient binary serialization format.
 - [Cereal](http://uscilab.github.io/cereal/) a C++11 library for serialization.
-- [Kryo](https://github.com/EsotericSoftware/kryo) Java serialization and cloning: fast, efficient, automatic
+- [Kryo](https://github.com/EsotericSoftware/kryo) Java serialization and cloning: fast, efficient, automatic.
 
 ### Configuration & Discovery
 
