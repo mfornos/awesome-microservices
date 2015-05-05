@@ -195,7 +195,7 @@ of the testing and deployment process.
 
 To contribute, please, [open an issue](https://github.com/mfornos/awesome-microservices/issues) or [create a pull request](https://github.com/mfornos/awesome-microservices/pulls).
 
-Additions, suggestions, and structural amendments are welcome.
+:star2: Additions, suggestions, and structural amendments are welcome.
 
 Thank you!
 
