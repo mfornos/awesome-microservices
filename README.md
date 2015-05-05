@@ -159,6 +159,7 @@ of the testing and deployment process.
 
 ## Real Life Stories
 
+- [Clean Micro-service Architecture](http://blog.cleancoder.com/uncle-bob/2014/10/01/CleanMicroserviceArchitecture.html)
 - [Failing at Microservices](https://rclayton.silvrback.com/failing-at-microservices)
 - [How to Talk To Your Friends About MicroServices](http://pivotallabs.com/how-to-talk-to-your-friends-about-microservices/)
 - [How we build microservices at Karma](https://blog.yourkarma.com/building-microservices-at-karma)
