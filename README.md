@@ -98,12 +98,14 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Galaxy](http://www.paralleluniverse.co/galaxy/) - Open-source high-performance in-memory data-grid.
 - [Hazelcast](http://hazelcast.org/) - Open source in-memory data-grid. Allows you to distribute data and computation across servers, clusters and geographies, and to manage very large data sets or high data ingest rates. Mature technology.
 - [Ignite](https://ignite.incubator.apache.org/) - High-performance, integrated and distributed in-memory platform for computing and transacting on large-scale data sets in real-time, orders of magnitude faster than possible with traditional disk-based or flash technologies.
+- [Ordasity](https://github.com/boundary/ordasity) - Ordasity is designed to spread persistent or long-lived workloads across several machines.
 - [Marathon](https://mesosphere.github.io/marathon/) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
 - [Mesos](https://mesos.apache.org/) - Abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
 
 ### Resilience
 
 - [Hystrix](https://github.com/Netflix/Hystrix) - Latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
+- [Resilient](http://resilient-http.github.io/) - A smart HTTP client with super powers like fault tolerance, dynamic server discovery, auto balancing and reactive recovery, designed for distributed systems.
 - [Simian Army](https://github.com/Netflix/SimianArmy) - Suite of tools for keeping your cloud operating in top form. Chaos Monkey, the first member, is a resiliency tool that helps ensure that your applications can tolerate random instance failures.
 
 ### Configuration & Discovery
@@ -176,6 +178,7 @@ of the testing and deployment process.
 - [Event Sourcing](http://martinfowler.com/eaaDev/EventSourcing.html)
 - [Hexagonal Architecture](http://alistair.cockburn.us/Hexagonal+architecture)
 - [Microservice Architecture](http://martinfowler.com/articles/microservices.html)
+- [Reactive Manifesto](http://www.reactivemanifesto.org/)
 
 ### Books
 
