@@ -44,6 +44,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Dropwizard](https://dropwizard.github.io/) - Java framework for developing ops-friendly, high-performance, RESTful web services.
 - [Finagle](http://twitter.github.io/finagle) - Extensible RPC system for the JVM, used to construct high-concurrency servers.
+- [Ratpack](http://ratpack.io/) - Ratpack is a set of Java libraries that facilitate fast, efficient, evolvable and well tested HTTP applications.
 - [Spray](http://spray.io/) - Open-source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka.
 - [Spring Boot](http://projects.spring.io/spring-boot/) - Makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
 - [Vert.X](http://vertx.io/) - Toolkit for building reactive applications on the JVM.
