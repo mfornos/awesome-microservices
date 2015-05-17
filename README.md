@@ -9,6 +9,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Toolkits](#toolkits)
   - [JVM](#jvm)
   - [Go](#go)
+  - [Node.js](#nodejs)
 - [Runtimes](#runtimes)
 - [Platforms](#platforms)
 - [Infrastructure](#infrastructure)
@@ -53,6 +54,10 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Kite](https://github.com/koding/kite) - Microservice framework in Go.
 - [Martini](http://martini.codegangsta.io/) - Classy web development in Go.
 - [Negroni](https://github.com/codegangsta/negroni) - Idiomatic HTTP Middleware for Golang.
+
+### Node.js
+
+- [Seneca](http://senecajs.org/) - A Micro-Services toolkit for Node.js
 
 ## Runtimes
 
@@ -141,9 +146,11 @@ A curated list of Microservice Architecture related principles and technologies.
 ### On-prem
 
 - [Jenkins](http://jenkins-ci.org/) - Extensible open source continuous integration server.
+- [Nscale](https://github.com/nearform/nscale) - nscale is an open toolkit supporting configuration, build and deployment of connected container sets.
 
 ### Hosted
 
+- [AWS CodeDeploy](http://aws.amazon.com/codedeploy/) - AWS CodeDeploy is a deployment service that enables developers to automate the deployment of applications to instances and to update the applications as required.
 - [AWS OpsWorks](http://aws.amazon.com/opsworks/) - Provides a simple and flexible way to create and manage stacks and applications.
 - [Codeship](https://codeship.com/) - Hosted continuous delivery platform that takes care
 of the testing and deployment process.
