@@ -59,6 +59,19 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Seneca](http://senecajs.org/) - A Micro-Services toolkit for Node.js
 
+### C
+
+- [Kore](https://kore.io/) - Kore is an easy to use web application framework for writing scalable web APIs in C.
+
+### D
+
+- [Vibe.d](http://vibed.org/) - Asynchronous I/O that doesn’t get in your way, written in D.
+
+### Erlang
+
+- [Gen_microservice](https://github.com/videlalvaro/gen_microservice) - This library solves the problem of implementing microservices with Erlang.
+- [Mochiweb](https://github.com/mochi/mochiweb) - MochiWeb is an Erlang library for building lightweight HTTP servers.
+
 ## Runtimes
 
 - [Akka](http://akka.io/) - Toolkit and runtime for building highly concurrent, distributed, and resilient message-driven applications on the JVM.
