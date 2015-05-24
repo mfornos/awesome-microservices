@@ -208,6 +208,7 @@ of the testing and deployment process.
 - [Hexagonal Architecture](http://alistair.cockburn.us/Hexagonal+architecture)
 - [Microservice Architecture](http://martinfowler.com/articles/microservices.html)
 - [Reactive Manifesto](http://www.reactivemanifesto.org/)
+- [Reactive Streams](http://www.reactive-streams.org/)
 
 ### Books
 
