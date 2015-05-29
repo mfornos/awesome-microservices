@@ -131,6 +131,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Reactivity
 
 - [Reactive Kafka](https://github.com/softwaremill/reactive-kafka) - Reactive Streams API for Apache Kafka.
+- [RxJava](https://github.com/ReactiveX/RxJava) - Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the JVM.
 
 ### Resilience
 
