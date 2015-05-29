@@ -6,7 +6,7 @@ A curated list of Microservice Architecture related principles and technologies.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Toolkits](#toolkits)
+- [REST/RPC Toolkits](#restrpc-toolkits)
   - [JVM](#jvm)
   - [Go](#go)
   - [Node.js](#nodejs)
@@ -20,15 +20,16 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Serialization](#serialization)
   - [Messaging](#messaging)
   - [Elastic Computing](#elastic-computing)
+  - [Reactivity](#reactivity)
   - [Resilience](#resilience)
-  - [Configuration & Discovery](#configuration-&-discovery)
+  - [Configuration and Discovery](#configuration-and-discovery)
   - [Monitoring](#monitoring)
   - [Logging](#logging)
 - [IT Automation / Provisioning](#it-automation--provisioning)
-- [Deployment & Continuous Integration](#deployment-&-continuous-integration)
+- [Deployment and Continuous Integration](#deployment-and-continuous-integration)
   - [On-prem](#on-prem)
   - [Hosted](#hosted)
-  - [Lightweight Packaging](#lightweight-packaging)
+  - [Lightweight](#lightweight)
 - [Containers](#containers)
 - [Real Life Stories](#real-life-stories)
 - [Theory](#theory)
@@ -41,7 +42,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Toolkits
+## REST/RPC Toolkits
 
 ### JVM
 
@@ -51,8 +52,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Ratpack](http://ratpack.io/) - Ratpack is a set of Java libraries that facilitate fast, efficient, evolvable and well tested HTTP applications.
 - [Spray](http://spray.io/) - Open-source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka.
 - [Spring Boot](http://projects.spring.io/spring-boot/) - Makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
-- [Vert.X](http://vertx.io/) - Toolkit for building reactive applications on the JVM.
-
 
 ### Go
 
@@ -83,6 +82,8 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Akka](http://akka.io/) - Toolkit and runtime for building highly concurrent, distributed, and resilient message-driven applications on the JVM.
 - [Erlang/OTP](http://www.erlang.org/doc/design_principles/users_guide.html) - Programming language used to build massively scalable soft real-time systems with requirements on high availability.
 - [Karaf](http://karaf.apache.org/) - Small OSGi based runtime which provides a lightweight container.
+- [Orbit](http://orbit.bioware.com/) - Orbit is a modern framework for JVM languages that makes it easier to build and maintain distributed and scalable online services.
+- [Vert.X](http://vertx.io/) - Toolkit for building reactive applications on the JVM.
 
 ## Platforms
 
@@ -99,6 +100,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Serialization
 
+- [BooPickle](https://github.com/ochrons/boopickle) - Binary serialization library for efficient network communication. For Scala and Scala.js
 - [Cereal](http://uscilab.github.io/cereal/) - C++11 library for serialization.
 - [Kryo](https://github.com/EsotericSoftware/kryo) - Java serialization and cloning: fast, efficient, automatic.
 - [MessagePack](http://msgpack.org/) - Efficient binary serialization format.
@@ -126,6 +128,10 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Marathon](https://mesosphere.github.io/marathon/) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
 - [Mesos](https://mesos.apache.org/) - Abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
 
+### Reactivity
+
+- [Reactive Kafka](https://github.com/softwaremill/reactive-kafka) - Reactive Streams API for Apache Kafka.
+
 ### Resilience
 
 - [Hystrix](https://github.com/Netflix/Hystrix) - Latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
@@ -133,7 +139,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Resilient HTTP](http://resilient-http.github.io/) - A smart HTTP client with super powers like fault tolerance, dynamic server discovery, auto balancing and reactive recovery, designed for distributed systems.
 - [Simian Army](https://github.com/Netflix/SimianArmy) - Suite of tools for keeping your cloud operating in top form. Chaos Monkey, the first member, is a resiliency tool that helps ensure that your applications can tolerate random instance failures.
 
-### Configuration & Discovery
+### Configuration and Discovery
 
 - [Consul](https://consul.io/) - Service discovery and configuration made easy. Distributed, highly available, and datacenter-aware.
 - [Denominator](https://github.com/Netflix/denominator) - Portably control DNS clouds using java or bash.
@@ -161,7 +167,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Chef](https://www.chef.io/chef/) - Automate how you build, deploy, and manage your infrastructure.
 - [Puppet](https://puppetlabs.com/) - From provisioning bare metal & launching containers to new ways to manage infrastructure as code.
 
-## Deployment & Continuous Integration
+## Deployment and Continuous Integration
 
 ### On-prem
 
@@ -177,9 +183,10 @@ A curated list of Microservice Architecture related principles and technologies.
 of the testing and deployment process.
 - [Travis](https://travis-ci.org/) - Continuous integration and deployment service.
 
-### Lightweight Packaging
+### Lightweight
 
 - [Capsule](https://github.com/puniverse/capsule) - Packaging and deployment tool for JVM applications.
+- [Kafka Deploy](https://github.com/nathanmarz/kafka-deploy) - Automated deploy for a Kafka cluster on AWS.
 
 ## Containers
 
