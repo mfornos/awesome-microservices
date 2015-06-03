@@ -203,6 +203,7 @@ of the testing and deployment process.
 - [How to Talk To Your Friends About MicroServices](http://pivotallabs.com/how-to-talk-to-your-friends-about-microservices/)
 - [How we build microservices at Karma](https://blog.yourkarma.com/building-microservices-at-karma)
 - [Microservices: Lessons from the Frontline](http://www.thoughtworks.com/insights/blog/microservices-lessons-frontline)
+- [Monolith First](http://martinfowler.com/bliki/MonolithFirst.html)
 
 ## Theory
 
