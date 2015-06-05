@@ -218,6 +218,7 @@ of the testing and deployment process.
 - [Microservice Architecture](http://martinfowler.com/articles/microservices.html)
 - [Reactive Manifesto](http://www.reactivemanifesto.org/)
 - [Reactive Streams](http://www.reactive-streams.org/)
+- [MicroservicesIO](http://microservices.io/)
 
 ### Books
 
