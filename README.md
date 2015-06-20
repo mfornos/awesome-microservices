@@ -82,7 +82,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Akka](http://akka.io/) - Toolkit and runtime for building highly concurrent, distributed, and resilient message-driven applications on the JVM.
 - [Erlang/OTP](http://www.erlang.org/doc/design_principles/users_guide.html) - Programming language used to build massively scalable soft real-time systems with requirements on high availability.
 - [Karaf](http://karaf.apache.org/) - Small OSGi based runtime which provides a lightweight container.
-- [Orbit](http://orbit.bioware.com/) - Orbit is a modern framework for JVM languages that makes it easier to build and maintain distributed and scalable online services.
+- [Orbit](http://orbit.bioware.com/) - Modern framework for JVM languages that makes it easier to build and maintain distributed and scalable online services.
 - [Vert.X](http://vertx.io/) - Toolkit for building reactive applications on the JVM.
 
 ## Platforms
