@@ -87,6 +87,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ## Platforms
 
+- [Cisco Microservices](https://github.com/CiscoCloud/microservices-infrastructure) - Microservices infrastructure is a modern platform for rapidly deploying globally distributed services.
 - [Fabric8](http://fabric8.io/) - Open-source integration platform for deep management of Java Containers (JVMs).
 - [VAMP](http://vamp.io/) - Build, deploy and manage microservices with power and ease.
 
@@ -147,6 +148,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Etcd](https://github.com/coreos/etcd) - Highly-available key-value store for shared configuration and service discovery.
 - [Eureka](https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance) - REST based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers.
 - [SkyDNS](https://github.com/skynetservices/skydns) - Distributed service for announcement and discovery of services built on top of etcd. It utilizes DNS queries to discover available services.
+- [Vault](https://vaultproject.io/) - Secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets in modern computing.
 - [ZooKeeper](https://zookeeper.apache.org/) - Open-source server which enables highly reliable distributed coordination.
 
 ### Monitoring
@@ -166,6 +168,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Ansible](http://www.ansible.com/) - Radically simple IT automation platform that makes your applications and systems easier to deploy.
 - [Chef](https://www.chef.io/chef/) - Automate how you build, deploy, and manage your infrastructure.
+- [Packer](https://packer.io/) - Tool for creating identical machine images for multiple platforms from a single source configuration.
 - [Puppet](https://puppetlabs.com/) - From provisioning bare metal & launching containers to new ways to manage infrastructure as code.
 
 ## Deployment and Continuous Integration
@@ -195,6 +198,7 @@ of the testing and deployment process.
 - [CoreOS](https://coreos.com/) - Open source lightweight operating system based on the Linux kernel and designed for providing infrastructure to clustered deployments.
 - [Docker](https://www.docker.com/) - Open platform for distributed applications for developers and sysadmins.
 - [Kubernetes](http://kubernetes.io/) - Open source orchestration system for Docker containers.
+- [Terraform](https://terraform.io/) - Terraform provides a common configuration to launch infrastructure, from physical and virtual servers to email and DNS providers.
 
 ## Real Life Stories
 
