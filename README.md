@@ -49,13 +49,13 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Dropwizard](https://dropwizard.github.io/) - Java framework for developing ops-friendly, high-performance, RESTful web services.
 - [Finagle](http://twitter.github.io/finagle) - Extensible RPC system for the JVM, used to construct high-concurrency servers.
 - [Play](https://www.playframework.com/) - The high velocity web framework for Java and Scala.
-- [Ratpack](http://ratpack.io/) - Ratpack is a set of Java libraries that facilitate fast, efficient, evolvable and well tested HTTP applications.
+- [Ratpack](http://ratpack.io/) - Set of Java libraries that facilitate fast, efficient, evolvable and well tested HTTP applications.
 - [Spray](http://spray.io/) - Open-source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka.
 - [Spring Boot](http://projects.spring.io/spring-boot/) - Makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
 
 ### Go
 
-- [Gin](http://gin-gonic.github.io/gin/) - Gin is a web framework written in Golang.
+- [Gin](http://gin-gonic.github.io/gin/) - Web framework written in Golang.
 - [Kite](https://github.com/koding/kite) - Microservice framework in Go.
 - [Martini](http://martini.codegangsta.io/) - Classy web development in Go.
 - [Negroni](https://github.com/codegangsta/negroni) - Idiomatic HTTP Middleware for Golang.
@@ -66,7 +66,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### C
 
-- [Kore](https://kore.io/) - Kore is an easy to use web application framework for writing scalable web APIs in C.
+- [Kore](https://kore.io/) - Easy to use web application framework for writing scalable web APIs in C.
 
 ### D
 
@@ -75,7 +75,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Erlang
 
 - [Gen_microservice](https://github.com/videlalvaro/gen_microservice) - This library solves the problem of implementing microservices with Erlang.
-- [Mochiweb](https://github.com/mochi/mochiweb) - MochiWeb is an Erlang library for building lightweight HTTP servers.
+- [Mochiweb](https://github.com/mochi/mochiweb) - Erlang library for building lightweight HTTP servers.
 
 ## Runtimes
 
@@ -125,7 +125,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Galaxy](http://www.paralleluniverse.co/galaxy/) - Open-source high-performance in-memory data-grid.
 - [Hazelcast](http://hazelcast.org/) - Open source in-memory data-grid. Allows you to distribute data and computation across servers, clusters and geographies, and to manage very large data sets or high data ingest rates. Mature technology.
 - [Ignite](https://ignite.incubator.apache.org/) - High-performance, integrated and distributed in-memory platform for computing and transacting on large-scale data sets in real-time, orders of magnitude faster than possible with traditional disk-based or flash technologies.
-- [Ordasity](https://github.com/boundary/ordasity) - Ordasity is designed to spread persistent or long-lived workloads across several machines.
+- [Ordasity](https://github.com/boundary/ordasity) - Designed to spread persistent or long-lived workloads across several machines.
 - [Marathon](https://mesosphere.github.io/marathon/) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
 - [Mesos](https://mesos.apache.org/) - Abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
 
@@ -137,7 +137,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Resilience
 
 - [Hystrix](https://github.com/Netflix/Hystrix) - Latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
-- [Raft Consensus](http://raftconsensus.github.io/) - Raft is a consensus algorithm that is designed to be easy to understand. It's equivalent to Paxos in fault-tolerance and performance.
+- [Raft Consensus](http://raftconsensus.github.io/) - Consensus algorithm that is designed to be easy to understand. It's equivalent to Paxos in fault-tolerance and performance.
 - [Resilient HTTP](http://resilient-http.github.io/) - A smart HTTP client with super powers like fault tolerance, dynamic server discovery, auto balancing and reactive recovery, designed for distributed systems.
 - [Simian Army](https://github.com/Netflix/SimianArmy) - Suite of tools for keeping your cloud operating in top form. Chaos Monkey, the first member, is a resiliency tool that helps ensure that your applications can tolerate random instance failures.
 
@@ -182,7 +182,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Hosted
 
-- [AWS CodeDeploy](http://aws.amazon.com/codedeploy/) - AWS CodeDeploy is a deployment service that enables developers to automate the deployment of applications to instances and to update the applications as required.
+- [AWS CodeDeploy](http://aws.amazon.com/codedeploy/) - Deployment service that enables developers to automate the deployment of applications to instances and to update the applications as required.
 - [AWS OpsWorks](http://aws.amazon.com/opsworks/) - Provides a simple and flexible way to create and manage stacks and applications.
 - [Codeship](https://codeship.com/) - Hosted continuous delivery platform that takes care
 of the testing and deployment process.
