@@ -170,6 +170,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Chef](https://www.chef.io/chef/) - Automate how you build, deploy, and manage your infrastructure.
 - [Packer](https://packer.io/) - Tool for creating identical machine images for multiple platforms from a single source configuration.
 - [Puppet](https://puppetlabs.com/) - From provisioning bare metal & launching containers to new ways to manage infrastructure as code.
+- [Terraform](https://terraform.io/) - Provides a common configuration to launch infrastructure, from physical and virtual servers to email and DNS providers.
 
 ## Deployment and Continuous Integration
 
@@ -198,7 +199,6 @@ of the testing and deployment process.
 - [CoreOS](https://coreos.com/) - Open source lightweight operating system based on the Linux kernel and designed for providing infrastructure to clustered deployments.
 - [Docker](https://www.docker.com/) - Open platform for distributed applications for developers and sysadmins.
 - [Kubernetes](http://kubernetes.io/) - Open source orchestration system for Docker containers.
-- [Terraform](https://terraform.io/) - Provides a common configuration to launch infrastructure, from physical and virtual servers to email and DNS providers.
 
 ## Real Life Stories
 
