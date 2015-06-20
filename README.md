@@ -132,7 +132,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Reactivity
 
 - [Reactive Kafka](https://github.com/softwaremill/reactive-kafka) - Reactive Streams API for Apache Kafka.
-- [ReactiveX](http://reactivex.io/) An API for asynchronous programming with observable streams. Available for idiomatic Java, Scala, C#, C++, Clojure, JavaScript, Python, Groovy, JRuby, and others.
+- [ReactiveX](http://reactivex.io/) - API for asynchronous programming with observable streams. Available for idiomatic Java, Scala, C#, C++, Clojure, JavaScript, Python, Groovy, JRuby, and others.
 
 ### Resilience
 
@@ -177,8 +177,8 @@ A curated list of Microservice Architecture related principles and technologies.
 ### On-prem
 
 - [Jenkins](http://jenkins-ci.org/) - Extensible open source continuous integration server.
-- [Nscale](https://github.com/nearform/nscale) - nscale is an open toolkit supporting configuration, build and deployment of connected container sets.
-- [RPM Maven](http://mojo.codehaus.org/rpm-maven-plugin/) - The RPM Maven Plugin allows artifacts from one or more projects to be packaged in an RPM for distribution.
+- [Nscale](https://github.com/nearform/nscale) - Open toolkit supporting configuration, build and deployment of connected container sets.
+- [RPM Maven](http://mojo.codehaus.org/rpm-maven-plugin/) - Allows artifacts from one or more projects to be packaged in an RPM for distribution.
 
 ### Hosted
 
