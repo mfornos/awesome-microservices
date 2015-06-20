@@ -87,7 +87,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ## Platforms
 
-- [Cisco Microservices](https://github.com/CiscoCloud/microservices-infrastructure) - Microservices infrastructure is a modern platform for rapidly deploying globally distributed services.
+- [Cisco Microservices](https://github.com/CiscoCloud/microservices-infrastructure) - Modern platform for rapidly deploying globally distributed services.
 - [Fabric8](http://fabric8.io/) - Open-source integration platform for deep management of Java Containers (JVMs).
 - [VAMP](http://vamp.io/) - Build, deploy and manage microservices with power and ease.
 
@@ -198,7 +198,7 @@ of the testing and deployment process.
 - [CoreOS](https://coreos.com/) - Open source lightweight operating system based on the Linux kernel and designed for providing infrastructure to clustered deployments.
 - [Docker](https://www.docker.com/) - Open platform for distributed applications for developers and sysadmins.
 - [Kubernetes](http://kubernetes.io/) - Open source orchestration system for Docker containers.
-- [Terraform](https://terraform.io/) - Terraform provides a common configuration to launch infrastructure, from physical and virtual servers to email and DNS providers.
+- [Terraform](https://terraform.io/) - Provides a common configuration to launch infrastructure, from physical and virtual servers to email and DNS providers.
 
 ## Real Life Stories
 
