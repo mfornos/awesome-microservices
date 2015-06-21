@@ -62,6 +62,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Node.js
 
+- [Actionhero](http://www.actionherojs.com/) - Multi-transport Node.js API Server with integrated cluster capabilities and delayed tasks.
 - [Express](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
 - [Hapi](http://hapijs.com/) - A rich framework for building applications and services.
 - [Loopback](http://loopback.io/) - Node.js framework for creating APIs and easily connecting to backend data sources.
