@@ -218,15 +218,14 @@ of the testing and deployment process.
 
 ### Articles & Papers
 
-- [AKF Scale Cube](http://akfpartners.com/techblog/2008/05/08/splitting-applications-or-services-for-scale/)
-- [CALM](http://db.cs.berkeley.edu/papers/cidr11-bloom.pdf)
-- [CAP Theorem](http://blog.thislongrun.com/2015/03/the-cap-theorem-series.html)
-- [CQRS](http://martinfowler.com/bliki/CQRS.html)
-- [Event Sourcing](http://martinfowler.com/eaaDev/EventSourcing.html)
-- [Hexagonal Architecture](http://alistair.cockburn.us/Hexagonal+architecture)
-- [Microservice Architecture](http://martinfowler.com/articles/microservices.html)
-- [Reactive Manifesto](http://www.reactivemanifesto.org/)
-- [Reactive Streams](http://www.reactive-streams.org/)
+- [AKF Scale Cube](http://akfpartners.com/techblog/2008/05/08/splitting-applications-or-services-for-scale/) - Model depicting the different dimensions to scale a service.
+- [CALM](http://db.cs.berkeley.edu/papers/cidr11-bloom.pdf) - Consistency as logical monotonicity.
+- [CAP Theorem](http://blog.thislongrun.com/2015/03/the-cap-theorem-series.html) -  States that it is impossible for a distributed computer system to simultaneously provide all three of the following guarantees: Consistency, Availability and Partition tolerance.
+- [Cloud Design Patterns](https://msdn.microsoft.com/en-us/library/dn600223.aspx) - Contains twenty-four design patterns that are useful in cloud-hosted applications. Includes: Circuit Breaker, Competing Consumers, CQRS, Event Sourcing, Gatekeeper, Cache-Aside, etc.
+- [Hexagonal Architecture](http://alistair.cockburn.us/Hexagonal+architecture) - Allow an application to equally be driven by users, programs, automated test or batch scripts, and to be developed and tested in isolation from its eventual run-time devices and databases.
+- [Microservice Architecture](http://martinfowler.com/articles/microservices.html) - Particular way of designing software applications as suites of independently deployable services.
+- [Reactive Manifesto](http://www.reactivemanifesto.org/) - Reactive systems definition.
+- [Reactive Streams](http://www.reactive-streams.org/) - Initiative to provide a standard for asynchronous stream processing with non-blocking back pressure.
 
 ### Books
 
