@@ -62,6 +62,10 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Node.js
 
+- [Express](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
+- [Hapi](http://hapijs.com/) - A rich framework for building applications and services.
+- [Loopback](http://loopback.io/) - Node.js framework for creating APIs and easily connecting to backend data sources.
+- [Restify](http://restify.com/) - Node.js module built specifically to enable you to build correct REST web services.
 - [Seneca](http://senecajs.org/) - A Micro-Services toolkit for Node.js
 
 ### C
