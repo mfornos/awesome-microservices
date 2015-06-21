@@ -6,7 +6,7 @@ A curated list of Microservice Architecture related principles and technologies.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [REST/RPC Toolkits](#restrpc-toolkits)
+- [Service Toolkits](#service-toolkits)
   - [JVM](#jvm)
   - [Go](#go)
   - [Node.js](#nodejs)
@@ -42,7 +42,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## REST/RPC Toolkits
+## Service Toolkits
 
 ### JVM
 
