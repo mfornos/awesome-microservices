@@ -244,13 +244,13 @@ of the testing and deployment process.
 
 ### Books
 
-- [Building Microservices](http://nginx.com/wp-content/uploads/2015/01/Building_Microservices_Nginx.pdf)
-- [The Art of Scalability](http://theartofscalability.com/)
+- [Building Microservices](http://nginx.com/wp-content/uploads/2015/01/Building_Microservices_Nginx.pdf) - Building Microservices: Designing Fine-grained Systems. Sam Newman. Preview Edition.
+- [The Art of Scalability](http://theartofscalability.com/) - The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise. Martin L. Abbott, Michael T. Fisher.
 
 ### Sites
 
-- [Microservice Patterns](http://microservices.io/)
-- [OSGi](http://www.osgi.org/)
+- [Microservice Patterns](http://microservices.io/) - Microservice architecture patterns and best practices.
+- [OSGi Alliance](http://www.osgi.org/) - OSGi technology facilitates the componentization of software modules and applications and assures remote management and interoperability of applications and services over a broad variety of devices.
 
 ## License
 
