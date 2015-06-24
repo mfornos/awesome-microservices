@@ -46,12 +46,26 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### JVM
 
+#### Clojure
+
+- [Compojure](https://github.com/weavejester/compojure) - A concise routing library for Ring/Clojure.
+- [Duct](https://github.com/weavejester/duct) - Minimal framework for building web applications in Clojure, with a strong emphasis on simplicity.
+- [Liberator](http://clojure-liberator.github.io/liberator/) - Library that helps you expose your data as resources while automatically complying with all the relevant requirements of the HTTP specification.
+- [Modularity](https://modularity.org/) - JUXT's Clojure-based modular system.
+- [System](https://github.com/danielsz/system) - Built on top of Stuart Sierra's component library, offers a set of readymade components.
+- [Tesla](https://github.com/otto-de/tesla-microservice) - Common basis for some of otto.de's clojure microservices.
+
+#### Java
+
 - [Dropwizard](https://dropwizard.github.io/) - Java framework for developing ops-friendly, high-performance, RESTful web services.
 - [Finagle](http://twitter.github.io/finagle) - Extensible RPC system for the JVM, used to construct high-concurrency servers.
-- [Play](https://www.playframework.com/) - The high velocity web framework for Java and Scala.
-- [Ratpack](http://ratpack.io/) - Set of Java libraries that facilitate fast, efficient, evolvable and well tested HTTP applications.
-- [Spray](http://spray.io/) - Open-source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka.
+- [Ratpack](http://ratpack.io/) - Set of Java libraries that facilitate fast, efficient, evolvable and well tested HTTP applications. Specific support for the Groovy language is provided.
 - [Spring Boot](http://projects.spring.io/spring-boot/) - Makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
+
+#### Scala
+
+- [Play](https://www.playframework.com/) - The high velocity web framework for Java and Scala.
+- [Spray](http://spray.io/) - Open-source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka.
 
 ### Go
 
