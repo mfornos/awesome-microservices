@@ -241,6 +241,7 @@ of the testing and deployment process.
 - [Microservice Architecture](http://martinfowler.com/articles/microservices.html) - Particular way of designing software applications as suites of independently deployable services.
 - [Reactive Manifesto](http://www.reactivemanifesto.org/) - Reactive systems definition.
 - [Reactive Streams](http://www.reactive-streams.org/) - Initiative to provide a standard for asynchronous stream processing with non-blocking back pressure.
+- [Microservice Trade-Offs](http://martinfowler.com/articles/microservice-trade-offs.html)
 
 ### Books
 
