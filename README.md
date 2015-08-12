@@ -8,6 +8,9 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Service Toolkits](#service-toolkits)
   - [JVM](#jvm)
+    - [Clojure](#clojure)
+    - [Java](#java)
+    - [Scala](#scala)
   - [Go](#go)
   - [Node.js](#nodejs)
   - [C](#c)
@@ -31,6 +34,9 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Hosted](#hosted)
   - [Lightweight](#lightweight)
 - [Containers](#containers)
+- [Modeling](#modeling)
+  - [REST APIs](#rest-apis)
+  - [Systems & SPLs](#systems-&-spls)
 - [Real Life Stories](#real-life-stories)
 - [Theory](#theory)
   - [Articles & Papers](#articles-&-papers)
@@ -61,6 +67,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Finagle](http://twitter.github.io/finagle) - Extensible RPC system for the JVM, used to construct high-concurrency servers.
 - [Jersey](https://jersey.java.net/) - RESTful Web Services in Java. JAX-RS (JSR 311 & JSR 339) Reference Implementation.
 - [Ratpack](http://ratpack.io/) - Set of Java libraries that facilitate fast, efficient, evolvable and well tested HTTP applications. Specific support for the Groovy language is provided.
+- [Restlet](http://restlet.com/) - Helps Java developers build web APIs that follow the REST architecture style.
 - [Spring Boot](http://projects.spring.io/spring-boot/) - Makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
 
 #### Scala
@@ -78,6 +85,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Node.js
 
 - [Actionhero](http://www.actionherojs.com/) - Multi-transport Node.js API Server with integrated cluster capabilities and delayed tasks.
+- [Baucis](https://github.com/wprl/baucis) - To build and maintain scalable HATEOAS/Level 3 REST APIs.
 - [Express](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
 - [Hapi](http://hapijs.com/) - A rich framework for building applications and services.
 - [Loopback](http://loopback.io/) - Node.js framework for creating APIs and easily connecting to backend data sources.
@@ -220,6 +228,20 @@ of the testing and deployment process.
 - [Docker](https://www.docker.com/) - Open platform for distributed applications for developers and sysadmins.
 - [Kubernetes](http://kubernetes.io/) - Open source orchestration system for Docker containers.
 
+## Modeling
+
+### REST APIs
+
+- [API Blueprint](https://apiblueprint.org/) - Tools for your whole API lifecycle. Use it to discuss your API with others. Generate documentation automatically. Or a test suite. Or even some code.
+- [RAML](http://raml.org/) - RESTful API Modeling Language, a simple and succinct way of describing practically-RESTful APIs.
+- [Swagger](http://swagger.io/) - A simple yet powerful representation of your RESTful API.
+
+### Systems & SPLs
+
+- [FAMILIAR](http://familiar-project.github.io/) - A language for importing, exporting, composing, decomposing, editing, configuring, computing "diffs", refactoring, reverse engineering, testing, and reasoning about feature models.
+- [SoaML](http://www.omg.org/spec/SoaML/) - OMG Service Oriented Architecture Modeling Language.
+- [SysML](http://www.omgsysml.org/) - OMG Systems Modeling Language.
+
 ## Real Life Stories
 
 - [Clean Micro-service Architecture](http://blog.cleancoder.com/uncle-bob/2014/10/01/CleanMicroserviceArchitecture.html)
@@ -241,6 +263,8 @@ of the testing and deployment process.
 - [Microservice Architecture](http://martinfowler.com/articles/microservices.html) - Particular way of designing software applications as suites of independently deployable services.
 - [Reactive Manifesto](http://www.reactivemanifesto.org/) - Reactive systems definition.
 - [Reactive Streams](http://www.reactive-streams.org/) - Initiative to provide a standard for asynchronous stream processing with non-blocking back pressure.
+- [SECO](http://ceur-ws.org/Vol-746/IWSECO2011-6-DengYu.pdf) - Understanding Software Ecosystems:
+A Strategic Modeling Approach.
 
 ### Books
 
