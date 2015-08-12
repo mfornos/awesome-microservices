@@ -8,9 +8,6 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Service Toolkits](#service-toolkits)
   - [JVM](#jvm)
-    - [Clojure](#clojure)
-    - [Java](#java)
-    - [Scala](#scala)
   - [Go](#go)
   - [Node.js](#nodejs)
   - [C](#c)
@@ -37,6 +34,12 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Modeling](#modeling)
   - [REST APIs](#rest-apis)
   - [Systems & SPLs](#systems-&-spls)
+- [Standards / Recommendations](#standards--recommendations)
+  - [World Wide Web](#world-wide-web)
+  - [HTTP/1.1](#http11)
+  - [HTTP/2](#http2)
+  - [Service Discovery](#service-discovery)
+  - [Unicode](#unicode)
 - [Real Life Stories](#real-life-stories)
 - [Theory](#theory)
   - [Articles & Papers](#articles-&-papers)
@@ -241,6 +244,39 @@ of the testing and deployment process.
 - [FAMILIAR](http://familiar-project.github.io/) - A language for importing, exporting, composing, decomposing, editing, configuring, computing "diffs", refactoring, reverse engineering, testing, and reasoning about feature models.
 - [SoaML](http://www.omg.org/spec/SoaML/) - OMG Service Oriented Architecture Modeling Language.
 - [SysML](http://www.omgsysml.org/) - OMG Systems Modeling Language.
+
+## Standards / Recommendations
+
+### World Wide Web
+
+- [W3C.REC-Webarch](http://www.w3.org/TR/webarch/) - Architecture of the World Wide Web, Volume One.
+- [RFC3986](https://tools.ietf.org/html/rfc3986) - Uniform Resource Identifier (URI): Generic Syntax.
+- [RFC6570](https://tools.ietf.org/html/rfc6570) - URI Template.
+- [RFC7320](https://tools.ietf.org/html/rfc7320) - URI Design and Ownership.
+
+### HTTP/1.1
+
+- [RFC7230](https://tools.ietf.org/html/rfc7230) - Message Syntax and Routing.
+- [RFC7231](https://tools.ietf.org/html/rfc7231) - Semantics and Content.
+- [RFC7232](https://tools.ietf.org/html/rfc7232) - Conditional Requests.
+- [RFC7233](https://tools.ietf.org/html/rfc7233) - Range Requests.
+- [RFC7234](https://tools.ietf.org/html/rfc7234) - Caching.
+- [RFC7235](https://tools.ietf.org/html/rfc7235) - Authentication.
+
+### HTTP/2
+
+- [RFC7540](https://tools.ietf.org/html/rfc7540) - Hypertext Transfer Protocol Version 2.
+
+### Service Discovery
+
+- [HAL-DRAFT](https://tools.ietf.org/html/draft-kelly-json-hal-07) - The JSON Hypertext Application Language (HAL) is a standard which establishes conventions for expressing hypermedia controls, such as links, with JSON (_draft_).
+- [WADL](http://www.w3.org/Submission/wadl/) - The Web Application Description Language specification.
+- [WSDL](http://www.w3.org/TR/wsdl20/) - The Web Services Description Language Version 2.0 spec.
+
+### Unicode
+
+- [UNIV8](http://www.unicode.org/versions/Unicode8.0.0/) - The Unicode Consortium. The Unicode Standard, Version 8.0.0, (Mountain View, CA: The Unicode Consortium, 2015. ISBN 978-1-936213-10-8).
+- [RFC3629](https://tools.ietf.org/html/rfc3629) - UTF-8, a transformation format of ISO 10646.
 
 ## Real Life Stories
 
