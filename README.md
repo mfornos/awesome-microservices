@@ -127,15 +127,26 @@ A curated list of Microservice Architecture related principles and technologies.
 ### API Gateway
 
 - [Camel](http://camel.apache.org/) - Empowers you to define routing and mediation rules in a variety of domain-specific languages, including a Java-based Fluent API, Spring or Blueprint XML Configuration files, and a Scala DSL.
+- [HAProxy](http://www.haproxy.org/) - The Reliable, High Performance TCP/HTTP Load Balancer.
 - [Kong](http://getkong.org/) - Open-source management layer for APIs.
+- [OpenResty](http://openresty.org/) - Fast web app server by extending Nginx.
+- [Tengine](http://tengine.taobao.org/) - A distribution of Nginx with some advanced features.
 - [Tyk](https://tyk.io/) - Open-source, fast and scalable API gateway, portal and API management platform.
 
 ### Serialization
 
 - [BooPickle](https://github.com/ochrons/boopickle) - Binary serialization library for efficient network communication. For Scala and Scala.js
+- [CBOR](http://cbor.io/) - Implementations of the CBOR standard (RFC 7049) in many languages.
 - [Cereal](http://uscilab.github.io/cereal/) - C++11 library for serialization.
+- [Cheshire](https://github.com/dakrone/cheshire) - Clojure JSON and JSON SMILE encoding/decoding.
+- [Fastjson](https://github.com/alibaba/fastjson) - Fast JSON Processor.
+- [FST](https://github.com/RuedigerMoeller/fast-serialization) - Fast java serialization drop in-replacemen.
+- [Jackson](https://github.com/FasterXML/jackson) -  A multi-purpose Java library for processing JSON data format.
+- [Jackson Afterburner](https://github.com/FasterXML/jackson-module-afterburner) - Jackson module that uses bytecode generation to further speed up data binding (+30-40% throughput for serialization, deserialization).
 - [Kryo](https://github.com/EsotericSoftware/kryo) - Java serialization and cloning: fast, efficient, automatic.
 - [MessagePack](http://msgpack.org/) - Efficient binary serialization format.
+- [Protostuff](http://www.protostuff.io/) - A serialization library with built-in support for forward-backward compatibility (schema evolution) and validation.
+- [SBinary](https://github.com/harrah/sbinary) - Library for describing binary formats for Scala types.
 
 ### Messaging
 
@@ -267,11 +278,24 @@ of the testing and deployment process.
 
 - [RFC7540](https://tools.ietf.org/html/rfc7540) - Hypertext Transfer Protocol Version 2.
 
+### Security
+
+- [RFC5246](http://tools.ietf.org/html/rfc5246) - The Transport Layer Security (TLS) Protocol Version 1.2.
+- [RFC6066](http://tools.ietf.org/html/rfc6066) - TLS Extensions.
+
 ### Service Discovery
 
 - [HAL-DRAFT](https://tools.ietf.org/html/draft-kelly-json-hal-07) - The JSON Hypertext Application Language (HAL) is a standard which establishes conventions for expressing hypermedia controls, such as links, with JSON (_draft_).
 - [WADL](http://www.w3.org/Submission/wadl/) - The Web Application Description Language specification.
 - [WSDL](http://www.w3.org/TR/wsdl20/) - The Web Services Description Language Version 2.0 spec.
+
+### Data Formats
+
+- [RFC4627](https://tools.ietf.org/html/rfc4627) - JavaScript Object Notation (JSON).
+- [RFC7049](http://tools.ietf.org/search/rfc7049) - Concise Binary Object Representation (CBOR).
+- [BSON](http://bsonspec.org/) - Bin­ary JSON (BSON).
+- [SMILE](http://wiki.fasterxml.com/SmileFormatSpec) - JSON-compatible binary data format.
+- [MSGPACK](https://github.com/msgpack/msgpack/blob/master/spec.md) - MessagePack Specification.
 
 ### Unicode
 
