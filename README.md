@@ -77,6 +77,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 #### Scala
 
+- [Colossus](https://github.com/tumblr/colossus) - I/O and Microservice library for Scala.
 - [Play](https://www.playframework.com/) - The high velocity web framework for Java and Scala.
 - [Spray](http://spray.io/) - Open-source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka.
 
