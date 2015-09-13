@@ -71,7 +71,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Dropwizard](https://dropwizard.github.io/) - Java framework for developing ops-friendly, high-performance, RESTful web services.
 - [Finagle](http://twitter.github.io/finagle) - Extensible RPC system for the JVM, used to construct high-concurrency servers.
 - [Jersey](https://jersey.java.net/) - RESTful Web Services in Java. JAX-RS (JSR 311 & JSR 339) Reference Implementation.
-- [Kayron](https://github.com/Netflix/karyon) - The nucleus or the base container for Applications and Services built using the NetflixOSS ecosystem.
+- [Karyon](https://github.com/Netflix/karyon) - The nucleus or the base container for Applications and Services built using the NetflixOSS ecosystem.
 - [Ratpack](http://ratpack.io/) - Set of Java libraries that facilitate fast, efficient, evolvable and well tested HTTP applications. Specific support for the Groovy language is provided.
 - [Restlet](http://restlet.com/) - Helps Java developers build web APIs that follow the REST architecture style.
 - [Spring Boot](http://projects.spring.io/spring-boot/) - Makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
