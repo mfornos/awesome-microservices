@@ -87,6 +87,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Go
 
 - [Gin](http://gin-gonic.github.io/gin/) - Web framework written in Golang.
+- [Gocraft](https://github.com/gocraft/web) - A toolkit for building web apps. Includes routing, middleware stacks, logging and monitoring.
 - [Go kit](https://github.com/go-kit/kit) - Distributed programming toolkit for microservices in the modern enterprise.
 - [Kite](https://github.com/koding/kite) - Microservice framework in Go.
 - [Martini](http://martini.codegangsta.io/) - Classy web development in Go.
