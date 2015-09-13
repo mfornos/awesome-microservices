@@ -78,7 +78,10 @@ A curated list of Microservice Architecture related principles and technologies.
 #### Scala
 
 - [Colossus](https://github.com/tumblr/colossus) - I/O and Microservice library for Scala.
+- [Finatra](http://twitter.github.io/finatra/) - Fast, testable, Scala HTTP services built on Twitter-Server and Finagle.
 - [Play](https://www.playframework.com/) - The high velocity web framework for Java and Scala.
+- [Scalatra](http://www.scalatra.org/) - Simple, accessible and free web micro-framework.
+- [Skinny Micro](https://github.com/skinny-framework/skinny-micro) - Micro Web framework to build Servlet applications in Scala.
 - [Spray](http://spray.io/) - Open-source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka.
 
 ### Go
@@ -172,9 +175,11 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Galaxy](http://www.paralleluniverse.co/galaxy/) - Open-source high-performance in-memory data-grid.
 - [Hazelcast](http://hazelcast.org/) - Open source in-memory data-grid. Allows you to distribute data and computation across servers, clusters and geographies, and to manage very large data sets or high data ingest rates. Mature technology.
 - [Ignite](https://ignite.incubator.apache.org/) - High-performance, integrated and distributed in-memory platform for computing and transacting on large-scale data sets in real-time, orders of magnitude faster than possible with traditional disk-based or flash technologies.
-- [Ordasity](https://github.com/boundary/ordasity) - Designed to spread persistent or long-lived workloads across several machines.
 - [Marathon](https://mesosphere.github.io/marathon/) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
 - [Mesos](https://mesos.apache.org/) - Abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
+- [Ordasity](https://github.com/boundary/ordasity) - Designed to spread persistent or long-lived workloads across several machines.
+- [Redisson](https://github.com/mrniko/redisson) - Distributed and scalable Java data structures on top of Redis server..
+- [Service Fabric](http://servicefabric.io/) - Fault-tolerant decentralized peer-to-peer based cluster membership service with no single point of failure.
 
 ### Reactivity
 
@@ -200,7 +205,10 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Monitoring
 
+- [Grafana](http://grafana.org/) - An open-source, feature rich metrics dashboard and graph editor for
+Graphite, InfluxDB & OpenTSDB.
 - [Graphite](http://graphite.wikidot.com/) - Scalable realtime graphing.
+- [Prometheus](http://prometheus.io/) - An open-source service monitoring system and time series database.
 - [Riemann](http://riemann.io/) - Monitors distributed systems.
 
 ### Logging
@@ -313,8 +321,10 @@ of the testing and deployment process.
 - [Failing at Microservices](https://rclayton.silvrback.com/failing-at-microservices)
 - [How to Talk To Your Friends About MicroServices](http://pivotallabs.com/how-to-talk-to-your-friends-about-microservices/)
 - [How we build microservices at Karma](https://blog.yourkarma.com/building-microservices-at-karma)
+- [How we ended up with microservices at SoundCloud](http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html)
 - [Microservices: Lessons from the Frontline](http://www.thoughtworks.com/insights/blog/microservices-lessons-frontline)
 - [Monolith First](http://martinfowler.com/bliki/MonolithFirst.html)
+
 
 ## Theory
 
