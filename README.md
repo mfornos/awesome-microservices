@@ -344,6 +344,7 @@ of the testing and deployment process.
 - [Reactive Streams](http://www.reactive-streams.org/) - Initiative to provide a standard for asynchronous stream processing with non-blocking back pressure.
 - [SECO](http://ceur-ws.org/Vol-746/IWSECO2011-6-DengYu.pdf) - Understanding Software Ecosystems:
 A Strategic Modeling Approach.
+- [Microservices DZone RefCard](https://dzone.com/refcardz/getting-started-with-microservices) - Getting Started With Microservices.
 
 ### Books
 
