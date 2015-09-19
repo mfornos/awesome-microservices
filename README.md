@@ -46,6 +46,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Theory](#theory)
   - [Articles & Papers](#articles-&-papers)
   - [Tutorials](#tutorials)
+  - [Emerging Technologies](#emerging-technologies)
   - [Books](#books)
   - [Sites](#sites)
 - [License](#license)
@@ -352,7 +353,12 @@ of the testing and deployment process.
 a strategic modeling approach.
 
 ### Tutorials
+
 - Microservices in C#: [Part 1](http://insidethecpu.com/2015/07/17/microservices-in-c-part-1-building-and-testing/), [Part 2](http://insidethecpu.com/2015/07/31/microservices-in-c-part-2-consistent-message-delivery/), [Part 3](http://insidethecpu.com/2015/08/14/microservices-in-c-part-3-queue-pool-sizing/), [Part 4](http://insidethecpu.com/2015/08/28/microservices-in-c-part-4-scaling-out/), [Part 5](http://insidethecpu.com/2015/09/11/microservices-in-c-part-5-autoscaling/).
+
+### Emerging Technologies
+
+- [Blocknet](http://blocknet.co/) - The Blocknet makes possible what no other PaaS can: microservices delivered over a blockchain-based P2P network architecture.
 
 ### Books
 
