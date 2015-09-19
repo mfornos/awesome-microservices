@@ -68,7 +68,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Liberator](http://clojure-liberator.github.io/liberator/) - Library that helps you expose your data as resources while automatically complying with all the relevant requirements of the HTTP specification.
 - [Modularity](https://modularity.org/) - JUXT's Clojure-based modular system.
 - [System](https://github.com/danielsz/system) - Built on top of Stuart Sierra's component library, offers a set of readymade components.
-- [Tesla](https://github.com/otto-de/tesla-microservice) - Common basis for some of otto.de's clojure microservices.
+- [Tesla](https://github.com/otto-de/tesla-microservice) - Common basis for some of Otto.de's Clojure microservices.
 
 #### Java
 
@@ -76,10 +76,10 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Dropwizard](https://dropwizard.github.io/) - Java framework for developing ops-friendly, high-performance, RESTful web services.
 - [Finagle](http://twitter.github.io/finagle) - Extensible RPC system for the JVM, used to construct high-concurrency servers.
 - [Jersey](https://jersey.java.net/) - RESTful Web Services in Java. JAX-RS (JSR 311 & JSR 339) Reference Implementation.
-- [Karyon](https://github.com/Netflix/karyon) - The nucleus or the base container for Applications and Services built using the NetflixOSS ecosystem.
-- [Ratpack](http://ratpack.io/) - Set of Java libraries that facilitate fast, efficient, evolvable and well tested HTTP applications. Specific support for the Groovy language is provided.
+- [Karyon](https://github.com/Netflix/karyon) - The nucleus or the base container for applications and services built using the NetflixOSS ecosystem.
+- [Ratpack](http://ratpack.io/) - Set of Java libraries that facilitate fast, efficient, evolvable and well tested HTTP applications. specific support for the Groovy language is provided.
 - [Restlet](http://restlet.com/) - Helps Java developers build web APIs that follow the REST architecture style.
-- [Spring Boot](http://projects.spring.io/spring-boot/) - Makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
+- [Spring Boot](http://projects.spring.io/spring-boot/) - Makes it easy to create stand-alone, production-grade Spring based applications.
 
 #### Scala
 
@@ -87,7 +87,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Finatra](http://twitter.github.io/finatra/) - Fast, testable, Scala HTTP services built on Twitter-Server and Finagle.
 - [Play](https://www.playframework.com/) - The high velocity web framework for Java and Scala.
 - [Scalatra](http://www.scalatra.org/) - Simple, accessible and free web micro-framework.
-- [Skinny Micro](https://github.com/skinny-framework/skinny-micro) - Micro Web framework to build Servlet applications in Scala.
+- [Skinny Micro](https://github.com/skinny-framework/skinny-micro) - Micro-web-framework to build servlet applications in Scala.
 - [Spray](http://spray.io/) - Open-source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka.
 
 ### Go
@@ -95,14 +95,14 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Gin](http://gin-gonic.github.io/gin/) - Web framework written in Golang.
 - [Gocraft](https://github.com/gocraft/web) - A toolkit for building web apps. Includes routing, middleware stacks, logging and monitoring.
 - [Go kit](https://github.com/go-kit/kit) - Distributed programming toolkit for microservices in the modern enterprise.
-- [Kite](https://github.com/koding/kite) - Microservice framework in Go.
+- [Kite](https://github.com/koding/kite) - Microservices framework in Go.
 - [Martini](http://martini.codegangsta.io/) - Classy web development in Go.
-- [Micro](https://github.com/myodc/micro) - A microservice toolchain in Go.
-- [Negroni](https://github.com/codegangsta/negroni) - Idiomatic HTTP Middleware for Golang.
+- [Micro](https://github.com/myodc/micro) - A microservices toolchain in Go.
+- [Negroni](https://github.com/codegangsta/negroni) - Idiomatic HTTP middleware for Golang.
 
 ### Node.js
 
-- [Actionhero](http://www.actionherojs.com/) - Multi-transport Node.js API Server with integrated cluster capabilities and delayed tasks.
+- [Actionhero](http://www.actionherojs.com/) - Multi-transport Node.js API server with integrated cluster capabilities and delayed tasks.
 - [Baucis](https://github.com/wprl/baucis) - To build and maintain scalable HATEOAS/Level 3 REST APIs.
 - [Express](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
 - [Hapi](http://hapijs.com/) - A rich framework for building applications and services.
@@ -147,10 +147,10 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### API Gateway
 
-- [Camel](http://camel.apache.org/) - Empowers you to define routing and mediation rules in a variety of domain-specific languages, including a Java-based Fluent API, Spring or Blueprint XML Configuration files, and a Scala DSL.
-- [HAProxy](http://www.haproxy.org/) - The Reliable, High Performance TCP/HTTP Load Balancer.
+- [Camel](http://camel.apache.org/) - Empowers you to define routing and mediation rules in a variety of domain-specific languages, including a Java-based fluent API, Spring or Blueprint XML configuration files, and a Scala DSL.
+- [HAProxy](http://www.haproxy.org/) - Reliable, high Performance TCP/HTTP load balancer.
 - [Kong](http://getkong.org/) - Open-source management layer for APIs.
-- [OpenResty](http://openresty.org/) - Fast web app server by extending Nginx.
+- [OpenResty](http://openresty.org/) - Fast web application server built on top of Nginx.
 - [Tengine](http://tengine.taobao.org/) - A distribution of Nginx with some advanced features.
 - [Tyk](https://tyk.io/) - Open-source, fast and scalable API gateway, portal and API management platform.
 
@@ -174,7 +174,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Messaging
 
 - [ØMQ](http://zeromq.org/) - Brokerless intelligent transport layer.
-- [ActiveMQ](http://activemq.apache.org/) - Powerful open source messaging and integration patterns server.
+- [ActiveMQ](http://activemq.apache.org/) - Powerful open-source messaging and integration patterns server.
 - [Apollo](http://activemq.apache.org/apollo/) - Faster, more reliable, easier to maintain messaging broker built from the foundations of the original ActiveMQ.
 - [Beanstalk](http://kr.github.io/beanstalkd/) - Simple, fast work queue.
 - [Disque](https://github.com/antirez/disque) - Distributed message broker.
@@ -182,13 +182,13 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Nanomsg](http://nanomsg.org/) - Socket library that provides several common communication patterns for building distributed systems.
 - [NATS](https://nats.io/) - Open-source, high-performance, lightweight cloud messaging system.
 - [Qpid](https://qpid.apache.org/) - Cross-platform messaging components built on AMQP.
-- [RabbitMQ](https://www.rabbitmq.com/) - Open source Erlang-based message broker that just works.
+- [RabbitMQ](https://www.rabbitmq.com/) - Open-source Erlang-based message broker that just works.
 
 ### Elastic Computing
 
 - [Chronos](https://github.com/mesos/chronos) - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules.
 - [Galaxy](http://www.paralleluniverse.co/galaxy/) - Open-source high-performance in-memory data-grid.
-- [Hazelcast](http://hazelcast.org/) - Open source in-memory data-grid. Allows you to distribute data and computation across servers, clusters and geographies, and to manage very large data sets or high data ingest rates. Mature technology.
+- [Hazelcast](http://hazelcast.org/) - Open-source in-memory data-grid. Allows you to distribute data and computation across servers, clusters and geographies, and to manage very large data sets or high data ingest rates. Mature technology.
 - [Ignite](https://ignite.incubator.apache.org/) - High-performance, integrated and distributed in-memory platform for computing and transacting on large-scale data sets in real-time, orders of magnitude faster than possible with traditional disk-based or flash technologies.
 - [Marathon](https://mesosphere.github.io/marathon/) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
 - [Mesos](https://mesos.apache.org/) - Abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
@@ -230,8 +230,8 @@ Graphite, InfluxDB & OpenTSDB.
 
 ### Logging
 
-- [Fluentd](http://www.fluentd.org/) - Open source data collector for unified logging layer.
-- [Graylog](https://www.graylog.org/) - Fully integrated open source log management platform.
+- [Fluentd](http://www.fluentd.org/) - Open-source data collector for unified logging layer.
+- [Graylog](https://www.graylog.org/) - Fully integrated open-source log management platform.
 - [Kibana](https://www.elastic.co/products/kibana) - Flexible analytics and visualization platform.
 - [Logstash](http://logstash.net/) - Tool for managing events and logs.
 - [Suro](https://github.com/Netflix/suro/wiki) - Distributed data pipeline which enables services for moving, aggregating, routing, storing data.
@@ -248,7 +248,7 @@ Graphite, InfluxDB & OpenTSDB.
 
 ### On-prem
 
-- [Jenkins](http://jenkins-ci.org/) - Extensible open source continuous integration server.
+- [Jenkins](http://jenkins-ci.org/) - Extensible open-source continuous integration server.
 - [Nscale](https://github.com/nearform/nscale) - Open toolkit supporting configuration, build and deployment of connected container sets.
 - [RPM Maven](http://mojo.codehaus.org/rpm-maven-plugin/) - Allows artifacts from one or more projects to be packaged in an RPM for distribution.
 
@@ -268,9 +268,9 @@ of the testing and deployment process.
 ## Containers
 
 - [AWS ECS](http://aws.amazon.com/ecs/) - Easily run and manage Docker-enabled applications across a cluster of Amazon EC2 instances.
-- [CoreOS](https://coreos.com/) - Open source lightweight operating system based on the Linux kernel and designed for providing infrastructure to clustered deployments.
+- [CoreOS](https://coreos.com/) - Open-source lightweight operating system based on the Linux kernel and designed for providing infrastructure to clustered deployments.
 - [Docker](https://www.docker.com/) - Open platform for distributed applications for developers and sysadmins.
-- [Kubernetes](http://kubernetes.io/) - Open source orchestration system for Docker containers.
+- [Kubernetes](http://kubernetes.io/) - Open-source orchestration system for Docker containers.
 
 ## Modeling
 
