@@ -354,7 +354,6 @@ a strategic modeling approach.
 ### Books
 
 - [Building Microservices](http://nginx.com/wp-content/uploads/2015/01/Building_Microservices_Nginx.pdf) - Building Microservices: Designing Fine-grained Systems. Sam Newman. Preview Edition.
-- [SOA in the Real World](https://msdn.microsoft.com/en-us/library/bb833022.aspx) - A free book on SOA (Service Oriented Architecture) by Microsoft.
 - [The Art of Scalability](http://theartofscalability.com/) - The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise. Martin L. Abbott, Michael T. Fisher.
 
 ### Sites
