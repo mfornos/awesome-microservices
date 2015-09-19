@@ -11,6 +11,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Go](#go)
   - [Node.js](#nodejs)
   - [C](#c)
+  - [C++](#c)
   - [D](#d)
   - [Erlang](#erlang)
 - [Runtimes](#runtimes)
@@ -111,6 +112,11 @@ A curated list of Microservice Architecture related principles and technologies.
 ### C
 
 - [Kore](https://kore.io/) - Easy to use web application framework for writing scalable web APIs in C.
+
+### C++
+
+- [AnyRPC](https://github.com/sgieseking/anyrpc) - Provides a common system to work with a number of different remote procedure call standards, including: JSON-RPC, XML-RPC, MessagePack-RPC.
+- [C++ Micro Services](http://cppmicroservices.org/) - An OSGi-like C++ dynamic module system and service registry.
 
 ### D
 
