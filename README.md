@@ -39,6 +39,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [World Wide Web](#world-wide-web)
   - [HTTP/1.1](#http11)
   - [HTTP/2](#http2)
+  - [RPC](#rpc)
   - [Security](#security)
   - [Service Discovery](#service-discovery)
   - [Data Formats](#data-formats)
@@ -306,6 +307,11 @@ of the testing and deployment process.
 ### HTTP/2
 
 - [RFC7540](https://tools.ietf.org/html/rfc7540) - Hypertext Transfer Protocol Version 2.
+
+### RPC
+
+- [BERT-RPC 1.0](http://bert-rpc.org/) - An attempt to specify a flexible binary serialization and RPC protocol that are compatible with the philosophies of dynamic languages.
+- [JSON-RPC 2.0](http://www.jsonrpc.org/specification) - A stateless, light-weight remote procedure call (RPC) protocol.
 
 ### Security
 
