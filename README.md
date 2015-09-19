@@ -47,6 +47,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Articles & Papers](#articles-&-papers)
   - [Books](#books)
   - [Sites](#sites)
+  - [Tutorials](#tutorials)
 - [License](#license)
 - [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
@@ -355,6 +356,9 @@ A Strategic Modeling Approach.
 - [Microservices Resource Guide](http://martinfowler.com/microservices/) - Martin Fowler's choice of articles, videos, books, and podcasts that can teach you more about the microservices architectural style.
 - [Microservice Patterns](http://microservices.io/) - Microservice architecture patterns and best practices.
 - [OSGi Alliance](http://www.osgi.org/) - OSGi technology facilitates the componentization of software modules and applications and assures remote management and interoperability of applications and services over a broad variety of devices.
+
+### Tutorials:
+- Microservices in C#: [Part 1](http://insidethecpu.com/2015/07/17/microservices-in-c-part-1-building-and-testing/), [Part 2](http://insidethecpu.com/2015/07/31/microservices-in-c-part-2-consistent-message-delivery/), [Part 3](http://insidethecpu.com/2015/08/14/microservices-in-c-part-3-queue-pool-sizing/), [Part 4](http://insidethecpu.com/2015/08/28/microservices-in-c-part-4-scaling-out/), [Part 5](http://insidethecpu.com/2015/09/11/microservices-in-c-part-5-autoscaling/)
 
 ## License
 
