@@ -23,7 +23,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Reactivity](#reactivity)
   - [Resilience](#resilience)
   - [Configuration and Discovery](#configuration-and-discovery)
-  - [Monitoring](#monitoring)
+  - [Monitoring and Debugging](#monitoring-and-debugging)
   - [Logging](#logging)
 - [IT Automation / Provisioning](#it-automation--provisioning)
 - [Deployment and Continuous Integration](#deployment-and-continuous-integration)
