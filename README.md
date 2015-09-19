@@ -83,7 +83,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 #### Scala
 
-- [Colossus](https://github.com/tumblr/colossus) - I/O and Microservice library for Scala.
+- [Colossus](https://github.com/tumblr/colossus) - I/O and microservice library for Scala.
 - [Finatra](http://twitter.github.io/finatra/) - Fast, testable, Scala HTTP services built on Twitter-Server and Finagle.
 - [Play](https://www.playframework.com/) - The high velocity web framework for Java and Scala.
 - [Scalatra](http://www.scalatra.org/) - Simple, accessible and free web micro-framework.
@@ -108,7 +108,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Hapi](http://hapijs.com/) - A rich framework for building applications and services.
 - [Loopback](http://loopback.io/) - Node.js framework for creating APIs and easily connecting to backend data sources.
 - [Restify](http://restify.com/) - Node.js module built specifically to enable you to build correct REST web services.
-- [Seneca](http://senecajs.org/) - A Micro-Services toolkit for Node.js
+- [Seneca](http://senecajs.org/) - A microservices toolkit for Node.js
 
 ### C
 
@@ -339,13 +339,13 @@ of the testing and deployment process.
 
 ## Real Life Stories
 
-- [Clean Micro-service Architecture](http://blog.cleancoder.com/uncle-bob/2014/10/01/CleanMicroserviceArchitecture.html)
-- [Failing at Microservices](https://rclayton.silvrback.com/failing-at-microservices)
-- [How to Talk To Your Friends About MicroServices](http://pivotallabs.com/how-to-talk-to-your-friends-about-microservices/)
+- [Clean microservice architecture](http://blog.cleancoder.com/uncle-bob/2014/10/01/CleanMicroserviceArchitecture.html)
+- [Failing at microservices](https://rclayton.silvrback.com/failing-at-microservices)
+- [How to talk to your friends about microservices](http://pivotallabs.com/how-to-talk-to-your-friends-about-microservices/)
 - [How we build microservices at Karma](https://blog.yourkarma.com/building-microservices-at-karma)
 - [How we ended up with microservices at SoundCloud](http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html)
-- [Microservices: Lessons from the Frontline](http://www.thoughtworks.com/insights/blog/microservices-lessons-frontline)
-- [Monolith First](http://martinfowler.com/bliki/MonolithFirst.html)
+- [Microservices: lessons from the frontline](http://www.thoughtworks.com/insights/blog/microservices-lessons-frontline)
+- [Monolith first](http://martinfowler.com/bliki/MonolithFirst.html)
 
 
 ## Theory
@@ -357,7 +357,7 @@ of the testing and deployment process.
 - [CAP Theorem](http://blog.thislongrun.com/2015/03/the-cap-theorem-series.html) -  States that it is impossible for a distributed computer system to simultaneously provide all three of the following guarantees: Consistency, Availability and Partition tolerance.
 - [Cloud Design Patterns](https://msdn.microsoft.com/en-us/library/dn600223.aspx) - Contains twenty-four design patterns that are useful in cloud-hosted applications. Includes: Circuit Breaker, Competing Consumers, CQRS, Event Sourcing, Gatekeeper, Cache-Aside, etc.
 - [Hexagonal Architecture](http://alistair.cockburn.us/Hexagonal+architecture) - Allows an application to equally be driven by users, programs, automated test or batch scripts, and to be developed and tested in isolation from its eventual run-time devices and databases.
-- [Microservices Architecture](http://martinfowler.com/articles/microservices.html) - Particular way of designing software applications as suites of independently deployable services.
+- [Microservice Architecture](http://martinfowler.com/articles/microservices.html) - Particular way of designing software applications as suites of independently deployable services.
 - [Microservices and SOA](http://www.oracle.com/technetwork/issue-archive/2015/15-mar/o25architect-2458702.html) - Similarities, differences, and where we go from here.
 - [Microservices RefCard](https://dzone.com/refcardz/getting-started-with-microservices) - Getting started with microservices.
 - [Microservices Trade-Offs](http://martinfowler.com/articles/microservice-trade-offs.html) - Guide to ponder costs and benefits of the mircoservices architectural style.
