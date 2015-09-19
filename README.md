@@ -87,7 +87,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Finatra](http://twitter.github.io/finatra/) - Fast, testable, Scala HTTP services built on Twitter-Server and Finagle.
 - [Play](https://www.playframework.com/) - The high velocity web framework for Java and Scala.
 - [Scalatra](http://www.scalatra.org/) - Simple, accessible and free web micro-framework.
-- [Skinny Micro](https://github.com/skinny-framework/skinny-micro) - Micro-web-framework to build servlet applications in Scala.
+- [Skinny Micro](https://github.com/skinny-framework/skinny-micro) - Micro-web framework to build servlet applications in Scala.
 - [Spray](http://spray.io/) - Open-source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka.
 
 ### Go
