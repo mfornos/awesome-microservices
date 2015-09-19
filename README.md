@@ -350,15 +350,18 @@ A Strategic Modeling Approach.
 
 - [Building Microservices](http://nginx.com/wp-content/uploads/2015/01/Building_Microservices_Nginx.pdf) - Building Microservices: Designing Fine-grained Systems. Sam Newman. Preview Edition.
 - [The Art of Scalability](http://theartofscalability.com/) - The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise. Martin L. Abbott, Michael T. Fisher.
+- [SOA in the Real World](https://msdn.microsoft.com/en-us/library/bb833022.aspx) - A free book on SOA (Service Oriented Architecture) by Microsoft.
 
 ### Sites
 
 - [Microservices Resource Guide](http://martinfowler.com/microservices/) - Martin Fowler's choice of articles, videos, books, and podcasts that can teach you more about the microservices architectural style.
 - [Microservice Patterns](http://microservices.io/) - Microservice architecture patterns and best practices.
 - [OSGi Alliance](http://www.osgi.org/) - OSGi technology facilitates the componentization of software modules and applications and assures remote management and interoperability of applications and services over a broad variety of devices.
+- [Service Orientation](http://serviceorientation.com/) - An education site from Arcitura on SOA (Service Oriented Architecture).
 
 ### Tutorials:
 - Microservices in C#: [Part 1](http://insidethecpu.com/2015/07/17/microservices-in-c-part-1-building-and-testing/), [Part 2](http://insidethecpu.com/2015/07/31/microservices-in-c-part-2-consistent-message-delivery/), [Part 3](http://insidethecpu.com/2015/08/14/microservices-in-c-part-3-queue-pool-sizing/), [Part 4](http://insidethecpu.com/2015/08/28/microservices-in-c-part-4-scaling-out/), [Part 5](http://insidethecpu.com/2015/09/11/microservices-in-c-part-5-autoscaling/)
+- [What is SOA](https://www.youtube.com/watch?v=wtcJzVJtX3U) - A Java SOA video tutorial by edureca!
 
 ## License
 
