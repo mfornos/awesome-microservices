@@ -159,6 +159,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [CBOR](http://cbor.io/) - Implementations of the CBOR standard (RFC 7049) in many languages.
 - [Cereal](http://uscilab.github.io/cereal/) - C++11 library for serialization.
 - [Cheshire](https://github.com/dakrone/cheshire) - Clojure JSON and JSON SMILE encoding/decoding.
+- [Etch](http://etch.apache.org/) - Cross-platform, language and transport-independent framework for building and consuming network services.
 - [Fastjson](https://github.com/alibaba/fastjson) - Fast JSON Processor.
 - [FST](https://github.com/RuedigerMoeller/fast-serialization) - Fast java serialization drop in-replacemen.
 - [Jackson](https://github.com/FasterXML/jackson) -  A multi-purpose Java library for processing JSON data format.
@@ -167,6 +168,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [MessagePack](http://msgpack.org/) - Efficient binary serialization format.
 - [Protostuff](http://www.protostuff.io/) - A serialization library with built-in support for forward-backward compatibility (schema evolution) and validation.
 - [SBinary](https://github.com/harrah/sbinary) - Library for describing binary formats for Scala types.
+- [Thrift](http://thrift.apache.org/) - The Apache Thrift software framework, for scalable cross-language services development.
 
 ### Messaging
 
