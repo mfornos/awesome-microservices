@@ -358,7 +358,7 @@ a strategic modeling approach.
 
 ### Emerging Technologies
 
-- [Blocknet](http://blocknet.co/) - The Blocknet makes possible what no other PaaS can: microservices delivered over a blockchain-based P2P network architecture.
+- [Blocknet](http://blocknet.co/) - The Blocknet makes possible to deliver microservices over a blockchain-based P2P network architecture.
 
 ### Books
 
