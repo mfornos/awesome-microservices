@@ -208,13 +208,14 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Vault](https://vaultproject.io/) - Secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets in modern computing.
 - [ZooKeeper](https://zookeeper.apache.org/) - Open-source server which enables highly reliable distributed coordination.
 
-### Monitoring
+### Monitoring and Debugging
 
 - [Grafana](http://grafana.org/) - An open-source, feature rich metrics dashboard and graph editor for
 Graphite, InfluxDB & OpenTSDB.
 - [Graphite](http://graphite.wikidot.com/) - Scalable realtime graphing.
 - [Prometheus](http://prometheus.io/) - An open-source service monitoring system and time series database.
 - [Riemann](http://riemann.io/) - Monitors distributed systems.
+- [Trace](https://github.com/RisingStack/trace-nodejs) - A visualised stack trace platform designed for microservices.
 
 ### Logging
 
@@ -341,6 +342,7 @@ of the testing and deployment process.
 - [Cloud Design Patterns](https://msdn.microsoft.com/en-us/library/dn600223.aspx) - Contains twenty-four design patterns that are useful in cloud-hosted applications. Includes: Circuit Breaker, Competing Consumers, CQRS, Event Sourcing, Gatekeeper, Cache-Aside, etc.
 - [Hexagonal Architecture](http://alistair.cockburn.us/Hexagonal+architecture) - Allows an application to equally be driven by users, programs, automated test or batch scripts, and to be developed and tested in isolation from its eventual run-time devices and databases.
 - [Microservice Architecture](http://martinfowler.com/articles/microservices.html) - Particular way of designing software applications as suites of independently deployable services.
+- [Microservices and SOA](http://www.oracle.com/technetwork/issue-archive/2015/15-mar/o25architect-2458702.html) - Similarities, differences, and where we go from here.
 - [Microservices RefCard](https://dzone.com/refcardz/getting-started-with-microservices) - Getting started with microservices.
 - [Microservice Trade-Offs](http://martinfowler.com/articles/microservice-trade-offs.html) - Guide to ponder costs and benefits of the mircoservices architectural style.
 - [Reactive Manifesto](http://www.reactivemanifesto.org/) - Reactive systems definition.
