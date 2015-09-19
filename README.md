@@ -45,9 +45,9 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Real Life Stories](#real-life-stories)
 - [Theory](#theory)
   - [Articles & Papers](#articles-&-papers)
+  - [Tutorials](#tutorials)
   - [Books](#books)
   - [Sites](#sites)
-  - [Tutorials](#tutorials)
 - [License](#license)
 - [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
@@ -132,7 +132,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Cisco Microservices](https://github.com/CiscoCloud/microservices-infrastructure) - Modern platform for rapidly deploying globally distributed services.
 - [Fabric8](http://fabric8.io/) - Open-source integration platform for deep management of Java Containers (JVMs).
-- [hook.io](https://hook.io/) - Free open-source hosting platform for microservices
+- [Hook.io](https://hook.io/) - Open-source hosting platform for microservices.
 - [VAMP](http://vamp.io/) - Build, deploy and manage microservices with power and ease.
 
 ## Infrastructure
@@ -341,12 +341,15 @@ of the testing and deployment process.
 - [Cloud Design Patterns](https://msdn.microsoft.com/en-us/library/dn600223.aspx) - Contains twenty-four design patterns that are useful in cloud-hosted applications. Includes: Circuit Breaker, Competing Consumers, CQRS, Event Sourcing, Gatekeeper, Cache-Aside, etc.
 - [Hexagonal Architecture](http://alistair.cockburn.us/Hexagonal+architecture) - Allows an application to equally be driven by users, programs, automated test or batch scripts, and to be developed and tested in isolation from its eventual run-time devices and databases.
 - [Microservice Architecture](http://martinfowler.com/articles/microservices.html) - Particular way of designing software applications as suites of independently deployable services.
+- [Microservices RefCard](https://dzone.com/refcardz/getting-started-with-microservices) - Getting Started With Microservices.
 - [Microservice Trade-Offs](http://martinfowler.com/articles/microservice-trade-offs.html) - Guide to ponder costs and benefits of the mircoservices architectural style.
 - [Reactive Manifesto](http://www.reactivemanifesto.org/) - Reactive systems definition.
 - [Reactive Streams](http://www.reactive-streams.org/) - Initiative to provide a standard for asynchronous stream processing with non-blocking back pressure.
 - [SECO](http://ceur-ws.org/Vol-746/IWSECO2011-6-DengYu.pdf) - Understanding Software Ecosystems:
 A Strategic Modeling Approach.
-- [Microservices DZone RefCard](https://dzone.com/refcardz/getting-started-with-microservices) - Getting Started With Microservices.
+
+### Tutorials:
+- Microservices in C#: [Part 1](http://insidethecpu.com/2015/07/17/microservices-in-c-part-1-building-and-testing/), [Part 2](http://insidethecpu.com/2015/07/31/microservices-in-c-part-2-consistent-message-delivery/), [Part 3](http://insidethecpu.com/2015/08/14/microservices-in-c-part-3-queue-pool-sizing/), [Part 4](http://insidethecpu.com/2015/08/28/microservices-in-c-part-4-scaling-out/), [Part 5](http://insidethecpu.com/2015/09/11/microservices-in-c-part-5-autoscaling/)
 
 ### Books
 
@@ -359,11 +362,6 @@ A Strategic Modeling Approach.
 - [Microservices Resource Guide](http://martinfowler.com/microservices/) - Martin Fowler's choice of articles, videos, books, and podcasts that can teach you more about the microservices architectural style.
 - [Microservice Patterns](http://microservices.io/) - Microservice architecture patterns and best practices.
 - [OSGi Alliance](http://www.osgi.org/) - OSGi technology facilitates the componentization of software modules and applications and assures remote management and interoperability of applications and services over a broad variety of devices.
-- [Service Orientation](http://serviceorientation.com/) - An education site from Arcitura on SOA (Service Oriented Architecture).
-
-### Tutorials:
-- Microservices in C#: [Part 1](http://insidethecpu.com/2015/07/17/microservices-in-c-part-1-building-and-testing/), [Part 2](http://insidethecpu.com/2015/07/31/microservices-in-c-part-2-consistent-message-delivery/), [Part 3](http://insidethecpu.com/2015/08/14/microservices-in-c-part-3-queue-pool-sizing/), [Part 4](http://insidethecpu.com/2015/08/28/microservices-in-c-part-4-scaling-out/), [Part 5](http://insidethecpu.com/2015/09/11/microservices-in-c-part-5-autoscaling/)
-- [What is SOA](https://www.youtube.com/watch?v=wtcJzVJtX3U) - A Java SOA video tutorial by edureca!
 
 ## License
 
