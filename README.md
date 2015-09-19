@@ -215,6 +215,7 @@ Graphite, InfluxDB & OpenTSDB.
 - [Graphite](http://graphite.wikidot.com/) - Scalable realtime graphing.
 - [Prometheus](http://prometheus.io/) - An open-source service monitoring system and time series database.
 - [Riemann](http://riemann.io/) - Monitors distributed systems.
+- [Sensu](https://github.com/sensu) - Monitoring for today's infrastructure.
 - [Trace](https://github.com/RisingStack/trace-nodejs) - A visualised stack trace platform designed for microservices.
 
 ### Logging
