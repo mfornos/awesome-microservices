@@ -125,7 +125,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Erlang
 
-- [Gen_microservice](https://github.com/videlalvaro/gen_microservice) - This library solves the problem of implementing microservices with Erlang.
+- [Gen Microservice](https://github.com/videlalvaro/gen_microservice) - This library solves the problem of implementing microservices with Erlang.
 - [Mochiweb](https://github.com/mochi/mochiweb) - Erlang library for building lightweight HTTP servers.
 
 ## Runtimes
