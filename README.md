@@ -131,6 +131,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Cisco Microservices](https://github.com/CiscoCloud/microservices-infrastructure) - Modern platform for rapidly deploying globally distributed services.
 - [Fabric8](http://fabric8.io/) - Open-source integration platform for deep management of Java Containers (JVMs).
+- [hook.io](https://hook.io/) - Free open-source hosting platform for microservices
 - [VAMP](http://vamp.io/) - Build, deploy and manage microservices with power and ease.
 
 ## Infrastructure
