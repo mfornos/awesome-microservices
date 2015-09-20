@@ -206,6 +206,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Reactive Kafka](https://github.com/softwaremill/reactive-kafka) - Reactive Streams API for Apache Kafka.
 - [ReactiveX](http://reactivex.io/) - API for asynchronous programming with observable streams. Available for idiomatic Java, Scala, C#, C++, Clojure, JavaScript, Python, Groovy, JRuby, and others.
+- [Simple React](https://github.com/aol/simple-react) - Powerful future streams & asynchronous data structures for Java 8.
 
 ### Resilience
 
