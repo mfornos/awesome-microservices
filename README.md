@@ -35,6 +35,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Modeling](#modeling)
   - [REST APIs](#rest-apis)
   - [Systems & SPLs](#systems-&-spls)
+- [Testing](#testing)
 - [Standards / Recommendations](#standards--recommendations)
   - [World Wide Web](#world-wide-web)
   - [HTTP/1.1](#http11)
@@ -115,6 +116,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Kore](https://kore.io/) - Easy to use web application framework for writing scalable web APIs in C.
 
 ### C++
+<!-- #c-1 anchor -->
 
 - [AnyRPC](https://github.com/sgieseking/anyrpc) - Provides a common system to work with a number of different remote procedure call standards, including: JSON-RPC, XML-RPC, MessagePack-RPC.
 - [C++ Micro Services](http://cppmicroservices.org/) - An OSGi-like C++ dynamic module system and service registry.
@@ -206,6 +208,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Hystrix](https://github.com/Netflix/Hystrix) - Latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
 - [Raft Consensus](http://raftconsensus.github.io/) - Consensus algorithm that is designed to be easy to understand. It's equivalent to Paxos in fault-tolerance and performance.
 - [Resilient HTTP](http://resilient-http.github.io/) - A smart HTTP client with super powers like fault tolerance, dynamic server discovery, auto balancing and reactive recovery, designed for distributed systems.
+- [Saboteur](https://github.com/tomakehurst/saboteur) - Causing deliberate network mayhem for better resilience.
 - [Simian Army](https://github.com/Netflix/SimianArmy) - Suite of tools for keeping your cloud operating in top form. Chaos Monkey, the first member, is a resiliency tool that helps ensure that your applications can tolerate random instance failures.
 
 ### Configuration and Discovery
@@ -285,6 +288,12 @@ of the testing and deployment process.
 - [FAMILIAR](http://familiar-project.github.io/) - A language for importing, exporting, composing, decomposing, editing, configuring, computing "diffs", refactoring, reverse engineering, testing, and reasoning about feature models.
 - [SoaML](http://www.omg.org/spec/SoaML/) - OMG Service Oriented Architecture Modeling Language.
 - [SysML](http://www.omgsysml.org/) - OMG Systems Modeling Language.
+
+## Testing
+
+- [Mountebank](http://www.mbtest.org/) - Cross-platform, multi-protocol test doubles over the wire.
+- [VCR](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. See the list of ports for implementations in other languages.
+- [WireMock](http://wiremock.org/) - Flexible library for stubbing and mocking web services. Unlike general purpose mocking tools it works by creating an actual HTTP server that your code under test can connect to as it would a real web service.
 
 ## Standards / Recommendations
 
@@ -366,6 +375,7 @@ of the testing and deployment process.
 - [ROCAS](http://resources.1060research.com/docs/2015/Resource-Oriented-Computing-Adaptive-Systems-ROCAS-1.2.pdf) - Resource Oriented Computing for Adaptive Systems. :small_orange_diamond:<sup>PDF</sup>
 - [SECO](http://ceur-ws.org/Vol-746/IWSECO2011-6-DengYu.pdf) - Understanding software ecosystems:
 a strategic modeling approach. :small_orange_diamond:<sup>PDF</sup>
+- [Testing Strategies in a Microservice Architecture](http://martinfowler.com/articles/microservice-testing/) - Approaches for managing the additional testing complexity of multiple independently deployable components.
 
 ### Tutorials
 
