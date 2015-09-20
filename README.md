@@ -41,6 +41,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [HTTP/1.1](#http11)
   - [HTTP/2](#http2)
   - [RPC](#rpc)
+  - [Messaging](#messaging-1)
   - [Security](#security)
   - [Service Discovery](#service-discovery)
   - [Data Formats](#data-formats)
@@ -324,6 +325,12 @@ of the testing and deployment process.
 
 - [BERT-RPC 1.0](http://bert-rpc.org/) - An attempt to specify a flexible binary serialization and RPC protocol that are compatible with the philosophies of dynamic languages.
 - [JSON-RPC 2.0](http://www.jsonrpc.org/specification) - A stateless, light-weight remote procedure call (RPC) protocol.
+
+### Messaging
+
+- [AMQP](http://www.amqp.org/) - Advanced Message Queuing Protocol.
+- [MQTT](http://mqtt.org/) - MQ Telemetry Transport.
+- [STOMP](https://stomp.github.io/) - Simple Text Oriented Messaging Protocol.
 
 ### Security
 
