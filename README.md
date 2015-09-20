@@ -79,6 +79,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Finagle](http://twitter.github.io/finagle) - Extensible RPC system for the JVM, used to construct high-concurrency servers.
 - [Jersey](https://jersey.java.net/) - RESTful Web Services in Java. JAX-RS (JSR 311 & JSR 339) Reference Implementation.
 - [Karyon](https://github.com/Netflix/karyon) - The nucleus or the base container for applications and services built using the NetflixOSS ecosystem.
+- [Microserver](https://github.com/aol/micro-server) - Java 8 native, zero configuration, standards based, battle hardened library to run Java REST microservices.
 - [Ratpack](http://ratpack.io/) - Set of Java libraries that facilitate fast, efficient, evolvable and well tested HTTP applications. specific support for the Groovy language is provided.
 - [Restlet](http://restlet.com/) - Helps Java developers build web APIs that follow the REST architecture style.
 - [Spring Boot](http://projects.spring.io/spring-boot/) - Makes it easy to create stand-alone, production-grade Spring based applications.
@@ -115,6 +116,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### C
 
 - [Kore](https://kore.io/) - Easy to use web application framework for writing scalable web APIs in C.
+- [RIBS2](https://github.com/Adaptv/ribs2) - Library which allows building high-performance internet serving systems.
 
 ### C++
 <!-- #c-1 anchor -->
