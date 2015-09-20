@@ -281,6 +281,7 @@ of the testing and deployment process.
 ### REST APIs
 
 - [API Blueprint](https://apiblueprint.org/) - Tools for your whole API lifecycle. Use it to discuss your API with others. Generate documentation automatically. Or a test suite. Or even some code.
+- [Apidoc](https://github.com/mbryzek/apidoc) - Beautiful documentation for REST services.
 - [RAML](http://raml.org/) - RESTful API Modeling Language, a simple and succinct way of describing practically-RESTful APIs.
 - [Swagger](http://swagger.io/) - A simple yet powerful representation of your RESTful API.
 
