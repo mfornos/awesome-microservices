@@ -8,6 +8,14 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Platforms](#platforms)
 - [Runtimes](#runtimes)
+- [Service Toolkits](#service-toolkits)
+  - [JVM](#jvm)
+  - [Go](#go)
+  - [Node.js](#nodejs)
+  - [C](#c)
+  - [C++](#c-1)
+  - [D](#d)
+  - [Erlang](#erlang)
 - [Infrastructure](#infrastructure)
   - [API Gateways / Edge Services](#api-gateways--edge-services)
   - [Configuration and Discovery](#configuration-and-discovery)
@@ -20,14 +28,6 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Monitoring and Debugging](#monitoring-and-debugging)
   - [Logging](#logging)
 - [IT Automation / Provisioning](#it-automation--provisioning)
-- [Service Toolkits](#service-toolkits)
-  - [JVM](#jvm)
-  - [Go](#go)
-  - [Node.js](#nodejs)
-  - [C](#c)
-  - [C++](#c-1)
-  - [D](#d)
-  - [Erlang](#erlang)
 - [Deployment and Continuous Integration](#deployment-and-continuous-integration)
   - [On-prem](#on-prem)
   - [Hosted](#hosted)
@@ -78,6 +78,78 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Microserver](https://github.com/aol/micro-server) - Java 8 native, zero configuration, standards based, battle hardened library to run Java REST microservices.
 - [Orbit](http://orbit.bioware.com/) - Modern framework for JVM languages that makes it easier to build and maintain distributed and scalable online services.
 - [Vert.X](http://vertx.io/) - Toolkit for building reactive applications on the JVM.
+
+## Service Toolkits
+
+### JVM
+
+#### Clojure
+
+- [Compojure](https://github.com/weavejester/compojure) - A concise routing library for Ring/Clojure.
+- [Duct](https://github.com/weavejester/duct) - Minimal framework for building web applications in Clojure, with a strong emphasis on simplicity.
+- [Liberator](http://clojure-liberator.github.io/liberator/) - Library that helps you expose your data as resources while automatically complying with all the relevant requirements of the HTTP specification.
+- [Modularity](https://modularity.org/) - JUXT's Clojure-based modular system.
+- [System](https://github.com/danielsz/system) - Built on top of Stuart Sierra's component library, offers a set of readymade components.
+- [Tesla](https://github.com/otto-de/tesla-microservice) - Common basis for some of Otto.de's Clojure microservices.
+
+#### Java
+
+- [Airlift](https://github.com/airlift/airlift) - Framework for building REST services in Java.
+- [Dropwizard](https://dropwizard.github.io/) - Java framework for developing ops-friendly, high-performance, RESTful web services.
+- [Finagle](http://twitter.github.io/finagle) - Extensible RPC system for the JVM, used to construct high-concurrency servers.
+- [Jersey](https://jersey.java.net/) - RESTful Web Services in Java. JAX-RS (JSR 311 & JSR 339) Reference Implementation.
+- [Ratpack](http://ratpack.io/) - Set of Java libraries that facilitate fast, efficient, evolvable and well tested HTTP applications. specific support for the Groovy language is provided.
+- [Restlet](http://restlet.com/) - Helps Java developers build web APIs that follow the REST architecture style.
+- [Spring Boot](http://projects.spring.io/spring-boot/) - Makes it easy to create stand-alone, production-grade Spring based applications.
+
+#### Scala
+
+- [Colossus](https://github.com/tumblr/colossus) - I/O and microservice library for Scala.
+- [Finatra](http://twitter.github.io/finatra/) - Fast, testable, Scala HTTP services built on Twitter-Server and Finagle.
+- [Play](https://www.playframework.com/) - The high velocity web framework for Java and Scala.
+- [Scalatra](http://www.scalatra.org/) - Simple, accessible and free web micro-framework.
+- [Skinny Micro](https://github.com/skinny-framework/skinny-micro) - Micro-web framework to build servlet applications in Scala.
+- [Spray](http://spray.io/) - Open-source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka.
+
+### Go
+
+- [Gin](http://gin-gonic.github.io/gin/) - Web framework written in Golang.
+- [Gocraft](https://github.com/gocraft/web) - A toolkit for building web apps. Includes routing, middleware stacks, logging and monitoring.
+- [Go kit](https://github.com/go-kit/kit) - Distributed programming toolkit for microservices in the modern enterprise.
+- [Kite](https://github.com/koding/kite) - Microservices framework in Go.
+- [Martini](http://martini.codegangsta.io/) - Classy web development in Go.
+- [Micro](https://github.com/myodc/micro) - A microservices toolchain in Go.
+- [Negroni](https://github.com/codegangsta/negroni) - Idiomatic HTTP middleware for Golang.
+
+### Node.js
+
+- [Actionhero](http://www.actionherojs.com/) - Multi-transport Node.js API server with integrated cluster capabilities and delayed tasks.
+- [Baucis](https://github.com/wprl/baucis) - To build and maintain scalable HATEOAS/Level 3 REST APIs.
+- [Express](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
+- [Hapi](http://hapijs.com/) - A rich framework for building applications and services.
+- [Loopback](http://loopback.io/) - Node.js framework for creating APIs and easily connecting to backend data sources.
+- [Restify](http://restify.com/) - Node.js module built specifically to enable you to build correct REST web services.
+- [Seneca](http://senecajs.org/) - A microservices toolkit for Node.js
+
+### C
+
+- [Kore](https://kore.io/) - Easy to use web application framework for writing scalable web APIs in C.
+- [RIBS2](https://github.com/Adaptv/ribs2) - Library which allows building high-performance internet serving systems.
+
+### C++
+<!-- #c-1 anchor -->
+
+- [AnyRPC](https://github.com/sgieseking/anyrpc) - Provides a common system to work with a number of different remote procedure call standards, including: JSON-RPC, XML-RPC, MessagePack-RPC.
+- [C++ Micro Services](http://cppmicroservices.org/) - An OSGi-like C++ dynamic module system and service registry.
+
+### D
+
+- [Vibe.d](http://vibed.org/) - Asynchronous I/O that doesn’t get in your way, written in D.
+
+### Erlang
+
+- [Gen Microservice](https://github.com/videlalvaro/gen_microservice) - This library solves the problem of implementing microservices with Erlang.
+- [Mochiweb](https://github.com/mochi/mochiweb) - Erlang library for building lightweight HTTP servers.
 
 ## Infrastructure
 
@@ -191,78 +263,6 @@ Graphite, InfluxDB & OpenTSDB.
 - [Packer](https://packer.io/) - Tool for creating identical machine images for multiple platforms from a single source configuration.
 - [Puppet](https://puppetlabs.com/) - From provisioning bare metal & launching containers to new ways to manage infrastructure as code.
 - [Terraform](https://terraform.io/) - Provides a common configuration to launch infrastructure, from physical and virtual servers to email and DNS providers.
-
-## Service Toolkits
-
-### JVM
-
-#### Clojure
-
-- [Compojure](https://github.com/weavejester/compojure) - A concise routing library for Ring/Clojure.
-- [Duct](https://github.com/weavejester/duct) - Minimal framework for building web applications in Clojure, with a strong emphasis on simplicity.
-- [Liberator](http://clojure-liberator.github.io/liberator/) - Library that helps you expose your data as resources while automatically complying with all the relevant requirements of the HTTP specification.
-- [Modularity](https://modularity.org/) - JUXT's Clojure-based modular system.
-- [System](https://github.com/danielsz/system) - Built on top of Stuart Sierra's component library, offers a set of readymade components.
-- [Tesla](https://github.com/otto-de/tesla-microservice) - Common basis for some of Otto.de's Clojure microservices.
-
-#### Java
-
-- [Airlift](https://github.com/airlift/airlift) - Framework for building REST services in Java.
-- [Dropwizard](https://dropwizard.github.io/) - Java framework for developing ops-friendly, high-performance, RESTful web services.
-- [Finagle](http://twitter.github.io/finagle) - Extensible RPC system for the JVM, used to construct high-concurrency servers.
-- [Jersey](https://jersey.java.net/) - RESTful Web Services in Java. JAX-RS (JSR 311 & JSR 339) Reference Implementation.
-- [Ratpack](http://ratpack.io/) - Set of Java libraries that facilitate fast, efficient, evolvable and well tested HTTP applications. specific support for the Groovy language is provided.
-- [Restlet](http://restlet.com/) - Helps Java developers build web APIs that follow the REST architecture style.
-- [Spring Boot](http://projects.spring.io/spring-boot/) - Makes it easy to create stand-alone, production-grade Spring based applications.
-
-#### Scala
-
-- [Colossus](https://github.com/tumblr/colossus) - I/O and microservice library for Scala.
-- [Finatra](http://twitter.github.io/finatra/) - Fast, testable, Scala HTTP services built on Twitter-Server and Finagle.
-- [Play](https://www.playframework.com/) - The high velocity web framework for Java and Scala.
-- [Scalatra](http://www.scalatra.org/) - Simple, accessible and free web micro-framework.
-- [Skinny Micro](https://github.com/skinny-framework/skinny-micro) - Micro-web framework to build servlet applications in Scala.
-- [Spray](http://spray.io/) - Open-source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka.
-
-### Go
-
-- [Gin](http://gin-gonic.github.io/gin/) - Web framework written in Golang.
-- [Gocraft](https://github.com/gocraft/web) - A toolkit for building web apps. Includes routing, middleware stacks, logging and monitoring.
-- [Go kit](https://github.com/go-kit/kit) - Distributed programming toolkit for microservices in the modern enterprise.
-- [Kite](https://github.com/koding/kite) - Microservices framework in Go.
-- [Martini](http://martini.codegangsta.io/) - Classy web development in Go.
-- [Micro](https://github.com/myodc/micro) - A microservices toolchain in Go.
-- [Negroni](https://github.com/codegangsta/negroni) - Idiomatic HTTP middleware for Golang.
-
-### Node.js
-
-- [Actionhero](http://www.actionherojs.com/) - Multi-transport Node.js API server with integrated cluster capabilities and delayed tasks.
-- [Baucis](https://github.com/wprl/baucis) - To build and maintain scalable HATEOAS/Level 3 REST APIs.
-- [Express](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
-- [Hapi](http://hapijs.com/) - A rich framework for building applications and services.
-- [Loopback](http://loopback.io/) - Node.js framework for creating APIs and easily connecting to backend data sources.
-- [Restify](http://restify.com/) - Node.js module built specifically to enable you to build correct REST web services.
-- [Seneca](http://senecajs.org/) - A microservices toolkit for Node.js
-
-### C
-
-- [Kore](https://kore.io/) - Easy to use web application framework for writing scalable web APIs in C.
-- [RIBS2](https://github.com/Adaptv/ribs2) - Library which allows building high-performance internet serving systems.
-
-### C++
-<!-- #c-1 anchor -->
-
-- [AnyRPC](https://github.com/sgieseking/anyrpc) - Provides a common system to work with a number of different remote procedure call standards, including: JSON-RPC, XML-RPC, MessagePack-RPC.
-- [C++ Micro Services](http://cppmicroservices.org/) - An OSGi-like C++ dynamic module system and service registry.
-
-### D
-
-- [Vibe.d](http://vibed.org/) - Asynchronous I/O that doesn’t get in your way, written in D.
-
-### Erlang
-
-- [Gen Microservice](https://github.com/videlalvaro/gen_microservice) - This library solves the problem of implementing microservices with Erlang.
-- [Mochiweb](https://github.com/mochi/mochiweb) - Erlang library for building lightweight HTTP servers.
 
 ## Deployment and Continuous Integration
 
