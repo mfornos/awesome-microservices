@@ -6,6 +6,19 @@ A curated list of Microservice Architecture related principles and technologies.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
+- [Platforms](#platforms)
+- [Runtimes](#runtimes)
+- [Infrastructure](#infrastructure)
+  - [API Gateways / Edge Services](#api-gateways--edge-services)
+  - [Configuration and Discovery](#configuration-and-discovery)
+  - [Elastic Computing](#elastic-computing)
+  - [Messaging](#messaging)
+  - [Serialization](#serialization)
+  - [Reactivity](#reactivity)
+  - [Resilience](#resilience)
+  - [Monitoring and Debugging](#monitoring-and-debugging)
+  - [Logging](#logging)
+- [IT Automation / Provisioning](#it-automation--provisioning)
 - [Service Toolkits](#service-toolkits)
   - [JVM](#jvm)
   - [Go](#go)
@@ -14,19 +27,6 @@ A curated list of Microservice Architecture related principles and technologies.
   - [C++](#c-1)
   - [D](#d)
   - [Erlang](#erlang)
-- [Runtimes](#runtimes)
-- [Platforms](#platforms)
-- [Infrastructure](#infrastructure)
-  - [API Gateway](#api-gateway)
-  - [Serialization](#serialization)
-  - [Messaging](#messaging)
-  - [Elastic Computing](#elastic-computing)
-  - [Reactivity](#reactivity)
-  - [Resilience](#resilience)
-  - [Configuration and Discovery](#configuration-and-discovery)
-  - [Monitoring and Debugging](#monitoring-and-debugging)
-  - [Logging](#logging)
-- [IT Automation / Provisioning](#it-automation--provisioning)
 - [Deployment and Continuous Integration](#deployment-and-continuous-integration)
   - [On-prem](#on-prem)
   - [Hosted](#hosted)
@@ -59,6 +59,15 @@ A curated list of Microservice Architecture related principles and technologies.
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## Platforms
+
+- [Cisco Microservices](https://github.com/CiscoCloud/microservices-infrastructure) - Modern platform for rapidly deploying globally distributed services.
+- [Fabric8](http://fabric8.io/) - Open-source integration platform for deep management of Java Containers (JVMs).
+- [Hook.io](https://hook.io/) - Open-source hosting platform for microservices.
+- [Netflix OSS](https://netflix.github.io/) - Netflix open-source software ecosystem.
+- [Spring Cloud Netflix](https://github.com/spring-cloud/spring-cloud-netflix) - Provides Netflix OSS integrations for Spring Boot apps through autoconfiguration and binding to the Spring Environment and other Spring programming model idioms..
+- [VAMP](http://vamp.io/) - Build, deploy and manage microservices with power and ease.
+
 ## Runtimes
 
 - [Akka](http://akka.io/) - Toolkit and runtime for building highly concurrent, distributed, and resilient message-driven applications on the JVM.
@@ -69,19 +78,9 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Orbit](http://orbit.bioware.com/) - Modern framework for JVM languages that makes it easier to build and maintain distributed and scalable online services.
 - [Vert.X](http://vertx.io/) - Toolkit for building reactive applications on the JVM.
 
-## Platforms
-
-- [Cisco Microservices](https://github.com/CiscoCloud/microservices-infrastructure) - Modern platform for rapidly deploying globally distributed services.
-- [Fabric8](http://fabric8.io/) - Open-source integration platform for deep management of Java Containers (JVMs).
-- [Hook.io](https://hook.io/) - Open-source hosting platform for microservices.
-- [Netflix OSS](https://netflix.github.io/) - Netflix open-source software ecosystem.
-- [Spring Cloud Netflix](https://github.com/spring-cloud/spring-cloud-netflix) - Provides Netflix OSS integrations for Spring Boot apps through autoconfiguration and binding to the Spring Environment and other Spring programming model idioms..
-- [VAMP](http://vamp.io/) - Build, deploy and manage microservices with power and ease.
-
-
 ## Infrastructure
 
-### API Gateways/Edge Services
+### API Gateways / Edge Services
 
 - [Camel](http://camel.apache.org/) - Empowers you to define routing and mediation rules in a variety of domain-specific languages, including a Java-based fluent API, Spring or Blueprint XML configuration files, and a Scala DSL.
 - [HAProxy](http://www.haproxy.org/) - Reliable, high Performance TCP/HTTP load balancer.
@@ -376,7 +375,6 @@ of the testing and deployment process.
 - [Microservices: lessons from the frontline](http://www.thoughtworks.com/insights/blog/microservices-lessons-frontline)
 - [Monolith first](http://martinfowler.com/bliki/MonolithFirst.html)
 - [Scaling microservices at Gilt with Scala, Docker and AWS](http://www.infoq.com/news/2015/04/scaling-microservices-gilt)
-
 
 ## Theory
 
