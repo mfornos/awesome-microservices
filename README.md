@@ -280,6 +280,7 @@ of the testing and deployment process.
 - [CoreOS](https://coreos.com/) - Open-source lightweight operating system based on the Linux kernel and designed for providing infrastructure to clustered deployments.
 - [Docker](https://www.docker.com/) - Open platform for distributed applications for developers and sysadmins.
 - [Kubernetes](http://kubernetes.io/) - Open-source orchestration system for Docker containers.
+- [Linux Containers](https://linuxcontainers.org/) - The umbrella project behind LXC, LXD, LXCFS and CGManager.
 
 ## Modeling
 
