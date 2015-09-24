@@ -59,6 +59,133 @@ A curated list of Microservice Architecture related principles and technologies.
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## Runtimes
+
+- [Akka](http://akka.io/) - Toolkit and runtime for building highly concurrent, distributed, and resilient message-driven applications on the JVM.
+- [Erlang/OTP](http://www.erlang.org/doc/design_principles/users_guide.html) - Programming language used to build massively scalable soft real-time systems with requirements on high availability.
+- [Karaf](http://karaf.apache.org/) - Small OSGi based runtime which provides a lightweight container.
+- [Karyon](https://github.com/Netflix/karyon) - The nucleus or the base container for applications and services built using the NetflixOSS ecosystem.
+- [Microserver](https://github.com/aol/micro-server) - Java 8 native, zero configuration, standards based, battle hardened library to run Java REST microservices.
+- [Orbit](http://orbit.bioware.com/) - Modern framework for JVM languages that makes it easier to build and maintain distributed and scalable online services.
+- [Vert.X](http://vertx.io/) - Toolkit for building reactive applications on the JVM.
+
+## Platforms
+
+- [Cisco Microservices](https://github.com/CiscoCloud/microservices-infrastructure) - Modern platform for rapidly deploying globally distributed services.
+- [Fabric8](http://fabric8.io/) - Open-source integration platform for deep management of Java Containers (JVMs).
+- [Hook.io](https://hook.io/) - Open-source hosting platform for microservices.
+- [Netflix OSS](https://netflix.github.io/) - Netflix open-source software ecosystem.
+- [Spring Cloud Netflix](https://github.com/spring-cloud/spring-cloud-netflix) - Provides Netflix OSS integrations for Spring Boot apps through autoconfiguration and binding to the Spring Environment and other Spring programming model idioms..
+- [VAMP](http://vamp.io/) - Build, deploy and manage microservices with power and ease.
+
+
+## Infrastructure
+
+### API Gateways/Edge Services
+
+- [Camel](http://camel.apache.org/) - Empowers you to define routing and mediation rules in a variety of domain-specific languages, including a Java-based fluent API, Spring or Blueprint XML configuration files, and a Scala DSL.
+- [HAProxy](http://www.haproxy.org/) - Reliable, high Performance TCP/HTTP load balancer.
+- [Kong](http://getkong.org/) - Open-source management layer for APIs.
+- [OpenResty](http://openresty.org/) - Fast web application server built on top of Nginx.
+- [Tengine](http://tengine.taobao.org/) - A distribution of Nginx with some advanced features.
+- [Tyk](https://tyk.io/) - Open-source, fast and scalable API gateway, portal and API management platform.
+- [Zuul](https://github.com/Netflix/zuul) - An edge service that provides dynamic routing, monitoring, resiliency, security, and more.
+
+### Configuration and Discovery
+
+- [Consul](https://consul.io/) - Service discovery and configuration made easy. Distributed, highly available, and datacenter-aware.
+- [Denominator](https://github.com/Netflix/denominator) - Portably control DNS clouds using java or bash.
+- [Etcd](https://github.com/coreos/etcd) - Highly-available key-value store for shared configuration and service discovery.
+- [Eureka](https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance) - REST based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers.
+- [SkyDNS](https://github.com/skynetservices/skydns) - Distributed service for announcement and discovery of services built on top of etcd. It utilizes DNS queries to discover available services.
+- [Spring Cloud Config](http://cloud.spring.io/spring-cloud-config/) - Provides server and client-side support for externalized configuration in a distributed system.
+- [Vault](https://vaultproject.io/) - Secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets in modern computing.
+- [ZooKeeper](https://zookeeper.apache.org/) - Open-source server which enables highly reliable distributed coordination.
+
+### Elastic Computing
+
+- [Chronos](https://github.com/mesos/chronos) - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules.
+- [Fenzo](https://github.com/Netflix/Fenzo) - Extensible scheduler for Mesos frameworks.
+- [Galaxy](http://www.paralleluniverse.co/galaxy/) - Open-source high-performance in-memory data-grid.
+- [Hazelcast](http://hazelcast.org/) - Open-source in-memory data-grid. Allows you to distribute data and computation across servers, clusters and geographies, and to manage very large data sets or high data ingest rates. Mature technology.
+- [Ignite](https://ignite.incubator.apache.org/) - High-performance, integrated and distributed in-memory platform for computing and transacting on large-scale data sets in real-time, orders of magnitude faster than possible with traditional disk-based or flash technologies.
+- [Marathon](https://mesosphere.github.io/marathon/) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
+- [Mesos](https://mesos.apache.org/) - Abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
+- [Ordasity](https://github.com/boundary/ordasity) - Designed to spread persistent or long-lived workloads across several machines.
+- [Redisson](https://github.com/mrniko/redisson) - Distributed and scalable Java data structures on top of Redis server.
+- [Service Fabric](http://servicefabric.io/) - Fault-tolerant decentralized peer-to-peer based cluster membership service with no single point of failure.
+
+### Messaging
+
+- [ØMQ](http://zeromq.org/) - Brokerless intelligent transport layer.
+- [ActiveMQ](http://activemq.apache.org/) - Powerful open-source messaging and integration patterns server.
+- [Apollo](http://activemq.apache.org/apollo/) - Faster, more reliable, easier to maintain messaging broker built from the foundations of the original ActiveMQ.
+- [Ascoltatori](https://github.com/mcollina/ascoltatori) - Pub/sub library for Node.
+- [Beanstalk](http://kr.github.io/beanstalkd/) - Simple, fast work queue.
+- [Disque](https://github.com/antirez/disque) - Distributed message broker.
+- [Kafka](http://kafka.apache.org/) - Publish-subscribe messaging rethought as a distributed commit log.
+- [Nanomsg](http://nanomsg.org/) - Socket library that provides several common communication patterns for building distributed systems.
+- [NATS](https://nats.io/) - Open-source, high-performance, lightweight cloud messaging system.
+- [Qpid](https://qpid.apache.org/) - Cross-platform messaging components built on AMQP.
+- [RabbitMQ](https://www.rabbitmq.com/) - Open-source Erlang-based message broker that just works.
+
+### Serialization
+
+- [BooPickle](https://github.com/ochrons/boopickle) - Binary serialization library for efficient network communication. For Scala and Scala.js
+- [CBOR](http://cbor.io/) - Implementations of the CBOR standard (RFC 7049) in many languages.
+- [Cereal](http://uscilab.github.io/cereal/) - C++11 library for serialization.
+- [Cheshire](https://github.com/dakrone/cheshire) - Clojure JSON and JSON SMILE encoding/decoding.
+- [Etch](http://etch.apache.org/) - Cross-platform, language and transport-independent framework for building and consuming network services.
+- [Fastjson](https://github.com/alibaba/fastjson) - Fast JSON Processor.
+- [FST](https://github.com/RuedigerMoeller/fast-serialization) - Fast java serialization drop in-replacemen.
+- [Jackson](https://github.com/FasterXML/jackson) -  A multi-purpose Java library for processing JSON data format.
+- [Jackson Afterburner](https://github.com/FasterXML/jackson-module-afterburner) - Jackson module that uses bytecode generation to further speed up data binding (+30-40% throughput for serialization, deserialization).
+- [Kryo](https://github.com/EsotericSoftware/kryo) - Java serialization and cloning: fast, efficient, automatic.
+- [MessagePack](http://msgpack.org/) - Efficient binary serialization format.
+- [Protostuff](http://www.protostuff.io/) - A serialization library with built-in support for forward-backward compatibility (schema evolution) and validation.
+- [SBinary](https://github.com/harrah/sbinary) - Library for describing binary formats for Scala types.
+- [Thrift](http://thrift.apache.org/) - The Apache Thrift software framework, for scalable cross-language services development.
+
+### Reactivity
+
+- [Reactive Kafka](https://github.com/softwaremill/reactive-kafka) - Reactive Streams API for Apache Kafka.
+- [ReactiveX](http://reactivex.io/) - API for asynchronous programming with observable streams. Available for idiomatic Java, Scala, C#, C++, Clojure, JavaScript, Python, Groovy, JRuby, and others.
+- [Simple React](https://github.com/aol/simple-react) - Powerful future streams & asynchronous data structures for Java 8.
+
+### Resilience
+
+- [Hystrix](https://github.com/Netflix/Hystrix) - Latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
+- [Raft Consensus](http://raftconsensus.github.io/) - Consensus algorithm that is designed to be easy to understand. It's equivalent to Paxos in fault-tolerance and performance.
+- [Resilient HTTP](http://resilient-http.github.io/) - A smart HTTP client with super powers like fault tolerance, dynamic server discovery, auto balancing and reactive recovery, designed for distributed systems.
+- [Saboteur](https://github.com/tomakehurst/saboteur) - Causing deliberate network mayhem for better resilience.
+- [Simian Army](https://github.com/Netflix/SimianArmy) - Suite of tools for keeping your cloud operating in top form. Chaos Monkey, the first member, is a resiliency tool that helps ensure that your applications can tolerate random instance failures.
+
+### Monitoring and Debugging
+
+- [Grafana](http://grafana.org/) - An open-source, feature rich metrics dashboard and graph editor for
+Graphite, InfluxDB & OpenTSDB.
+- [Graphite](http://graphite.wikidot.com/) - Scalable realtime graphing.
+- [Prometheus](http://prometheus.io/) - An open-source service monitoring system and time series database.
+- [Riemann](http://riemann.io/) - Monitors distributed systems.
+- [Sensu](https://github.com/sensu) - Monitoring for today's infrastructure.
+- [Trace](https://github.com/RisingStack/trace-nodejs) - A visualised stack trace platform designed for microservices.
+
+### Logging
+
+- [Fluentd](http://www.fluentd.org/) - Open-source data collector for unified logging layer.
+- [Graylog](https://www.graylog.org/) - Fully integrated open-source log management platform.
+- [Kibana](https://www.elastic.co/products/kibana) - Flexible analytics and visualization platform.
+- [Logstash](http://logstash.net/) - Tool for managing events and logs.
+- [Suro](https://github.com/Netflix/suro/wiki) - Distributed data pipeline which enables services for moving, aggregating, routing, storing data.
+
+## IT Automation / Provisioning
+
+- [Ansible](http://www.ansible.com/) - Radically simple IT automation platform that makes your applications and systems easier to deploy.
+- [Chef](https://www.chef.io/chef/) - Automate how you build, deploy, and manage your infrastructure.
+- [Packer](https://packer.io/) - Tool for creating identical machine images for multiple platforms from a single source configuration.
+- [Puppet](https://puppetlabs.com/) - From provisioning bare metal & launching containers to new ways to manage infrastructure as code.
+- [Terraform](https://terraform.io/) - Provides a common configuration to launch infrastructure, from physical and virtual servers to email and DNS providers.
+
 ## Service Toolkits
 
 ### JVM
@@ -130,131 +257,6 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Gen Microservice](https://github.com/videlalvaro/gen_microservice) - This library solves the problem of implementing microservices with Erlang.
 - [Mochiweb](https://github.com/mochi/mochiweb) - Erlang library for building lightweight HTTP servers.
-
-## Runtimes
-
-- [Akka](http://akka.io/) - Toolkit and runtime for building highly concurrent, distributed, and resilient message-driven applications on the JVM.
-- [Erlang/OTP](http://www.erlang.org/doc/design_principles/users_guide.html) - Programming language used to build massively scalable soft real-time systems with requirements on high availability.
-- [Karaf](http://karaf.apache.org/) - Small OSGi based runtime which provides a lightweight container.
-- [Karyon](https://github.com/Netflix/karyon) - The nucleus or the base container for applications and services built using the NetflixOSS ecosystem.
-- [Microserver](https://github.com/aol/micro-server) - Java 8 native, zero configuration, standards based, battle hardened library to run Java REST microservices.
-- [Orbit](http://orbit.bioware.com/) - Modern framework for JVM languages that makes it easier to build and maintain distributed and scalable online services.
-- [Vert.X](http://vertx.io/) - Toolkit for building reactive applications on the JVM.
-
-## Platforms
-
-- [Cisco Microservices](https://github.com/CiscoCloud/microservices-infrastructure) - Modern platform for rapidly deploying globally distributed services.
-- [Fabric8](http://fabric8.io/) - Open-source integration platform for deep management of Java Containers (JVMs).
-- [Hook.io](https://hook.io/) - Open-source hosting platform for microservices.
-- [Netflix OSS](https://netflix.github.io/) - Netflix open-source software ecosystem.
-- [Spring Cloud Netflix](https://github.com/spring-cloud/spring-cloud-netflix) - Provides Netflix OSS integrations for Spring Boot apps through autoconfiguration and binding to the Spring Environment and other Spring programming model idioms..
-- [VAMP](http://vamp.io/) - Build, deploy and manage microservices with power and ease.
-
-
-## Infrastructure
-
-### API Gateway
-
-- [Camel](http://camel.apache.org/) - Empowers you to define routing and mediation rules in a variety of domain-specific languages, including a Java-based fluent API, Spring or Blueprint XML configuration files, and a Scala DSL.
-- [HAProxy](http://www.haproxy.org/) - Reliable, high Performance TCP/HTTP load balancer.
-- [Kong](http://getkong.org/) - Open-source management layer for APIs.
-- [OpenResty](http://openresty.org/) - Fast web application server built on top of Nginx.
-- [Tengine](http://tengine.taobao.org/) - A distribution of Nginx with some advanced features.
-- [Tyk](https://tyk.io/) - Open-source, fast and scalable API gateway, portal and API management platform.
-
-### Serialization
-
-- [BooPickle](https://github.com/ochrons/boopickle) - Binary serialization library for efficient network communication. For Scala and Scala.js
-- [CBOR](http://cbor.io/) - Implementations of the CBOR standard (RFC 7049) in many languages.
-- [Cereal](http://uscilab.github.io/cereal/) - C++11 library for serialization.
-- [Cheshire](https://github.com/dakrone/cheshire) - Clojure JSON and JSON SMILE encoding/decoding.
-- [Etch](http://etch.apache.org/) - Cross-platform, language and transport-independent framework for building and consuming network services.
-- [Fastjson](https://github.com/alibaba/fastjson) - Fast JSON Processor.
-- [FST](https://github.com/RuedigerMoeller/fast-serialization) - Fast java serialization drop in-replacemen.
-- [Jackson](https://github.com/FasterXML/jackson) -  A multi-purpose Java library for processing JSON data format.
-- [Jackson Afterburner](https://github.com/FasterXML/jackson-module-afterburner) - Jackson module that uses bytecode generation to further speed up data binding (+30-40% throughput for serialization, deserialization).
-- [Kryo](https://github.com/EsotericSoftware/kryo) - Java serialization and cloning: fast, efficient, automatic.
-- [MessagePack](http://msgpack.org/) - Efficient binary serialization format.
-- [Protostuff](http://www.protostuff.io/) - A serialization library with built-in support for forward-backward compatibility (schema evolution) and validation.
-- [SBinary](https://github.com/harrah/sbinary) - Library for describing binary formats for Scala types.
-- [Thrift](http://thrift.apache.org/) - The Apache Thrift software framework, for scalable cross-language services development.
-
-### Messaging
-
-- [ØMQ](http://zeromq.org/) - Brokerless intelligent transport layer.
-- [ActiveMQ](http://activemq.apache.org/) - Powerful open-source messaging and integration patterns server.
-- [Apollo](http://activemq.apache.org/apollo/) - Faster, more reliable, easier to maintain messaging broker built from the foundations of the original ActiveMQ.
-- [Ascoltatori](https://github.com/mcollina/ascoltatori) - Pub/sub library for Node.
-- [Beanstalk](http://kr.github.io/beanstalkd/) - Simple, fast work queue.
-- [Disque](https://github.com/antirez/disque) - Distributed message broker.
-- [Kafka](http://kafka.apache.org/) - Publish-subscribe messaging rethought as a distributed commit log.
-- [Nanomsg](http://nanomsg.org/) - Socket library that provides several common communication patterns for building distributed systems.
-- [NATS](https://nats.io/) - Open-source, high-performance, lightweight cloud messaging system.
-- [Qpid](https://qpid.apache.org/) - Cross-platform messaging components built on AMQP.
-- [RabbitMQ](https://www.rabbitmq.com/) - Open-source Erlang-based message broker that just works.
-
-### Elastic Computing
-
-- [Chronos](https://github.com/mesos/chronos) - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules.
-- [Fenzo](https://github.com/Netflix/Fenzo) - Extensible scheduler for Mesos frameworks.
-- [Galaxy](http://www.paralleluniverse.co/galaxy/) - Open-source high-performance in-memory data-grid.
-- [Hazelcast](http://hazelcast.org/) - Open-source in-memory data-grid. Allows you to distribute data and computation across servers, clusters and geographies, and to manage very large data sets or high data ingest rates. Mature technology.
-- [Ignite](https://ignite.incubator.apache.org/) - High-performance, integrated and distributed in-memory platform for computing and transacting on large-scale data sets in real-time, orders of magnitude faster than possible with traditional disk-based or flash technologies.
-- [Marathon](https://mesosphere.github.io/marathon/) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
-- [Mesos](https://mesos.apache.org/) - Abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
-- [Ordasity](https://github.com/boundary/ordasity) - Designed to spread persistent or long-lived workloads across several machines.
-- [Redisson](https://github.com/mrniko/redisson) - Distributed and scalable Java data structures on top of Redis server.
-- [Service Fabric](http://servicefabric.io/) - Fault-tolerant decentralized peer-to-peer based cluster membership service with no single point of failure.
-
-### Reactivity
-
-- [Reactive Kafka](https://github.com/softwaremill/reactive-kafka) - Reactive Streams API for Apache Kafka.
-- [ReactiveX](http://reactivex.io/) - API for asynchronous programming with observable streams. Available for idiomatic Java, Scala, C#, C++, Clojure, JavaScript, Python, Groovy, JRuby, and others.
-- [Simple React](https://github.com/aol/simple-react) - Powerful future streams & asynchronous data structures for Java 8.
-
-### Resilience
-
-- [Hystrix](https://github.com/Netflix/Hystrix) - Latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
-- [Raft Consensus](http://raftconsensus.github.io/) - Consensus algorithm that is designed to be easy to understand. It's equivalent to Paxos in fault-tolerance and performance.
-- [Resilient HTTP](http://resilient-http.github.io/) - A smart HTTP client with super powers like fault tolerance, dynamic server discovery, auto balancing and reactive recovery, designed for distributed systems.
-- [Saboteur](https://github.com/tomakehurst/saboteur) - Causing deliberate network mayhem for better resilience.
-- [Simian Army](https://github.com/Netflix/SimianArmy) - Suite of tools for keeping your cloud operating in top form. Chaos Monkey, the first member, is a resiliency tool that helps ensure that your applications can tolerate random instance failures.
-
-### Configuration and Discovery
-
-- [Consul](https://consul.io/) - Service discovery and configuration made easy. Distributed, highly available, and datacenter-aware.
-- [Denominator](https://github.com/Netflix/denominator) - Portably control DNS clouds using java or bash.
-- [Etcd](https://github.com/coreos/etcd) - Highly-available key-value store for shared configuration and service discovery.
-- [Eureka](https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance) - REST based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers.
-- [SkyDNS](https://github.com/skynetservices/skydns) - Distributed service for announcement and discovery of services built on top of etcd. It utilizes DNS queries to discover available services.
-- [Vault](https://vaultproject.io/) - Secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets in modern computing.
-- [ZooKeeper](https://zookeeper.apache.org/) - Open-source server which enables highly reliable distributed coordination.
-
-### Monitoring and Debugging
-
-- [Grafana](http://grafana.org/) - An open-source, feature rich metrics dashboard and graph editor for
-Graphite, InfluxDB & OpenTSDB.
-- [Graphite](http://graphite.wikidot.com/) - Scalable realtime graphing.
-- [Prometheus](http://prometheus.io/) - An open-source service monitoring system and time series database.
-- [Riemann](http://riemann.io/) - Monitors distributed systems.
-- [Sensu](https://github.com/sensu) - Monitoring for today's infrastructure.
-- [Trace](https://github.com/RisingStack/trace-nodejs) - A visualised stack trace platform designed for microservices.
-
-### Logging
-
-- [Fluentd](http://www.fluentd.org/) - Open-source data collector for unified logging layer.
-- [Graylog](https://www.graylog.org/) - Fully integrated open-source log management platform.
-- [Kibana](https://www.elastic.co/products/kibana) - Flexible analytics and visualization platform.
-- [Logstash](http://logstash.net/) - Tool for managing events and logs.
-- [Suro](https://github.com/Netflix/suro/wiki) - Distributed data pipeline which enables services for moving, aggregating, routing, storing data.
-
-## IT Automation / Provisioning
-
-- [Ansible](http://www.ansible.com/) - Radically simple IT automation platform that makes your applications and systems easier to deploy.
-- [Chef](https://www.chef.io/chef/) - Automate how you build, deploy, and manage your infrastructure.
-- [Packer](https://packer.io/) - Tool for creating identical machine images for multiple platforms from a single source configuration.
-- [Puppet](https://puppetlabs.com/) - From provisioning bare metal & launching containers to new ways to manage infrastructure as code.
-- [Terraform](https://terraform.io/) - Provides a common configuration to launch infrastructure, from physical and virtual servers to email and DNS providers.
 
 ## Deployment and Continuous Integration
 
