@@ -235,6 +235,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Storage
 
+- [Elliptics](http://reverbrain.com/elliptics/) - Fault tolerant distributed key/value storage.
 - [Reborn](https://github.com/reborndb/reborn) - Distributed database fully compatible with redis protocol.
 
 ### Reactivity
