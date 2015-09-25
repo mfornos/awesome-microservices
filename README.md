@@ -10,12 +10,16 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Runtimes](#runtimes)
 - [Service Toolkits](#service-toolkits)
   - [JVM](#jvm)
-  - [Go](#go)
-  - [Node.js](#nodejs)
+    - [Clojure](#clojure)
+    - [Java](#java)
+    - [Scala](#scala)
   - [C](#c)
   - [C++](#c-1)
   - [D](#d)
   - [Erlang](#erlang)
+  - [Go](#go)
+  - [Haskell](#haskell)
+  - [Node.js](#nodejs)
 - [Infrastructure](#infrastructure)
   - [API Gateways / Edge Services](#api-gateways--edge-services)
   - [Configuration and Discovery](#configuration-and-discovery)
@@ -111,26 +115,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Skinny Micro](https://github.com/skinny-framework/skinny-micro) - Micro-web framework to build servlet applications in Scala.
 - [Spray](http://spray.io/) - Open-source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka.
 
-### Go
-
-- [Gin](http://gin-gonic.github.io/gin/) - Web framework written in Golang.
-- [Gocraft](https://github.com/gocraft/web) - A toolkit for building web apps. Includes routing, middleware stacks, logging and monitoring.
-- [Go kit](https://github.com/go-kit/kit) - Distributed programming toolkit for microservices in the modern enterprise.
-- [Kite](https://github.com/koding/kite) - Microservices framework in Go.
-- [Martini](http://martini.codegangsta.io/) - Classy web development in Go.
-- [Micro](https://github.com/myodc/micro) - A microservices toolchain in Go.
-- [Negroni](https://github.com/codegangsta/negroni) - Idiomatic HTTP middleware for Golang.
-
-### Node.js
-
-- [Actionhero](http://www.actionherojs.com/) - Multi-transport Node.js API server with integrated cluster capabilities and delayed tasks.
-- [Baucis](https://github.com/wprl/baucis) - To build and maintain scalable HATEOAS/Level 3 REST APIs.
-- [Express](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
-- [Hapi](http://hapijs.com/) - A rich framework for building applications and services.
-- [Loopback](http://loopback.io/) - Node.js framework for creating APIs and easily connecting to backend data sources.
-- [Restify](http://restify.com/) - Node.js module built specifically to enable you to build correct REST web services.
-- [Seneca](http://senecajs.org/) - A microservices toolkit for Node.js
-
 ### C
 
 - [Kore](https://kore.io/) - Easy to use web application framework for writing scalable web APIs in C.
@@ -150,6 +134,31 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Gen Microservice](https://github.com/videlalvaro/gen_microservice) - This library solves the problem of implementing microservices with Erlang.
 - [Mochiweb](https://github.com/mochi/mochiweb) - Erlang library for building lightweight HTTP servers.
+
+### Go
+
+- [Gin](http://gin-gonic.github.io/gin/) - Web framework written in Golang.
+- [Gocraft](https://github.com/gocraft/web) - A toolkit for building web apps. Includes routing, middleware stacks, logging and monitoring.
+- [Go kit](https://github.com/go-kit/kit) - Distributed programming toolkit for microservices in the modern enterprise.
+- [Kite](https://github.com/koding/kite) - Microservices framework in Go.
+- [Martini](http://martini.codegangsta.io/) - Classy web development in Go.
+- [Micro](https://github.com/myodc/micro) - A microservices toolchain in Go.
+- [Negroni](https://github.com/codegangsta/negroni) - Idiomatic HTTP middleware for Golang.
+
+### Haskell
+
+- [Scotty](https://github.com/scotty-web/scotty) - Micro web framework inspired by Ruby's Sinatra, using WAI and Warp.
+- [Yesod](https://github.com/yesodweb/yesod) - The Haskell RESTful web framewrok.
+
+### Node.js
+
+- [Actionhero](http://www.actionherojs.com/) - Multi-transport Node.js API server with integrated cluster capabilities and delayed tasks.
+- [Baucis](https://github.com/wprl/baucis) - To build and maintain scalable HATEOAS/Level 3 REST APIs.
+- [Express](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
+- [Hapi](http://hapijs.com/) - A rich framework for building applications and services.
+- [Loopback](http://loopback.io/) - Node.js framework for creating APIs and easily connecting to backend data sources.
+- [Restify](http://restify.com/) - Node.js module built specifically to enable you to build correct REST web services.
+- [Seneca](http://senecajs.org/) - A microservices toolkit for Node.js
 
 ## Infrastructure
 
