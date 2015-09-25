@@ -24,6 +24,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Elastic Computing](#elastic-computing)
   - [Messaging](#messaging)
   - [Serialization](#serialization)
+  - [Storage](#storage)
   - [Reactivity](#reactivity)
   - [Resilience](#resilience)
   - [Monitoring and Debugging](#monitoring-and-debugging)
@@ -231,6 +232,10 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Protostuff](http://www.protostuff.io/) - A serialization library with built-in support for forward-backward compatibility (schema evolution) and validation.
 - [SBinary](https://github.com/harrah/sbinary) - Library for describing binary formats for Scala types.
 - [Thrift](http://thrift.apache.org/) - The Apache Thrift software framework, for scalable cross-language services development.
+
+### Storage
+
+- [Reborn](https://github.com/reborndb/reborn) - Distributed database fully compatible with redis protocol.
 
 ### Reactivity
 
