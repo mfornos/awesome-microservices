@@ -221,6 +221,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Cheshire](https://github.com/dakrone/cheshire) - Clojure JSON and JSON SMILE encoding/decoding.
 - [Etch](http://etch.apache.org/) - Cross-platform, language and transport-independent framework for building and consuming network services.
 - [Fastjson](https://github.com/alibaba/fastjson) - Fast JSON Processor.
+- [Ffjson](https://github.com/pquerna/ffjson) - Faster JSON serialization for Go.
 - [FST](https://github.com/RuedigerMoeller/fast-serialization) - Fast java serialization drop in-replacemen.
 - [Jackson](https://github.com/FasterXML/jackson) -  A multi-purpose Java library for processing JSON data format.
 - [Jackson Afterburner](https://github.com/FasterXML/jackson-module-afterburner) - Jackson module that uses bytecode generation to further speed up data binding (+30-40% throughput for serialization, deserialization).
@@ -266,6 +267,7 @@ Graphite, InfluxDB & OpenTSDB.
 
 - [Ansible](http://www.ansible.com/) - Radically simple IT automation platform that makes your applications and systems easier to deploy.
 - [Chef](https://www.chef.io/chef/) - Automate how you build, deploy, and manage your infrastructure.
+- [Helios](https://github.com/spotify/helios) - Docker container orchestration platform.
 - [Packer](https://packer.io/) - Tool for creating identical machine images for multiple platforms from a single source configuration.
 - [Puppet](https://puppetlabs.com/) - From provisioning bare metal & launching containers to new ways to manage infrastructure as code.
 - [Terraform](https://terraform.io/) - Provides a common configuration to launch infrastructure, from physical and virtual servers to email and DNS providers.
