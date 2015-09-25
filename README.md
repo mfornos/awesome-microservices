@@ -154,6 +154,11 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Gen Microservice](https://github.com/videlalvaro/gen_microservice) - This library solves the problem of implementing microservices with Erlang.
 - [Mochiweb](https://github.com/mochi/mochiweb) - Erlang library for building lightweight HTTP servers.
 
+### Haskell
+
+- [Yesod](https://github.com/yesodweb/yesod) - The Haskell RESTfull Web Framewrok.
+- [Scotty](https://github.com/scotty-web/scotty) - Micro web framework inspired by Ruby's Sinatra, using WAI and Warp.
+
 ## Infrastructure
 
 ### API Gateways / Edge Services
