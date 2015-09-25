@@ -148,7 +148,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Haskell
 
 - [Scotty](https://github.com/scotty-web/scotty) - Micro web framework inspired by Ruby's Sinatra, using WAI and Warp.
-- [Yesod](https://github.com/yesodweb/yesod) - The Haskell RESTfull Web Framewrok.
+- [Yesod](https://github.com/yesodweb/yesod) - The Haskell RESTful web framewrok.
 
 ### Node.js
 
