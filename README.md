@@ -239,7 +239,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Elliptics](http://reverbrain.com/elliptics/) - Fault tolerant distributed key/value storage.
 - [Reborn](https://github.com/reborndb/reborn) - Distributed database fully compatible with redis protocol.
-- [Tachyon](http://tachyon-project.org/) -  Memory-centric distributed storage system, enabling reliable data sharing at memory-speed across cluster frameworks.
+- [Tachyon](http://tachyon-project.org/) - Memory-centric distributed storage system, enabling reliable data sharing at memory-speed across cluster frameworks.
 
 ### Reactivity
 
