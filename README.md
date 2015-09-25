@@ -68,6 +68,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Netflix OSS](https://netflix.github.io/) - Netflix open-source software ecosystem.
 - [Spring Cloud Netflix](https://github.com/spring-cloud/spring-cloud-netflix) - Provides Netflix OSS integrations for Spring Boot apps through autoconfiguration and binding to the Spring Environment and other Spring programming model idioms.
 - [VAMP](http://vamp.io/) - Build, deploy and manage microservices with power and ease.
+- [Service Fabric I/O](http://servicefabric.io/) is a framework through which a set of distributed microservices are connected in such as way that they resemble a fabric when viewed collectively.
 
 ## Runtimes
 
