@@ -181,6 +181,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Security
 
+- [Crtauth](https://github.com/spotify/crtauth) - A public key backed client/server authentication system.
 - [JWT](http://jwt.io/) - JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties.
 - [OAuth](http://oauth.net/2/) - Provides specific authorization flows for web applications, desktop applications, mobile phones, and living room devices. Many implementations.
 - [OpenID Connect](http://openid.net/developers/libraries/) - Libraries, products, and tools implementing current OpenID specifications and related specs.
