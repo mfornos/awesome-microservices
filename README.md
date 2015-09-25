@@ -65,6 +65,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ## Platforms
 
 - [Cisco Microservices](https://github.com/CiscoCloud/microservices-infrastructure) - Modern platform for rapidly deploying globally distributed services.
+- [Cocaine](http://reverbrain.com/cocaine/) - A cloud platform enabling you to build your own PaaS clouds.
 - [Fabric8](http://fabric8.io/) - Open-source integration platform for deep management of Java Containers (JVMs).
 - [Hook.io](https://hook.io/) - Open-source hosting platform for microservices.
 - [Netflix OSS](https://netflix.github.io/) - Netflix open-source software ecosystem.
@@ -193,6 +194,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Chronos](https://github.com/mesos/chronos) - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules.
 - [Fenzo](https://github.com/Netflix/Fenzo) - Extensible scheduler for Mesos frameworks.
 - [Galaxy](http://www.paralleluniverse.co/galaxy/) - Open-source high-performance in-memory data-grid.
+- [Grape](http://reverbrain.com/grape/) - Realtime processing pipeline.
 - [Hazelcast](http://hazelcast.org/) - Open-source in-memory data-grid. Allows you to distribute data and computation across servers, clusters and geographies, and to manage very large data sets or high data ingest rates. Mature technology.
 - [Ignite](https://ignite.incubator.apache.org/) - High-performance, integrated and distributed in-memory platform for computing and transacting on large-scale data sets in real-time, orders of magnitude faster than possible with traditional disk-based or flash technologies.
 - [Marathon](https://mesosphere.github.io/marathon/) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
@@ -237,6 +239,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Elliptics](http://reverbrain.com/elliptics/) - Fault tolerant distributed key/value storage.
 - [Reborn](https://github.com/reborndb/reborn) - Distributed database fully compatible with redis protocol.
+- [Tachyon](http://tachyon-project.org/) -  Memory-centric distributed storage system, enabling reliable data sharing at memory-speed across cluster frameworks.
 
 ### Reactivity
 
