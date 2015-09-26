@@ -12,11 +12,10 @@ A curated list of Microservice Architecture related principles and technologies.
   - [C](#c)
   - [C++](#c-1)
   - [D](#d)
-  - [Elixir](#elixir)
-  - [Erlang](#erlang)
+  - [Erlang VM](#erlang-vm)
   - [Go](#go)
   - [Haskell](#haskell)
-  - [JVM](#jvm)
+  - [Java VM](#java-vm)
   - [Node.js](#nodejs)
 - [Infrastructure](#infrastructure)
   - [API Gateways / Edge Services](#api-gateways--edge-services)
@@ -101,12 +100,14 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Vibe.d](http://vibed.org/) - Asynchronous I/O that doesn’t get in your way, written in D.
 
-### Elixir
+### Erlang VM
+
+#### Elixir
 
 - [Phoenix](http://www.phoenixframework.org/) - Framework for building HTML5 apps, API backends and distributed systems.
 - [Plug](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules between web applications.
 
-### Erlang
+#### Erlang
 
 - [Cowboy](https://github.com/ninenines/cowboy) - Small, fast, modular HTTP server written in Erlang.
 - [Gen Microservice](https://github.com/videlalvaro/gen_microservice) - This library solves the problem of implementing microservices with Erlang.
@@ -127,7 +128,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Scotty](https://github.com/scotty-web/scotty) - Micro web framework inspired by Ruby's Sinatra, using WAI and Warp.
 - [Yesod](https://github.com/yesodweb/yesod) - The Haskell RESTful web framework.
 
-### JVM
+### Java VM
 
 #### Clojure
 
