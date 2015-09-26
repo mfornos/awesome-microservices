@@ -434,6 +434,7 @@ of the testing and deployment process.
 - [SECO](http://ceur-ws.org/Vol-746/IWSECO2011-6-DengYu.pdf) - Understanding software ecosystems:
 a strategic modeling approach. :small_orange_diamond:<sup>PDF</sup>
 - [Testing Strategies in a Microservice Architecture](http://martinfowler.com/articles/microservice-testing/) - Approaches for managing the additional testing complexity of multiple independently deployable components.
+- [Your Server as a Function](http://monkey.org/~marius/funsrv.pdf) - Describes three abstractions which combine to present a powerful programming model for building safe, modular, and efficient server software: Composable futures, services and filters. :small_orange_diamond:<sup>PDF</sup>
 
 ### Tutorials
 
