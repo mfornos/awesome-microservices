@@ -35,9 +35,8 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Hosted](#hosted)
   - [Lightweight](#lightweight)
 - [Containers](#containers)
-- [Modeling](#modeling)
+- [Documentation & Modeling](#documentation--modeling)
   - [REST APIs](#rest-apis)
-  - [Systems & SPLs](#systems-&-spls)
 - [Testing](#testing)
 - [Standards / Recommendations](#standards--recommendations)
   - [World Wide Web](#world-wide-web)
@@ -77,7 +76,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Akka](http://akka.io/) - Toolkit and runtime for building highly concurrent, distributed, and resilient message-driven applications on the JVM.
 - [Erlang/OTP](http://www.erlang.org/doc/design_principles/users_guide.html) - Programming language used to build massively scalable soft real-time systems with requirements on high availability.
 - [Finagle](http://twitter.github.io/finagle) - Extensible RPC system for the JVM, used to construct high-concurrency servers.
-- [Karaf](http://karaf.apache.org/) - Small OSGi based runtime which provides a lightweight container.
 - [Karyon](https://github.com/Netflix/karyon) - The nucleus or the base container for applications and services built using the NetflixOSS ecosystem.
 - [Microserver](https://github.com/aol/micro-server) - Java 8 native, zero configuration, standards based, battle hardened library to run Java REST microservices.
 - [Orbit](http://orbit.bioware.com/) - Modern framework for JVM languages that makes it easier to build and maintain distributed and scalable online services.
@@ -322,7 +320,7 @@ of the testing and deployment process.
 - [Kubernetes](http://kubernetes.io/) - Open-source orchestration system for Docker containers.
 - [Linux Containers](https://linuxcontainers.org/) - The umbrella project behind LXC, LXD, LXCFS and CGManager.
 
-## Modeling
+## Documentation & Modeling
 
 ### REST APIs
 
@@ -330,12 +328,6 @@ of the testing and deployment process.
 - [Apidoc](https://github.com/mbryzek/apidoc) - Beautiful documentation for REST services.
 - [RAML](http://raml.org/) - RESTful API Modeling Language, a simple and succinct way of describing practically-RESTful APIs.
 - [Swagger](http://swagger.io/) - A simple yet powerful representation of your RESTful API.
-
-### Systems & SPLs
-
-- [FAMILIAR](http://familiar-project.github.io/) - A language for importing, exporting, composing, decomposing, editing, configuring, computing "diffs", refactoring, reverse engineering, testing, and reasoning about feature models.
-- [SoaML](http://www.omg.org/spec/SoaML/) - OMG Service Oriented Architecture Modeling Language.
-- [SysML](http://www.omgsysml.org/) - OMG Systems Modeling Language.
 
 ## Testing
 
@@ -452,7 +444,6 @@ a strategic modeling approach. :small_orange_diamond:<sup>PDF</sup>
 
 - [Microservices Resource Guide](http://martinfowler.com/microservices/) - Martin Fowler's choice of articles, videos, books, and podcasts that can teach you more about the microservices architectural style.
 - [Microservice Patterns](http://microservices.io/) - Microservice architecture patterns and best practices.
-- [OSGi Alliance](http://www.osgi.org/) - OSGi technology facilitates the componentization of software modules and applications and assures remote management and interoperability of applications and services over a broad variety of devices.
 
 ## Emerging Technologies
 
