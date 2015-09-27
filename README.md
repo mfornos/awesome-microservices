@@ -65,6 +65,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Cisco Microservices](https://github.com/CiscoCloud/microservices-infrastructure) - Modern platform for rapidly deploying globally distributed services.
 - [Cocaine](http://reverbrain.com/cocaine/) - A cloud platform enabling you to build your own PaaS clouds.
+- [Deis](http://deis.io/) - Open-source application platform for public and private clouds.
 - [Fabric8](http://fabric8.io/) - Open-source integration platform for deep management of Java Containers (JVMs).
 - [Hook.io](https://hook.io/) - Open-source hosting platform for microservices.
 - [Netflix OSS](https://netflix.github.io/) - Netflix open-source software ecosystem.
