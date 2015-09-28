@@ -288,6 +288,7 @@ Graphite, InfluxDB & OpenTSDB.
 - [Ansible](http://www.ansible.com/) - Radically simple IT automation platform that makes your applications and systems easier to deploy.
 - [Chef](https://www.chef.io/chef/) - Automate how you build, deploy, and manage your infrastructure.
 - [Helios](https://github.com/spotify/helios) - Docker container orchestration platform.
+- [Otto](https://ottoproject.io/) - Development and deployment made easy.
 - [Packer](https://packer.io/) - Tool for creating identical machine images for multiple platforms from a single source configuration.
 - [Puppet](https://puppetlabs.com/) - From provisioning bare metal & launching containers to new ways to manage infrastructure as code.
 - [Terraform](https://terraform.io/) - Provides a common configuration to launch infrastructure, from physical and virtual servers to email and DNS providers.
