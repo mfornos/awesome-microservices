@@ -206,6 +206,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Ignite](https://ignite.incubator.apache.org/) - High-performance, integrated and distributed in-memory platform for computing and transacting on large-scale data sets in real-time, orders of magnitude faster than possible with traditional disk-based or flash technologies.
 - [Marathon](https://mesosphere.github.io/marathon/) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
 - [Mesos](https://mesos.apache.org/) - Abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
+- [Nomad](https://nomadproject.io/) - Distributed, highly available, datacenter-aware scheduler.
 - [Ordasity](https://github.com/boundary/ordasity) - Designed to spread persistent or long-lived workloads across several machines.
 - [Redisson](https://github.com/mrniko/redisson) - Distributed and scalable Java data structures on top of Redis server.
 - [Service Fabric](http://servicefabric.io/) - Fault-tolerant decentralized peer-to-peer based cluster membership service with no single point of failure.
