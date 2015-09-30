@@ -78,8 +78,8 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Microserver](https://github.com/aol/micro-server) - Java 8 native, zero configuration, standards based, battle hardened library to run Java REST microservices.
 - [Orbit](http://orbit.bioware.com/) - Modern framework for JVM languages that makes it easier to build and maintain distributed and scalable online services.
 - [Vert.X](http://vertx.io/) - Toolkit for building reactive applications on the JVM.
-- [Service Fabric I/O](http://servicefabric.io/) is a framework through which a set of distributed microservices are connected in such as way that they resemble a fabric when viewed collectively.
-
+- [Service Fabric I/O](http://servicefabric.io/) is a framework through which a set of distributed microservices are connected in such as way that they resemble a fabric when viewed collectively with a Fault-tolerant decentralized peer-to-peer based cluster membership service and no single point of failure.
+ 
 ## Service Toolkits
 
 ### JVM
@@ -192,7 +192,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Mesos](https://mesos.apache.org/) - Abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
 - [Ordasity](https://github.com/boundary/ordasity) - Designed to spread persistent or long-lived workloads across several machines.
 - [Redisson](https://github.com/mrniko/redisson) - Distributed and scalable Java data structures on top of Redis server.
-- [Service Fabric](http://servicefabric.io/) - Fault-tolerant decentralized peer-to-peer based cluster membership service with no single point of failure.
+
 
 ### Messaging
 
