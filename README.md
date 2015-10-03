@@ -177,6 +177,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [OpenResty](http://openresty.org/) - Fast web application server built on top of Nginx.
 - [Tengine](http://tengine.taobao.org/) - A distribution of Nginx with some advanced features.
 - [Tyk](https://tyk.io/) - Open-source, fast and scalable API gateway, portal and API management platform.
+- [Vulcand](https://github.com/mailgun/vulcand) - Programmatic load balancer backed by Etcd.
 - [Zuul](https://github.com/Netflix/zuul) - An edge service that provides dynamic routing, monitoring, resiliency, security, and more.
 
 ### Configuration and Discovery
