@@ -21,7 +21,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [API Gateways / Edge Services](#api-gateways--edge-services)
   - [Configuration and Discovery](#configuration-and-discovery)
   - [Security](#security)
-  - [Elastic Computing](#elastic-computing)
+  - [Elasticity](#elasticity)
   - [Messaging](#messaging)
   - [Serialization](#serialization)
   - [Storage](#storage)
@@ -197,7 +197,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [OpenID Connect](http://openid.net/developers/libraries/) - Libraries, products, and tools implementing current OpenID specifications and related specs.
 - [Vault](https://vaultproject.io/) - Secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets in modern computing.
 
-### Elastic Computing
+### Elasticity
 
 - [Chronos](https://github.com/mesos/chronos) - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules.
 - [Fenzo](https://github.com/Netflix/Fenzo) - Extensible scheduler for Mesos frameworks.
@@ -208,6 +208,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Marathon](https://mesosphere.github.io/marathon/) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
 - [Mesos](https://mesos.apache.org/) - Abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
 - [Nomad](https://nomadproject.io/) - Distributed, highly available, datacenter-aware scheduler.
+- [Onyx](https://github.com/onyx-platform/onyx) - Distributed, masterless, high performance, fault tolerant data processing for Clojure.
 - [Ordasity](https://github.com/boundary/ordasity) - Designed to spread persistent or long-lived workloads across several machines.
 - [Redisson](https://github.com/mrniko/redisson) - Distributed and scalable Java data structures on top of Redis server.
 
