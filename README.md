@@ -211,7 +211,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Ordasity](https://github.com/boundary/ordasity) - Designed to spread persistent or long-lived workloads across several machines.
 - [Redisson](https://github.com/mrniko/redisson) - Distributed and scalable Java data structures on top of Redis server.
 
-
 ### Messaging
 
 - [ØMQ](http://zeromq.org/) - Brokerless intelligent transport layer.
@@ -292,6 +291,7 @@ Graphite, InfluxDB & OpenTSDB.
 - [Otto](https://ottoproject.io/) - Development and deployment made easy.
 - [Packer](https://packer.io/) - Tool for creating identical machine images for multiple platforms from a single source configuration.
 - [Puppet](https://puppetlabs.com/) - From provisioning bare metal & launching containers to new ways to manage infrastructure as code.
+- [Salt](https://github.com/saltstack/salt) - Infrastructure automation and management system.
 - [Terraform](https://terraform.io/) - Provides a common configuration to launch infrastructure, from physical and virtual servers to email and DNS providers.
 
 ## Deployment and Continuous Integration
