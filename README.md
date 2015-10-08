@@ -67,6 +67,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Cocaine](http://reverbrain.com/cocaine/) - A cloud platform enabling you to build your own PaaS clouds.
 - [Deis](http://deis.io/) - Open-source application platform for public and private clouds.
 - [Fabric8](http://fabric8.io/) - Open-source integration platform for deep management of Java Containers (JVMs).
+- [H2](https://github.com/hailocab/h2) - Hailo's microservices platform.
 - [Hook.io](https://hook.io/) - Open-source hosting platform for microservices.
 - [Netflix OSS](https://netflix.github.io/) - Netflix open-source software ecosystem.
 - [Spring Cloud Netflix](https://github.com/spring-cloud/spring-cloud-netflix) - Provides Netflix OSS integrations for Spring Boot apps through autoconfiguration and binding to the Spring Environment and other Spring programming model idioms.
@@ -224,6 +225,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Kafka](http://kafka.apache.org/) - Publish-subscribe messaging rethought as a distributed commit log.
 - [Nanomsg](http://nanomsg.org/) - Socket library that provides several common communication patterns for building distributed systems.
 - [NATS](https://nats.io/) - Open-source, high-performance, lightweight cloud messaging system.
+- [NSQ](http://nsq.io/) - A realtime distributed messaging platform.
 - [Qpid](https://qpid.apache.org/) - Cross-platform messaging components built on AMQP.
 - [RabbitMQ](https://www.rabbitmq.com/) - Open-source Erlang-based message broker that just works.
 
@@ -277,6 +279,7 @@ Graphite, InfluxDB & OpenTSDB.
 - [Riemann](http://riemann.io/) - Monitors distributed systems.
 - [Sensu](https://github.com/sensu) - Monitoring for today's infrastructure.
 - [Trace](https://github.com/RisingStack/trace-nodejs) - A visualised stack trace platform designed for microservices.
+- [Zabbix](http://www.zabbix.com/) - Open-source enterprise-class monitoring solution.
 
 ### Logging
 
