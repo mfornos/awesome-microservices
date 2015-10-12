@@ -81,7 +81,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Karyon](https://github.com/Netflix/karyon) - The nucleus or the base container for applications and services built using the NetflixOSS ecosystem.
 - [Microserver](https://github.com/aol/micro-server) - Java 8 native, zero configuration, standards based, battle hardened library to run Java REST microservices.
 - [Orbit](http://orbit.bioware.com/) - Modern framework for JVM languages that makes it easier to build and maintain distributed and scalable online services.
-- [Service Fabric I/O](http://servicefabric.io/) - Framework through which a set of distributed microservices are connected in such as way that they resemble a fabric when viewed collectively. Provides a fault-tolerant decentralized peer-to-peer based cluster membership service with no single point of failure.
+- [Service Fabric I/O](http://servicefabric.io/) - A microservices framework for the rapid development of distributed, resilient, reactive applications at scale.
 - [Vert.X](http://vertx.io/) - Toolkit for building reactive applications on the JVM.
 
 ## Service Toolkits
