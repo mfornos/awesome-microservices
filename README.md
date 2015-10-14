@@ -340,8 +340,8 @@ of the testing and deployment process.
 - [API Blueprint](https://apiblueprint.org/) - Tools for your whole API lifecycle. Use it to discuss your API with others. Generate documentation automatically. Or a test suite. Or even some code.
 - [Apidoc](https://github.com/mbryzek/apidoc) - Beautiful documentation for REST services.
 - [RAML](http://raml.org/) - RESTful API Modeling Language, a simple and succinct way of describing practically-RESTful APIs.
-- [Swagger](http://swagger.io/) - A simple yet powerful representation of your RESTful API.
 - [Spring REST Docs](http://projects.spring.io/spring-restdocs/) - Document RESTful services by combining hand-written documentation with auto-generated snippets produced with Spring MVC Test.
+- [Swagger](http://swagger.io/) - A simple yet powerful representation of your RESTful API.
 
 ## Testing
 
@@ -474,11 +474,11 @@ a strategic modeling approach. :small_orange_diamond:<sup>PDF</sup>
 
 ## Contributing
 
-To contribute, please, [open an issue](https://github.com/mfornos/awesome-microservices/issues) or [create a pull request](https://github.com/mfornos/awesome-microservices/pulls).
+Please, read the [Contribution Guidelines](https://github.com/mfornos/awesome-microservices/blob/master/CONTRIBUTING.md) before submitting your suggestion.
 
-:star2: Additions, suggestions, and structural amendments are welcome.
+Feel free to [open an issue](https://github.com/mfornos/awesome-microservices/issues) or [create a pull request](https://github.com/mfornos/awesome-microservices/pulls) with your additions.
 
-Thank you!
+:star2: Thank you!
 
 ## Acknowledgments
 
