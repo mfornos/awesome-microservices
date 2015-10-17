@@ -164,6 +164,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Baucis](https://github.com/wprl/baucis) - To build and maintain scalable HATEOAS/Level 3 REST APIs.
 - [Express](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
 - [Hapi](http://hapijs.com/) - A rich framework for building applications and services.
+- [Koa](http://koajs.com/) - Next generation web framework for Node.js
 - [Loopback](http://loopback.io/) - Node.js framework for creating APIs and easily connecting to backend data sources.
 - [Restify](http://restify.com/) - Node.js module built specifically to enable you to build correct REST web services.
 - [Seneca](http://senecajs.org/) - A microservices toolkit for Node.js
