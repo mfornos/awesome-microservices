@@ -254,6 +254,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Aerospike](http://www.aerospike.com/) - High performance NoSQL database delivering speed at scale.
 - [Couchbase](http://www.couchbase.com/) - A distributed database engineered for performance, scalability, and simplified administration.
+- [Crate](https://crate.io/) - Scalable SQL database with the NoSQL goodies.
 - [Datomic](http://www.datomic.com/) - Fully transactional, cloud-ready, distributed database.
 - [Elliptics](http://reverbrain.com/elliptics/) - Fault tolerant distributed key/value storage.
 - [Reborn](https://github.com/reborndb/reborn) - Distributed database fully compatible with redis protocol.
