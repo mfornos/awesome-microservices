@@ -258,6 +258,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Crate](https://crate.io/) - Scalable SQL database with the NoSQL goodies.
 - [Datomic](http://www.datomic.com/) - Fully transactional, cloud-ready, distributed database.
 - [Elliptics](http://reverbrain.com/elliptics/) - Fault tolerant distributed key/value storage.
+- [Geode](http://geode.incubator.apache.org/) - Open-source, distributed, in-memory database for scale-out applications.
 - [Reborn](https://github.com/reborndb/reborn) - Distributed database fully compatible with redis protocol.
 - [Tachyon](http://tachyon-project.org/) - Memory-centric distributed storage system, enabling reliable data sharing at memory-speed across cluster frameworks.
 
