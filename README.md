@@ -17,7 +17,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Haskell](#haskell)
   - [Java VM](#java-vm)
   - [Node.js](#nodejs)
-- [Infrastructure](#infrastructure)
+- [Capabilities](#capabilities)
   - [API Gateways / Edge Services](#api-gateways--edge-services)
   - [Configuration and Discovery](#configuration-and-discovery)
   - [Security](#security)
@@ -27,6 +27,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Storage](#storage)
   - [Reactivity](#reactivity)
   - [Resilience](#resilience)
+  - [Testing](#testing)
   - [Monitoring and Debugging](#monitoring-and-debugging)
   - [Logging](#logging)
 - [IT Automation / Provisioning](#it-automation--provisioning)
@@ -37,7 +38,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Containers](#containers)
 - [Documentation & Modeling](#documentation--modeling)
   - [REST APIs](#rest-apis)
-- [Testing](#testing)
 - [Standards / Recommendations](#standards--recommendations)
   - [World Wide Web](#world-wide-web)
   - [HTTP/1.1](#http11)
@@ -169,7 +169,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Restify](http://restify.com/) - Node.js module built specifically to enable you to build correct REST web services.
 - [Seneca](http://senecajs.org/) - A microservices toolkit for Node.js
 
-## Infrastructure
+## Capabilities
 
 ### API Gateways / Edge Services
 
@@ -277,6 +277,14 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Saboteur](https://github.com/tomakehurst/saboteur) - Causing deliberate network mayhem for better resilience.
 - [Simian Army](https://github.com/Netflix/SimianArmy) - Suite of tools for keeping your cloud operating in top form. Chaos Monkey, the first member, is a resiliency tool that helps ensure that your applications can tolerate random instance failures.
 
+### Testing
+
+- [Mitmproxy](https://mitmproxy.org/) - An interactive console program that allows traffic flows to be intercepted, inspected, modified and replayed.
+- [Mountebank](http://www.mbtest.org/) - Cross-platform, multi-protocol test doubles over the wire.
+- [VCR](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. See the list of ports for implementations in other languages.
+- [Wilma](https://github.com/epam/Wilma) - Combined HTTP/HTTPS service stub and transparent proxy solution.
+- [WireMock](http://wiremock.org/) - Flexible library for stubbing and mocking web services. Unlike general purpose mocking tools it works by creating an actual HTTP server that your code under test can connect to as it would a real web service.
+
 ### Monitoring and Debugging
 
 - [Grafana](http://grafana.org/) - An open-source, feature rich metrics dashboard and graph editor for
@@ -347,14 +355,6 @@ of the testing and deployment process.
 - [RAML](http://raml.org/) - RESTful API Modeling Language, a simple and succinct way of describing practically-RESTful APIs.
 - [Spring REST Docs](http://projects.spring.io/spring-restdocs/) - Document RESTful services by combining hand-written documentation with auto-generated snippets produced with Spring MVC Test.
 - [Swagger](http://swagger.io/) - A simple yet powerful representation of your RESTful API.
-
-## Testing
-
-- [Mitmproxy](https://mitmproxy.org/) - An interactive console program that allows traffic flows to be intercepted, inspected, modified and replayed.
-- [Mountebank](http://www.mbtest.org/) - Cross-platform, multi-protocol test doubles over the wire.
-- [VCR](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. See the list of ports for implementations in other languages.
-- [Wilma](https://github.com/epam/Wilma) - Combined HTTP/HTTPS service stub and transparent proxy solution.
-- [WireMock](http://wiremock.org/) - Flexible library for stubbing and mocking web services. Unlike general purpose mocking tools it works by creating an actual HTTP server that your code under test can connect to as it would a real web service.
 
 ## Standards / Recommendations
 
