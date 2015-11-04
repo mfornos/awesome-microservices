@@ -64,7 +64,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ## Platforms
 
 - [Cisco Microservices](https://github.com/CiscoCloud/microservices-infrastructure) - Modern platform for rapidly deploying globally distributed services.
-- [Cocaine](http://reverbrain.com/cocaine/) - A cloud platform enabling you to build your own PaaS clouds.
+- [Cocaine](https://github.com/cocaine) - A cloud platform enabling you to build your own PaaS clouds.
 - [Deis](http://deis.io/) - Open-source application platform for public and private clouds.
 - [Fabric8](http://fabric8.io/) - Open-source integration platform for deep management of Java Containers (JVMs).
 - [H2](https://github.com/hailocab/h2) - Hailo's microservices platform.
