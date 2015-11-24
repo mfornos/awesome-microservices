@@ -76,6 +76,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ## Runtimes
 
 - [Akka](http://akka.io/) - Toolkit and runtime for building highly concurrent, distributed, and resilient message-driven applications on the JVM.
+- [Baratine](http://baratine.io/) - Platform for building a network of loosely-coupled POJO microservices.
 - [Erlang/OTP](http://www.erlang.org/doc/design_principles/users_guide.html) - Programming language used to build massively scalable soft real-time systems with requirements on high availability.
 - [Finagle](http://twitter.github.io/finagle) - Extensible RPC system for the JVM, used to construct high-concurrency servers.
 - [Karyon](https://github.com/Netflix/karyon) - The nucleus or the base container for applications and services built using the NetflixOSS ecosystem.
