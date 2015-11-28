@@ -258,12 +258,14 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Storage
 
 - [Aerospike](http://www.aerospike.com/) - High performance NoSQL database delivering speed at scale.
+- [ArangoDB](https://www.arangodb.com/) - A distributed free and open-source database with a flexible data model for documents, graphs, and key-values.
 - [Couchbase](http://www.couchbase.com/) - A distributed database engineered for performance, scalability, and simplified administration.
 - [Crate](https://crate.io/) - Scalable SQL database with the NoSQL goodies.
 - [Datomic](http://www.datomic.com/) - Fully transactional, cloud-ready, distributed database.
 - [Elliptics](http://reverbrain.com/elliptics/) - Fault tolerant distributed key/value storage.
 - [Geode](http://geode.incubator.apache.org/) - Open-source, distributed, in-memory database for scale-out applications.
 - [Reborn](https://github.com/reborndb/reborn) - Distributed database fully compatible with redis protocol.
+- [RethinkDB](http://rethinkdb.com/) - Open-source, scalable database that makes building realtime apps easier.
 - [Tachyon](http://tachyon-project.org/) - Memory-centric distributed storage system, enabling reliable data sharing at memory-speed across cluster frameworks.
 
 ### Reactivity
