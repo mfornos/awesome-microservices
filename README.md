@@ -302,6 +302,7 @@ Graphite, InfluxDB & OpenTSDB.
 - [Riemann](http://riemann.io/) - Monitors distributed systems.
 - [Sensu](https://github.com/sensu) - Monitoring for today's infrastructure.
 - [Trace](https://github.com/RisingStack/trace-nodejs) - A visualised stack trace platform designed for microservices.
+- [Watcher](https://www.elastic.co/products/watcher) - Alerting for Elasticsearch.
 - [Zabbix](http://www.zabbix.com/) - Open-source enterprise-class monitoring solution.
 
 ### Logging
@@ -312,7 +313,6 @@ Graphite, InfluxDB & OpenTSDB.
 - [Kibana](https://www.elastic.co/products/kibana) - Flexible analytics and visualization platform.
 - [Logstash](http://logstash.net/) - Tool for managing events and logs.
 - [Suro](https://github.com/Netflix/suro/wiki) - Distributed data pipeline which enables services for moving, aggregating, routing, storing data.
-- [Watcher](https://www.elastic.co/products/watcher) - Alerting for Elasticsearch.
 
 ## IT Automation / Provisioning
 
