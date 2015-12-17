@@ -304,11 +304,13 @@ Graphite, InfluxDB & OpenTSDB.
 
 ### Logging
 
+- [Elasticsearch](https://www.elastic.co/products/elasticsearch) - Open-source distributed, scalable, and highly available search server.
 - [Fluentd](http://www.fluentd.org/) - Open-source data collector for unified logging layer.
 - [Graylog](https://www.graylog.org/) - Fully integrated open-source log management platform.
 - [Kibana](https://www.elastic.co/products/kibana) - Flexible analytics and visualization platform.
 - [Logstash](http://logstash.net/) - Tool for managing events and logs.
 - [Suro](https://github.com/Netflix/suro/wiki) - Distributed data pipeline which enables services for moving, aggregating, routing, storing data.
+- [Watcher](https://www.elastic.co/products/watcher) - Alerting for Elasticsearch.
 
 ## IT Automation / Provisioning
 
