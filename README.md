@@ -293,6 +293,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Monitoring and Debugging
 
+- [Collectd](https://collectd.org/) - The system statistics collection daemon.
 - [Grafana](http://grafana.org/) - An open-source, feature rich metrics dashboard and graph editor for
 Graphite, InfluxDB & OpenTSDB.
 - [Graphite](http://graphite.wikidot.com/) - Scalable realtime graphing.
