@@ -262,6 +262,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Couchbase](http://www.couchbase.com/) - A distributed database engineered for performance, scalability, and simplified administration.
 - [Crate](https://crate.io/) - Scalable SQL database with the NoSQL goodies.
 - [Datomic](http://www.datomic.com/) - Fully transactional, cloud-ready, distributed database.
+- [Druid](http://druid.io/) - Fast column-oriented distributed data store.
 - [Elasticsearch](https://www.elastic.co/products/elasticsearch) - Open-source distributed, scalable, and highly available search server.
 - [Elliptics](http://reverbrain.com/elliptics/) - Fault tolerant distributed key/value storage.
 - [Geode](http://geode.incubator.apache.org/) - Open-source, distributed, in-memory database for scale-out applications.
