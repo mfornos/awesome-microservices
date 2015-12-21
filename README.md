@@ -297,6 +297,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Beats](https://www.elastic.co/products/beats) - Lightweight shippers for Elasticsearch & Logstash.
 - [Collectd](https://collectd.org/) - The system statistics collection daemon.
+- [Elastalert](https://github.com/yelp/elastalert) - Easy & flexible alerting for Elasticsearch.
 - [Grafana](http://grafana.org/) - An open-source, feature rich metrics dashboard and graph editor for
 Graphite, InfluxDB & OpenTSDB.
 - [Graphite](http://graphite.wikidot.com/) - Scalable realtime graphing.
