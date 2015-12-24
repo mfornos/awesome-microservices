@@ -176,6 +176,9 @@ A curated list of Microservice Architecture related principles and technologies.
 
  - [Mojolicious](http://mojolicio.us/) - Non-blocking micro-service framework with well developed server and client
 
+### Python
+ - [Totrnado](http://www.tornadoweb.org/) - Non-blocking micro-service framework with well developed server and client
+
 ## Capabilities
 
 ### API Gateways / Edge Services
