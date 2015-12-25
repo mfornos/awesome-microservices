@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot --allow-redirect README.md
+  - awesome_bot README.md --allow-redirect
