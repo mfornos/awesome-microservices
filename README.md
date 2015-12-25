@@ -172,6 +172,13 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Restify](http://restify.com/) - Node.js module built specifically to enable you to build correct REST web services.
 - [Seneca](http://senecajs.org/) - A microservices toolkit for Node.js
 
+### Perl
+
+ - [Mojolicious](http://mojolicio.us/) - Non-blocking micro-service framework with well developed server and client
+
+### Python
+ - [Totrnado](http://www.tornadoweb.org/) - Non-blocking micro-service framework with well developed server and client
+
 ## Capabilities
 
 ### API Gateways / Edge Services
