@@ -16,9 +16,9 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Go](#go)
   - [Haskell](#haskell)
   - [Java VM](#java-vm)
+  - [Node.js](#nodejs)
   - [Perl](#perl)
   - [Python](#python)
-  - [Node.js](#nodejs)
 - [Capabilities](#capabilities)
   - [API Gateways / Edge Services](#api-gateways--edge-services)
   - [Configuration and Discovery](#configuration-and-discovery)
@@ -165,14 +165,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Skinny Micro](https://github.com/skinny-framework/skinny-micro) - Micro-web framework to build servlet applications in Scala.
 - [Spray](http://spray.io/) - Open-source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka.
 
-### Perl
-
- - [Mojolicious](http://mojolicio.us/) - Next generation web framework for Perl.
-
-### Python
-
- - [Tornado](http://www.tornadoweb.org/) - Web framework and asynchronous networking library.
-
 ### Node.js
 
 - [Actionhero](http://www.actionherojs.com/) - Multi-transport Node.js API server with integrated cluster capabilities and delayed tasks.
@@ -183,6 +175,14 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Loopback](http://loopback.io/) - Node.js framework for creating APIs and easily connecting to backend data sources.
 - [Restify](http://restify.com/) - Node.js module built specifically to enable you to build correct REST web services.
 - [Seneca](http://senecajs.org/) - A microservices toolkit for Node.js
+
+### Perl
+
+ - [Mojolicious](http://mojolicio.us/) - Next generation web framework for Perl.
+
+### Python
+
+ - [Tornado](http://www.tornadoweb.org/) - Web framework and asynchronous networking library.
 
 ## Capabilities
 
