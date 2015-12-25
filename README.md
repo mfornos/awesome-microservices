@@ -448,7 +448,7 @@ of the testing and deployment process.
 
 - [Clean microservice architecture](http://blog.cleancoder.com/uncle-bob/2014/10/01/CleanMicroserviceArchitecture.html)
 - [Failing at microservices](https://rclayton.silvrback.com/failing-at-microservices)
-- [How to talk to your friends about microservices](http://pivotallabs.com/how-to-talk-to-your-friends-about-microservices/)
+- [How to talk to your friends about microservices](https://blog.pivotal.io/labs/labs/how-to-talk-to-your-friends-about-microservices)
 - [How we build microservices at Karma](https://blog.yourkarma.com/building-microservices-at-karma)
 - [How we ended up with microservices at SoundCloud](http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html)
 - [Microservices: lessons from the frontline](http://www.thoughtworks.com/insights/blog/microservices-lessons-frontline)
