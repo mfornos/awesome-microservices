@@ -125,7 +125,8 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Go kit](https://github.com/go-kit/kit) - Distributed programming toolkit for microservices in the modern enterprise.
 - [Kite](https://github.com/koding/kite) - Microservices framework in Go.
 - [Libchan](https://github.com/docker/libchan) - Ultra-lightweight networking library which lets network services communicate in the same way that goroutines communicate using channels.
-- [Martini](http://martini.codegangsta.io/) - Classy web development in Go.
+- [Macaron](https://go-macaron.com/) - Modular web framework in Go.
+- [Martini](https://github.com/go-martini/martini) - Classy web development in Go.
 - [Micro](https://github.com/myodc/micro) - A microservices toolchain in Go.
 - [Negroni](https://github.com/codegangsta/negroni) - Idiomatic HTTP middleware for Golang.
 
@@ -148,6 +149,7 @@ A curated list of Microservice Architecture related principles and technologies.
 #### Java
 
 - [Airlift](https://github.com/airlift/airlift) - Framework for building REST services in Java.
+- [Blade](https://github.com/biezhi/blade) - Modular web framework for Java.
 - [Dropwizard](https://dropwizard.github.io/) - Java framework for developing ops-friendly, high-performance, RESTful web services.
 - [Jersey](https://jersey.java.net/) - RESTful Web Services in Java. JAX-RS (JSR 311 & JSR 339) Reference Implementation.
 - [Ratpack](http://ratpack.io/) - Set of Java libraries that facilitate fast, efficient, evolvable and well tested HTTP applications. specific support for the Groovy language is provided.
