@@ -71,6 +71,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Fabric8](http://fabric8.io/) - Open-source integration platform for deep management of Java Containers (JVMs).
 - [H2](https://github.com/hailocab/h2) - Hailo's microservices platform.
 - [Hook.io](https://hook.io/) - Open-source hosting platform for microservices.
+- [Lattice](http://lattice.cf/) - Open-source project for running containerized workloads on a cluster. Lattice bundles up http load-balancing, a cluster scheduler, log aggregation/streaming and health management into an easy-to-deploy and easy-to-use package.
 - [Netflix OSS](https://netflix.github.io/) - Netflix open-source software ecosystem.
 - [Spring Cloud Netflix](https://github.com/spring-cloud/spring-cloud-netflix) - Provides Netflix OSS integrations for Spring Boot apps through autoconfiguration and binding to the Spring Environment and other Spring programming model idioms.
 - [VAMP](http://vamp.io/) - Build, deploy and manage microservices with power and ease.
