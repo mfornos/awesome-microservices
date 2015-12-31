@@ -244,6 +244,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Beanstalk](http://kr.github.io/beanstalkd/) - Simple, fast work queue.
 - [Disque](https://github.com/antirez/disque) - Distributed message broker.
 - [Kafka](http://kafka.apache.org/) - Publish-subscribe messaging rethought as a distributed commit log.
+- [Malamute](https://github.com/zeromq/malamute) - ZeroMQ enterprise messaging broker.
 - [Nanomsg](http://nanomsg.org/) - Socket library that provides several common communication patterns for building distributed systems.
 - [NATS](https://nats.io/) - Open-source, high-performance, lightweight cloud messaging system.
 - [NSQ](http://nsq.io/) - A realtime distributed messaging platform.
