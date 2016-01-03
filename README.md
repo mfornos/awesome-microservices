@@ -93,6 +93,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### C
 
 - [Kore](https://kore.io/) - Easy to use web application framework for writing scalable web APIs in C.
+- [Libasyncd](https://github.com/wolkykim/libasyncd/) - Embeddable event-based asynchronous HTTP server library for C.
 - [Libslack](http://libslack.org/) -  Provides a generic agent oriented programming model, run time selection of locking strategies, functions that make writing daemons trivial and simplify the implementation of network servers and clients, &c.
 - [RIBS2](https://github.com/Adaptv/ribs2) - Library which allows building high-performance internet serving systems.
 
