@@ -107,6 +107,7 @@ A curated list of Microservice Architecture related principles and technologies.
 <!-- #c-1 anchor -->
 
 - [AnyRPC](https://github.com/sgieseking/anyrpc) - Provides a common system to work with a number of different remote procedure call standards, including: JSON-RPC, XML-RPC, MessagePack-RPC.
+- [Cap’n Proto RPC](https://capnproto.org/cxxrpc.html) - The Cap’n Proto C++ RPC implementation.
 - [C++ Micro Services](http://cppmicroservices.org/) - An OSGi-like C++ dynamic module system and service registry.
 - [Pion](https://github.com/splunk/pion) - C++ framework for building lightweight HTTP interfaces.
 - [Served](https://github.com/datasift/served) - C++ library for building high performance RESTful web servers.
@@ -263,6 +264,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Serialization
 
 - [BooPickle](https://github.com/ochrons/boopickle) - Binary serialization library for efficient network communication. For Scala and Scala.js
+- [Cap’n Proto](https://capnproto.org/) - Insanely fast data interchange format and capability-based RPC system.
 - [CBOR](http://cbor.io/) - Implementations of the CBOR standard (RFC 7049) in many languages.
 - [Cereal](http://uscilab.github.io/cereal/) - C++11 library for serialization.
 - [Cheshire](https://github.com/dakrone/cheshire) - Clojure JSON and JSON SMILE encoding/decoding.
