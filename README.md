@@ -9,6 +9,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Platforms](#platforms)
 - [Runtimes](#runtimes)
 - [Service Toolkits](#service-toolkits)
+  - [Agnostic](#agnostic)
   - [C](#c)
   - [C++](#c-1)
   - [D](#d)
@@ -89,6 +90,10 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Vert.X](http://vertx.io/) - Toolkit for building reactive applications on the JVM.
 
 ## Service Toolkits
+
+### Agnostic
+
+- [GRPC](http://www.grpc.io/) - A high performance, open source, general RPC framework that puts mobile and HTTP/2 first. Libraries in C, C++, Java, Go, Node.js, Python, Ruby, Objective-C, PHP and C#.
 
 ### C
 
