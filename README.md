@@ -109,6 +109,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [AnyRPC](https://github.com/sgieseking/anyrpc) - Provides a common system to work with a number of different remote procedure call standards, including: JSON-RPC, XML-RPC, MessagePack-RPC.
 - [Cap’n Proto RPC](https://capnproto.org/cxxrpc.html) - The Cap’n Proto C++ RPC implementation.
 - [C++ Micro Services](http://cppmicroservices.org/) - An OSGi-like C++ dynamic module system and service registry.
+- [Enduro/X](https://github.com/endurox-dev/endurox/) - XATMI based service framework for GNU/Linux.
 - [Pion](https://github.com/splunk/pion) - C++ framework for building lightweight HTTP interfaces.
 - [Served](https://github.com/datasift/served) - C++ library for building high performance RESTful web servers.
 
