@@ -515,6 +515,7 @@ a strategic modeling approach. :small_orange_diamond:<sup>PDF</sup>
 - [Blocknet](http://blocknet.co/) - The Blocknet makes possible to deliver microservices over a blockchain-based P2P network architecture.
 - [Edgware Fabric](http://edgware-fabric.org/) - Lightweight, agile service bus for systems at the edge of the network, in the physical world.
 - [Node-RED](http://nodered.org/) - Visual tool for wiring together hardware devices, APIs and online services in new and interesting ways.
+- [Pony](http://www.ponylang.org/) - Open-source, object-oriented, actor-model, capabilities-secure, high performance programming language.
 
 ## License
 
