@@ -297,7 +297,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Geode](http://geode.incubator.apache.org/) - Open-source, distributed, in-memory database for scale-out applications.
 - [Reborn](https://github.com/reborndb/reborn) - Distributed database fully compatible with redis protocol.
 - [RethinkDB](http://rethinkdb.com/) - Open-source, scalable database that makes building realtime apps easier.
-- [SecureScuttlebutt](https://github.com/ssbc/secure-scuttlebutt) - A secure database with replication that is guaranteed to work.
+- [Secure Scuttlebutt](https://github.com/ssbc/docs) - P2P database of message-feeds.
 - [Tachyon](http://tachyon-project.org/) - Memory-centric distributed storage system, enabling reliable data sharing at memory-speed across cluster frameworks.
 
 ### Reactivity
