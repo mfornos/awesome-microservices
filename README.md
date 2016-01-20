@@ -86,7 +86,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Karyon](https://github.com/Netflix/karyon) - The nucleus or the base container for applications and services built using the NetflixOSS ecosystem.
 - [Microserver](https://github.com/aol/micro-server) - Java 8 native, zero configuration, standards based, battle hardened library to run Java REST microservices.
 - [Orbit](http://orbit.bioware.com/) - Modern framework for JVM languages that makes it easier to build and maintain distributed and scalable online services.
-- [Service Fabric I/O](http://servicefabric.io/) - A microservices framework for the rapid development of distributed, resilient, reactive applications at scale.
+- [Service Fabric I/O](http://scalecube.io) - A microservices framework for the rapid development of distributed, resilient, reactive applications at scale.
 - [Vert.X](http://vertx.io/) - Toolkit for building reactive applications on the JVM.
 
 ## Service Toolkits
@@ -139,7 +139,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Libchan](https://github.com/docker/libchan) - Ultra-lightweight networking library which lets network services communicate in the same way that goroutines communicate using channels.
 - [Macaron](https://go-macaron.com/) - Modular web framework in Go.
 - [Martini](https://github.com/go-martini/martini) - Classy web development in Go.
-- [Micro](https://github.com/myodc/micro) - A microservices toolchain in Go.
+- [Micro](https://github.com/micro/micro) - A microservices toolchain in Go.
 - [Negroni](https://github.com/codegangsta/negroni) - Idiomatic HTTP middleware for Golang.
 
 ### Haskell
@@ -164,7 +164,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Blade](https://github.com/biezhi/blade) - Modular web framework for Java.
 - [Dropwizard](https://dropwizard.github.io/) - Java framework for developing ops-friendly, high-performance, RESTful web services.
 - [Jersey](https://jersey.java.net/) - RESTful Web Services in Java. JAX-RS (JSR 311 & JSR 339) Reference Implementation.
-- [Ratpack](http://ratpack.io/) - Set of Java libraries that facilitate fast, efficient, evolvable and well tested HTTP applications. specific support for the Groovy language is provided.
+- [Ratpack](https://ratpack.io/) - Set of Java libraries that facilitate fast, efficient, evolvable and well tested HTTP applications. specific support for the Groovy language is provided.
 - [Restlet](http://restlet.com/) - Helps Java developers build web APIs that follow the REST architecture style.
 - [Spring Boot](http://projects.spring.io/spring-boot/) - Makes it easy to create stand-alone, production-grade Spring based applications.
 
@@ -203,17 +203,17 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Camel](http://camel.apache.org/) - Empowers you to define routing and mediation rules in a variety of domain-specific languages, including a Java-based fluent API, Spring or Blueprint XML configuration files, and a Scala DSL.
 - [HAProxy](http://www.haproxy.org/) - Reliable, high Performance TCP/HTTP load balancer.
-- [Kong](http://getkong.org/) - Open-source management layer for APIs.
+- [Kong](https://getkong.org/) - Open-source management layer for APIs.
 - [OpenResty](http://openresty.org/) - Fast web application server built on top of Nginx.
 - [Tengine](http://tengine.taobao.org/) - A distribution of Nginx with some advanced features.
 - [Træfɪk](http://traefik.io/) - A modern HTTP reverse proxy and load balancer made to deploy microservices with ease.
 - [Tyk](https://tyk.io/) - Open-source, fast and scalable API gateway, portal and API management platform.
-- [Vulcand](https://github.com/mailgun/vulcand) - Programmatic load balancer backed by Etcd.
+- [Vulcand](https://github.com/vulcand/vulcand) - Programmatic load balancer backed by Etcd.
 - [Zuul](https://github.com/Netflix/zuul) - An edge service that provides dynamic routing, monitoring, resiliency, security, and more.
 
 ### Configuration and Discovery
 
-- [Consul](https://consul.io/) - Service discovery and configuration made easy. Distributed, highly available, and datacenter-aware.
+- [Consul](https://www.consul.io/) - Service discovery and configuration made easy. Distributed, highly available, and datacenter-aware.
 - [Denominator](https://github.com/Netflix/denominator) - Portably control DNS clouds using java or bash.
 - [Etcd](https://github.com/coreos/etcd) - Highly-available key-value store for shared configuration and service discovery.
 - [Eureka](https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance) - REST based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers.
@@ -230,7 +230,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [OAuth](http://oauth.net/2/) - Provides specific authorization flows for web applications, desktop applications, mobile phones, and living room devices. Many implementations.
 - [OpenID Connect](http://openid.net/developers/libraries/) - Libraries, products, and tools implementing current OpenID specifications and related specs.
 - [SCIM](http://www.simplecloud.info/) - System for Cross-domain Identity Management.
-- [Vault](https://vaultproject.io/) - Secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets in modern computing.
+- [Vault](https://www.vaultproject.io/) - Secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets in modern computing.
 
 ### Elasticity
 
@@ -240,10 +240,10 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Grape](http://reverbrain.com/grape/) - Realtime processing pipeline.
 - [Hazelcast](http://hazelcast.org/) - Open-source in-memory data-grid. Allows you to distribute data and computation across servers, clusters and geographies, and to manage very large data sets or high data ingest rates. Mature technology.
 - [Helix](http://helix.apache.org/) - Generic cluster management framework used for the automatic management of partitioned, replicated and distributed resources hosted on a cluster of nodes.
-- [Ignite](https://ignite.incubator.apache.org/) - High-performance, integrated and distributed in-memory platform for computing and transacting on large-scale data sets in real-time, orders of magnitude faster than possible with traditional disk-based or flash technologies.
+- [Ignite](http://ignite.apache.org/) - High-performance, integrated and distributed in-memory platform for computing and transacting on large-scale data sets in real-time, orders of magnitude faster than possible with traditional disk-based or flash technologies.
 - [Marathon](https://mesosphere.github.io/marathon/) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
 - [Mesos](https://mesos.apache.org/) - Abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
-- [Nomad](https://nomadproject.io/) - Distributed, highly available, datacenter-aware scheduler.
+- [Nomad](https://www.nomadproject.io/) - Distributed, highly available, datacenter-aware scheduler.
 - [Onyx](https://github.com/onyx-platform/onyx) - Distributed, masterless, high performance, fault tolerant data processing for Clojure.
 - [Ordasity](https://github.com/boundary/ordasity) - Designed to spread persistent or long-lived workloads across several machines.
 - [Redisson](https://github.com/mrniko/redisson) - Distributed and scalable Java data structures on top of Redis server.
@@ -344,7 +344,7 @@ Graphite, InfluxDB & OpenTSDB.
 - [Fluentd](http://www.fluentd.org/) - Open-source data collector for unified logging layer.
 - [Graylog](https://www.graylog.org/) - Fully integrated open-source log management platform.
 - [Kibana](https://www.elastic.co/products/kibana) - Flexible analytics and visualization platform.
-- [Logstash](http://logstash.net/) - Tool for managing events and logs.
+- [Logstash](https://www.elastic.co/products/logstash) - Tool for managing events and logs.
 - [Suro](https://github.com/Netflix/suro/wiki) - Distributed data pipeline which enables services for moving, aggregating, routing, storing data.
 
 ## IT Automation / Provisioning
@@ -352,11 +352,11 @@ Graphite, InfluxDB & OpenTSDB.
 - [Ansible](http://www.ansible.com/) - Radically simple IT automation platform that makes your applications and systems easier to deploy.
 - [Chef](https://www.chef.io/chef/) - Automate how you build, deploy, and manage your infrastructure.
 - [Helios](https://github.com/spotify/helios) - Docker container orchestration platform.
-- [Otto](https://ottoproject.io/) - Development and deployment made easy.
-- [Packer](https://packer.io/) - Tool for creating identical machine images for multiple platforms from a single source configuration.
+- [Otto](https://www.ottoproject.io/) - Development and deployment made easy.
+- [Packer](https://www.packer.io/) - Tool for creating identical machine images for multiple platforms from a single source configuration.
 - [Puppet](https://puppetlabs.com/) - From provisioning bare metal & launching containers to new ways to manage infrastructure as code.
 - [Salt](https://github.com/saltstack/salt) - Infrastructure automation and management system.
-- [Terraform](https://terraform.io/) - Provides a common configuration to launch infrastructure, from physical and virtual servers to email and DNS providers.
+- [Terraform](https://www.terraform.io/) - Provides a common configuration to launch infrastructure, from physical and virtual servers to email and DNS providers.
 
 ## Deployment and Continuous Integration
 
@@ -471,7 +471,7 @@ of the testing and deployment process.
 - [How to talk to your friends about microservices](https://blog.pivotal.io/labs/labs/how-to-talk-to-your-friends-about-microservices)
 - [How we build microservices at Karma](https://blog.yourkarma.com/building-microservices-at-karma)
 - [How we ended up with microservices at SoundCloud](http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html)
-- [Microservices: lessons from the frontline](http://www.thoughtworks.com/insights/blog/microservices-lessons-frontline)
+- [Microservices: lessons from the frontline](https://www.thoughtworks.com/insights/blog/microservices-lessons-frontline)
 - [Monolith first](http://martinfowler.com/bliki/MonolithFirst.html)
 - [Scaling microservices at Gilt with Scala, Docker and AWS](http://www.infoq.com/news/2015/04/scaling-microservices-gilt)
 
@@ -505,7 +505,7 @@ a strategic modeling approach. :small_orange_diamond:<sup>PDF</sup>
 
 ### Books
 
-- [Building Microservices](http://nginx.com/wp-content/uploads/2015/01/Building_Microservices_Nginx.pdf) - Building Microservices: Designing Fine-grained Systems. Sam Newman. Preview Edition. :small_orange_diamond:<sup>PDF</sup>
+- [Building Microservices](https://www.nginx.com/wp-content/uploads/2015/01/Building_Microservices_Nginx.pdf) - Building Microservices: Designing Fine-grained Systems. Sam Newman. Preview Edition. :small_orange_diamond:<sup>PDF</sup>
 - [Migrating to Cloud Native Application Architectures](http://pivotal.io/platform/migrating-to-cloud-native-application-architectures-ebook) - This O’Reilly report defines the unique characteristics of cloud native application architectures such as microservices and twelve-factor applications.
 - [The Art of Scalability](http://theartofscalability.com/) - The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise. Martin L. Abbott, Michael T. Fisher.
 
