@@ -114,6 +114,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Enduro/X](https://github.com/endurox-dev/endurox/) - XATMI based service framework for GNU/Linux.
 - [Pion](https://github.com/splunk/pion) - C++ framework for building lightweight HTTP interfaces.
 - [Served](https://github.com/datasift/served) - C++ library for building high performance RESTful web servers.
+- [ULib](https://github.com/stefanocasazza/ULib) - Highly optimized class framework for writing C++ applications.
 
 ### D
 
