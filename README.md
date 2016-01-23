@@ -198,6 +198,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Python
 
+- [Nameko](https://github.com/onefinestay/nameko) - Python framework for building microservices.
 - [Tornado](http://www.tornadoweb.org/) - Web framework and asynchronous networking library.
 
 ## Capabilities
