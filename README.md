@@ -136,6 +136,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Gin](http://gin-gonic.github.io/gin/) - Web framework written in Golang.
 - [Gocraft](https://github.com/gocraft/web) - A toolkit for building web apps. Includes routing, middleware stacks, logging and monitoring.
 - [Go kit](https://github.com/go-kit/kit) - Distributed programming toolkit for microservices in the modern enterprise.
+- [Gorilla](http://www.gorillatoolkit.org/) - Web toolkit for the Go programming language.
 - [Kite](https://github.com/koding/kite) - Microservices framework in Go.
 - [Libchan](https://github.com/docker/libchan) - Ultra-lightweight networking library which lets network services communicate in the same way that goroutines communicate using channels.
 - [Macaron](https://go-macaron.com/) - Modular web framework in Go.
@@ -193,11 +194,11 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Perl
 
- - [Mojolicious](http://mojolicio.us/) - Next generation web framework for Perl.
+- [Mojolicious](http://mojolicio.us/) - Next generation web framework for Perl.
 
 ### Python
 
- - [Tornado](http://www.tornadoweb.org/) - Web framework and asynchronous networking library.
+- [Tornado](http://www.tornadoweb.org/) - Web framework and asynchronous networking library.
 
 ## Capabilities
 
