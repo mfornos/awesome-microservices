@@ -20,6 +20,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Node.js](#nodejs)
   - [Perl](#perl)
   - [Python](#python)
+  - [Ruby](#ruby)
 - [Capabilities](#capabilities)
   - [API Gateways / Edge Services](#api-gateways--edge-services)
   - [Configuration and Discovery](#configuration-and-discovery)
@@ -204,6 +205,12 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Nameko](https://github.com/onefinestay/nameko) - Python framework for building microservices.
 - [Tornado](http://www.tornadoweb.org/) - Web framework and asynchronous networking library.
+
+### Ruby
+
+- [Hanami](https://github.com/hanami) - A modern web framework for Ruby.
+- [Praxis](https://github.com/rightscale/praxis) - Framework for both designing and implementing APIs.
+- [Scorched](https://github.com/wardrop/Scorched) - Light-weight web framework for Ruby.
 
 ## Capabilities
 
