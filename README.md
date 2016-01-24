@@ -222,7 +222,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Consul](https://www.consul.io/) - Service discovery and configuration made easy. Distributed, highly available, and datacenter-aware.
 - [Denominator](https://github.com/Netflix/denominator) - Portably control DNS clouds using java or bash.
-- [Doozer](https://github.com/ha/doozerd) - Highly-available, completely consistent store for small amounts of extremely important data. When the data changes, it can notify connected clients immediately.
+- [Doozer](https://github.com/ha/doozerd) - Highly-available, completely consistent store for small amounts of data. When the data changes, it can notify connected clients immediately.
 - [Etcd](https://github.com/coreos/etcd) - Highly-available key-value store for shared configuration and service discovery.
 - [Eureka](https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance) - REST based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers.
 - [Registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker. Supports pluggable service registries, which currently includes Consul, etcd and SkyDNS 2.
