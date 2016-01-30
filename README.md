@@ -9,24 +9,29 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Platforms](#platforms)
 - [Runtimes](#runtimes)
 - [Service Toolkits](#service-toolkits)
+  - [Agnostic](#agnostic)
   - [C](#c)
   - [C++](#c-1)
   - [D](#d)
-  - [Erlang](#erlang)
+  - [Erlang VM](#erlang-vm)
   - [Go](#go)
   - [Haskell](#haskell)
-  - [JVM](#jvm)
+  - [Java VM](#java-vm)
   - [Node.js](#nodejs)
-- [Infrastructure](#infrastructure)
+  - [Perl](#perl)
+  - [Python](#python)
+  - [Ruby](#ruby)
+- [Capabilities](#capabilities)
   - [API Gateways / Edge Services](#api-gateways--edge-services)
   - [Configuration and Discovery](#configuration-and-discovery)
   - [Security](#security)
-  - [Elastic Computing](#elastic-computing)
+  - [Elasticity](#elasticity)
   - [Messaging](#messaging)
   - [Serialization](#serialization)
   - [Storage](#storage)
   - [Reactivity](#reactivity)
   - [Resilience](#resilience)
+  - [Testing](#testing)
   - [Monitoring and Debugging](#monitoring-and-debugging)
   - [Logging](#logging)
 - [IT Automation / Provisioning](#it-automation--provisioning)
@@ -35,10 +40,8 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Hosted](#hosted)
   - [Lightweight](#lightweight)
 - [Containers](#containers)
-- [Modeling](#modeling)
+- [Documentation & Modeling](#documentation--modeling)
   - [REST APIs](#rest-apis)
-  - [Systems & SPLs](#systems-&-spls)
-- [Testing](#testing)
 - [Standards / Recommendations](#standards--recommendations)
   - [World Wide Web](#world-wide-web)
   - [HTTP/1.1](#http11)
@@ -53,9 +56,9 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Theory](#theory)
   - [Articles & Papers](#articles--papers)
   - [Tutorials](#tutorials)
-  - [Emerging Technologies](#emerging-technologies)
   - [Books](#books)
   - [Sites](#sites)
+- [Emerging Technologies](#emerging-technologies)
 - [License](#license)
 - [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
@@ -65,9 +68,12 @@ A curated list of Microservice Architecture related principles and technologies.
 ## Platforms
 
 - [Cisco Microservices](https://github.com/CiscoCloud/microservices-infrastructure) - Modern platform for rapidly deploying globally distributed services.
-- [Cocaine](http://reverbrain.com/cocaine/) - A cloud platform enabling you to build your own PaaS clouds.
+- [Cocaine](https://github.com/cocaine) - A cloud platform enabling you to build your own PaaS clouds.
+- [Deis](http://deis.io/) - Open-source application platform for public and private clouds.
 - [Fabric8](http://fabric8.io/) - Open-source integration platform for deep management of Java Containers (JVMs).
+- [H2](https://github.com/hailocab/h2) - Hailo's microservices platform.
 - [Hook.io](https://hook.io/) - Open-source hosting platform for microservices.
+- [Lattice](http://lattice.cf/) - Open-source project for running containerized workloads on a cluster. Lattice bundles up http load-balancing, a cluster scheduler, log aggregation/streaming and health management into an easy-to-deploy and easy-to-use package.
 - [Netflix OSS](https://netflix.github.io/) - Netflix open-source software ecosystem.
 - [Spring Cloud Netflix](https://github.com/spring-cloud/spring-cloud-netflix) - Provides Netflix OSS integrations for Spring Boot apps through autoconfiguration and binding to the Spring Environment and other Spring programming model idioms.
 - [VAMP](http://vamp.io/) - Build, deploy and manage microservices with power and ease.
@@ -75,43 +81,72 @@ A curated list of Microservice Architecture related principles and technologies.
 ## Runtimes
 
 - [Akka](http://akka.io/) - Toolkit and runtime for building highly concurrent, distributed, and resilient message-driven applications on the JVM.
-- [Erlang/OTP](http://www.erlang.org/doc/design_principles/users_guide.html) - Programming language used to build massively scalable soft real-time systems with requirements on high availability.
-- [Karaf](http://karaf.apache.org/) - Small OSGi based runtime which provides a lightweight container.
+- [Baratine](http://baratine.io/) - Platform for building a network of loosely-coupled POJO microservices.
+- [Erlang/OTP](https://github.com/erlang/otp) - Programming language used to build massively scalable soft real-time systems with requirements on high availability.
+- [Finagle](http://twitter.github.io/finagle) - Extensible RPC system for the JVM, used to construct high-concurrency servers.
 - [Karyon](https://github.com/Netflix/karyon) - The nucleus or the base container for applications and services built using the NetflixOSS ecosystem.
 - [Microserver](https://github.com/aol/micro-server) - Java 8 native, zero configuration, standards based, battle hardened library to run Java REST microservices.
 - [Orbit](http://orbit.bioware.com/) - Modern framework for JVM languages that makes it easier to build and maintain distributed and scalable online services.
+- [Service Fabric I/O](http://scalecube.io) - A microservices framework for the rapid development of distributed, resilient, reactive applications at scale.
 - [Vert.X](http://vertx.io/) - Toolkit for building reactive applications on the JVM.
 
 ## Service Toolkits
 
+### Agnostic
+
+- [Apex](https://github.com/apex/apex) - Tool for deploying and managing AWS Lambda functions. With shims for languages not yet supported by Lambda, you can use Golang out of the box.
+- [GRPC](http://www.grpc.io/) - A high performance, open source, general RPC framework that puts mobile and HTTP/2 first. Libraries in C, C++, Java, Go, Node.js, Python, Ruby, Objective-C, PHP and C#.
+
 ### C
 
 - [Kore](https://kore.io/) - Easy to use web application framework for writing scalable web APIs in C.
+- [Libasyncd](https://github.com/wolkykim/libasyncd/) - Embeddable event-based asynchronous HTTP server library for C.
+- [Libslack](http://libslack.org/) -  Provides a generic agent oriented programming model, run time selection of locking strategies, functions that make writing daemons trivial and simplify the implementation of network servers and clients, &c.
+- [Lwan](http://lwan.ws/) - High-performance and scalable web server.
+- [Onion](https://github.com/davidmoreno/onion) - C library to create simple HTTP servers and web applications.
 - [RIBS2](https://github.com/Adaptv/ribs2) - Library which allows building high-performance internet serving systems.
 
 ### C++
 <!-- #c-1 anchor -->
 
 - [AnyRPC](https://github.com/sgieseking/anyrpc) - Provides a common system to work with a number of different remote procedure call standards, including: JSON-RPC, XML-RPC, MessagePack-RPC.
+- [Cap’n Proto RPC](https://capnproto.org/cxxrpc.html) - The Cap’n Proto C++ RPC implementation.
 - [C++ Micro Services](http://cppmicroservices.org/) - An OSGi-like C++ dynamic module system and service registry.
+- [Enduro/X](https://github.com/endurox-dev/endurox/) - XATMI based service framework for GNU/Linux.
+- [Pion](https://github.com/splunk/pion) - C++ framework for building lightweight HTTP interfaces.
+- [Served](https://github.com/datasift/served) - C++ library for building high performance RESTful web servers.
+- [ULib](https://github.com/stefanocasazza/ULib) - Highly optimized class framework for writing C++ applications.
 
 ### D
 
 - [Vibe.d](http://vibed.org/) - Asynchronous I/O that doesn’t get in your way, written in D.
 
-### Erlang
+### Erlang VM
 
+#### Elixir
+
+- [Phoenix](http://www.phoenixframework.org/) - Framework for building HTML5 apps, API backends and distributed systems.
+- [Plug](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules between web applications.
+
+#### Erlang
+
+- [Cowboy](https://github.com/ninenines/cowboy) - Small, fast, modular HTTP server written in Erlang.
 - [Gen Microservice](https://github.com/videlalvaro/gen_microservice) - This library solves the problem of implementing microservices with Erlang.
 - [Mochiweb](https://github.com/mochi/mochiweb) - Erlang library for building lightweight HTTP servers.
 
 ### Go
 
 - [Gin](http://gin-gonic.github.io/gin/) - Web framework written in Golang.
+- [Goa](https://github.com/goadesign/goa) - Design-based HTTP microservices in Go.
 - [Gocraft](https://github.com/gocraft/web) - A toolkit for building web apps. Includes routing, middleware stacks, logging and monitoring.
+- [Goji](https://goji.io/) - Minimalistic and flexible request multiplexer for Go.
 - [Go kit](https://github.com/go-kit/kit) - Distributed programming toolkit for microservices in the modern enterprise.
+- [Gorilla](http://www.gorillatoolkit.org/) - Web toolkit for the Go programming language.
 - [Kite](https://github.com/koding/kite) - Microservices framework in Go.
-- [Martini](http://martini.codegangsta.io/) - Classy web development in Go.
-- [Micro](https://github.com/myodc/micro) - A microservices toolchain in Go.
+- [Libchan](https://github.com/docker/libchan) - Ultra-lightweight networking library which lets network services communicate in the same way that goroutines communicate using channels.
+- [Macaron](https://go-macaron.com/) - Modular web framework in Go.
+- [Martini](https://github.com/go-martini/martini) - Classy web development in Go.
+- [Micro](https://github.com/micro/micro) - A microservices toolchain in Go.
 - [Negroni](https://github.com/codegangsta/negroni) - Idiomatic HTTP middleware for Golang.
 
 ### Haskell
@@ -119,7 +154,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Scotty](https://github.com/scotty-web/scotty) - Micro web framework inspired by Ruby's Sinatra, using WAI and Warp.
 - [Yesod](https://github.com/yesodweb/yesod) - The Haskell RESTful web framework.
 
-### JVM
+### Java VM
 
 #### Clojure
 
@@ -133,10 +168,11 @@ A curated list of Microservice Architecture related principles and technologies.
 #### Java
 
 - [Airlift](https://github.com/airlift/airlift) - Framework for building REST services in Java.
+- [Blade](https://github.com/biezhi/blade) - Modular web framework for Java.
 - [Dropwizard](https://dropwizard.github.io/) - Java framework for developing ops-friendly, high-performance, RESTful web services.
-- [Finagle](http://twitter.github.io/finagle) - Extensible RPC system for the JVM, used to construct high-concurrency servers.
 - [Jersey](https://jersey.java.net/) - RESTful Web Services in Java. JAX-RS (JSR 311 & JSR 339) Reference Implementation.
-- [Ratpack](http://ratpack.io/) - Set of Java libraries that facilitate fast, efficient, evolvable and well tested HTTP applications. specific support for the Groovy language is provided.
+- [QBit](https://github.com/advantageous/qbit) - Reactive programming library for building microservices.
+- [Ratpack](https://ratpack.io/) - Set of Java libraries that facilitate fast, efficient, evolvable and well tested HTTP applications. specific support for the Groovy language is provided.
 - [Restlet](http://restlet.com/) - Helps Java developers build web APIs that follow the REST architecture style.
 - [Spring Boot](http://projects.spring.io/spring-boot/) - Makes it easy to create stand-alone, production-grade Spring based applications.
 
@@ -154,30 +190,53 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Actionhero](http://www.actionherojs.com/) - Multi-transport Node.js API server with integrated cluster capabilities and delayed tasks.
 - [Baucis](https://github.com/wprl/baucis) - To build and maintain scalable HATEOAS/Level 3 REST APIs.
 - [Express](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
+- [Graft](https://github.com/GraftJS/graft) - Full-stack javascript through microservices.
 - [Hapi](http://hapijs.com/) - A rich framework for building applications and services.
+- [Koa](http://koajs.com/) - Next generation web framework for Node.js
 - [Loopback](http://loopback.io/) - Node.js framework for creating APIs and easily connecting to backend data sources.
 - [Restify](http://restify.com/) - Node.js module built specifically to enable you to build correct REST web services.
 - [Seneca](http://senecajs.org/) - A microservices toolkit for Node.js
+- [Serverless](https://github.com/serverless/serverless) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS).
 
-## Infrastructure
+### Perl
+
+- [Mojolicious](http://mojolicio.us/) - Next generation web framework for Perl.
+
+### Python
+
+- [Nameko](https://github.com/onefinestay/nameko) - Python framework for building microservices.
+- [Tornado](http://www.tornadoweb.org/) - Web framework and asynchronous networking library.
+
+### Ruby
+
+- [Hanami](https://github.com/hanami) - A modern web framework for Ruby.
+- [Praxis](https://github.com/rightscale/praxis) - Framework for both designing and implementing APIs.
+- [Scorched](https://github.com/wardrop/Scorched) - Light-weight web framework for Ruby.
+
+## Capabilities
 
 ### API Gateways / Edge Services
 
 - [Camel](http://camel.apache.org/) - Empowers you to define routing and mediation rules in a variety of domain-specific languages, including a Java-based fluent API, Spring or Blueprint XML configuration files, and a Scala DSL.
 - [HAProxy](http://www.haproxy.org/) - Reliable, high Performance TCP/HTTP load balancer.
-- [Kong](http://getkong.org/) - Open-source management layer for APIs.
+- [Kong](https://getkong.org/) - Open-source management layer for APIs.
 - [OpenResty](http://openresty.org/) - Fast web application server built on top of Nginx.
 - [Tengine](http://tengine.taobao.org/) - A distribution of Nginx with some advanced features.
+- [Træfɪk](http://traefik.io/) - A modern HTTP reverse proxy and load balancer made to deploy microservices with ease.
 - [Tyk](https://tyk.io/) - Open-source, fast and scalable API gateway, portal and API management platform.
+- [Vulcand](https://github.com/vulcand/vulcand) - Programmatic load balancer backed by Etcd.
 - [Zuul](https://github.com/Netflix/zuul) - An edge service that provides dynamic routing, monitoring, resiliency, security, and more.
 
 ### Configuration and Discovery
 
-- [Consul](https://consul.io/) - Service discovery and configuration made easy. Distributed, highly available, and datacenter-aware.
+- [Consul](https://www.consul.io/) - Service discovery and configuration made easy. Distributed, highly available, and datacenter-aware.
 - [Denominator](https://github.com/Netflix/denominator) - Portably control DNS clouds using java or bash.
+- [Doozer](https://github.com/ha/doozerd) - Highly-available, completely consistent store for small amounts of data. When the data changes, it can notify connected clients immediately.
 - [Etcd](https://github.com/coreos/etcd) - Highly-available key-value store for shared configuration and service discovery.
 - [Eureka](https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance) - REST based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers.
+- [Registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker. Supports pluggable service registries, which currently includes Consul, etcd and SkyDNS 2.
 - [SkyDNS](https://github.com/skynetservices/skydns) - Distributed service for announcement and discovery of services built on top of etcd. It utilizes DNS queries to discover available services.
+- [SmartStack](https://github.com/airbnb/smartstack-cookbook) - Airbnb's automated service discovery and registration framework.
 - [Spring Cloud Config](http://cloud.spring.io/spring-cloud-config/) - Provides server and client-side support for externalized configuration in a distributed system.
 - [ZooKeeper](https://zookeeper.apache.org/) - Open-source server which enables highly reliable distributed coordination.
 
@@ -187,21 +246,24 @@ A curated list of Microservice Architecture related principles and technologies.
 - [JWT](http://jwt.io/) - JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties.
 - [OAuth](http://oauth.net/2/) - Provides specific authorization flows for web applications, desktop applications, mobile phones, and living room devices. Many implementations.
 - [OpenID Connect](http://openid.net/developers/libraries/) - Libraries, products, and tools implementing current OpenID specifications and related specs.
-- [Vault](https://vaultproject.io/) - Secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets in modern computing.
+- [SCIM](http://www.simplecloud.info/) - System for Cross-domain Identity Management.
+- [Vault](https://www.vaultproject.io/) - Secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets in modern computing.
 
-### Elastic Computing
+### Elasticity
 
 - [Chronos](https://github.com/mesos/chronos) - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules.
 - [Fenzo](https://github.com/Netflix/Fenzo) - Extensible scheduler for Mesos frameworks.
 - [Galaxy](http://www.paralleluniverse.co/galaxy/) - Open-source high-performance in-memory data-grid.
 - [Grape](http://reverbrain.com/grape/) - Realtime processing pipeline.
 - [Hazelcast](http://hazelcast.org/) - Open-source in-memory data-grid. Allows you to distribute data and computation across servers, clusters and geographies, and to manage very large data sets or high data ingest rates. Mature technology.
-- [Ignite](https://ignite.incubator.apache.org/) - High-performance, integrated and distributed in-memory platform for computing and transacting on large-scale data sets in real-time, orders of magnitude faster than possible with traditional disk-based or flash technologies.
+- [Helix](http://helix.apache.org/) - Generic cluster management framework used for the automatic management of partitioned, replicated and distributed resources hosted on a cluster of nodes.
+- [Ignite](http://ignite.apache.org/) - High-performance, integrated and distributed in-memory platform for computing and transacting on large-scale data sets in real-time, orders of magnitude faster than possible with traditional disk-based or flash technologies.
 - [Marathon](https://mesosphere.github.io/marathon/) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
 - [Mesos](https://mesos.apache.org/) - Abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
+- [Nomad](https://www.nomadproject.io/) - Distributed, highly available, datacenter-aware scheduler.
+- [Onyx](https://github.com/onyx-platform/onyx) - Distributed, masterless, high performance, fault tolerant data processing for Clojure.
 - [Ordasity](https://github.com/boundary/ordasity) - Designed to spread persistent or long-lived workloads across several machines.
 - [Redisson](https://github.com/mrniko/redisson) - Distributed and scalable Java data structures on top of Redis server.
-- [Service Fabric](http://servicefabric.io/) - Fault-tolerant decentralized peer-to-peer based cluster membership service with no single point of failure.
 
 ### Messaging
 
@@ -212,14 +274,19 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Beanstalk](http://kr.github.io/beanstalkd/) - Simple, fast work queue.
 - [Disque](https://github.com/antirez/disque) - Distributed message broker.
 - [Kafka](http://kafka.apache.org/) - Publish-subscribe messaging rethought as a distributed commit log.
+- [Malamute](https://github.com/zeromq/malamute) - ZeroMQ enterprise messaging broker.
+- [Mosca](http://www.mosca.io/) - MQTT broker as a module.
+- [Mosquitto](http://mosquitto.org/) - Open-source message broker that implements the MQTT protocol.
 - [Nanomsg](http://nanomsg.org/) - Socket library that provides several common communication patterns for building distributed systems.
 - [NATS](https://nats.io/) - Open-source, high-performance, lightweight cloud messaging system.
+- [NSQ](http://nsq.io/) - A realtime distributed messaging platform.
 - [Qpid](https://qpid.apache.org/) - Cross-platform messaging components built on AMQP.
 - [RabbitMQ](https://www.rabbitmq.com/) - Open-source Erlang-based message broker that just works.
 
 ### Serialization
 
 - [BooPickle](https://github.com/ochrons/boopickle) - Binary serialization library for efficient network communication. For Scala and Scala.js
+- [Cap’n Proto](https://capnproto.org/) - Insanely fast data interchange format and capability-based RPC system.
 - [CBOR](http://cbor.io/) - Implementations of the CBOR standard (RFC 7049) in many languages.
 - [Cereal](http://uscilab.github.io/cereal/) - C++11 library for serialization.
 - [Cheshire](https://github.com/dakrone/cheshire) - Clojure JSON and JSON SMILE encoding/decoding.
@@ -238,9 +305,18 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Storage
 
 - [Aerospike](http://www.aerospike.com/) - High performance NoSQL database delivering speed at scale.
+- [ArangoDB](https://www.arangodb.com/) - A distributed free and open-source database with a flexible data model for documents, graphs, and key-values.
 - [Couchbase](http://www.couchbase.com/) - A distributed database engineered for performance, scalability, and simplified administration.
+- [Crate](https://crate.io/) - Scalable SQL database with the NoSQL goodies.
+- [Datomic](http://www.datomic.com/) - Fully transactional, cloud-ready, distributed database.
+- [Druid](http://druid.io/) - Fast column-oriented distributed data store.
+- [Elasticsearch](https://www.elastic.co/products/elasticsearch) - Open-source distributed, scalable, and highly available search server.
 - [Elliptics](http://reverbrain.com/elliptics/) - Fault tolerant distributed key/value storage.
+- [Geode](http://geode.incubator.apache.org/) - Open-source, distributed, in-memory database for scale-out applications.
+- [MemSQL](http://www.memsql.com/) - High-performance, in-memory database that combines the horizontal scalability of distributed systems with the familiarity of SQL.
 - [Reborn](https://github.com/reborndb/reborn) - Distributed database fully compatible with redis protocol.
+- [RethinkDB](http://rethinkdb.com/) - Open-source, scalable database that makes building realtime apps easier.
+- [Secure Scuttlebutt](https://github.com/ssbc/docs) - P2P database of message-feeds.
 - [Tachyon](http://tachyon-project.org/) - Memory-centric distributed storage system, enabling reliable data sharing at memory-speed across cluster frameworks.
 
 ### Reactivity
@@ -252,13 +328,25 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Resilience
 
 - [Hystrix](https://github.com/Netflix/Hystrix) - Latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
+- [Pathod](http://pathod.net/) - Crafted malice for tormenting HTTP clients and servers.
 - [Raft Consensus](http://raftconsensus.github.io/) - Consensus algorithm that is designed to be easy to understand. It's equivalent to Paxos in fault-tolerance and performance.
 - [Resilient HTTP](http://resilient-http.github.io/) - A smart HTTP client with super powers like fault tolerance, dynamic server discovery, auto balancing and reactive recovery, designed for distributed systems.
 - [Saboteur](https://github.com/tomakehurst/saboteur) - Causing deliberate network mayhem for better resilience.
 - [Simian Army](https://github.com/Netflix/SimianArmy) - Suite of tools for keeping your cloud operating in top form. Chaos Monkey, the first member, is a resiliency tool that helps ensure that your applications can tolerate random instance failures.
 
+### Testing
+
+- [Mitmproxy](https://mitmproxy.org/) - An interactive console program that allows traffic flows to be intercepted, inspected, modified and replayed.
+- [Mountebank](http://www.mbtest.org/) - Cross-platform, multi-protocol test doubles over the wire.
+- [VCR](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. See the list of ports for implementations in other languages.
+- [Wilma](https://github.com/epam/Wilma) - Combined HTTP/HTTPS service stub and transparent proxy solution.
+- [WireMock](http://wiremock.org/) - Flexible library for stubbing and mocking web services. Unlike general purpose mocking tools it works by creating an actual HTTP server that your code under test can connect to as it would a real web service.
+
 ### Monitoring and Debugging
 
+- [Beats](https://www.elastic.co/products/beats) - Lightweight shippers for Elasticsearch & Logstash.
+- [Collectd](https://collectd.org/) - The system statistics collection daemon.
+- [Elastalert](https://github.com/yelp/elastalert) - Easy & flexible alerting for Elasticsearch.
 - [Grafana](http://grafana.org/) - An open-source, feature rich metrics dashboard and graph editor for
 Graphite, InfluxDB & OpenTSDB.
 - [Graphite](http://graphite.wikidot.com/) - Scalable realtime graphing.
@@ -266,13 +354,15 @@ Graphite, InfluxDB & OpenTSDB.
 - [Riemann](http://riemann.io/) - Monitors distributed systems.
 - [Sensu](https://github.com/sensu) - Monitoring for today's infrastructure.
 - [Trace](https://github.com/RisingStack/trace-nodejs) - A visualised stack trace platform designed for microservices.
+- [Watcher](https://www.elastic.co/products/watcher) - Alerting for Elasticsearch.
+- [Zabbix](http://www.zabbix.com/) - Open-source enterprise-class monitoring solution.
 
 ### Logging
 
 - [Fluentd](http://www.fluentd.org/) - Open-source data collector for unified logging layer.
 - [Graylog](https://www.graylog.org/) - Fully integrated open-source log management platform.
 - [Kibana](https://www.elastic.co/products/kibana) - Flexible analytics and visualization platform.
-- [Logstash](http://logstash.net/) - Tool for managing events and logs.
+- [Logstash](https://www.elastic.co/products/logstash) - Tool for managing events and logs.
 - [Suro](https://github.com/Netflix/suro/wiki) - Distributed data pipeline which enables services for moving, aggregating, routing, storing data.
 
 ## IT Automation / Provisioning
@@ -280,15 +370,18 @@ Graphite, InfluxDB & OpenTSDB.
 - [Ansible](http://www.ansible.com/) - Radically simple IT automation platform that makes your applications and systems easier to deploy.
 - [Chef](https://www.chef.io/chef/) - Automate how you build, deploy, and manage your infrastructure.
 - [Helios](https://github.com/spotify/helios) - Docker container orchestration platform.
-- [Packer](https://packer.io/) - Tool for creating identical machine images for multiple platforms from a single source configuration.
+- [Otto](https://www.ottoproject.io/) - Development and deployment made easy.
+- [Packer](https://www.packer.io/) - Tool for creating identical machine images for multiple platforms from a single source configuration.
 - [Puppet](https://puppetlabs.com/) - From provisioning bare metal & launching containers to new ways to manage infrastructure as code.
-- [Terraform](https://terraform.io/) - Provides a common configuration to launch infrastructure, from physical and virtual servers to email and DNS providers.
+- [Salt](https://github.com/saltstack/salt) - Infrastructure automation and management system.
+- [Terraform](https://www.terraform.io/) - Provides a common configuration to launch infrastructure, from physical and virtual servers to email and DNS providers.
 
 ## Deployment and Continuous Integration
 
 ### On-prem
 
 - [ION-Roller](https://github.com/gilt/ionroller) - AWS immutable deployment framework for web services.
+- [Janky](https://github.com/github/janky) - Continuous integration server built on top of Jenkins and Hubot.
 - [Jenkins](http://jenkins-ci.org/) - Extensible open-source continuous integration server.
 - [Nscale](https://github.com/nearform/nscale) - Open toolkit supporting configuration, build and deployment of connected container sets.
 - [RPM Maven](http://mojo.codehaus.org/rpm-maven-plugin/) - Allows artifacts from one or more projects to be packaged in an RPM for distribution.
@@ -314,26 +407,17 @@ of the testing and deployment process.
 - [Kubernetes](http://kubernetes.io/) - Open-source orchestration system for Docker containers.
 - [Linux Containers](https://linuxcontainers.org/) - The umbrella project behind LXC, LXD, LXCFS and CGManager.
 
-## Modeling
+## Documentation & Modeling
 
 ### REST APIs
 
+- [Aglio](https://github.com/danielgtaylor/aglio) - API Blueprint renderer with theme support that outputs static HTML.
 - [API Blueprint](https://apiblueprint.org/) - Tools for your whole API lifecycle. Use it to discuss your API with others. Generate documentation automatically. Or a test suite. Or even some code.
 - [Apidoc](https://github.com/mbryzek/apidoc) - Beautiful documentation for REST services.
 - [RAML](http://raml.org/) - RESTful API Modeling Language, a simple and succinct way of describing practically-RESTful APIs.
+- [Slate](https://github.com/tripit/slate) - Beautiful static documentation for your API.
+- [Spring REST Docs](http://projects.spring.io/spring-restdocs/) - Document RESTful services by combining hand-written documentation with auto-generated snippets produced with Spring MVC Test.
 - [Swagger](http://swagger.io/) - A simple yet powerful representation of your RESTful API.
-
-### Systems & SPLs
-
-- [FAMILIAR](http://familiar-project.github.io/) - A language for importing, exporting, composing, decomposing, editing, configuring, computing "diffs", refactoring, reverse engineering, testing, and reasoning about feature models.
-- [SoaML](http://www.omg.org/spec/SoaML/) - OMG Service Oriented Architecture Modeling Language.
-- [SysML](http://www.omgsysml.org/) - OMG Systems Modeling Language.
-
-## Testing
-
-- [Mountebank](http://www.mbtest.org/) - Cross-platform, multi-protocol test doubles over the wire.
-- [VCR](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. See the list of ports for implementations in other languages.
-- [WireMock](http://wiremock.org/) - Flexible library for stubbing and mocking web services. Unlike general purpose mocking tools it works by creating an actual HTTP server that your code under test can connect to as it would a real web service.
 
 ## Standards / Recommendations
 
@@ -375,6 +459,9 @@ of the testing and deployment process.
 - [RFC6749](http://tools.ietf.org/html/rfc6749) - The OAuth 2.0 authorization framework.
 - [RFC7515](https://tools.ietf.org/html/rfc7515) - JSON Web Signature (JWS) represents content secured with digital signatures or Message Authentication Codes (MACs) using JSON-based data structures.
 - [RFC7519](https://tools.ietf.org/html/rfc7519) - JSON Web Token (JWT) is a compact, URL-safe means of representing claims to be transferred between two parties.
+- [RFC7642](https://tools.ietf.org/html/rfc7642) - SCIM: Definitions, overview, concepts, and requirements.
+- [RFC7643](https://tools.ietf.org/html/rfc7643) - SCIM: Core Schema, provides a platform-neutral schema and extension model for representing users and groups.
+- [RFC7644](https://tools.ietf.org/html/rfc7644) - SCIM: Protocol, an application-level, REST protocol for provisioning and managing identity data on the web.
 - [OIDCONN](http://openid.net/connect/) - OpenID Connect 1.0 is a simple identity layer on top of the OAuth 2.0 protocol. It allows clients to verify the identity of the end-user based on the authentication performed by an Authorization Server, as well as to obtain basic profile information about the end-user in an interoperable and REST-like manner.
 
 ### Service Discovery
@@ -400,10 +487,10 @@ of the testing and deployment process.
 
 - [Clean microservice architecture](http://blog.cleancoder.com/uncle-bob/2014/10/01/CleanMicroserviceArchitecture.html)
 - [Failing at microservices](https://rclayton.silvrback.com/failing-at-microservices)
-- [How to talk to your friends about microservices](http://pivotallabs.com/how-to-talk-to-your-friends-about-microservices/)
+- [How to talk to your friends about microservices](https://blog.pivotal.io/labs/labs/how-to-talk-to-your-friends-about-microservices)
 - [How we build microservices at Karma](https://blog.yourkarma.com/building-microservices-at-karma)
 - [How we ended up with microservices at SoundCloud](http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html)
-- [Microservices: lessons from the frontline](http://www.thoughtworks.com/insights/blog/microservices-lessons-frontline)
+- [Microservices: lessons from the frontline](https://www.thoughtworks.com/insights/blog/microservices-lessons-frontline)
 - [Monolith first](http://martinfowler.com/bliki/MonolithFirst.html)
 - [Scaling microservices at Gilt with Scala, Docker and AWS](http://www.infoq.com/news/2015/04/scaling-microservices-gilt)
 
@@ -426,21 +513,19 @@ of the testing and deployment process.
 - [ROCAS](http://resources.1060research.com/docs/2015/Resource-Oriented-Computing-Adaptive-Systems-ROCAS-1.2.pdf) - Resource Oriented Computing for Adaptive Systems. :small_orange_diamond:<sup>PDF</sup>
 - [SECO](http://ceur-ws.org/Vol-746/IWSECO2011-6-DengYu.pdf) - Understanding software ecosystems:
 a strategic modeling approach. :small_orange_diamond:<sup>PDF</sup>
+- [Service Discovery in a Microservice Architecture](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/) - Overview of discovery and registration patterns.
 - [Testing Strategies in a Microservice Architecture](http://martinfowler.com/articles/microservice-testing/) - Approaches for managing the additional testing complexity of multiple independently deployable components.
+- [Your Server as a Function](http://monkey.org/~marius/funsrv.pdf) - Describes three abstractions which combine to present a powerful programming model for building safe, modular, and efficient server software: Composable futures, services and filters. :small_orange_diamond:<sup>PDF</sup>
 
 ### Tutorials
 
+- [Microservices without the Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers/) - Step by step demo-driven talk about serverless architecture.
 - Microservices in C#: [Part 1](http://insidethecpu.com/2015/07/17/microservices-in-c-part-1-building-and-testing/), [Part 2](http://insidethecpu.com/2015/07/31/microservices-in-c-part-2-consistent-message-delivery/), [Part 3](http://insidethecpu.com/2015/08/14/microservices-in-c-part-3-queue-pool-sizing/), [Part 4](http://insidethecpu.com/2015/08/28/microservices-in-c-part-4-scaling-out/), [Part 5](http://insidethecpu.com/2015/09/11/microservices-in-c-part-5-autoscaling/).
 - [Using Packer and Ansible to build immutable infrastructure](https://blog.codeship.com/packer-ansible/)
 
-### Emerging Technologies
-
-- [Blockchain ID](https://github.com/blockstack/blockchain-id/wiki) - A unique identifier that is secured by a blockchain. Blockchain IDs are simultaneously secure, human-meaningful, and decentralized, thereby squaring Zooko's triangle.
-- [Blocknet](http://blocknet.co/) - The Blocknet makes possible to deliver microservices over a blockchain-based P2P network architecture.
-
 ### Books
 
-- [Building Microservices](http://nginx.com/wp-content/uploads/2015/01/Building_Microservices_Nginx.pdf) - Building Microservices: Designing Fine-grained Systems. Sam Newman. Preview Edition. :small_orange_diamond:<sup>PDF</sup>
+- [Building Microservices](https://www.nginx.com/wp-content/uploads/2015/01/Building_Microservices_Nginx.pdf) - Building Microservices: Designing Fine-grained Systems. Sam Newman. Preview Edition. :small_orange_diamond:<sup>PDF</sup>
 - [Migrating to Cloud Native Application Architectures](http://pivotal.io/platform/migrating-to-cloud-native-application-architectures-ebook) - This O’Reilly report defines the unique characteristics of cloud native application architectures such as microservices and twelve-factor applications.
 - [The Art of Scalability](http://theartofscalability.com/) - The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise. Martin L. Abbott, Michael T. Fisher.
 
@@ -448,7 +533,15 @@ a strategic modeling approach. :small_orange_diamond:<sup>PDF</sup>
 
 - [Microservices Resource Guide](http://martinfowler.com/microservices/) - Martin Fowler's choice of articles, videos, books, and podcasts that can teach you more about the microservices architectural style.
 - [Microservice Patterns](http://microservices.io/) - Microservice architecture patterns and best practices.
-- [OSGi Alliance](http://www.osgi.org/) - OSGi technology facilitates the componentization of software modules and applications and assures remote management and interoperability of applications and services over a broad variety of devices.
+
+## Emerging Technologies
+
+- [Blockchain ID](https://github.com/blockstack/blockchain-id/wiki) - A unique identifier that is secured by a blockchain. Blockchain IDs are simultaneously secure, human-meaningful, and decentralized, thereby squaring Zooko's triangle.
+- [Blocknet](http://blocknet.co/) - The Blocknet makes possible to deliver microservices over a blockchain-based P2P network architecture.
+- [Edgware Fabric](http://edgware-fabric.org/) - Lightweight, agile service bus for systems at the edge of the network, in the physical world.
+- [MultiChain](http://www.multichain.com/) - Open platform for building blockchains.
+- [Node-RED](http://nodered.org/) - Visual tool for wiring together hardware devices, APIs and online services in new and interesting ways.
+- [Pony](http://www.ponylang.org/) - Open-source, object-oriented, actor-model, capabilities-secure, high performance programming language.
 
 ## License
 
@@ -456,11 +549,11 @@ a strategic modeling approach. :small_orange_diamond:<sup>PDF</sup>
 
 ## Contributing
 
-To contribute, please, [open an issue](https://github.com/mfornos/awesome-microservices/issues) or [create a pull request](https://github.com/mfornos/awesome-microservices/pulls).
+Please, read the [Contribution Guidelines](https://github.com/mfornos/awesome-microservices/blob/master/CONTRIBUTING.md) before submitting your suggestion.
 
-:star2: Additions, suggestions, and structural amendments are welcome.
+Feel free to [open an issue](https://github.com/mfornos/awesome-microservices/issues) or [create a pull request](https://github.com/mfornos/awesome-microservices/pulls) with your additions.
 
-Thank you!
+:star2: Thank you!
 
 ## Acknowledgments
 
