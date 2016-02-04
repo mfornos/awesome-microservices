@@ -145,7 +145,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Kite](https://github.com/koding/kite) - Microservices framework in Go.
 - [Libchan](https://github.com/docker/libchan) - Ultra-lightweight networking library which lets network services communicate in the same way that goroutines communicate using channels.
 - [Macaron](https://go-macaron.com/) - Modular web framework in Go.
-- [Martini](https://github.com/go-martini/martini) - Classy web development in Go.
 - [Micro](https://github.com/micro/micro) - A microservices toolchain in Go.
 - [Negroni](https://github.com/codegangsta/negroni) - Idiomatic HTTP middleware for Golang.
 
