@@ -194,6 +194,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Hapi](http://hapijs.com/) - A rich framework for building applications and services.
 - [Koa](http://koajs.com/) - Next generation web framework for Node.js
 - [Loopback](http://loopback.io/) - Node.js framework for creating APIs and easily connecting to backend data sources.
+- [Micro](http://github.com/zeithq/micro) - Node.js library for writing robust microservices using `async`/`await`.
 - [Restify](http://restify.com/) - Node.js module built specifically to enable you to build correct REST web services.
 - [Seneca](http://senecajs.org/) - A microservices toolkit for Node.js
 - [Serverless](https://github.com/serverless/serverless) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS).
