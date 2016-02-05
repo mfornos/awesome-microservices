@@ -240,8 +240,10 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Spring Cloud Config](http://cloud.spring.io/spring-cloud-config/) - Provides server and client-side support for externalized configuration in a distributed system.
 - [ZooKeeper](https://zookeeper.apache.org/) - Open-source server which enables highly reliable distributed coordination.
 
-### Security
+### Auth and Security
 
+- [Keycloak](https://github.com/keycloak/keycloak) - full-featured and extensible auth service (OpenID Connect provider; third-party OAuth2 delegation)
+- [dex](https://github.com/coreos/dex) - opinionated auth/directory service with pluggable connectors (OpenID Connect provider; third-party OAuth2 delegation)
 - [Crtauth](https://github.com/spotify/crtauth) - A public key backed client/server authentication system.
 - [JWT](http://jwt.io/) - JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties.
 - [OAuth](http://oauth.net/2/) - Provides specific authorization flows for web applications, desktop applications, mobile phones, and living room devices. Many implementations.
