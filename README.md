@@ -170,6 +170,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Blade](https://github.com/biezhi/blade) - Modular web framework for Java.
 - [Dropwizard](https://dropwizard.github.io/) - Java framework for developing ops-friendly, high-performance, RESTful web services.
 - [Jersey](https://jersey.java.net/) - RESTful Web Services in Java. JAX-RS (JSR 311 & JSR 339) Reference Implementation.
+- [MSF4J](https://github.com/wso2/msf4j) - High throughput & low memory footprint Java microservices framework.
 - [QBit](https://github.com/advantageous/qbit) - Reactive programming library for building microservices.
 - [Ratpack](https://ratpack.io/) - Set of Java libraries that facilitate fast, efficient, evolvable and well tested HTTP applications. specific support for the Groovy language is provided.
 - [Restlet](http://restlet.com/) - Helps Java developers build web APIs that follow the REST architecture style.
