@@ -388,6 +388,8 @@ Graphite, InfluxDB & OpenTSDB.
 - [Janky](https://github.com/github/janky) - Continuous integration server built on top of Jenkins and Hubot.
 - [Jenkins](http://jenkins-ci.org/) - Extensible open-source continuous integration server.
 - [Nscale](https://github.com/nearform/nscale) - Open toolkit supporting configuration, build and deployment of connected container sets.
+- [Project6](https://github.com/DatawiseIO/Project6) - Software for deploying and managing Docker containers across a cluster of hosts, with a focus on simplifying network and storage configurations for on-premises environments.
+- [Rancher](https://github.com/rancher/rancher)- Open-source platform for operating Docker in production.
 - [RPM Maven](http://mojo.codehaus.org/rpm-maven-plugin/) - Allows artifacts from one or more projects to be packaged in an RPM for distribution.
 
 ### Hosted
