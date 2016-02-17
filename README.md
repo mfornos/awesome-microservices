@@ -389,7 +389,7 @@ Graphite, InfluxDB & OpenTSDB.
 - [Jenkins](http://jenkins-ci.org/) - Extensible open-source continuous integration server.
 - [Nscale](https://github.com/nearform/nscale) - Open toolkit supporting configuration, build and deployment of connected container sets.
 - [Project6](https://github.com/DatawiseIO/Project6) - Software for deploying and managing Docker containers across a cluster of hosts, with a focus on simplifying network and storage configurations for on-premises environments.
-- [Rancher](https://github.com/rancher/rancher)- Open-source platform for operating Docker in production.
+- [Rancher](https://github.com/rancher/rancher) - Open-source platform for operating Docker in production.
 - [RPM Maven](http://mojo.codehaus.org/rpm-maven-plugin/) - Allows artifacts from one or more projects to be packaged in an RPM for distribution.
 
 ### Hosted
@@ -412,6 +412,7 @@ of the testing and deployment process.
 - [Docker](https://www.docker.com/) - Open platform for distributed applications for developers and sysadmins.
 - [Kubernetes](http://kubernetes.io/) - Open-source orchestration system for Docker containers.
 - [Linux Containers](https://linuxcontainers.org/) - The umbrella project behind LXC, LXD, LXCFS and CGManager.
+- [RancherOS](https://github.com/rancher/os) - The smallest, easiest way to run Docker in production at scale.
 
 ## Documentation & Modeling
 
