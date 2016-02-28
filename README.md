@@ -46,6 +46,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [World Wide Web](#world-wide-web)
   - [HTTP/1.1](#http11)
   - [HTTP/2](#http2)
+  - [CoAP](#coap)
   - [RPC](#rpc)
   - [Messaging](#messaging-1)
   - [Security](#security-1)
@@ -95,6 +96,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Agnostic
 
 - [Apex](https://github.com/apex/apex) - Tool for deploying and managing AWS Lambda functions. With shims for languages not yet supported by Lambda, you can use Golang out of the box.
+- [CoAP](http://coap.technology/impls.html) - Constrained Application Protocol implementations. 
 - [GRPC](http://www.grpc.io/) - A high performance, open source, general RPC framework that puts mobile and HTTP/2 first. Libraries in C, C++, Java, Go, Node.js, Python, Ruby, Objective-C, PHP and C#.
 
 ### C
@@ -450,6 +452,10 @@ of the testing and deployment process.
 
 - [RFC7540](https://tools.ietf.org/html/rfc7540) - Hypertext Transfer Protocol Version 2.
 
+### CoAP
+
+- [RFC7252](http://coap.technology/spec.html) - The Constrained Application Protocol (CoAP) is a specialized web transfer protocol for use with constrained nodes and constrained networks in the Internet of Things.
+
 ### RPC
 
 - [BERT-RPC 1.0](http://bert-rpc.org/) - An attempt to specify a flexible binary serialization and RPC protocol that are compatible with the philosophies of dynamic languages.
@@ -463,9 +469,10 @@ of the testing and deployment process.
 
 ### Security
 
-- [RFC5246](http://tools.ietf.org/html/rfc5246) - The Transport Layer Security (TLS) Protocol Version 1.2.
-- [RFC6066](http://tools.ietf.org/html/rfc6066) - TLS Extensions.
-- [RFC6749](http://tools.ietf.org/html/rfc6749) - The OAuth 2.0 authorization framework.
+- [RFC5246](https://tools.ietf.org/html/rfc5246) - The Transport Layer Security (TLS) Protocol Version 1.2.
+- [RFC6066](https://tools.ietf.org/html/rfc6066) - TLS Extensions.
+- [RFC6347](https://tools.ietf.org/html/rfc6347) - Datagram Transport Layer Security Version 1.2.
+- [RFC6749](https://tools.ietf.org/html/rfc6749) - The OAuth 2.0 authorization framework.
 - [RFC7515](https://tools.ietf.org/html/rfc7515) - JSON Web Signature (JWS) represents content secured with digital signatures or Message Authentication Codes (MACs) using JSON-based data structures.
 - [RFC7519](https://tools.ietf.org/html/rfc7519) - JSON Web Token (JWT) is a compact, URL-safe means of representing claims to be transferred between two parties.
 - [RFC7642](https://tools.ietf.org/html/rfc7642) - SCIM: Definitions, overview, concepts, and requirements.
