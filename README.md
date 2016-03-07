@@ -290,6 +290,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [NSQ](http://nsq.io/) - A realtime distributed messaging platform.
 - [Qpid](https://qpid.apache.org/) - Cross-platform messaging components built on AMQP.
 - [RabbitMQ](https://www.rabbitmq.com/) - Open-source Erlang-based message broker that just works.
+- [VerneMQ](https://verne.mq) - Open-source, scalable, Erlang-based MQTT broker.
 
 ### Serialization
 
