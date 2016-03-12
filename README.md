@@ -96,7 +96,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Agnostic
 
 - [Apex](https://github.com/apex/apex) - Tool for deploying and managing AWS Lambda functions. With shims for languages not yet supported by Lambda, you can use Golang out of the box.
-- [CoAP](http://coap.technology/impls.html) - Constrained Application Protocol implementations. 
+- [CoAP](http://coap.technology/impls.html) - Constrained Application Protocol implementations.
 - [GRPC](http://www.grpc.io/) - A high performance, open source, general RPC framework that puts mobile and HTTP/2 first. Libraries in C, C++, Java, Go, Node.js, Python, Ruby, Objective-C, PHP and C#.
 
 ### C
@@ -179,13 +179,13 @@ A curated list of Microservice Architecture related principles and technologies.
 
 #### Scala
 
+- [Akka HTTP](http://doc.akka.io/docs/akka/current/scala/http) - Open-source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka (will replace Spray).
 - [Colossus](https://github.com/tumblr/colossus) - I/O and microservice library for Scala.
 - [Finatra](http://twitter.github.io/finatra/) - Fast, testable, Scala HTTP services built on Twitter-Server and Finagle.
 - [Play](https://www.playframework.com/) - The high velocity web framework for Java and Scala.
 - [Scalatra](http://www.scalatra.org/) - Simple, accessible and free web micro-framework.
 - [Skinny Micro](https://github.com/skinny-framework/skinny-micro) - Micro-web framework to build servlet applications in Scala.
 - [Spray](http://spray.io/) - Open-source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka.
-- [Akka HTTP](http://doc.akka.io/docs/akka/current/scala/http) - Open-source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka (will replace Spray).
 
 ### Node.js
 
@@ -208,9 +208,9 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Python
 
+- [Flask](http://flask.pocoo.org/) - Python framework for microservices based on Werkzeug and Jinja 2.
 - [Nameko](https://github.com/onefinestay/nameko) - Python framework for building microservices.
 - [Tornado](http://www.tornadoweb.org/) - Web framework and asynchronous networking library.
-- [Flask](http://flask.pocoo.org/) - Python framework for microservices based on Werkzeug and Jinja 2.
 - [web.py](http://webpy.org/) - Minimalist web framework for Python.
 
 ### Ruby
@@ -359,7 +359,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Beats](https://www.elastic.co/products/beats) - Lightweight shippers for Elasticsearch & Logstash.
 - [Collectd](https://collectd.org/) - The system statistics collection daemon.
 - [Elastalert](https://github.com/yelp/elastalert) - Easy & flexible alerting for Elasticsearch.
-- [Ganglia](http://ganglia.info/) - A scalable distributed monitoring system for high-performance computing systems such as clusters and grids. 
+- [Ganglia](http://ganglia.info/) - A scalable distributed monitoring system for high-performance computing systems such as clusters and grids.
 - [Grafana](http://grafana.org/) - An open-source, feature rich metrics dashboard and graph editor for
 Graphite, InfluxDB & OpenTSDB.
 - [Graphite](http://graphite.wikidot.com/) - Scalable realtime graphing.
@@ -580,4 +580,3 @@ Feel free to [open an issue](https://github.com/mfornos/awesome-microservices/is
 ## Acknowledgments
 
 Table of contents generated with [DocToc](https://github.com/thlorenz/doctoc)
-
