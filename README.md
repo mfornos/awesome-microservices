@@ -185,6 +185,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Scalatra](http://www.scalatra.org/) - Simple, accessible and free web micro-framework.
 - [Skinny Micro](https://github.com/skinny-framework/skinny-micro) - Micro-web framework to build servlet applications in Scala.
 - [Spray](http://spray.io/) - Open-source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka.
+- [Akka HTTP](http://doc.akka.io/docs/akka/current/scala/http) - Open-source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka (will replace Spray).
 
 ### Node.js
 
@@ -209,6 +210,8 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Nameko](https://github.com/onefinestay/nameko) - Python framework for building microservices.
 - [Tornado](http://www.tornadoweb.org/) - Web framework and asynchronous networking library.
+- [Flask](http://flask.pocoo.org/) - Python framework for microservices based on Werkzeug and Jinja 2.
+- [web.py](http://webpy.org/) - Minimalist web framework for Python.
 
 ### Ruby
 
