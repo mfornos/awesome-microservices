@@ -416,6 +416,7 @@ of the testing and deployment process.
 
 - [Capsule](https://github.com/puniverse/capsule) - Packaging and deployment tool for JVM applications.
 - [Kafka Deploy](https://github.com/nathanmarz/kafka-deploy) - Automated deploy for a Kafka cluster on AWS.
+- [LambdaCD](https://github.com/flosell/lambdacd) - A library to define a continuous delivery pipeline in code.
 
 ## Containers
 
