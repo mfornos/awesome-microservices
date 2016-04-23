@@ -52,6 +52,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Security](#security-1)
   - [Service Discovery](#service-discovery)
   - [Data Formats](#data-formats)
+  - [Vocabularies](#vocabularies)
   - [Unicode](#unicode)
 - [Real Life Stories](#real-life-stories)
 - [Theory](#theory)
@@ -508,6 +509,11 @@ of the testing and deployment process.
 - [SBE](https://github.com/FIXTradingCommunity/fix-simple-binary-encoding) - Simple Binary Encoding (SBE).
 - [SMILE](http://wiki.fasterxml.com/SmileFormatSpec) - JSON-compatible binary data format.
 - [MSGPACK](https://github.com/msgpack/msgpack/blob/master/spec.md) - MessagePack Specification.
+
+### Vocabularies
+
+- [LOV](http://lov.okfn.org/) - Linked open vocabularies.
+- [Schema.org](http://schema.org/) - Collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.
 
 ### Unicode
 
