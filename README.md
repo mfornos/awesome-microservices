@@ -19,6 +19,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Java VM](#java-vm)
   - [Node.js](#nodejs)
   - [Perl](#perl)
+  - [PHP](#php)
   - [Python](#python)
   - [Ruby](#ruby)
 - [Capabilities](#capabilities)
@@ -209,6 +210,12 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Perl
 
 - [Mojolicious](http://mojolicio.us/) - Next generation web framework for Perl.
+
+### PHP
+
+- [API Platform](https://api-platform.com/) - API-first web framework on top of Symfony with JSON-LD, Schema.org and Hydra support.
+- [Phalcon](https://phalconphp.com/) - Full-stack PHP framework delivered as a C-extension.
+- [Silex](http://silex.sensiolabs.org/) - Micro-framework based on the Symfony components.
 
 ### Python
 
