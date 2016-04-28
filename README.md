@@ -437,6 +437,7 @@ of the testing and deployment process.
 
 - [AWS ECS](http://aws.amazon.com/ecs/) - Easily run and manage Docker-enabled applications across a cluster of Amazon EC2 instances.
 - [CoreOS](https://coreos.com/) - Open source lightweight operating system based on the Linux kernel and designed for providing infrastructure to clustered deployments.
+- [DC/OS](https://dcos.io/) - Open source orchestration system (built on top of Mesos and Marathon) for automatically distributing and running containers on several computers.
 - [Docker](https://www.docker.com/) - Open platform for distributed applications for developers and sysadmins.
 - [Kubernetes](http://kubernetes.io/) - Open source orchestration system for Docker containers.
 - [Linux Containers](https://linuxcontainers.org/) - The umbrella project behind LXC, LXD, LXCFS and CGManager.
