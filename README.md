@@ -312,6 +312,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Serialization
 
+- [Avro](https://avro.apache.org/) - Apache data serialization system providing rich data structures in a compact, fast, binary data format.
 - [BooPickle](https://github.com/ochrons/boopickle) - Binary serialization library for efficient network communication. For Scala and Scala.js
 - [Cap’n Proto](https://capnproto.org/) - Insanely fast data interchange format and capability-based RPC system.
 - [CBOR](http://cbor.io/) - Implementations of the CBOR standard (RFC 7049) in many languages.
