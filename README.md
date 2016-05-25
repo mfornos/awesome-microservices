@@ -26,7 +26,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [API Gateways / Edge Services](#api-gateways--edge-services)
   - [Configuration and Discovery](#configuration-and-discovery)
   - [Security](#security)
-  - [Lob schedulers / Workload automation](#lob-schedulers--workload-automation)
+  - [Job schedulers / Workload automation](#job-schedulers--workload-automation)
   - [Elasticity](#elasticity)
   - [Messaging](#messaging)
   - [Serialization](#serialization)
@@ -275,7 +275,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [SCIM](http://www.simplecloud.info/) - System for Cross-domain Identity Management.
 - [Vault](https://www.vaultproject.io/) - Secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets in modern computing.
 
-### Lob schedulers / Workload automation
+### Job schedulers / Workload automation
 
 - [Chronos](https://github.com/mesos/chronos) - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules.
 - [JobScheduler](http://www.sos-berlin.com/jobscheduler) - Open Source solution for enterprise level workload automation. It is used to launch executable files and shell scripts and to run database procedures automatically. JobScheduler stores all information in a back-end database management system.
