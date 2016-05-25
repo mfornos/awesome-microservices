@@ -26,6 +26,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [API Gateways / Edge Services](#api-gateways--edge-services)
   - [Configuration and Discovery](#configuration-and-discovery)
   - [Security](#security)
+  - [Lob schedulers / Workload automation](#lob-schedulers--workload-automation)
   - [Elasticity](#elasticity)
   - [Messaging](#messaging)
   - [Serialization](#serialization)
