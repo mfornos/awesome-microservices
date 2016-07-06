@@ -595,6 +595,7 @@ a strategic modeling approach. :small_orange_diamond:<sup>PDF</sup>
 
 - [Microservices Resource Guide](http://martinfowler.com/microservices/) - Martin Fowler's choice of articles, videos, books, and podcasts that can teach you more about the microservices architectural style.
 - [Microservice Patterns](http://microservices.io/) - Microservice architecture patterns and best practices.
+- [The 12-Factors App](http://12factor.net) - A methodology for building software-as-a-service applications.
 
 ## Emerging Technologies
 
