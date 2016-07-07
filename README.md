@@ -603,6 +603,12 @@ a strategic modeling approach. :small_orange_diamond:<sup>PDF</sup>
 - [Microservices from Theory to Practice](http://www.redbooks.ibm.com/abstracts/sg248275.html?Open) - Microservices from Theory to Practice: Creating Applications in IBM Bluemix Using the Microservices Approach. IBM Redbooks publication.
 - [Migrating to Cloud Native Application Architectures](http://pivotal.io/platform/migrating-to-cloud-native-application-architectures-ebook) - This O’Reilly report defines the unique characteristics of cloud native application architectures such as microservices and twelve-factor applications.
 - [The Art of Scalability](http://theartofscalability.com/) - The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise. Martin L. Abbott, Michael T. Fisher.
+- [The New Stack eBook Series](http://thenewstack.io/ebookseries/) - A Comprehensive Overview of the Docker and Container Ecosystem.
+  + Book 1: The Docker Container Ecosystem.
+  + Book 2: Applications & Microservices with Docker & Containers.
+  + Book 3: Automation & Orchestration with Docker & Containers.
+  + Book 4: Network, Security & Storage with Docker & Containers.
+  + Book 5: Monitoring & Management with Docker & Containers.
 
 ### Sites
 
