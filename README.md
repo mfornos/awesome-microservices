@@ -226,6 +226,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Flask](http://flask.pocoo.org/) - Python framework for microservices based on Werkzeug and Jinja 2.
 - [Nameko](https://github.com/onefinestay/nameko) - Python framework for building microservices.
 - [Tornado](http://www.tornadoweb.org/) - Web framework and asynchronous networking library.
+- [Twisted](https://twistedmatrix.com/trac/) - An Event-Drive Network Programming Engine. 
 - [web.py](http://webpy.org/) - Minimalist web framework for Python.
 - [Celery](http://www.celeryproject.org) - An asynchronous task queue/job queue based on distributed message passing. Focused on real-time operation and supports scheduling.
 
