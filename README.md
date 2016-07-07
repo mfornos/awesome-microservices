@@ -93,6 +93,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Lagom](https://github.com/lagom/lagom) - Reactive microservices for the JVM.
 - [Microserver](https://github.com/aol/micro-server) - Java 8 native, zero configuration, standards based, battle hardened library to run Java REST microservices.
 - [Orbit](http://orbit.bioware.com/) - Modern framework for JVM languages that makes it easier to build and maintain distributed and scalable online services.
+- [Quasar](https://github.com/puniverse/quasar) - Fibers, Channels and Actors for the JVM.
 - [Service Fabric I/O](http://scalecube.io) - A microservices framework for the rapid development of distributed, resilient, reactive applications at scale.
 - [Vert.X](http://vertx.io/) - Toolkit for building reactive applications on the JVM.
 - [Vert.X Toolbox](https://github.com/vert-x3/vertx-microservices-toolbox) - A set of Vert.x components to build reactive microservice applications.
