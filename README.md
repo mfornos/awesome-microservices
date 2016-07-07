@@ -59,6 +59,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Real Life Stories](#real-life-stories)
 - [Theory](#theory)
   - [Articles & Papers](#articles--papers)
+  - [Talks](#talks)
   - [Tutorials](#tutorials)
   - [Books](#books)
   - [Sites](#sites)
@@ -583,6 +584,10 @@ a strategic modeling approach. :small_orange_diamond:<sup>PDF</sup>
 - [Service Discovery in a Microservice Architecture](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/) - Overview of discovery and registration patterns.
 - [Testing Strategies in a Microservice Architecture](http://martinfowler.com/articles/microservice-testing/) - Approaches for managing the additional testing complexity of multiple independently deployable components.
 - [Your Server as a Function](http://monkey.org/~marius/funsrv.pdf) - Describes three abstractions which combine to present a powerful programming model for building safe, modular, and efficient server software: Composable futures, services and filters. :small_orange_diamond:<sup>PDF</sup>
+
+### Talks
+
+- [Bla Bla Microservices Bla Bla](http://jonasboner.com/bla-bla-microservices-bla-bla/) - A talk at the O’Reilly Software Architecture Conference, April 2016.
 
 ### Tutorials
 
