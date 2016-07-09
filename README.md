@@ -59,6 +59,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Real Life Stories](#real-life-stories)
 - [Theory](#theory)
   - [Articles & Papers](#articles--papers)
+  - [Talks](#talks)
   - [Tutorials](#tutorials)
   - [Books](#books)
   - [Sites](#sites)
@@ -88,10 +89,12 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Baratine](http://baratine.io/) - Platform for building a network of loosely-coupled POJO microservices.
 - [Erlang/OTP](https://github.com/erlang/otp) - Programming language used to build massively scalable soft real-time systems with requirements on high availability.
 - [Finagle](http://twitter.github.io/finagle) - Extensible RPC system for the JVM, used to construct high-concurrency servers.
+- [GPars](https://github.com/GPars/GPars) - Concurrency and Parallelism framework for the JVM.
 - [Karyon](https://github.com/Netflix/karyon) - The nucleus or the base container for applications and services built using the NetflixOSS ecosystem.
 - [Lagom](https://github.com/lagom/lagom) - Reactive microservices for the JVM.
 - [Microserver](https://github.com/aol/micro-server) - Java 8 native, zero configuration, standards based, battle hardened library to run Java REST microservices.
 - [Orbit](http://orbit.bioware.com/) - Modern framework for JVM languages that makes it easier to build and maintain distributed and scalable online services.
+- [Quasar](https://github.com/puniverse/quasar) - Fibers, Channels and Actors for the JVM.
 - [Service Fabric I/O](http://scalecube.io) - A microservices framework for the rapid development of distributed, resilient, reactive applications at scale.
 - [Vert.X](http://vertx.io/) - Toolkit for building reactive applications on the JVM.
 - [Vert.X Toolbox](https://github.com/vert-x3/vertx-microservices-toolbox) - A set of Vert.x components to build reactive microservice applications.
@@ -176,6 +179,7 @@ A curated list of Microservice Architecture related principles and technologies.
 #### Java
 
 - [Airlift](https://github.com/airlift/airlift) - Framework for building REST services in Java.
+- [Disruptor](https://github.com/LMAX-Exchange/disruptor) - A High Performance Inter-Thread Messaging Library.
 - [Dropwizard](https://dropwizard.github.io/) - Java framework for developing ops-friendly, high-performance, RESTful web services.
 - [Jersey](https://jersey.java.net/) - RESTful Web Services in Java. JAX-RS (JSR 311 & JSR 339) Reference Implementation.
 - [MSF4J](https://github.com/wso2/msf4j) - High throughput & low memory footprint Java microservices framework.
@@ -222,9 +226,11 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Python
 
+- [Celery](http://www.celeryproject.org) - An asynchronous task queue/job queue based on distributed message passing. Focused on real-time operation and supports scheduling.
 - [Flask](http://flask.pocoo.org/) - Python framework for microservices based on Werkzeug and Jinja 2.
 - [Nameko](https://github.com/onefinestay/nameko) - Python framework for building microservices.
 - [Tornado](http://www.tornadoweb.org/) - Web framework and asynchronous networking library.
+- [Twisted](https://twistedmatrix.com/trac/) - An Event-Drive Network Programming Engine. 
 - [web.py](http://webpy.org/) - Minimalist web framework for Python.
 
 ### Ruby
@@ -360,6 +366,8 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Reactivity
 
+- [Reactor.io](http://projectreactor.io) - A second-generation Reactive library for building non-blocking applications on
+the JVM based on the Reactive Streams Specification.
 - [Reactive Kafka](https://github.com/softwaremill/reactive-kafka) - Reactive Streams API for Apache Kafka.
 - [ReactiveX](http://reactivex.io/) - API for asynchronous programming with observable streams. Available for idiomatic Java, Scala, C#, C++, Clojure, JavaScript, Python, Groovy, JRuby, and others.
 - [Simple React](https://github.com/aol/simple-react) - Powerful future streams & asynchronous data structures for Java 8.
@@ -577,8 +585,13 @@ a strategic modeling approach. :small_orange_diamond:<sup>PDF</sup>
 - [Testing Strategies in a Microservice Architecture](http://martinfowler.com/articles/microservice-testing/) - Approaches for managing the additional testing complexity of multiple independently deployable components.
 - [Your Server as a Function](http://monkey.org/~marius/funsrv.pdf) - Describes three abstractions which combine to present a powerful programming model for building safe, modular, and efficient server software: Composable futures, services and filters. :small_orange_diamond:<sup>PDF</sup>
 
+### Talks
+
+- [Bla Bla Microservices Bla Bla](http://jonasboner.com/bla-bla-microservices-bla-bla/) - A talk at the O’Reilly Software Architecture Conference, April 2016.
+
 ### Tutorials
 
+- [Developing a RESTful Microservice in Python](http://www.skybert.net/python/developing-a-restful-micro-service-in-python/) - A story of how an aging Java project was replaced with a microservice built with Python and Flask.
 - [Game On!](https://game-on.org/) - Microservices architecture explained in the context of an old-school text-based adventure game.
 - [Microservices without the Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers/) - Step by step demo-driven talk about serverless architecture.
 - Microservices in C#: [Part 1](http://insidethecpu.com/2015/07/17/microservices-in-c-part-1-building-and-testing/), [Part 2](http://insidethecpu.com/2015/07/31/microservices-in-c-part-2-consistent-message-delivery/), [Part 3](http://insidethecpu.com/2015/08/14/microservices-in-c-part-3-queue-pool-sizing/), [Part 4](http://insidethecpu.com/2015/08/28/microservices-in-c-part-4-scaling-out/), [Part 5](http://insidethecpu.com/2015/09/11/microservices-in-c-part-5-autoscaling/).
@@ -590,6 +603,12 @@ a strategic modeling approach. :small_orange_diamond:<sup>PDF</sup>
 - [Microservices from Theory to Practice](http://www.redbooks.ibm.com/abstracts/sg248275.html?Open) - Microservices from Theory to Practice: Creating Applications in IBM Bluemix Using the Microservices Approach. IBM Redbooks publication.
 - [Migrating to Cloud Native Application Architectures](http://pivotal.io/platform/migrating-to-cloud-native-application-architectures-ebook) - This O’Reilly report defines the unique characteristics of cloud native application architectures such as microservices and twelve-factor applications.
 - [The Art of Scalability](http://theartofscalability.com/) - The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise. Martin L. Abbott, Michael T. Fisher.
+- [The New Stack eBook Series](http://thenewstack.io/ebookseries/) - A Comprehensive Overview of the Docker and Container Ecosystem.
+  + Book 1: The Docker Container Ecosystem.
+  + Book 2: Applications & Microservices with Docker & Containers.
+  + Book 3: Automation & Orchestration with Docker & Containers.
+  + Book 4: Network, Security & Storage with Docker & Containers.
+  + Book 5: Monitoring & Management with Docker & Containers.
 
 ### Sites
 
