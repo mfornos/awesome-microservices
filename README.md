@@ -145,25 +145,25 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Go
 
-- [crudapi](https://github.com/sauerbraten/crudapi) — Go implementation of a RESTful JSON API exposing CRUD functionality relying on a custom storage.
+- [Crudapi](https://github.com/sauerbraten/crudapi) — Go implementation of a RESTful JSON API exposing CRUD functionality relying on a custom storage.
 - [Echo](https://echo.labstack.com/) — Fast and unfancy HTTP server framework for Go (Golang). Up to 10x faster than the rest.
 - [Gin](http://gin-gonic.github.io/gin/) - Web framework written in Golang.
 - [Goa](https://github.com/goadesign/goa) - Design-based HTTP microservices in Go.
 - [Gocraft](https://github.com/gocraft/web) - A toolkit for building web apps. Includes routing, middleware stacks, logging and monitoring.
 - [Goji](https://goji.io/) - Minimalistic and flexible request multiplexer for Go.
 - [Go kit](https://github.com/go-kit/kit) - Distributed programming toolkit for microservices in the modern enterprise.
-- [go-micro](https://github.com/micro/go-micro) - A pluggable RPC microservice framework.
-- [gopencils](https://github.com/bndr/gopencils) — Easily consume REST APIs with Go.
+- [Go-micro](https://github.com/micro/go-micro) - A pluggable RPC microservice framework.
+- [Gopencils](https://github.com/bndr/gopencils) — Easily consume REST APIs with Go.
 - [Gorilla](http://www.gorillatoolkit.org/) - Web toolkit for the Go programming language.
 - [Kite](https://github.com/koding/kite) - Microservices framework in Go.
 - [Libchan](https://github.com/docker/libchan) - Ultra-lightweight networking library which lets network services communicate in the same way that goroutines communicate using channels.
 - [Macaron](https://go-macaron.com/) - Modular web framework in Go.
 - [Micro](https://github.com/micro/micro) - A microservices toolchain in Go.
 - [Negroni](https://github.com/codegangsta/negroni) - Idiomatic HTTP middleware for Golang.
-- [neutrino](https://github.com/neutrinoapp/neutrino) — Realtime/REST backend service.
-- [sleepy](https://github.com/dougblack/sleepy) — rest for go.
-- [vamp-router](https://github.com/magneticio/vamp-router) — Vamp-router is a service routing, load balancing and filtering application.
-- [zerver](https://github.com/cosiner/zerver) — a RESTful API framework.
+- [Neutrino](https://github.com/neutrinoapp/neutrino) — Realtime/REST backend service.
+- [Sleepy](https://github.com/dougblack/sleepy) — rest for go.
+- [Vamp-router](https://github.com/magneticio/vamp-router) — Vamp-router is a service routing, load balancing and filtering application.
+- [Zerver](https://github.com/cosiner/zerver) — a RESTful API framework.
 
 ### Haskell
 
