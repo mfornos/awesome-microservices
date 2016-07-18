@@ -165,7 +165,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Negroni](https://github.com/codegangsta/negroni) - Idiomatic HTTP middleware for Golang.
 - [Neutrino](https://github.com/neutrinoapp/neutrino) - Realtime/REST backend service.
 - [Sleepy](https://github.com/dougblack/sleepy) - REST for go.
-- [Vamp-router](https://github.com/magneticio/vamp-router) — Vamp-router is a service routing, load balancing and filtering application.
+- [Vamp-router](https://github.com/magneticio/vamp-router) - Service routing, load balancing and filtering application.
 - [Zerver](https://github.com/cosiner/zerver) - RESTful API framework.
 
 ### Haskell
