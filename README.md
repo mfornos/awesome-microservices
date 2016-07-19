@@ -76,7 +76,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Cocaine](https://github.com/cocaine) - A cloud platform enabling you to build your own PaaS clouds.
 - [Deis](http://deis.io/) - Open source application platform for public and private clouds.
 - [Fabric8](http://fabric8.io/) - Open source integration platform for deep management of Java Containers (JVMs).
-- [H2](https://github.com/hailocab/h2) - Hailo's microservices platform.
 - [Hook.io](https://hook.io/) - Open source hosting platform for microservices.
 - [Lattice](http://lattice.cf/) - Open source project for running containerized workloads on a cluster. Lattice bundles up http load-balancing, a cluster scheduler, log aggregation/streaming and health management into an easy-to-deploy and easy-to-use package.
 - [Netflix OSS](https://netflix.github.io/) - Netflix open source software ecosystem.
@@ -148,21 +147,30 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Go
 
+- [Crudapi](https://github.com/sauerbraten/crudapi) - Go implementation of a RESTful JSON API exposing CRUD functionality relying on a custom storage.
+- [Echo](https://echo.labstack.com/) - Fast and unfancy HTTP server framework for Go. Up to 10x faster than the rest.
 - [Gin](http://gin-gonic.github.io/gin/) - Web framework written in Golang.
 - [Goa](https://github.com/goadesign/goa) - Design-based HTTP microservices in Go.
 - [Gocraft](https://github.com/gocraft/web) - A toolkit for building web apps. Includes routing, middleware stacks, logging and monitoring.
 - [Goji](https://goji.io/) - Minimalistic and flexible request multiplexer for Go.
 - [Go kit](https://github.com/go-kit/kit) - Distributed programming toolkit for microservices in the modern enterprise.
+- [Go-micro](https://github.com/micro/go-micro) - A pluggable RPC microservice framework.
+- [Gopencils](https://github.com/bndr/gopencils) - Easily consume REST APIs with Go.
 - [Gorilla](http://www.gorillatoolkit.org/) - Web toolkit for the Go programming language.
 - [Kite](https://github.com/koding/kite) - Microservices framework in Go.
 - [Libchan](https://github.com/docker/libchan) - Ultra-lightweight networking library which lets network services communicate in the same way that goroutines communicate using channels.
 - [Macaron](https://go-macaron.com/) - Modular web framework in Go.
 - [Micro](https://github.com/micro/micro) - A microservices toolchain in Go.
 - [Negroni](https://github.com/codegangsta/negroni) - Idiomatic HTTP middleware for Golang.
+- [Neutrino](https://github.com/neutrinoapp/neutrino) - Realtime/REST backend service.
+- [Sleepy](https://github.com/dougblack/sleepy) - REST for go.
+- [Vamp-router](https://github.com/magneticio/vamp-router) - Service routing, load balancing and filtering application.
+- [Zerver](https://github.com/cosiner/zerver) - RESTful API framework.
 
 ### Haskell
 
 - [Scotty](https://github.com/scotty-web/scotty) - Micro web framework inspired by Ruby's Sinatra, using WAI and Warp.
+- [Servant](https://github.com/haskell-servant/servant) - Type-level web DSL.
 - [Yesod](https://github.com/yesodweb/yesod) - The Haskell RESTful web framework.
 
 ### Java VM
