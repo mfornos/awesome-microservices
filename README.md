@@ -257,6 +257,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Kong](https://getkong.org/) - Open source management layer for APIs.
 - [Neutrino](https://github.com/eBay/Neutrino) - Extensible software load balancer.
 - [OpenResty](http://openresty.org/) - Fast web application server built on top of Nginx.
+- [Skipper](https://github.com/zalando/skipper) - HTTP router useful for decoupling routing from service logic.
 - [Tengine](http://tengine.taobao.org/) - A distribution of Nginx with some advanced features.
 - [Træfɪk](http://traefik.io/) - A modern HTTP reverse proxy and load balancer made to deploy microservices with ease.
 - [Tyk](https://tyk.io/) - Open source, fast and scalable API gateway, portal and API management platform.
