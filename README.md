@@ -163,6 +163,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Micro](https://github.com/micro/micro) - A microservices toolchain in Go.
 - [Negroni](https://github.com/codegangsta/negroni) - Idiomatic HTTP middleware for Golang.
 - [Neutrino](https://github.com/neutrinoapp/neutrino) - Realtime/REST backend service.
+- [RPCX](https://github.com/smallnest/rpcx) - A distributed RPC service framework based on net/rpc like alibaba Dubbo and weibo Motan.
 - [Sleepy](https://github.com/dougblack/sleepy) - REST for go.
 - [Vamp-router](https://github.com/magneticio/vamp-router) - Service routing, load balancing and filtering application.
 - [Zerver](https://github.com/cosiner/zerver) - RESTful API framework.
@@ -240,7 +241,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Flask](http://flask.pocoo.org/) - Python framework for microservices based on Werkzeug and Jinja 2.
 - [Nameko](https://github.com/onefinestay/nameko) - Python framework for building microservices.
 - [Tornado](http://www.tornadoweb.org/) - Web framework and asynchronous networking library.
-- [Twisted](https://twistedmatrix.com/trac/) - An Event-Drive Network Programming Engine. 
+- [Twisted](https://twistedmatrix.com/trac/) - An Event-Drive Network Programming Engine.
 - [web.py](http://webpy.org/) - Minimalist web framework for Python.
 
 ### Ruby
