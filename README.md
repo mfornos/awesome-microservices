@@ -546,11 +546,11 @@ of the testing and deployment process.
 
 - [RFC4627](https://tools.ietf.org/html/rfc4627) - JavaScript Object Notation (JSON).
 - [RFC7049](http://tools.ietf.org/search/rfc7049) - Concise Binary Object Representation (CBOR).
-- [BSON](http://bsonspec.org/) - Bin­ary JSON (BSON).
+- [BSON](http://bsonspec.org/) - Binary JSON (BSON).
 - [JSON-LD](http://json-ld.org/) - JSON for Linking Data.
 - [SBE](https://github.com/FIXTradingCommunity/fix-simple-binary-encoding) - Simple Binary Encoding (SBE).
-- [SMILE](http://wiki.fasterxml.com/SmileFormatSpec) - JSON-compatible binary data format.
 - [MSGPACK](https://github.com/msgpack/msgpack/blob/master/spec.md) - MessagePack Specification.
+- [UBJSON](http://ubjson.org/) - Universal Binary JSON Specification.
 
 ### Vocabularies
 
