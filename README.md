@@ -75,7 +75,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Cisco Microservices](https://github.com/CiscoCloud/microservices-infrastructure) - Modern platform for rapidly deploying globally distributed services.
 - [Cocaine](https://github.com/cocaine) - A cloud platform enabling you to build your own PaaS clouds.
 - [Deis](http://deis.io/) - Open source application platform for public and private clouds.
-- [Fabric8](http://fabric8.io/) - Open source integration platform for deep management of Java Containers (JVMs).
+- [Fabric8](http://fabric8.io/) - Open source microservices platform based on Docker, Kubernetes and Jenkins. Makes it easy to create, edit, deploy and manage microservices and go faster.
 - [Hook.io](https://hook.io/) - Open source hosting platform for microservices.
 - [Lattice](http://lattice.cf/) - Open source project for running containerized workloads on a cluster. Lattice bundles up http load-balancing, a cluster scheduler, log aggregation/streaming and health management into an easy-to-deploy and easy-to-use package.
 - [Netflix OSS](https://netflix.github.io/) - Netflix open source software ecosystem.
@@ -163,6 +163,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Micro](https://github.com/micro/micro) - A microservices toolchain in Go.
 - [Negroni](https://github.com/codegangsta/negroni) - Idiomatic HTTP middleware for Golang.
 - [Neutrino](https://github.com/neutrinoapp/neutrino) - Realtime/REST backend service.
+- [RPCX](https://github.com/smallnest/rpcx) - A distributed RPC service framework based on net/rpc like alibaba Dubbo and weibo Motan.
 - [Sleepy](https://github.com/dougblack/sleepy) - REST for go.
 - [Vamp-router](https://github.com/magneticio/vamp-router) - Service routing, load balancing and filtering application.
 - [Zerver](https://github.com/cosiner/zerver) - RESTful API framework.
@@ -179,6 +180,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Compojure](https://github.com/weavejester/compojure) - A concise routing library for Ring/Clojure.
 - [Duct](https://github.com/weavejester/duct) - Minimal framework for building web applications in Clojure, with a strong emphasis on simplicity.
+- [Friboo](https://github.com/zalando/friboo) - Utility library for writing microservices in Clojure, with support for Swagger and OAuth.
 - [Liberator](http://clojure-liberator.github.io/liberator/) - Library that helps you expose your data as resources while automatically complying with all the relevant requirements of the HTTP specification.
 - [Modularity](https://modularity.org/) - JUXT's Clojure-based modular system.
 - [System](https://github.com/danielsz/system) - Built on top of Stuart Sierra's component library, offers a set of readymade components.
@@ -229,8 +231,10 @@ A curated list of Microservice Architecture related principles and technologies.
 ### PHP
 
 - [API Platform](https://api-platform.com/) - API-first web framework on top of Symfony with JSON-LD, Schema.org and Hydra support.
+- [Lumen](https://lumen.laravel.com/) - Stunningly fast micro-framework.
 - [Phalcon](https://phalconphp.com/) - Full-stack PHP framework delivered as a C-extension.
 - [Silex](http://silex.sensiolabs.org/) - Micro-framework based on the Symfony components.
+- [Slim](http://www.slimframework.com/) - Micro-framework that helps you quickly write simple yet powerful web applications and APIs.
 
 ### Python
 
@@ -238,7 +242,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Flask](http://flask.pocoo.org/) - Python framework for microservices based on Werkzeug and Jinja 2.
 - [Nameko](https://github.com/onefinestay/nameko) - Python framework for building microservices.
 - [Tornado](http://www.tornadoweb.org/) - Web framework and asynchronous networking library.
-- [Twisted](https://twistedmatrix.com/trac/) - An Event-Drive Network Programming Engine. 
+- [Twisted](https://twistedmatrix.com/trac/) - An Event-Drive Network Programming Engine.
 - [web.py](http://webpy.org/) - Minimalist web framework for Python.
 
 ### Ruby
@@ -257,6 +261,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Kong](https://getkong.org/) - Open source management layer for APIs.
 - [Neutrino](https://github.com/eBay/Neutrino) - Extensible software load balancer.
 - [OpenResty](http://openresty.org/) - Fast web application server built on top of Nginx.
+- [Skipper](https://github.com/zalando/skipper) - HTTP router useful for decoupling routing from service logic.
 - [Tengine](http://tengine.taobao.org/) - A distribution of Nginx with some advanced features.
 - [Træfɪk](http://traefik.io/) - A modern HTTP reverse proxy and load balancer made to deploy microservices with ease.
 - [Tyk](https://tyk.io/) - Open source, fast and scalable API gateway, portal and API management platform.
@@ -358,6 +363,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Aerospike](http://www.aerospike.com/) - High performance NoSQL database delivering speed at scale.
 - [ArangoDB](https://www.arangodb.com/) - A distributed free and open source database with a flexible data model for documents, graphs, and key-values.
+- [ClickHouse](https://clickhouse.yandex/) - Column-oriented database management system that allows generating analytical data reports in real time.
 - [Couchbase](http://www.couchbase.com/) - A distributed database engineered for performance, scalability, and simplified administration.
 - [Crate](https://crate.io/) - Scalable SQL database with the NoSQL goodies.
 - [Datomic](http://www.datomic.com/) - Fully transactional, cloud-ready, distributed database.
@@ -543,11 +549,11 @@ of the testing and deployment process.
 
 - [RFC4627](https://tools.ietf.org/html/rfc4627) - JavaScript Object Notation (JSON).
 - [RFC7049](http://tools.ietf.org/search/rfc7049) - Concise Binary Object Representation (CBOR).
-- [BSON](http://bsonspec.org/) - Bin­ary JSON (BSON).
+- [BSON](http://bsonspec.org/) - Binary JSON (BSON).
 - [JSON-LD](http://json-ld.org/) - JSON for Linking Data.
 - [SBE](https://github.com/FIXTradingCommunity/fix-simple-binary-encoding) - Simple Binary Encoding (SBE).
-- [SMILE](http://wiki.fasterxml.com/SmileFormatSpec) - JSON-compatible binary data format.
 - [MSGPACK](https://github.com/msgpack/msgpack/blob/master/spec.md) - MessagePack Specification.
+- [UBJSON](http://ubjson.org/) - Universal Binary JSON Specification.
 
 ### Vocabularies
 
