@@ -444,6 +444,7 @@ Graphite, InfluxDB & OpenTSDB.
 
 ### On-prem
 
+- [Drone](https://github.com/drone/drone) - Drone is a continuous delivery platform built on Docker, written in Go.
 - [ION-Roller](https://github.com/gilt/ionroller) - AWS immutable deployment framework for web services.
 - [Janky](https://github.com/github/janky) - Continuous integration server built on top of Jenkins and Hubot.
 - [Jenkins](http://jenkins-ci.org/) - Extensible open source continuous integration server.
@@ -452,7 +453,6 @@ Graphite, InfluxDB & OpenTSDB.
 - [Puller](https://github.com/crufter/puller) - A very simple, distributed tool to deploy and do CI with Docker containers.
 - [Rancher](https://github.com/rancher/rancher) - Open source platform for operating Docker in production.
 - [RPM Maven](http://mojo.codehaus.org/rpm-maven-plugin/) - Allows artifacts from one or more projects to be packaged in an RPM for distribution.
-- [Drone](https://github.com/drone/drone) - Drone is a Continuous Delivery platform built on Docker, written in Go
 
 ### Hosted
 
