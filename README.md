@@ -627,6 +627,7 @@ a strategic modeling approach. :small_orange_diamond:<sup>PDF</sup>
   + Book 3: Automation & Orchestration with Docker & Containers.
   + Book 4: Network, Security & Storage with Docker & Containers.
   + Book 5: Monitoring & Management with Docker & Containers.
+- [The Tao of Microservices](https://www.manning.com/books/the-tao-of-microservices) - Teaches the path to understanding how to apply microservices architecture with your own real-world projects.
 
 ### Sites
 
