@@ -444,6 +444,7 @@ Graphite, InfluxDB & OpenTSDB.
 
 ### On-prem
 
+- [Buddy Go](https://buddy.works/buddy-go) - The On-Premises Git and Continuous Integration Platform
 - [Drone](https://github.com/drone/drone) - Drone is a continuous delivery platform built on Docker, written in Go.
 - [ION-Roller](https://github.com/gilt/ionroller) - AWS immutable deployment framework for web services.
 - [Janky](https://github.com/github/janky) - Continuous integration server built on top of Jenkins and Hubot.
@@ -457,9 +458,11 @@ Graphite, InfluxDB & OpenTSDB.
 
 - [AWS CodeDeploy](http://aws.amazon.com/codedeploy/) - Deployment service that enables developers to automate the deployment of applications to instances and to update the applications as required.
 - [AWS OpsWorks](http://aws.amazon.com/opsworks/) - Provides a simple and flexible way to create and manage stacks and applications.
+- [Buddy](https://buddy.works/) - The Git and Continuous Delivery Platform.
 - [Codeship](https://codeship.com/) - Hosted continuous delivery platform that takes care
 of the testing and deployment process.
 - [Travis](https://travis-ci.org/) - Continuous integration and deployment service.
+
 
 ### Lightweight
 
