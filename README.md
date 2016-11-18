@@ -282,6 +282,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [SkyDNS](https://github.com/skynetservices/skydns) - Distributed service for announcement and discovery of services built on top of etcd. It utilizes DNS queries to discover available services.
 - [SmartStack](https://github.com/airbnb/smartstack-cookbook) - Airbnb's automated service discovery and registration framework.
 - [Spring Cloud Config](http://cloud.spring.io/spring-cloud-config/) - Provides server and client-side support for externalized configuration in a distributed system.
+- [Hyperbahn](https://github.com/uber/hyperbahn) - Service discovery and routing for large scale microservice operations.
 - [ZooKeeper](https://zookeeper.apache.org/) - Open source server which enables highly reliable distributed coordination.
 
 ### Security
