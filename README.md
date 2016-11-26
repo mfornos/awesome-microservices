@@ -273,6 +273,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Configuration and Discovery
 
 - [Consul](https://www.consul.io/) - Service discovery and configuration made easy. Distributed, highly available, and datacenter-aware.
+- [ContainerPilot](https://github.com/joyent/containerpilot) - Service for autodiscovery and configuration of applications running in containers.
 - [Denominator](https://github.com/Netflix/denominator) - Portably control DNS clouds using java or bash.
 - [Doozer](https://github.com/ha/doozerd) - Highly-available, completely consistent store for small amounts of data. When the data changes, it can notify connected clients immediately.
 - [Etcd](https://github.com/coreos/etcd) - Highly-available key-value store for shared configuration and service discovery.
@@ -373,6 +374,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Elasticsearch](https://www.elastic.co/products/elasticsearch) - Open source distributed, scalable, and highly available search server.
 - [Elliptics](http://reverbrain.com/elliptics/) - Fault tolerant distributed key/value storage.
 - [Geode](http://geode.incubator.apache.org/) - Open source, distributed, in-memory database for scale-out applications.
+- [Manta](https://www.joyent.com/manta) - Highly scalable, distributed object storage service with integrated compute.
 - [MemSQL](http://www.memsql.com/) - High-performance, in-memory database that combines the horizontal scalability of distributed systems with the familiarity of SQL.
 - [Parquet](https://parquet.apache.org/) - Columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
 - [Reborn](https://github.com/reborndb/reborn) - Distributed database fully compatible with redis protocol.
@@ -425,6 +427,7 @@ Graphite, InfluxDB & OpenTSDB.
 
 ### Logging
 
+- [Bunyan](https://github.com/trentm/node-bunyan) - Simple and fast JSON logging library for node.js services.
 - [Fluentd](http://www.fluentd.org/) - Open source data collector for unified logging layer.
 - [Graylog](https://www.graylog.org/) - Fully integrated open source log management platform.
 - [Kibana](https://www.elastic.co/products/kibana) - Flexible analytics and visualization platform.
@@ -468,6 +471,7 @@ of the testing and deployment process.
 ### Lightweight
 
 - [Capsule](https://github.com/puniverse/capsule) - Packaging and deployment tool for JVM applications.
+- [Fleet](https://github.com/substack/fleet) - Multi-server continuous git-based deployment and process management.
 - [Kafka Deploy](https://github.com/nathanmarz/kafka-deploy) - Automated deploy for a Kafka cluster on AWS.
 - [LambdaCD](https://github.com/flosell/lambdacd) - A library to define a continuous delivery pipeline in code.
 
