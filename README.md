@@ -468,7 +468,7 @@ Graphite, InfluxDB & OpenTSDB.
 - [Codeship](https://codeship.com/) - Hosted continuous delivery platform that takes care
 of the testing and deployment process.
 - [Travis](https://travis-ci.org/) - Continuous integration and deployment service.
-
+- [Semaphore](https://semaphoreci.com/) — Continuous integration and deployment service with native Docker support.
 
 ### Lightweight
 
