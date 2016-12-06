@@ -94,7 +94,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Microserver](https://github.com/aol/micro-server) - Java 8 native, zero configuration, standards based, battle hardened library to run Java REST microservices.
 - [Orbit](http://orbit.bioware.com/) - Modern framework for JVM languages that makes it easier to build and maintain distributed and scalable online services.
 - [Quasar](https://github.com/puniverse/quasar) - Fibers, Channels and Actors for the JVM.
-- [Service Fabric I/O](http://scalecube.io) - A microservices framework for the rapid development of distributed, resilient, reactive applications at scale.
+- [Scale Cube](http://scalecube.io/) - Library for building resilient and reactive microservices with peer-to-peer service registry and discovery based on gossip protocol.
 - [Vert.X](http://vertx.io/) - Toolkit for building reactive applications on the JVM.
 - [Vert.X Toolbox](https://github.com/vert-x3/vertx-microservices-toolbox) - A set of Vert.x components to build reactive microservice applications.
 
@@ -386,8 +386,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Reactivity
 
-- [Reactor.io](http://projectreactor.io) - A second-generation Reactive library for building non-blocking applications on
-the JVM based on the Reactive Streams Specification.
+- [Reactor.io](http://projectreactor.io) - A second-generation Reactive library for building non-blocking applications on the JVM based on the Reactive Streams Specification.
 - [Reactive Kafka](https://github.com/softwaremill/reactive-kafka) - Reactive Streams API for Apache Kafka.
 - [ReactiveX](http://reactivex.io/) - API for asynchronous programming with observable streams. Available for idiomatic Java, Scala, C#, C++, Clojure, JavaScript, Python, Groovy, JRuby, and others.
 - [Simple React](https://github.com/aol/simple-react) - Powerful future streams & asynchronous data structures for Java 8.
@@ -415,8 +414,7 @@ the JVM based on the Reactive Streams Specification.
 - [Collectd](https://collectd.org/) - The system statistics collection daemon.
 - [Elastalert](https://github.com/yelp/elastalert) - Easy & flexible alerting for Elasticsearch.
 - [Ganglia](http://ganglia.info/) - A scalable distributed monitoring system for high-performance computing systems such as clusters and grids.
-- [Grafana](http://grafana.org/) - An open source, feature rich metrics dashboard and graph editor for
-Graphite, InfluxDB & OpenTSDB.
+- [Grafana](http://grafana.org/) - An open source, feature rich metrics dashboard and graph editor for Graphite, InfluxDB & OpenTSDB.
 - [Graphite](http://graphite.wikidot.com/) - Scalable realtime graphing.
 - [Parallec](https://github.com/eBay/parallec) - Fast parallel asynchronous HTTP/SSH/TCP/Ping client Java library.
 - [Prometheus](http://prometheus.io/) - An open source service monitoring system and time series database.
@@ -466,8 +464,7 @@ Graphite, InfluxDB & OpenTSDB.
 - [AWS CodeDeploy](http://aws.amazon.com/codedeploy/) - Deployment service that enables developers to automate the deployment of applications to instances and to update the applications as required.
 - [AWS OpsWorks](http://aws.amazon.com/opsworks/) - Provides a simple and flexible way to create and manage stacks and applications.
 - [Buddy](https://buddy.works/) - The Git and Continuous Delivery Platform.
-- [Codeship](https://codeship.com/) - Hosted continuous delivery platform that takes care
-of the testing and deployment process.
+- [Codeship](https://codeship.com/) - Hosted continuous delivery platform that takes care of the testing and deployment process.
 - [Travis](https://travis-ci.org/) - Continuous integration and deployment service.
 
 
@@ -605,8 +602,7 @@ of the testing and deployment process.
 - [Reactive Manifesto](http://www.reactivemanifesto.org/) - Reactive systems definition.
 - [Reactive Streams](http://www.reactive-streams.org/) - Initiative to provide a standard for asynchronous stream processing with non-blocking back pressure.
 - [ROCAS](http://resources.1060research.com/docs/2015/Resource-Oriented-Computing-Adaptive-Systems-ROCAS-1.2.pdf) - Resource Oriented Computing for Adaptive Systems. :small_orange_diamond:<sup>PDF</sup>
-- [SECO](http://ceur-ws.org/Vol-746/IWSECO2011-6-DengYu.pdf) - Understanding software ecosystems:
-a strategic modeling approach. :small_orange_diamond:<sup>PDF</sup>
+- [SECO](http://ceur-ws.org/Vol-746/IWSECO2011-6-DengYu.pdf) - Understanding software ecosystems: a strategic modeling approach. :small_orange_diamond:<sup>PDF</sup>
 - [Service Discovery in a Microservice Architecture](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/) - Overview of discovery and registration patterns.
 - [Testing Strategies in a Microservice Architecture](http://martinfowler.com/articles/microservice-testing/) - Approaches for managing the additional testing complexity of multiple independently deployable components.
 - [Your Server as a Function](http://monkey.org/~marius/funsrv.pdf) - Describes three abstractions which combine to present a powerful programming model for building safe, modular, and efficient server software: Composable futures, services and filters. :small_orange_diamond:<sup>PDF</sup>
