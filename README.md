@@ -1,28 +1,3 @@
-# Incorporating Git-flow into Copyediting workflow
-
-### Introduction
-
-Git-flow is a well-known and an established process in the programming world. However, copyeditors have to find their way in the sea of copyediting, and discover the right tools for their job.
-
-I'm going to describe how and why I use git when collaborating with all of my writers. This approach served me well, and I'd like to share my experience with the rest of the copyediting crew. Mind you, this may not be the perfect solution for the ones who are not into technology and learning new stuff, but if you overcome the fear of the terminal, there are a lot of benefits which you'd not get otherwise. For example, you won't have to wait for the tech crew to publish your posts to your website, you could do it on your own.
-
-## Operating System
-
-I've been using both Windows and Linux (Fedora distribution) in the past, but I've completely switched to Fedora a couple of months ago. Windows was nothing but a pain point, and I've decided to remove it completely. 
-
-## Tools
-
-I'm using git, GitHub (both personally and at work), Bibucket (recently started experimenting with it), and Sublime editor as my favourite editor (I suggest you to check out Atom also). At work, there's this Rails app which we use to post new articles, and personally I've been using both Jekyll and Hugo. At the time of writing this post, I am using Hugo only, and I'm loving it. 
-
-- what is git
-- github/bitbucket
-- screenshots
-- review history
-- markdown
-- finishing the reviewing process
-- next steps
-
-
 # Awesome Microservices [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of Microservice Architecture related principles and technologies.
