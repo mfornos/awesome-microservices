@@ -246,7 +246,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Nameko](https://github.com/onefinestay/nameko) - Python framework for building microservices.
 - [Tornado](http://www.tornadoweb.org/) - Web framework and asynchronous networking library.
 - [Twisted](https://twistedmatrix.com/trac/) - An Event-Drive Network Programming Engine.
-- [web.py](http://webpy.org/) - Minimalist web framework for Python.
+- [web.py](https://github.com/webpy/webpy/) - Minimalist web framework for Python.
 
 ### Ruby
 
