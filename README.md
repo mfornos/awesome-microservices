@@ -467,8 +467,9 @@ Graphite, InfluxDB & OpenTSDB.
 - [Buddy](https://buddy.works/) - The Git and Continuous Delivery Platform.
 - [Codeship](https://codeship.com/) - Hosted continuous delivery platform that takes care
 of the testing and deployment process.
+- [Semaphore](https://semaphoreci.com/) - Continuous integration and deployment service with native Docker support.
 - [Travis](https://travis-ci.org/) - Continuous integration and deployment service.
-- [Semaphore](https://semaphoreci.com/) — Continuous integration and deployment service with native Docker support.
+
 
 ### Lightweight
 
