@@ -191,7 +191,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Mesos](https://mesos.apache.org/) - Abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
 - [Ordasity](https://github.com/boundary/ordasity) - Designed to spread persistent or long-lived workloads across several machines.
 - [Redisson](https://github.com/mrniko/redisson) - Distributed and scalable Java data structures on top of Redis server.
-- [Service Fabric](http://servicefabric.io/) - Fault-tolerant decentralized peer-to-peer based cluster membership service with no single point of failure.
+- [Scale Cube](http://scalecube.io/) - ScaleCube provides a low latency Reactive Microservices library peer-to-peer service registry and discovery based on gossip protocol no single point-of-failure or bottlenecks.
 
 ### Messaging
 
