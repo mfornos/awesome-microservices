@@ -591,7 +591,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ## Enterprise & Verticals
 
-- [Interact](https://interact.io/) - CRM microservices for rapid delivery of tailored CRM Solutions.
+- [Interact](https://interact.io/) - CRM microservices for rapid delivery of tailored solutions.
 - [Predix](https://predix.io/) - Industrial microservices platform.
 
 ## Theory
