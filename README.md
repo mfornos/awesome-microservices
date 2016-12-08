@@ -259,6 +259,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### API Gateways / Edge Services
 
+- [Caddy](https://caddyserver.com/) - Alternative web server that is easy to configure and use.
 - [Camel](http://camel.apache.org/) - Empowers you to define routing and mediation rules in a variety of domain-specific languages, including a Java-based fluent API, Spring or Blueprint XML configuration files, and a Scala DSL.
 - [Fabio](https://github.com/eBay/fabio) - A fast, modern, zero-conf load balancing HTTP/S router for deploying microservices managed by Consul.
 - [HAProxy](http://www.haproxy.org/) - Reliable, high Performance TCP/HTTP load balancer.
@@ -369,7 +370,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Aerospike](http://www.aerospike.com/) - High performance NoSQL database delivering speed at scale.
 - [ArangoDB](https://www.arangodb.com/) - A distributed free and open source database with a flexible data model for documents, graphs, and key-values.
-- [AtlasDB](https://github.com/palantir/atlasdb) - Transactional layer on top of a key value store. .
+- [AtlasDB](https://github.com/palantir/atlasdb) - Transactional layer on top of a key value store.
 - [ClickHouse](https://clickhouse.yandex/) - Column-oriented database management system that allows generating analytical data reports in real time.
 - [Couchbase](http://www.couchbase.com/) - A distributed database engineered for performance, scalability, and simplified administration.
 - [Crate](https://crate.io/) - Scalable SQL database with the NoSQL goodies.
@@ -469,7 +470,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Codeship](https://codeship.com/) - Hosted continuous delivery platform that takes care of the testing and deployment process.
 - [Semaphore](https://semaphoreci.com/) - Continuous integration and deployment service with native Docker support.
 - [Travis](https://travis-ci.org/) - Continuous integration and deployment service.
-
 
 ### Lightweight
 
