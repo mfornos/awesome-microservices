@@ -57,6 +57,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Vocabularies](#vocabularies)
   - [Unicode](#unicode)
 - [Real Life Stories](#real-life-stories)
+- [Enterprise & Verticals](#enterprise--verticals)
 - [Theory](#theory)
   - [Articles & Papers](#articles--papers)
   - [Talks](#talks)
@@ -259,7 +260,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### API Gateways / Edge Services
 
-- [Caddy](https://caddyserver.com/) - Alternative web server that is easy to configure and use.
+- [Caddy](https://caddyserver.com/) - Extensible HTTP/2 web server with automatic HTTPS.
 - [Camel](http://camel.apache.org/) - Empowers you to define routing and mediation rules in a variety of domain-specific languages, including a Java-based fluent API, Spring or Blueprint XML configuration files, and a Scala DSL.
 - [Fabio](https://github.com/eBay/fabio) - A fast, modern, zero-conf load balancing HTTP/S router for deploying microservices managed by Consul.
 - [HAProxy](http://www.haproxy.org/) - Reliable, high Performance TCP/HTTP load balancer.
@@ -587,6 +588,11 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Microservices: lessons from the frontline](https://www.thoughtworks.com/insights/blog/microservices-lessons-frontline)
 - [Monolith first](http://martinfowler.com/bliki/MonolithFirst.html)
 - [Scaling microservices at Gilt with Scala, Docker and AWS](http://www.infoq.com/news/2015/04/scaling-microservices-gilt)
+
+## Enterprise & Verticals
+
+- [Interact](https://interact.io/) - CRM microservices for rapid delivery of tailored CRM Solutions.
+- [Predix](https://predix.io/) - Industrial microservices platform.
 
 ## Theory
 
