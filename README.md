@@ -192,8 +192,9 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Airlift](https://github.com/airlift/airlift) - Framework for building REST services in Java.
 - [Disruptor](https://github.com/LMAX-Exchange/disruptor) - A High Performance Inter-Thread Messaging Library.
 - [Dropwizard](https://dropwizard.github.io/) - Java framework for developing ops-friendly, high-performance, RESTful web services.
+- [HTTP Remoting](https://github.com/palantir/http-remoting) - Libraries for defining and creating RESTish/RPC servers and clients based on Feign or Retrofit as a client and Dropwizard/Jersey with JAX-RS service definitions as a server.
 - [Jersey](https://jersey.java.net/) - RESTful Web Services in Java. JAX-RS (JSR 311 & JSR 339) Reference Implementation.
-- [MSF4J](https://github.com/wso2/msf4j) - High throughput & low memory footprint Java microservices framework.
+- [MSF4J](htps://github.com/wso2/msf4j) - High throughput & low memory footprint Java microservices framework.
 - [QBit](https://github.com/advantageous/qbit) - Reactive programming library for building microservices.
 - [Ratpack](https://ratpack.io/) - Set of Java libraries that facilitate fast, efficient, evolvable and well tested HTTP applications. specific support for the Groovy language is provided.
 - [Restlet](http://restlet.com/) - Helps Java developers build web APIs that follow the REST architecture style.
@@ -368,6 +369,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Aerospike](http://www.aerospike.com/) - High performance NoSQL database delivering speed at scale.
 - [ArangoDB](https://www.arangodb.com/) - A distributed free and open source database with a flexible data model for documents, graphs, and key-values.
+- [AtlasDB](https://github.com/palantir/atlasdb) - Transactional layer on top of a key value store. .
 - [ClickHouse](https://clickhouse.yandex/) - Column-oriented database management system that allows generating analytical data reports in real time.
 - [Couchbase](http://www.couchbase.com/) - A distributed database engineered for performance, scalability, and simplified administration.
 - [Crate](https://crate.io/) - Scalable SQL database with the NoSQL goodies.
