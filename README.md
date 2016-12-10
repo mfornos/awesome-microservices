@@ -243,12 +243,11 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Python
 
-- [Celery](http://www.celeryproject.org) - An asynchronous task queue/job queue based on distributed message passing. Focused on real-time operation and supports scheduling.
 - [Flask](http://flask.pocoo.org/) - Python framework for microservices based on Werkzeug and Jinja 2.
 - [Nameko](https://github.com/onefinestay/nameko) - Python framework for building microservices.
 - [Tornado](http://www.tornadoweb.org/) - Web framework and asynchronous networking library.
-- [Twisted](https://twistedmatrix.com/trac/) - An Event-Drive Network Programming Engine.
-- [web.py](https://github.com/webpy/webpy/) - Minimalist web framework for Python.
+- [Twisted](https://twistedmatrix.com/trac/) - Event-driven network programming engine.
+- [Web.py](https://github.com/webpy/webpy/) - Minimalist web framework for Python.
 
 ### Ruby
 
@@ -304,6 +303,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Job Schedulers / Workload Automation
 
+- [Celery](http://www.celeryproject.org) - Asynchronous task queue/job queue based on distributed message passing. Focused on real-time operation and supports scheduling.
 - [Chronos](https://github.com/mesos/chronos) - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules.
 - [Fenzo](https://github.com/Netflix/Fenzo) - Extensible scheduler for Mesos frameworks.
 - [JobScheduler](http://www.sos-berlin.com/jobscheduler) - Open Source solution for enterprise-level workload automation. It is used to launch executable files and shell scripts and to run database procedures automatically.
