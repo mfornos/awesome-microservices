@@ -105,7 +105,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Agnostic
 
 - [Apex](https://github.com/apex/apex) - Tool for deploying and managing AWS Lambda functions. With shims for languages not yet supported by Lambda, you can use Golang out of the box.
-- [CoAP](http://coap.technology/impls.html) - Constrained Application Protocol implementations.
+- [CoAP](http://coap.technology/impls.html) - Constrained application protocol implementations.
 - [GRPC](http://www.grpc.io/) - A high performance, open source, general RPC framework that puts mobile and HTTP/2 first. Libraries in C, C++, Java, Go, Node.js, Python, Ruby, Objective-C, PHP and C#.
 - [Hprose](http://github.com/hprose) - A very newbility RPC Library, support 25+ languages now.
 
@@ -164,7 +164,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Micro](https://github.com/micro/micro) - A microservices toolchain in Go.
 - [Negroni](https://github.com/codegangsta/negroni) - Idiomatic HTTP middleware for Golang.
 - [Neutrino](https://github.com/neutrinoapp/neutrino) - Realtime/REST backend service.
-- [RPCX](https://github.com/smallnest/rpcx) - A distributed RPC service framework based on net/rpc like alibaba Dubbo and weibo Motan.
+- [RPCX](https://github.com/smallnest/rpcx) - A distributed RPC service framework based on NET/RPC like Alibaba Dubbo and Weibo Motan.
 - [Sleepy](https://github.com/dougblack/sleepy) - REST for go.
 - [Vamp-router](https://github.com/magneticio/vamp-router) - Service routing, load balancing and filtering application.
 - [Zerver](https://github.com/cosiner/zerver) - RESTful API framework.
@@ -190,15 +190,15 @@ A curated list of Microservice Architecture related principles and technologies.
 #### Java
 
 - [Airlift](https://github.com/airlift/airlift) - Framework for building REST services in Java.
-- [Disruptor](https://github.com/LMAX-Exchange/disruptor) - A High Performance Inter-Thread Messaging Library.
+- [Disruptor](https://github.com/LMAX-Exchange/disruptor) - High-performance inter-thread messaging library.
 - [Dropwizard](https://dropwizard.github.io/) - Java framework for developing ops-friendly, high-performance, RESTful web services.
 - [HTTP Remoting](https://github.com/palantir/http-remoting) - Libraries for defining and creating RESTish/RPC servers and clients based on Feign or Retrofit as a client and Dropwizard/Jersey with JAX-RS service definitions as a server.
-- [Jersey](https://jersey.java.net/) - RESTful services in Java. JAX-RS (JSR 311 & JSR 339) Reference Implementation.
+- [Jersey](https://jersey.java.net/) - RESTful services in Java. JAX-RS reference implementation.
 - [MSF4J](htps://github.com/wso2/msf4j) - High throughput & low memory footprint Java microservices framework.
 - [QBit](https://github.com/advantageous/qbit) - Reactive programming library for building microservices.
 - [Ratpack](https://ratpack.io/) - Set of Java libraries that facilitate fast, efficient, evolvable and well tested HTTP applications. specific support for the Groovy language is provided.
 - [Restlet](http://restlet.com/) - Helps Java developers build web APIs that follow the REST architecture style.
-- [Spark](http://sparkjava.com/) - A micro framework for creating web applications in Java 8 with minimal effort.
+- [Spark](http://sparkjava.com/) - A micro-framework for creating web applications in Java 8 with minimal effort.
 - [Spring Boot](http://projects.spring.io/spring-boot/) - Makes it easy to create stand-alone, production-grade Spring based applications.
 
 #### Scala
