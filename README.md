@@ -135,7 +135,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### CSharp
 
-- [AKKA.net](http://getakka.net/) - Toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET & Mono.
+- [Akka.NET](http://getakka.net/) - Toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET & Mono.
 
 ### D
 
