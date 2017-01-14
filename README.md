@@ -12,6 +12,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Agnostic](#agnostic)
   - [C](#c)
   - [C++](#c-1)
+  - [C#](#csharp)
   - [D](#d)
   - [Erlang VM](#erlang-vm)
   - [Go](#go)
@@ -131,6 +132,10 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Poco](http://pocoproject.org/) - C++ class libraries for building network-based applications and servers.
 - [Served](https://github.com/datasift/served) - C++ library for building high-performance RESTful web servers.
 - [ULib](https://github.com/stefanocasazza/ULib) - Highly optimized class framework for writing C++ applications.
+
+### CSharp
+
+- [Akka.NET](http://getakka.net/) - Toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET & Mono.
 
 ### D
 
