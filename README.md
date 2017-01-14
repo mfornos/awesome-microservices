@@ -273,6 +273,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [HAProxy](http://www.haproxy.org/) - Reliable, high Performance TCP/HTTP load balancer.
 - [Keepalived](http://www.keepalived.org/) - Simple and robust facilities for loadbalancing and high-availability to Linux system and Linux based infrastructures.
 - [Kong](https://getkong.org/) - Open source management layer for APIs.
+- [Linkerd](https://linkerd.io/) - Resilient service mesh for cloud native apps.
 - [Neutrino](https://github.com/eBay/Neutrino) - Extensible software load balancer.
 - [OpenResty](http://openresty.org/) - Fast web application server built on top of Nginx.
 - [Skipper](https://github.com/zalando/skipper) - HTTP router useful for decoupling routing from service logic.
