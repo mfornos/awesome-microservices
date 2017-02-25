@@ -682,6 +682,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Blockchain ID](https://github.com/blockstack/blockchain-id/wiki) - A unique identifier that is secured by a blockchain. Blockchain IDs are simultaneously secure, human-meaningful, and decentralized, thereby squaring Zooko's triangle.
 - [Blocknet](http://blocknet.co/) - The Blocknet makes possible to deliver microservices over a blockchain-based P2P network architecture.
+- [CEPTR](http://ceptr.org/) - A recomposable medium for distributed social computing, a semantic self-describing protocol stack, and a cretor of fractal coherence contexts for biomimetic computing.
 - [Edgware Fabric](http://edgware-fabric.org/) - Lightweight, agile service bus for systems at the edge of the network, in the physical world.
 - [MultiChain](http://www.multichain.com/) - Open platform for building blockchains.
 - [Node-RED](http://nodered.org/) - Visual tool for wiring together hardware devices, APIs and online services in new and interesting ways.
