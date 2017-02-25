@@ -95,13 +95,13 @@ A curated list of Microservice Architecture related principles and technologies.
 - [GPars](https://github.com/GPars/GPars) - Concurrency and Parallelism framework for the JVM.
 - [Karyon](https://github.com/Netflix/karyon) - The nucleus or the base container for applications and services built using the NetflixOSS ecosystem.
 - [Lagom](https://github.com/lagom/lagom) - Reactive microservices for the JVM.
+- [Light Java](https://github.com/networknt/light-java) - A fast, lightweight and more productive microservices framework.
 - [Microserver](https://github.com/aol/micro-server) - Java 8 native, zero configuration, standards based, battle hardened library to run Java REST microservices.
 - [Orbit](http://orbit.bioware.com/) - Modern framework for JVM languages that makes it easier to build and maintain distributed and scalable online services.
 - [Quasar](https://github.com/puniverse/quasar) - Fibers, Channels and Actors for the JVM.
 - [Scale Cube](http://scalecube.io/) - Library for building resilient and reactive microservices with peer-to-peer service registry and discovery based on gossip protocol.
 - [Vert.X](http://vertx.io/) - Toolkit for building reactive applications on the JVM.
 - [Vert.X Toolbox](https://github.com/vert-x3/vertx-microservices-toolbox) - A set of Vert.x components to build reactive microservice applications.
-- [Light Java](https://github.com/networknt/light-java) - The fastest, lightest and most productive microservices framework.
 
 ## Service Toolkits
 
@@ -310,12 +310,12 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Dex](https://github.com/coreos/dex) - Opinionated auth/directory service with pluggable connectors. OpenID Connect provider and third-party OAuth 2.0 delegation.
 - [JWT](http://jwt.io/) - JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties.
 - [Keycloak](https://github.com/keycloak/keycloak) - Full-featured and extensible auth service. OpenID Connect provider and third-party OAuth 2.0 delegation.
+- [Light OAuth2](https://github.com/networknt/light-oauth2) - A fast, lightweight and cloud native OAuth 2.0 authorization microservices based on light-java.
 - [OAuth](http://oauth.net/2/) - Provides specific authorization flows for web applications, desktop applications, mobile phones, and living room devices. Many implementations.
 - [OpenID Connect](http://openid.net/developers/libraries/) - Libraries, products, and tools implementing current OpenID specifications and related specs.
 - [OSIAM](https://github.com/osiam/osiam) - Open source identity and access management implementing OAuth 2.0 and SCIMv2.
 - [SCIM](http://www.simplecloud.info/) - System for Cross-domain Identity Management.
 - [Vault](https://www.vaultproject.io/) - Secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets in modern computing.
-- [Light OAuth2](https://github.com/networknt/light-oauth2) - The fastest, lightest and cloud native OAuth 2.0 authorization microservices.
 
 ### Job Schedulers / Workload Automation
 
@@ -643,14 +643,14 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Tutorials
 
 - [Developing a RESTful Microservice in Python](http://www.skybert.net/python/developing-a-restful-micro-service-in-python/) - A story of how an aging Java project was replaced with a microservice built with Python and Flask.
+- [Developing Microservices in Light Java](https://networknt.github.io/light-java/tutorials/microservices/) - A step by step guide to build microservices with security, logging, metrics etc. and deployed with docker.
 - [Game On!](https://game-on.org/) - Microservices architecture explained in the context of an old-school text-based adventure game.
 - [Microservices without the Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers/) - Step by step demo-driven talk about serverless architecture.
 - Microservices in C#: [Part 1](http://insidethecpu.com/2015/07/17/microservices-in-c-part-1-building-and-testing/), [Part 2](http://insidethecpu.com/2015/07/31/microservices-in-c-part-2-consistent-message-delivery/), [Part 3](http://insidethecpu.com/2015/08/14/microservices-in-c-part-3-queue-pool-sizing/), [Part 4](http://insidethecpu.com/2015/08/28/microservices-in-c-part-4-scaling-out/), [Part 5](http://insidethecpu.com/2015/09/11/microservices-in-c-part-5-autoscaling/).
 - [Microservices with Python, RabbitMQ and Nameko](http://brunorocha.org/python/microservices-with-python-rabbitmq-and-nameko.html)
+- [Petstore Example in Light Java](https://networknt.github.io/light-java/example/petstore/) - Petstore API from OpenAPI specification to production.
 - [Reactive Microservices](https://github.com/theiterators/reactive-microservices) - Project showcasing different microservice communication styles using Scala, Akka, Play and other tools from Scala ecosystem.
 - [Using Packer and Ansible to build immutable infrastructure](https://blog.codeship.com/packer-ansible/)
-- [Petstore Example in Light Java](https://networknt.github.io/light-java/example/petstore/) - Petstore API from OpenAPI specification to production.
-- [Developing Microservices in Light Java](https://networknt.github.io/light-java/tutorials/microservices/) - A step by step guide to build microservices with security, logging, metrics etc. and deployed with docker.
 
 ### Books
 
