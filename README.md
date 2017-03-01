@@ -203,7 +203,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Dropwizard](https://dropwizard.github.io/) - Java framework for developing ops-friendly, high-performance, RESTful web services.
 - [HTTP Remoting](https://github.com/palantir/http-remoting) - Libraries for defining and creating RESTish/RPC servers and clients based on Feign or Retrofit as a client and Dropwizard/Jersey with JAX-RS service definitions as a server.
 - [Jersey](https://jersey.java.net/) - RESTful services in Java. JAX-RS reference implementation.
-- [MSF4J](htps://github.com/wso2/msf4j) - High throughput & low memory footprint Java microservices framework.
+- [MSF4J](https://github.com/wso2/msf4j) - High throughput & low memory footprint Java microservices framework.
 - [QBit](https://github.com/advantageous/qbit) - Reactive programming library for building microservices.
 - [Ratpack](https://ratpack.io/) - Set of Java libraries that facilitate fast, efficient, evolvable and well tested HTTP applications. specific support for the Groovy language is provided.
 - [Restlet](http://restlet.com/) - Helps Java developers build web APIs that follow the REST architecture style.
@@ -590,6 +590,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Vocabularies
 
+- [JSON Schema](http://json-schema.org/) - Vocabulary that allows you to annotate and validate JSON documents.
 - [LOV](http://lov.okfn.org/) - Linked open vocabularies.
 - [Schema.org](http://schema.org/) - Collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.
 
