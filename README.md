@@ -93,6 +93,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Erlang/OTP](https://github.com/erlang/otp) - Programming language used to build massively scalable soft real-time systems with requirements on high availability.
 - [Finagle](http://twitter.github.io/finagle) - Extensible RPC system for the JVM, used to construct high-concurrency servers.
 - [GPars](https://github.com/GPars/GPars) - Concurrency and Parallelism framework for the JVM.
+- [Ice](https://zeroc.com/) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python, and more.
 - [Karyon](https://github.com/Netflix/karyon) - The nucleus or the base container for applications and services built using the NetflixOSS ecosystem.
 - [Lagom](https://github.com/lagom/lagom) - Reactive microservices for the JVM.
 - [Light Java](https://github.com/networknt/light-java) - A fast, lightweight and more productive microservices framework.
@@ -448,7 +449,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Trace](https://github.com/RisingStack/trace-nodejs) - A visualised stack trace platform designed for microservices.
 - [Watcher](https://www.elastic.co/products/watcher) - Alerting for Elasticsearch.
 - [Zabbix](http://www.zabbix.com/) - Open source enterprise-class monitoring solution.
-- [Zipkin](http://zipkin.io) - Distributed tracing system
+- [Zipkin](http://zipkin.io) - Distributed tracing system.
 
 ### Logging
 
