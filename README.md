@@ -677,6 +677,7 @@ A curated list of Microservice Architecture related principles and technologies.
   + Book 4: Network, Security & Storage with Docker & Containers.
   + Book 5: Monitoring & Management with Docker & Containers.
 - [The Tao of Microservices](https://www.manning.com/books/the-tao-of-microservices) - Teaches the path to understanding how to apply microservices architecture with your own real-world projects.
+- [Microservice Patterns](https://www.manning.com/books/microservice-patterns) - teaches how to build applications with the microservice architecture and how to refactor a monolithic application to a microservices.
 
 ### Sites
 
