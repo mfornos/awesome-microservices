@@ -330,7 +330,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Fenzo](https://github.com/Netflix/Fenzo) - Extensible scheduler for Mesos frameworks.
 - [JobScheduler](http://www.sos-berlin.com/jobscheduler) - Open Source solution for enterprise-level workload automation. It is used to launch executable files and shell scripts and to run database procedures automatically.
 - [OpenLava](http://www.openlava.org/) - Workload scheduler that supports a variety of HPC and analytic applications.
-- [Rundec](http://rundeck.org/) - Job scheduler and runbook automation. Enable self-service access to existing scripts and tools.
+- [Rundeck](http://rundeck.org/) - Job scheduler and runbook automation. Enable self-service access to existing scripts and tools.
 - [Schedulix](http://www.schedulix.org/en) - Open source enterprise job scheduling system lays down ground-breaking standards for the professional automation of IT processes in advanced system environments.
 
 ### Elasticity
