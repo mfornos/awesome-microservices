@@ -486,6 +486,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Project 6](https://github.com/DatawiseIO/Project6) - Software for deploying and managing Docker containers across a cluster of hosts, with a focus on simplifying network and storage configurations for on-premises environments.
 - [Puller](https://github.com/crufter/puller) - A very simple, distributed tool to deploy and do CI with Docker containers.
 - [Rancher](https://github.com/rancher/rancher) - Open source platform for operating Docker in production.
+- [Spinnaker](https://github.com/spinnaker/spinnaker) - Open source cloud-agnostic continuous delivery and infrastructure management platform.
 
 ### Hosted
 
