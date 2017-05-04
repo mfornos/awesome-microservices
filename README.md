@@ -256,6 +256,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Flask](http://flask.pocoo.org/) - Python framework for microservices based on Werkzeug and Jinja 2.
 - [Nameko](https://github.com/onefinestay/nameko) - Python framework for building microservices.
+- [Sanic](https://github.com/channelcat/sanic) - Sanic is a Flask-like Python 3.5+ web server that's written to go fast.
 - [Tornado](http://www.tornadoweb.org/) - Web framework and asynchronous networking library.
 - [Twisted](https://twistedmatrix.com/trac/) - Event-driven network programming engine.
 - [Web.py](https://github.com/webpy/webpy/) - Minimalist web framework for Python.
@@ -330,7 +331,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Fenzo](https://github.com/Netflix/Fenzo) - Extensible scheduler for Mesos frameworks.
 - [JobScheduler](http://www.sos-berlin.com/jobscheduler) - Open Source solution for enterprise-level workload automation. It is used to launch executable files and shell scripts and to run database procedures automatically.
 - [OpenLava](http://www.openlava.org/) - Workload scheduler that supports a variety of HPC and analytic applications.
-- [Rundec](http://rundeck.org/) - Job scheduler and runbook automation. Enable self-service access to existing scripts and tools.
+- [Rundeck](http://rundeck.org/) - Job scheduler and runbook automation. Enable self-service access to existing scripts and tools.
 - [Schedulix](http://www.schedulix.org/en) - Open source enterprise job scheduling system lays down ground-breaking standards for the professional automation of IT processes in advanced system environments.
 
 ### Elasticity
@@ -486,6 +487,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Project 6](https://github.com/DatawiseIO/Project6) - Software for deploying and managing Docker containers across a cluster of hosts, with a focus on simplifying network and storage configurations for on-premises environments.
 - [Puller](https://github.com/crufter/puller) - A very simple, distributed tool to deploy and do CI with Docker containers.
 - [Rancher](https://github.com/rancher/rancher) - Open source platform for operating Docker in production.
+- [Spinnaker](https://github.com/spinnaker/spinnaker) - Open source cloud-agnostic continuous delivery and infrastructure management platform.
 
 ### Hosted
 
