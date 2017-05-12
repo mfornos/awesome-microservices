@@ -212,7 +212,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 #### Scala
 
-- [Akka HTTP](http://doc.akka.io/docs/akka/current/scala/http) - Open source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka (will replace Spray).
+- [Akka HTTP](http://doc.akka.io/docs/akka-http/current/scala.html) - Open source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka (will replace Spray).
 - [Colossus](https://github.com/tumblr/colossus) - I/O and microservice library for Scala.
 - [Finatra](http://twitter.github.io/finatra/) - Fast, testable, Scala HTTP services built on Twitter-Server and Finagle.
 - [Http4s](http://http4s.org/) - A minimal, idiomatic Scala interface for HTTP
