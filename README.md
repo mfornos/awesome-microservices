@@ -482,6 +482,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Drone](https://github.com/drone/drone) - Drone is a continuous delivery platform built on Docker, written in Go.
 - [ION-Roller](https://github.com/gilt/ionroller) - AWS immutable deployment framework for web services.
 - [Janky](https://github.com/github/janky) - Continuous integration server built on top of Jenkins and Hubot.
+- [GoCD](https://www.gocd.io/) - Open source continuous delivery server to model and visualize complex workflows with ease.
 - [Jenkins](http://jenkins-ci.org/) - Extensible open source continuous integration server.
 - [Nscale](https://github.com/nearform/nscale) - Open toolkit supporting configuration, build and deployment of connected container sets.
 - [Project 6](https://github.com/DatawiseIO/Project6) - Software for deploying and managing Docker containers across a cluster of hosts, with a focus on simplifying network and storage configurations for on-premises environments.
