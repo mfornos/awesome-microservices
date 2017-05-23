@@ -226,6 +226,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Actionhero](http://www.actionherojs.com/) - Multi-transport Node.js API server with integrated cluster capabilities and delayed tasks.
 - [Baucis](https://github.com/wprl/baucis) - To build and maintain scalable HATEOAS/Level 3 REST APIs.
+- [cote](https://github.com/dashersw/cote) - A Node.js library for building zero-configuration microservices.
 - [Express](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
 - [FeathersJS](http://feathersjs.com/) - An open source REST and realtime API layer for modern applications.
 - [Graft](https://github.com/GraftJS/graft) - Full-stack javascript through microservices.
@@ -239,7 +240,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Seneca](http://senecajs.org/) - A microservices toolkit for Node.js
 - [Serverless](https://github.com/serverless/serverless) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS).
 - [StdLib](https://stdlib.com/) - Standard library for microservices.
-- [cote](https://github.com/dashersw/cote) - A Node.js library for building zero-configuration microservices.
 
 ### Perl
 
