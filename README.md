@@ -93,7 +93,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Ice](https://zeroc.com/) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python, and more.
 - [Karyon](https://github.com/Netflix/karyon) - The nucleus or the base container for applications and services built using the NetflixOSS ecosystem.
 - [Lagom](https://github.com/lagom/lagom) - Reactive microservices for the JVM.
-- [Light Java](https://github.com/networknt/light-java) - A fast, lightweight and more productive microservices framework.
 - [Microserver](https://github.com/aol/micro-server) - Java 8 native, zero configuration, standards based, battle hardened library to run Java REST microservices.
 - [Orbit](http://orbit.bioware.com/) - Modern framework for JVM languages that makes it easier to build and maintain distributed and scalable online services.
 - [Quasar](https://github.com/puniverse/quasar) - Fibers, channels and actors for the JVM.
@@ -657,7 +656,6 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Tutorials
 
 - [Developing a RESTful Microservice in Python](http://www.skybert.net/python/developing-a-restful-micro-service-in-python/) - A story of how an aging Java project was replaced with a microservice built with Python and Flask.
-- [Developing Microservices in Light Java](https://networknt.github.io/light-java/tutorials/microservices/) - A step by step guide to build microservices with security, logging, metrics etc. and deployed with docker.
 - [Game On!](https://game-on.org/) - Microservices architecture explained in the context of an old-school text-based adventure game.
 - [Microservices without the Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers/) - Step by step demo-driven talk about serverless architecture.
 - Microservices in C#: [Part 1](http://insidethecpu.com/2015/07/17/microservices-in-c-part-1-building-and-testing/), [Part 2](http://insidethecpu.com/2015/07/31/microservices-in-c-part-2-consistent-message-delivery/), [Part 3](http://insidethecpu.com/2015/08/14/microservices-in-c-part-3-queue-pool-sizing/), [Part 4](http://insidethecpu.com/2015/08/28/microservices-in-c-part-4-scaling-out/), [Part 5](http://insidethecpu.com/2015/09/11/microservices-in-c-part-5-autoscaling/).
