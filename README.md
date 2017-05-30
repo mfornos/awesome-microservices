@@ -497,6 +497,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [AWS CodeDeploy](http://aws.amazon.com/codedeploy/) - Deployment service that enables developers to automate the deployment of applications to instances and to update the applications as required.
 - [AWS OpsWorks](http://aws.amazon.com/opsworks/) - Provides a simple and flexible way to create and manage stacks and applications.
 - [Buddy](https://buddy.works/) - The Git and Continuous Delivery Platform.
+- [LambCI](https://github.com/lambci/lambci) - Serverless continuous integration.
 - [Codeship](https://codeship.com/) - Hosted continuous delivery platform that takes care of the testing and deployment process.
 - [Semaphore](https://semaphoreci.com/) - Continuous integration and deployment service with native Docker support.
 - [Travis](https://travis-ci.org/) - Continuous integration and deployment service.
