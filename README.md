@@ -98,6 +98,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Orbit](http://orbit.bioware.com/) - Modern framework for JVM languages that makes it easier to build and maintain distributed and scalable online services.
 - [Quasar](https://github.com/puniverse/quasar) - Fibers, channels and actors for the JVM.
 - [Scale Cube](http://scalecube.io/) - Library for building resilient and reactive microservices with peer-to-peer service registry and discovery based on gossip protocol.
+- [Squeezer](https://squeezer.io) - Event-driven APIs and web applications running as microservices, serverless.
 - [Vert.X](http://vertx.io/) - Toolkit for building reactive applications on the JVM.
 - [Vert.X Toolbox](https://github.com/vert-x3/vertx-microservices-toolbox) - A set of Vert.x components to build reactive microservice applications.
 - [Wangle](https://github.com/facebook/wangle) - A framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
