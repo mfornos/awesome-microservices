@@ -717,5 +717,5 @@ Please, read the [Contribution Guidelines](https://github.com/mfornos/awesome-mi
 
 Feel free to [open an issue](https://github.com/mfornos/awesome-microservices/issues) or [create a pull request](https://github.com/mfornos/awesome-microservices/pulls) with your additions.
 
-:star2: Thank you!
+:star2: Thank you!  
 [c]: https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg
