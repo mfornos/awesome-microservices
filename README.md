@@ -98,6 +98,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Orbit](http://orbit.bioware.com/) - Modern framework for JVM languages that makes it easier to build and maintain distributed and scalable online services.
 - [Quasar](https://github.com/puniverse/quasar) - Fibers, channels and actors for the JVM.
 - [Scale Cube](http://scalecube.io/) - Library for building resilient and reactive microservices with peer-to-peer service registry and discovery based on gossip protocol.
+- [Squeezer](https://squeezer.io) - Event-driven APIs and web applications running as microservices, serverless.
 - [Vert.X](http://vertx.io/) - Toolkit for building reactive applications on the JVM.
 - [Vert.X Toolbox](https://github.com/vert-x3/vertx-microservices-toolbox) - A set of Vert.x components to build reactive microservice applications.
 - [Wangle](https://github.com/facebook/wangle) - A framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
@@ -202,7 +203,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Disruptor](https://github.com/LMAX-Exchange/disruptor) - High-performance inter-thread messaging library.
 - [Dropwizard](https://dropwizard.github.io/) - Java framework for developing ops-friendly, high-performance, RESTful web services.
 - [HTTP Remoting](https://github.com/palantir/http-remoting) - Libraries for defining and creating RESTish/RPC servers and clients based on Feign or Retrofit as a client and Dropwizard/Jersey with JAX-RS service definitions as a server.
-- [Jersey](https://jersey.java.net/) - RESTful services in Java. JAX-RS reference implementation.
+- [Jersey](https://jersey.github.io/) - RESTful services in Java. JAX-RS reference implementation.
 - [MSF4J](https://github.com/wso2/msf4j) - High throughput & low memory footprint Java microservices framework.
 - [QBit](https://github.com/advantageous/qbit) - Reactive programming library for building microservices.
 - [Ratpack](https://ratpack.io/) - Set of Java libraries that facilitate fast, efficient, evolvable and well tested HTTP applications. specific support for the Groovy language is provided.
@@ -212,7 +213,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 #### Scala
 
-- [Akka HTTP](http://doc.akka.io/docs/akka/current/scala/http) - Open source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka (will replace Spray).
+- [Akka HTTP](http://doc.akka.io/docs/akka-http/current/scala.html) - Open source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka (will replace Spray).
 - [Colossus](https://github.com/tumblr/colossus) - I/O and microservice library for Scala.
 - [Finatra](http://twitter.github.io/finatra/) - Fast, testable, Scala HTTP services built on Twitter-Server and Finagle.
 - [Http4s](http://http4s.org/) - A minimal, idiomatic Scala interface for HTTP
@@ -235,6 +236,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Loopback](http://loopback.io/) - Node.js framework for creating APIs and easily connecting to backend data sources.
 - [Micro](http://github.com/zeithq/micro) - Asynchronous HTTP microservices.
 - [Micro-Whalla](https://github.com/czerwonkabartosz/Micro-Whalla) - A simple, fast framework for writing microservices in Node.js communicate using RPC / IPC.
+- [Moleculer](http://moleculer.services/) - Fast & powerful microservices framework for NodeJS.
 - [Restify](http://restify.com/) - Node.js module built specifically to enable you to build correct REST web services.
 - [Seneca](http://senecajs.org/) - A microservices toolkit for Node.js
 - [Serverless](https://github.com/serverless/serverless) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS).
@@ -254,12 +256,14 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Python
 
+- [API Star](https://github.com/tomchristie/apistar) - A fast and expressive API framework, designed for Python 3.
 - [Flask](http://flask.pocoo.org/) - Python framework for microservices based on Werkzeug and Jinja 2.
 - [Nameko](https://github.com/onefinestay/nameko) - Python framework for building microservices.
 - [Sanic](https://github.com/channelcat/sanic) - Sanic is a Flask-like Python 3.5+ web server that's written to go fast.
 - [Tornado](http://www.tornadoweb.org/) - Web framework and asynchronous networking library.
 - [Twisted](https://twistedmatrix.com/trac/) - Event-driven network programming engine.
 - [Web.py](https://github.com/webpy/webpy/) - Minimalist web framework for Python.
+- [Zappa](https://github.com/Miserlou/Zappa) - Framework for building and deploying server-less Python event-driven and web applications.
 
 ### Ruby
 
@@ -272,6 +276,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### API Gateways / Edge Services
 
 - [Amalgam8](https://github.com/amalgam8) - Content-based routing fabric for polyglot microservices.
+- [Annon](https://github.com/nebo15/annon.api) - Open source API gateway with built-in API management, authentication and status pages written in Elixir.
 - [Caddy](https://caddyserver.com/) - Extensible HTTP/2 web server with automatic HTTPS.
 - [Camel](http://camel.apache.org/) - Empowers you to define routing and mediation rules in a variety of domain-specific languages, including a Java-based fluent API, Spring or Blueprint XML configuration files, and a Scala DSL.
 - [Envoy](https://github.com/lyft/envoy) - Open source edge and service proxy, from the developers at Lyft.
@@ -657,12 +662,11 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Tutorials
 
 - [Developing a RESTful Microservice in Python](http://www.skybert.net/python/developing-a-restful-micro-service-in-python/) - A story of how an aging Java project was replaced with a microservice built with Python and Flask.
-- [Developing Microservices in Light Java](https://networknt.github.io/light-java/tutorials/microservices/) - A step by step guide to build microservices with security, logging, metrics etc. and deployed with docker.
+- [Developing and Testing Microservices With Docker](http://mherman.org/blog/2017/04/18/developing-and-testing-microservices-with-docker) - An example of the processes involved in creating a simple Docker-packaged Node microservice.
 - [Game On!](https://game-on.org/) - Microservices architecture explained in the context of an old-school text-based adventure game.
 - [Microservices without the Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers/) - Step by step demo-driven talk about serverless architecture.
 - Microservices in C#: [Part 1](http://insidethecpu.com/2015/07/17/microservices-in-c-part-1-building-and-testing/), [Part 2](http://insidethecpu.com/2015/07/31/microservices-in-c-part-2-consistent-message-delivery/), [Part 3](http://insidethecpu.com/2015/08/14/microservices-in-c-part-3-queue-pool-sizing/), [Part 4](http://insidethecpu.com/2015/08/28/microservices-in-c-part-4-scaling-out/), [Part 5](http://insidethecpu.com/2015/09/11/microservices-in-c-part-5-autoscaling/).
 - [Microservices with Python, RabbitMQ and Nameko](http://brunorocha.org/python/microservices-with-python-rabbitmq-and-nameko.html)
-- [Petstore Example in Light Java](https://networknt.github.io/light-java/example/petstore/) - Petstore API from OpenAPI specification to production.
 - [Reactive Microservices](https://github.com/theiterators/reactive-microservices) - Project showcasing different microservice communication styles using Scala, Akka, Play and other tools from Scala ecosystem.
 - [Using Packer and Ansible to build immutable infrastructure](https://blog.codeship.com/packer-ansible/)
 
@@ -670,6 +674,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Building Microservices](https://www.nginx.com/wp-content/uploads/2015/01/Building_Microservices_Nginx.pdf) :small_orange_diamond:<sup>PDF</sup> - Building Microservices: Designing Fine-grained Systems. Sam Newman. Preview Edition.
 - [Microservice Architecture: Aligning Principles, Practices, and Culture](http://shop.oreilly.com/product/0636920050308.do) - Practical advice for the strategy and design of Microservices.
+- [Microservice Patterns](https://www.manning.com/books/microservice-patterns) - Teaches how to build applications with the microservice architecture and how to refactor a monolithic application to a microservices.
 - [Microservices from Theory to Practice](http://www.redbooks.ibm.com/abstracts/sg248275.html?Open) - Microservices from Theory to Practice: Creating Applications in IBM Bluemix Using the Microservices Approach. IBM Redbooks publication.
 - [Migrating to Cloud Native Application Architectures](http://pivotal.io/platform/migrating-to-cloud-native-application-architectures-ebook) - This O’Reilly report defines the unique characteristics of cloud native application architectures such as microservices and twelve-factor applications.
 - [Testing Microservices with Mountebank](https://www.manning.com/books/testing-microservices-with-mountebank) - Provides a testing strategy using mountebank for service virtualization, promoting independent releases of Microservices
