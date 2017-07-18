@@ -102,6 +102,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Vert.X](http://vertx.io/) - Toolkit for building reactive applications on the JVM.
 - [Vert.X Toolbox](https://github.com/vert-x3/vertx-microservices-toolbox) - A set of Vert.x components to build reactive microservice applications.
 - [Wangle](https://github.com/facebook/wangle) - A framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
+- [WildFly Swarm](http://wildfly-swarm.io/) - building microservices starting with just-enough Java EE and based on [Eclipse MicroProfile](https://projects.eclipse.org/proposals/eclipse-microprofile)
 
 ## Service Toolkits
 
