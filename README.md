@@ -241,6 +241,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Seneca](http://senecajs.org/) - A microservices toolkit for Node.js
 - [Serverless](https://github.com/serverless/serverless) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS).
 - [StdLib](https://stdlib.com/) - Standard library for microservices.
+- [Micro Panda](https://github.com/zhaoyao91/micro-panda) - Node.js toolkit to help build micro services.
 
 ### Perl
 
