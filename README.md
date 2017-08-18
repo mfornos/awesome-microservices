@@ -36,9 +36,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Serialization](#serialization)
   - [Storage](#storage)
   - [Testing](#testing)
-- [IT Automation / Provisioning](#it-automation--provisioning)
 - [Continuous Integration and Continuous Delivery](#continuous-integration-and-continuous-delivery)
-- [Containers](#containers)
 - [Documentation & Modeling](#documentation--modeling)
   - [REST APIs](#rest-apis)
 - [Standards / Recommendations](#standards--recommendations)
@@ -478,31 +476,9 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Wilma](https://github.com/epam/Wilma) - Combined HTTP/HTTPS service stub and transparent proxy solution.
 - [WireMock](http://wiremock.org/) - Flexible library for stubbing and mocking web services. Unlike general purpose mocking tools it works by creating an actual HTTP server that your code under test can connect to as it would a real web service.
 
-
-## IT Automation / Provisioning
-
-- [Ansible](http://www.ansible.com/) - Radically simple IT automation platform that makes your applications and systems easier to deploy.
-- [Chef](https://www.chef.io/chef/) - Automate how you build, deploy, and manage your infrastructure.
-- [Helios](https://github.com/spotify/helios) - Docker container orchestration platform.
-- [Packer](https://www.packer.io/) - Tool for creating identical machine images for multiple platforms from a single source configuration.
-- [PM2](https://github.com/Unitech/pm2) - Production process manager for Node.js apps with a built-in load balancer.
-- [Puppet](https://puppetlabs.com/) - From provisioning bare metal & launching containers to new ways to manage infrastructure as code.
-- [Salt](https://github.com/saltstack/salt) - Infrastructure automation and management system.
-- [Terraform](https://www.terraform.io/) - Provides a common configuration to launch infrastructure, from physical and virtual servers to email and DNS providers.
-
 ## Continuous Integration and Continuous Delivery
 
-- [Awesome CD/CI](https://github.com/ciandcd/awesome-ciandcd) - A curated list of awesome tools for: continuous integration, continuous delivery and devops.
-
-## Containers
-
-- [AWS ECS](http://aws.amazon.com/ecs/) - Easily run and manage Docker-enabled applications across a cluster of Amazon EC2 instances.
-- [CoreOS](https://coreos.com/) - Open source lightweight operating system based on the Linux kernel and designed for providing infrastructure to clustered deployments.
-- [DC/OS](https://dcos.io/) - Open source orchestration system (built on top of Mesos and Marathon) for automatically distributing and running containers on several computers.
-- [Docker](https://www.docker.com/) - Open platform for distributed applications for developers and sysadmins.
-- [Kubernetes](http://kubernetes.io/) - Open source orchestration system for Docker containers.
-- [Linux Containers](https://linuxcontainers.org/) - The umbrella project behind LXC, LXD, LXCFS and CGManager.
-- [RancherOS](https://github.com/rancher/os) - The smallest, easiest way to run Docker in production at scale.
+- [Awesome CI/CD DevOps](https://github.com/ciandcd/awesome-ciandcd) - A curated list of awesome tools for continuous integration, continuous delivery and DevOps.
 
 ## Documentation & Modeling
 
