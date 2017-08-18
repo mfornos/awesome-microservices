@@ -23,19 +23,19 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Ruby](#ruby)
 - [Capabilities](#capabilities)
   - [API Gateways / Edge Services](#api-gateways--edge-services)
-  - [Coordination and Governance](#coordination-and-governance)
   - [Configuration and Discovery](#configuration-and-discovery)
-  - [Security](#security)
-  - [Job Schedulers / Workload Automation](#job-schedulers--workload-automation)
+  - [Coordination and Governance](#coordination-and-governance)
   - [Elasticity](#elasticity)
+  - [Job Schedulers / Workload Automation](#job-schedulers--workload-automation)
+  - [Logging](#logging)
   - [Messaging](#messaging)
-  - [Serialization](#serialization)
-  - [Storage](#storage)
+  - [Monitoring and Debugging](#monitoring-and-debugging)
   - [Reactivity](#reactivity)
   - [Resilience](#resilience)
+  - [Security](#security)
+  - [Serialization](#serialization)
+  - [Storage](#storage)
   - [Testing](#testing)
-  - [Monitoring and Debugging](#monitoring-and-debugging)
-  - [Logging](#logging)
 - [IT Automation / Provisioning](#it-automation--provisioning)
 - [Continuous Integration and Continuous Delivery](#continuous-integration-and-continuous-delivery)
 - [Containers](#containers)
@@ -295,12 +295,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Vulcand](https://github.com/vulcand/vulcand) - Programmatic load balancer backed by Etcd.
 - [Zuul](https://github.com/Netflix/zuul) - An edge service that provides dynamic routing, monitoring, resiliency, security, and more.
 
-### Coordination and Governance
-
-- [AWS Step Functions ![c]](https://aws.amazon.com/step-functions/) - Coordinate the components of distributed applications and microservices using visual workflows.
-- [Azuqua ![c]](https://azuqua.com/) - Orchestration and governance platform for distributed applications.
-- [Conductor](https://github.com/Netflix/conductor) - A microservices orchestration engine.
-
 ### Configuration and Discovery
 
 - [Consul](https://www.consul.io/) - Service discovery and configuration made easy. Distributed, highly available, and datacenter-aware.
@@ -317,29 +311,11 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Spring Cloud Config](http://cloud.spring.io/spring-cloud-config/) - Provides server and client-side support for externalized configuration in a distributed system.
 - [ZooKeeper](https://zookeeper.apache.org/) - Open source server which enables highly reliable distributed coordination.
 
-### Security
+### Coordination and Governance
 
-- [Crtauth](https://github.com/spotify/crtauth) - A public key backed client/server authentication system.
-- [Dex](https://github.com/coreos/dex) - Opinionated auth/directory service with pluggable connectors. OpenID Connect provider and third-party OAuth 2.0 delegation.
-- [JWT](http://jwt.io/) - JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties.
-- [Keycloak](https://github.com/keycloak/keycloak) - Full-featured and extensible auth service. OpenID Connect provider and third-party OAuth 2.0 delegation.
-- [Light OAuth2](https://github.com/networknt/light-oauth2) - A fast, lightweight and cloud native OAuth 2.0 authorization microservices based on light-java.
-- [OAuth](http://oauth.net/2/) - Provides specific authorization flows for web applications, desktop applications, mobile phones, and living room devices. Many implementations.
-- [OpenID Connect](http://openid.net/developers/libraries/) - Libraries, products, and tools implementing current OpenID specifications and related specs.
-- [OSIAM](https://github.com/osiam/osiam) - Open source identity and access management implementing OAuth 2.0 and SCIMv2.
-- [SCIM](http://www.simplecloud.info/) - System for Cross-domain Identity Management.
-- [Vault](https://www.vaultproject.io/) - Secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets in modern computing.
-
-### Job Schedulers / Workload Automation
-- [Apache Aurora](http://aurora.apache.org/) - Mesos framework for long-running services and cron jobs.
-- [Celery](http://www.celeryproject.org) - Asynchronous task queue/job queue based on distributed message passing. Focused on real-time operation and supports scheduling.
-- [Chronos](https://github.com/mesos/chronos) - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules.
-- [Fenzo](https://github.com/Netflix/Fenzo) - Extensible scheduler for Mesos frameworks.
-- [JobScheduler](http://www.sos-berlin.com/jobscheduler) - Open Source solution for enterprise-level workload automation. It is used to launch executable files and shell scripts and to run database procedures automatically.
-- [OpenLava](http://www.openlava.org/) - Workload scheduler that supports a variety of HPC and analytic applications.
-- [Rundeck](http://rundeck.org/) - Job scheduler and runbook automation. Enable self-service access to existing scripts and tools.
-- [Schedulix](http://www.schedulix.org/en) - Open source enterprise job scheduling system lays down ground-breaking standards for the professional automation of IT processes in advanced system environments.
-- [Singularity](http://getsingularity.com/) - Mesos framework that makes deployment and operations easy. It supports web services, background workers, scheduled jobs, and one-off tasks.
+- [AWS Step Functions ![c]](https://aws.amazon.com/step-functions/) - Coordinate the components of distributed applications and microservices using visual workflows.
+- [Azuqua ![c]](https://azuqua.com/) - Orchestration and governance platform for distributed applications.
+- [Conductor](https://github.com/Netflix/conductor) - A microservices orchestration engine.
 
 ### Elasticity
 
@@ -355,6 +331,25 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Ordasity](https://github.com/boundary/ordasity) - Designed to spread persistent or long-lived workloads across several machines.
 - [Redisson](https://github.com/mrniko/redisson) - Distributed and scalable Java data structures on top of Redis server.
 - [Serf](https://www.serfdom.io/) - Decentralized solution for cluster membership, failure detection and orchestration.
+
+### Job Schedulers / Workload Automation
+
+- [Celery](http://www.celeryproject.org) - Asynchronous task queue/job queue based on distributed message passing. Focused on real-time operation and supports scheduling.
+- [Chronos](https://github.com/mesos/chronos) - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules.
+- [Fenzo](https://github.com/Netflix/Fenzo) - Extensible scheduler for Mesos frameworks.
+- [JobScheduler](http://www.sos-berlin.com/jobscheduler) - Open Source solution for enterprise-level workload automation. It is used to launch executable files and shell scripts and to run database procedures automatically.
+- [OpenLava](http://www.openlava.org/) - Workload scheduler that supports a variety of HPC and analytic applications.
+- [Rundeck](http://rundeck.org/) - Job scheduler and runbook automation. Enable self-service access to existing scripts and tools.
+- [Schedulix](http://www.schedulix.org/en) - Open source enterprise job scheduling system lays down ground-breaking standards for the professional automation of IT processes in advanced system environments.
+
+### Logging
+
+- [Bunyan](https://github.com/trentm/node-bunyan) - Simple and fast JSON logging library for Node.js services.
+- [Fluentd](http://www.fluentd.org/) - Open source data collector for unified logging layer.
+- [Graylog](https://www.graylog.org/) - Fully integrated open source log management platform.
+- [Kibana](https://www.elastic.co/products/kibana) - Flexible analytics and visualization platform.
+- [Logstash](https://www.elastic.co/products/logstash) - Tool for managing events and logs.
+- [Suro](https://github.com/Netflix/suro/wiki) - Distributed data pipeline which enables services for moving, aggregating, routing, storing data.
 
 ### Messaging
 
@@ -377,6 +372,53 @@ A curated list of Microservice Architecture related principles and technologies.
 - [RabbitMQ](https://www.rabbitmq.com/) - Open source Erlang-based message broker that just works.
 - [RocketMQ](https://github.com/apache/incubator-rocketmq) - A low latency, reliable, scalable, easy to use message oriented middleware born from alibaba massive messaging business.
 - [VerneMQ](https://verne.mq) - Open source, scalable, Erlang-based MQTT broker.
+
+### Monitoring and Debugging
+
+- [Beats](https://www.elastic.co/products/beats) - Lightweight shippers for Elasticsearch & Logstash.
+- [Collectd](https://collectd.org/) - The system statistics collection daemon.
+- [Elastalert](https://github.com/yelp/elastalert) - Easy & flexible alerting for Elasticsearch.
+- [Ganglia](http://ganglia.info/) - A scalable distributed monitoring system for high-performance computing systems such as clusters and grids.
+- [Grafana](http://grafana.org/) - An open source, feature rich metrics dashboard and graph editor for Graphite, InfluxDB & OpenTSDB.
+- [Graphite](http://graphite.wikidot.com/) - Scalable realtime graphing.
+- [Parallec](https://github.com/eBay/parallec) - Fast parallel asynchronous HTTP/SSH/TCP/Ping client Java library.
+- [Prometheus](http://prometheus.io/) - An open source service monitoring system and time series database.
+- [REST Commander](https://github.com/eBay/restcommander) - Fast parallel asynchronous HTTP client as a service to monitor and manage HTTP endpoints.
+- [Riemann](http://riemann.io/) - Monitors distributed systems.
+- [Sensu](https://github.com/sensu) - Monitoring for today's infrastructure.
+- [Trace](https://github.com/RisingStack/trace-nodejs) - A visualised stack trace platform designed for microservices.
+- [Watcher](https://www.elastic.co/products/watcher) - Alerting for Elasticsearch.
+- [Zabbix](http://www.zabbix.com/) - Open source enterprise-class monitoring solution.
+- [Zipkin](http://zipkin.io) - Distributed tracing system.
+
+### Reactivity
+
+- [Reactor.io](http://projectreactor.io) - A second-generation Reactive library for building non-blocking applications on the JVM based on the Reactive Streams Specification.
+- [Reactive Kafka](https://github.com/softwaremill/reactive-kafka) - Reactive Streams API for Apache Kafka.
+- [ReactiveX](http://reactivex.io/) - API for asynchronous programming with observable streams. Available for idiomatic Java, Scala, C#, C++, Clojure, JavaScript, Python, Groovy, JRuby, and others.
+- [Simple React](https://github.com/aol/simple-react) - Powerful future streams & asynchronous data structures for Java 8.
+
+### Resilience
+
+- [Hystrix](https://github.com/Netflix/Hystrix) - Latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
+- [Pathod](http://pathod.net/) - Crafted malice for tormenting HTTP clients and servers.
+- [Raft Consensus](http://raftconsensus.github.io/) - Consensus algorithm that is designed to be easy to understand. It's equivalent to Paxos in fault-tolerance and performance.
+- [Resilient HTTP](http://resilient-http.github.io/) - A smart HTTP client with super powers like fault tolerance, dynamic server discovery, auto balancing and reactive recovery, designed for distributed systems.
+- [Saboteur](https://github.com/tomakehurst/saboteur) - Causing deliberate network mayhem for better resilience.
+- [Simian Army](https://github.com/Netflix/SimianArmy) - Suite of tools for keeping your cloud operating in top form. Chaos Monkey, the first member, is a resiliency tool that helps ensure that your applications can tolerate random instance failures.
+
+### Security
+
+- [Crtauth](https://github.com/spotify/crtauth) - A public key backed client/server authentication system.
+- [Dex](https://github.com/coreos/dex) - Opinionated auth/directory service with pluggable connectors. OpenID Connect provider and third-party OAuth 2.0 delegation.
+- [JWT](http://jwt.io/) - JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties.
+- [Keycloak](https://github.com/keycloak/keycloak) - Full-featured and extensible auth service. OpenID Connect provider and third-party OAuth 2.0 delegation.
+- [Light OAuth2](https://github.com/networknt/light-oauth2) - A fast, lightweight and cloud native OAuth 2.0 authorization microservices based on light-java.
+- [OAuth](http://oauth.net/2/) - Provides specific authorization flows for web applications, desktop applications, mobile phones, and living room devices. Many implementations.
+- [OpenID Connect](http://openid.net/developers/libraries/) - Libraries, products, and tools implementing current OpenID specifications and related specs.
+- [OSIAM](https://github.com/osiam/osiam) - Open source identity and access management implementing OAuth 2.0 and SCIMv2.
+- [SCIM](http://www.simplecloud.info/) - System for Cross-domain Identity Management.
+- [Vault](https://www.vaultproject.io/) - Secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets in modern computing.
 
 ### Serialization
 
@@ -427,22 +469,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Voldemort](https://github.com/voldemort/voldemort) - Open source clone of Amazon DynamoDB
 - [VoltDB ![c]](https://www.voltdb.com/) - In-Memory ACID compliant distributed database.
 
-### Reactivity
-
-- [Reactor.io](http://projectreactor.io) - A second-generation Reactive library for building non-blocking applications on the JVM based on the Reactive Streams Specification.
-- [Reactive Kafka](https://github.com/softwaremill/reactive-kafka) - Reactive Streams API for Apache Kafka.
-- [ReactiveX](http://reactivex.io/) - API for asynchronous programming with observable streams. Available for idiomatic Java, Scala, C#, C++, Clojure, JavaScript, Python, Groovy, JRuby, and others.
-- [Simple React](https://github.com/aol/simple-react) - Powerful future streams & asynchronous data structures for Java 8.
-
-### Resilience
-
-- [Hystrix](https://github.com/Netflix/Hystrix) - Latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
-- [Pathod](http://pathod.net/) - Crafted malice for tormenting HTTP clients and servers.
-- [Raft Consensus](http://raftconsensus.github.io/) - Consensus algorithm that is designed to be easy to understand. It's equivalent to Paxos in fault-tolerance and performance.
-- [Resilient HTTP](http://resilient-http.github.io/) - A smart HTTP client with super powers like fault tolerance, dynamic server discovery, auto balancing and reactive recovery, designed for distributed systems.
-- [Saboteur](https://github.com/tomakehurst/saboteur) - Causing deliberate network mayhem for better resilience.
-- [Simian Army](https://github.com/Netflix/SimianArmy) - Suite of tools for keeping your cloud operating in top form. Chaos Monkey, the first member, is a resiliency tool that helps ensure that your applications can tolerate random instance failures.
-
 ### Testing
 
 - [Mitmproxy](https://mitmproxy.org/) - An interactive console program that allows traffic flows to be intercepted, inspected, modified and replayed.
@@ -452,32 +478,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Wilma](https://github.com/epam/Wilma) - Combined HTTP/HTTPS service stub and transparent proxy solution.
 - [WireMock](http://wiremock.org/) - Flexible library for stubbing and mocking web services. Unlike general purpose mocking tools it works by creating an actual HTTP server that your code under test can connect to as it would a real web service.
 
-### Monitoring and Debugging
-
-- [Beats](https://www.elastic.co/products/beats) - Lightweight shippers for Elasticsearch & Logstash.
-- [Collectd](https://collectd.org/) - The system statistics collection daemon.
-- [Elastalert](https://github.com/yelp/elastalert) - Easy & flexible alerting for Elasticsearch.
-- [Ganglia](http://ganglia.info/) - A scalable distributed monitoring system for high-performance computing systems such as clusters and grids.
-- [Grafana](http://grafana.org/) - An open source, feature rich metrics dashboard and graph editor for Graphite, InfluxDB & OpenTSDB.
-- [Graphite](http://graphite.wikidot.com/) - Scalable realtime graphing.
-- [Parallec](https://github.com/eBay/parallec) - Fast parallel asynchronous HTTP/SSH/TCP/Ping client Java library.
-- [Prometheus](http://prometheus.io/) - An open source service monitoring system and time series database.
-- [REST Commander](https://github.com/eBay/restcommander) - Fast parallel asynchronous HTTP client as a service to monitor and manage HTTP endpoints.
-- [Riemann](http://riemann.io/) - Monitors distributed systems.
-- [Sensu](https://github.com/sensu) - Monitoring for today's infrastructure.
-- [Trace](https://github.com/RisingStack/trace-nodejs) - A visualised stack trace platform designed for microservices.
-- [Watcher](https://www.elastic.co/products/watcher) - Alerting for Elasticsearch.
-- [Zabbix](http://www.zabbix.com/) - Open source enterprise-class monitoring solution.
-- [Zipkin](http://zipkin.io) - Distributed tracing system.
-
-### Logging
-
-- [Bunyan](https://github.com/trentm/node-bunyan) - Simple and fast JSON logging library for Node.js services.
-- [Fluentd](http://www.fluentd.org/) - Open source data collector for unified logging layer.
-- [Graylog](https://www.graylog.org/) - Fully integrated open source log management platform.
-- [Kibana](https://www.elastic.co/products/kibana) - Flexible analytics and visualization platform.
-- [Logstash](https://www.elastic.co/products/logstash) - Tool for managing events and logs.
-- [Suro](https://github.com/Netflix/suro/wiki) - Distributed data pipeline which enables services for moving, aggregating, routing, storing data.
 
 ## IT Automation / Provisioning
 
