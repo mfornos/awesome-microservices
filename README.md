@@ -297,8 +297,8 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Coordination and Governance
 
-- [AWS Step Functions](https://aws.amazon.com/step-functions/) :small_orange_diamond: <sup>commercial</sup> - Coordinate the components of distributed applications and microservices using visual workflows.
-- [Azuqua](https://azuqua.com/)  :small_orange_diamond: <sup>commercial</sup> - Orchestration and governance platform for distributed applications.
+- [AWS Step Functions ![c]](https://aws.amazon.com/step-functions/) - Coordinate the components of distributed applications and microservices using visual workflows.
+- [Azuqua ![c]](https://azuqua.com/) - Orchestration and governance platform for distributed applications.
 - [Conductor](https://github.com/Netflix/conductor) - A microservices orchestration engine.
 
 ### Configuration and Discovery
