@@ -334,7 +334,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Vault](https://www.vaultproject.io/) - Secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets in modern computing.
 
 ### Job Schedulers / Workload Automation
-
+- [Apache Aurora](http://aurora.apache.org/) - Mesos framework for long-running services and cron jobs.
 - [Celery](http://www.celeryproject.org) - Asynchronous task queue/job queue based on distributed message passing. Focused on real-time operation and supports scheduling.
 - [Chronos](https://github.com/mesos/chronos) - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules.
 - [Fenzo](https://github.com/Netflix/Fenzo) - Extensible scheduler for Mesos frameworks.
@@ -342,6 +342,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [OpenLava](http://www.openlava.org/) - Workload scheduler that supports a variety of HPC and analytic applications.
 - [Rundeck](http://rundeck.org/) - Job scheduler and runbook automation. Enable self-service access to existing scripts and tools.
 - [Schedulix](http://www.schedulix.org/en) - Open source enterprise job scheduling system lays down ground-breaking standards for the professional automation of IT processes in advanced system environments.
+- [Singularity](http://getsingularity.com/) - Mesos framework that makes deployment and operations easy. It supports web services, background workers, scheduled jobs, and one-off tasks.
 
 ### Elasticity
 
