@@ -37,10 +37,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Monitoring and Debugging](#monitoring-and-debugging)
   - [Logging](#logging)
 - [IT Automation / Provisioning](#it-automation--provisioning)
-- [Deployment and Continuous Integration](#deployment-and-continuous-integration)
-  - [On-prem](#on-prem)
-  - [Hosted](#hosted)
-  - [Lightweight](#lightweight)
+- [Continuous Integration and Continuous Delivery](#continuous-integration-and-continuous-delivery)
 - [Containers](#containers)
 - [Documentation & Modeling](#documentation--modeling)
   - [REST APIs](#rest-apis)
@@ -484,38 +481,9 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Salt](https://github.com/saltstack/salt) - Infrastructure automation and management system.
 - [Terraform](https://www.terraform.io/) - Provides a common configuration to launch infrastructure, from physical and virtual servers to email and DNS providers.
 
-## Deployment and Continuous Integration
+## Continuous Integration and Continuous Delivery
 
-### On-prem
-
-- [Buddy Go](https://buddy.works/buddy-go) - The On-Premises Git and Continuous Integration Platform
-- [Drone](https://github.com/drone/drone) - Drone is a continuous delivery platform built on Docker, written in Go.
-- [ION-Roller](https://github.com/gilt/ionroller) - AWS immutable deployment framework for web services.
-- [Janky](https://github.com/github/janky) - Continuous integration server built on top of Jenkins and Hubot.
-- [GoCD](https://go.cd) - Open source continuous delivery server to model and visualize complex workflows with ease.
-- [Jenkins](http://jenkins-ci.org/) - Extensible open source continuous integration server.
-- [Nscale](https://github.com/nearform/nscale) - Open toolkit supporting configuration, build and deployment of connected container sets.
-- [Project 6](https://github.com/DatawiseIO/Project6) - Software for deploying and managing Docker containers across a cluster of hosts, with a focus on simplifying network and storage configurations for on-premises environments.
-- [Puller](https://github.com/crufter/puller) - A very simple, distributed tool to deploy and do CI with Docker containers.
-- [Rancher](https://github.com/rancher/rancher) - Open source platform for operating Docker in production.
-- [Spinnaker](https://github.com/spinnaker/spinnaker) - Open source cloud-agnostic continuous delivery and infrastructure management platform.
-
-### Hosted
-
-- [AWS CodeDeploy](http://aws.amazon.com/codedeploy/) - Deployment service that enables developers to automate the deployment of applications to instances and to update the applications as required.
-- [AWS OpsWorks](http://aws.amazon.com/opsworks/) - Provides a simple and flexible way to create and manage stacks and applications.
-- [LambCI](https://github.com/lambci/lambci) - Serverless continuous integration tool.
-- [Buddy](https://buddy.works/) - The Git and Continuous Delivery Platform.
-- [Codeship](https://codeship.com/) - Hosted continuous delivery platform that takes care of the testing and deployment process.
-- [Semaphore](https://semaphoreci.com/) - Continuous integration and deployment service with native Docker support.
-- [Travis](https://travis-ci.org/) - Continuous integration and deployment service.
-
-### Lightweight
-
-- [Capsule](https://github.com/puniverse/capsule) - Packaging and deployment tool for JVM applications.
-- [Fleet](https://github.com/substack/fleet) - Multi-server continuous git-based deployment and process management.
-- [Kafka Deploy](https://github.com/nathanmarz/kafka-deploy) - Automated deploy for a Kafka cluster on AWS.
-- [LambdaCD](https://github.com/flosell/lambdacd) - A library to define a continuous delivery pipeline in code.
+- [Awesome CD/CI](https://github.com/ciandcd/awesome-ciandcd) - A curated list of awesome tools for: continuous integration, continuous delivery and devops.
 
 ## Containers
 
