@@ -32,15 +32,12 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Monitoring and Debugging](#monitoring-and-debugging)
   - [Reactivity](#reactivity)
   - [Resilience](#resilience)
-  - [Serialization](#serialization)
   - [Security](#security)
+  - [Serialization](#serialization)
   - [Storage](#storage)
   - [Testing](#testing)
 - [IT Automation / Provisioning](#it-automation--provisioning)
-- [Deployment and Continuous Integration](#deployment-and-continuous-integration)
-  - [On-prem](#on-prem)
-  - [Hosted](#hosted)
-  - [Lightweight](#lightweight)
+- [Continuous Integration and Continuous Delivery](#continuous-integration-and-continuous-delivery)
 - [Containers](#containers)
 - [Documentation & Modeling](#documentation--modeling)
   - [REST APIs](#rest-apis)
@@ -227,6 +224,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Actionhero](http://www.actionherojs.com/) - Multi-transport Node.js API server with integrated cluster capabilities and delayed tasks.
 - [Baucis](https://github.com/wprl/baucis) - To build and maintain scalable HATEOAS/Level 3 REST APIs.
+- [Cote](https://github.com/dashersw/cote) - A Node.js library for building zero-configuration microservices.
 - [Express](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
 - [FeathersJS](http://feathersjs.com/) - An open source REST and realtime API layer for modern applications.
 - [Graft](https://github.com/GraftJS/graft) - Full-stack javascript through microservices.
@@ -249,6 +247,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### PHP
 
 - [API Platform](https://api-platform.com/) - API-first web framework on top of Symfony with JSON-LD, Schema.org and Hydra support.
+- [Flight](https://github.com/mikecao/flight) - An extensible micro-framework.
 - [Lumen](https://lumen.laravel.com/) - Stunningly fast micro-framework.
 - [Phalcon](https://phalconphp.com/) - Full-stack PHP framework delivered as a C-extension.
 - [Silex](http://silex.sensiolabs.org/) - Micro-framework based on the Symfony components.
@@ -269,7 +268,9 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Hanami](https://github.com/hanami) - A modern web framework for Ruby.
 - [Praxis](https://github.com/rightscale/praxis) - Framework for both designing and implementing APIs.
+- [Rails API](http://edgeguides.rubyonrails.org/api_app.html) - Rails as an API only.
 - [Scorched](https://github.com/wardrop/Scorched) - Light-weight web framework for Ruby.
+- [Sinatra](http://www.sinatrarb.com/) - Sinatra is a DSL for quickly creating web applications in Ruby with minimal effort.
 
 ## Capabilities
 
@@ -294,7 +295,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Vulcand](https://github.com/vulcand/vulcand) - Programmatic load balancer backed by Etcd.
 - [Zuul](https://github.com/Netflix/zuul) - An edge service that provides dynamic routing, monitoring, resiliency, security, and more.
 
-
 ### Configuration and Discovery
 
 - [Consul](https://www.consul.io/) - Service discovery and configuration made easy. Distributed, highly available, and datacenter-aware.
@@ -313,8 +313,8 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Coordination and Governance
 
-- [AWS Step Functions](https://aws.amazon.com/step-functions/) :small_orange_diamond: <sup>commercial</sup> - Coordinate the components of distributed applications and microservices using visual workflows.
-- [Azuqua](https://azuqua.com/)  :small_orange_diamond: <sup>commercial</sup> - Orchestration and governance platform for distributed applications.
+- [AWS Step Functions ![c]](https://aws.amazon.com/step-functions/) - Coordinate the components of distributed applications and microservices using visual workflows.
+- [Azuqua ![c]](https://azuqua.com/) - Orchestration and governance platform for distributed applications.
 - [Conductor](https://github.com/Netflix/conductor) - A microservices orchestration engine.
 
 ### Elasticity
@@ -370,6 +370,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [NSQ](http://nsq.io/) - A realtime distributed messaging platform.
 - [Qpid](https://qpid.apache.org/) - Cross-platform messaging components built on AMQP.
 - [RabbitMQ](https://www.rabbitmq.com/) - Open source Erlang-based message broker that just works.
+- [RocketMQ](https://github.com/apache/incubator-rocketmq) - A low latency, reliable, scalable, easy to use message oriented middleware born from alibaba massive messaging business.
 - [VerneMQ](https://verne.mq) - Open source, scalable, Erlang-based MQTT broker.
 
 ### Monitoring and Debugging
@@ -440,25 +441,33 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Thrift](http://thrift.apache.org/) - The Apache Thrift software framework, for scalable cross-language services development.
 
 ### Storage
-
-- [Aerospike](http://www.aerospike.com/) - High performance NoSQL database delivering speed at scale.
+- [Apache Hive](https://hive.apache.org/) - Data warehouse infrastructure built on top of Hadoop.
+- [Apache Cassandra](http://cassandra.apache.org) - Column-oriented and providing high availability with no single point of failure.
+- [Apache HBase](http://hbase.apache.org) - Hadoop database for big data.
+- [Aerospike ![c]](http://www.aerospike.com/) - High performance NoSQL database delivering speed at scale.
 - [ArangoDB](https://www.arangodb.com/) - A distributed free and open source database with a flexible data model for documents, graphs, and key-values.
 - [AtlasDB](https://github.com/palantir/atlasdb) - Transactional layer on top of a key value store.
 - [ClickHouse](https://clickhouse.yandex/) - Column-oriented database management system that allows generating analytical data reports in real time.
+- [CockroachDB ![c]](https://www.cockroachlabs.com/product/cockroachdb-core/) - A cloud-native SQL database modelled after Google Spanner.
 - [Couchbase](http://www.couchbase.com/) - A distributed database engineered for performance, scalability, and simplified administration.
-- [Crate](https://crate.io/) - Scalable SQL database with the NoSQL goodies.
+- [Crate ![c]](https://crate.io/) - Scalable SQL database with the NoSQL goodies.
 - [Datomic](http://www.datomic.com/) - Fully transactional, cloud-ready, distributed database.
 - [Druid](http://druid.io/) - Fast column-oriented distributed data store.
 - [Elasticsearch](https://www.elastic.co/products/elasticsearch) - Open source distributed, scalable, and highly available search server.
 - [Elliptics](http://reverbrain.com/elliptics/) - Fault tolerant distributed key/value storage.
 - [Geode](http://geode.incubator.apache.org/) - Open source, distributed, in-memory database for scale-out applications.
+- [Infinispan](http://infinispan.org/) - Highly concurrent key/value datastore used for caching.
+- [InfluxDB](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
 - [Manta](https://www.joyent.com/manta) - Highly scalable, distributed object storage service with integrated compute.
-- [MemSQL](http://www.memsql.com/) - High-performance, in-memory database that combines the horizontal scalability of distributed systems with the familiarity of SQL.
+- [MemSQL ![c]](http://www.memsql.com/) - High-performance, in-memory database that combines the horizontal scalability of distributed systems with the familiarity of SQL.
+- [OpenTSDB](http://opentsdb.net) - Scalable and distributed time series database written on top of Apache HBase.
 - [Parquet](https://parquet.apache.org/) - Columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
 - [Reborn](https://github.com/reborndb/reborn) - Distributed database fully compatible with redis protocol.
 - [RethinkDB](http://rethinkdb.com/) - Open source, scalable database that makes building realtime apps easier.
 - [Secure Scuttlebutt](https://github.com/ssbc/docs) - P2P database of message-feeds.
 - [Tachyon](http://tachyon-project.org/) - Memory-centric distributed storage system, enabling reliable data sharing at memory-speed across cluster frameworks.
+- [Voldemort](https://github.com/voldemort/voldemort) - Open source clone of Amazon DynamoDB
+- [VoltDB ![c]](https://www.voltdb.com/) - In-Memory ACID compliant distributed database.
 
 ### Testing
 
@@ -481,36 +490,9 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Salt](https://github.com/saltstack/salt) - Infrastructure automation and management system.
 - [Terraform](https://www.terraform.io/) - Provides a common configuration to launch infrastructure, from physical and virtual servers to email and DNS providers.
 
-## Deployment and Continuous Integration
+## Continuous Integration and Continuous Delivery
 
-### On-prem
-
-- [Buddy Go](https://buddy.works/buddy-go) - The On-Premises Git and Continuous Integration Platform
-- [Drone](https://github.com/drone/drone) - Drone is a continuous delivery platform built on Docker, written in Go.
-- [ION-Roller](https://github.com/gilt/ionroller) - AWS immutable deployment framework for web services.
-- [Janky](https://github.com/github/janky) - Continuous integration server built on top of Jenkins and Hubot.
-- [Jenkins](http://jenkins-ci.org/) - Extensible open source continuous integration server.
-- [Nscale](https://github.com/nearform/nscale) - Open toolkit supporting configuration, build and deployment of connected container sets.
-- [Project 6](https://github.com/DatawiseIO/Project6) - Software for deploying and managing Docker containers across a cluster of hosts, with a focus on simplifying network and storage configurations for on-premises environments.
-- [Puller](https://github.com/crufter/puller) - A very simple, distributed tool to deploy and do CI with Docker containers.
-- [Rancher](https://github.com/rancher/rancher) - Open source platform for operating Docker in production.
-- [Spinnaker](https://github.com/spinnaker/spinnaker) - Open source cloud-agnostic continuous delivery and infrastructure management platform.
-
-### Hosted
-
-- [AWS CodeDeploy](http://aws.amazon.com/codedeploy/) - Deployment service that enables developers to automate the deployment of applications to instances and to update the applications as required.
-- [AWS OpsWorks](http://aws.amazon.com/opsworks/) - Provides a simple and flexible way to create and manage stacks and applications.
-- [Buddy](https://buddy.works/) - The Git and Continuous Delivery Platform.
-- [Codeship](https://codeship.com/) - Hosted continuous delivery platform that takes care of the testing and deployment process.
-- [Semaphore](https://semaphoreci.com/) - Continuous integration and deployment service with native Docker support.
-- [Travis](https://travis-ci.org/) - Continuous integration and deployment service.
-
-### Lightweight
-
-- [Capsule](https://github.com/puniverse/capsule) - Packaging and deployment tool for JVM applications.
-- [Fleet](https://github.com/substack/fleet) - Multi-server continuous git-based deployment and process management.
-- [Kafka Deploy](https://github.com/nathanmarz/kafka-deploy) - Automated deploy for a Kafka cluster on AWS.
-- [LambdaCD](https://github.com/flosell/lambdacd) - A library to define a continuous delivery pipeline in code.
+- [Awesome CD/CI](https://github.com/ciandcd/awesome-ciandcd) - A curated list of awesome tools for: continuous integration, continuous delivery and devops.
 
 ## Containers
 
@@ -716,4 +698,7 @@ Please, read the [Contribution Guidelines](https://github.com/mfornos/awesome-mi
 
 Feel free to [open an issue](https://github.com/mfornos/awesome-microservices/issues) or [create a pull request](https://github.com/mfornos/awesome-microservices/pulls) with your additions.
 
-:star2: Thank you!
+:star2: Thank you!  
+
+
+[c]: https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg
