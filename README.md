@@ -492,6 +492,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Drone](https://github.com/drone/drone) - Drone is a continuous delivery platform built on Docker, written in Go.
 - [ION-Roller](https://github.com/gilt/ionroller) - AWS immutable deployment framework for web services.
 - [Janky](https://github.com/github/janky) - Continuous integration server built on top of Jenkins and Hubot.
+- [GoCD](https://go.cd) - Open source continuous delivery server to model and visualize complex workflows with ease.
 - [Jenkins](http://jenkins-ci.org/) - Extensible open source continuous integration server.
 - [Nscale](https://github.com/nearform/nscale) - Open toolkit supporting configuration, build and deployment of connected container sets.
 - [Project 6](https://github.com/DatawiseIO/Project6) - Software for deploying and managing Docker containers across a cluster of hosts, with a focus on simplifying network and storage configurations for on-premises environments.
@@ -503,6 +504,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [AWS CodeDeploy](http://aws.amazon.com/codedeploy/) - Deployment service that enables developers to automate the deployment of applications to instances and to update the applications as required.
 - [AWS OpsWorks](http://aws.amazon.com/opsworks/) - Provides a simple and flexible way to create and manage stacks and applications.
+- [LambCI](https://github.com/lambci/lambci) - Serverless continuous integration tool.
 - [Buddy](https://buddy.works/) - The Git and Continuous Delivery Platform.
 - [Codeship](https://codeship.com/) - Hosted continuous delivery platform that takes care of the testing and deployment process.
 - [Semaphore](https://semaphoreci.com/) - Continuous integration and deployment service with native Docker support.
