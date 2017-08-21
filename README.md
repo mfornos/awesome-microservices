@@ -173,6 +173,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Sleepy](https://github.com/dougblack/sleepy) - REST for go.
 - [Vamp-router](https://github.com/magneticio/vamp-router) - Service routing, load balancing and filtering application.
 - [Zerver](https://github.com/cosiner/zerver) - RESTful API framework.
+- [Iris](https://github.com/kataras/iris) - The fastest backend web framework for Go
 
 ### Haskell
 
