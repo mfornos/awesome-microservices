@@ -71,7 +71,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Cocaine](https://github.com/cocaine) - A cloud platform enabling you to build your own PaaS clouds.
 - [Deis](http://deis.io/) - Open source application platform for public and private clouds.
 - [Fabric8](http://fabric8.io/) - Open source microservices platform based on Docker, Kubernetes and Jenkins. Makes it easy to create, edit, deploy and manage microservices and go faster.
-- [Lightbend](https://www.lightbend.com/) - Platform for building scalable reactive systems on the JVM.
+- [Lightbend ![c]](https://www.lightbend.com/) - Platform for building scalable reactive systems on the JVM.
 - [Netflix OSS](https://netflix.github.io/) - Netflix open source software ecosystem.
 - [VAMP ![c]](http://vamp.io/) - Build, deploy and manage microservices with power and ease.
 
@@ -84,7 +84,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [GPars](https://github.com/GPars/GPars) - Concurrency and parallelism framework for the JVM.
 - [Grenache](https://github.com/bitfinexcom/grenache) - A Bittorent-DHT based microservices framework supporting REQ/REP and PUB/SUB patterns over multiple transports.
 - [Ice](https://zeroc.com/) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python, and more.
-- [Karyon](https://github.com/Netflix/karyon) - The nucleus or the base container for applications and services built using the NetflixOSS ecosystem.
 - [Lagom](https://github.com/lagom/lagom) - Reactive microservices for the JVM.
 - [Light Java](https://github.com/networknt/light-java) - A fast, lightweight and more productive microservices framework.
 - [Microserver](https://github.com/aol/micro-server) - Java 8 native, zero configuration, standards based, battle hardened library to run Java REST microservices.
@@ -145,7 +144,6 @@ A curated list of Microservice Architecture related principles and technologies.
 #### Erlang
 
 - [Cowboy](https://github.com/ninenines/cowboy) - Small, fast, modular HTTP server written in Erlang.
-- [Gen Microservice](https://github.com/videlalvaro/gen_microservice) - This library solves the problem of implementing microservices with Erlang.
 - [Mochiweb](https://github.com/mochi/mochiweb) - Erlang library for building lightweight HTTP servers.
 
 ### Go
