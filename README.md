@@ -237,8 +237,9 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Perl
 
+- [Cro](http://cro.services/) - Libraries for creating reactive distributed systems using Perl 6.
 - [Mojolicious](http://mojolicio.us/) - Next generation web framework for Perl.
-
+  
 ### PHP
 
 - [API Platform](https://api-platform.com/) - API-first web framework on top of Symfony with JSON-LD, Schema.org and Hydra support.
