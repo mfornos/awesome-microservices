@@ -158,6 +158,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Go-micro](https://github.com/micro/go-micro) - A pluggable RPC microservice framework.
 - [Gopencils](https://github.com/bndr/gopencils) - Easily consume REST APIs with Go.
 - [Gorilla](http://www.gorillatoolkit.org/) - Web toolkit for the Go programming language.
+- [Iris](https://github.com/kataras/iris) - Fast, simple and efficient micro web framework for Go.
 - [Kite](https://github.com/koding/kite) - Microservices framework in Go.
 - [Libchan](https://github.com/docker/libchan) - Ultra-lightweight networking library which lets network services communicate in the same way that goroutines communicate using channels.
 - [Micro](https://github.com/micro/micro) - A microservices toolchain in Go.
