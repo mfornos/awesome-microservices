@@ -81,7 +81,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Baratine](http://baratine.io/) - Platform for building a network of loosely-coupled POJO microservices.
 - [Erlang/OTP](https://github.com/erlang/otp) - Programming language used to build massively scalable soft real-time systems with requirements on high availability.
 - [Finagle](http://twitter.github.io/finagle) - Extensible RPC system for the JVM, used to construct high-concurrency servers.
-- [Fission Workflows](https://github.com/fission/fission-workflows) - Workflow-based, reliable function composition for serverless functions.
 - [GPars](https://github.com/GPars/GPars) - Concurrency and parallelism framework for the JVM.
 - [Grenache](https://github.com/bitfinexcom/grenache) - A Bittorent-DHT based microservices framework supporting REQ/REP and PUB/SUB patterns over multiple transports.
 - [Ice](https://zeroc.com/) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python, and more.
@@ -318,6 +317,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [AWS Step Functions ![c]](https://aws.amazon.com/step-functions/) - Coordinate the components of distributed applications and microservices using visual workflows.
 - [Azuqua ![c]](https://azuqua.com/) - Orchestration and governance platform for distributed applications.
 - [Conductor](https://github.com/Netflix/conductor) - A microservices orchestration engine.
+- [Fission Workflows](https://github.com/fission/fission-workflows) - Workflow-based, reliable function composition for serverless functions.
 
 ### Elasticity
 
