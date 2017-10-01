@@ -333,6 +333,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Onyx](https://github.com/onyx-platform/onyx) - Distributed, masterless, high performance, fault tolerant data processing for Clojure.
 - [Ordasity](https://github.com/boundary/ordasity) - Designed to spread persistent or long-lived workloads across several machines.
 - [Redisson](https://github.com/mrniko/redisson) - Distributed and scalable Java data structures on top of Redis server.
+- [ScaleCube](http://scalecube.io) - SWIM and Gossip solution for cluster membership and failure detection. 
 - [Serf](https://www.serfdom.io/) - Decentralized solution for cluster membership, failure detection and orchestration.
 
 ### Job Schedulers / Workload Automation
