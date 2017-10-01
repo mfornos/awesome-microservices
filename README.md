@@ -206,15 +206,14 @@ A curated list of Microservice Architecture related principles and technologies.
 
 #### Scala
 
-- [Akka HTTP](http://doc.akka.io/docs/akka-http/current/scala.html) - Open source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka (will replace Spray).
+- [Akka HTTP](http://doc.akka.io/docs/akka-http/current/scala.html) - Open source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka.
 - [Colossus](https://github.com/tumblr/colossus) - I/O and microservice library for Scala.
 - [Finatra](http://twitter.github.io/finatra/) - Fast, testable, Scala HTTP services built on Twitter-Server and Finagle.
 - [Http4s](http://http4s.org/) - A minimal, idiomatic Scala interface for HTTP
 - [Play](https://www.playframework.com/) - The high velocity web framework for Java and Scala.
 - [Scalatra](http://www.scalatra.org/) - Simple, accessible and free web micro-framework.
 - [Skinny Micro](https://github.com/skinny-framework/skinny-micro) - Micro-web framework to build servlet applications in Scala.
-- [Spray](http://spray.io/) - Open source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka.
-- [Squbs](http://paypal.github.io/squbs/) - A suite of components enabling standardization and operationalization of Akka and Spray applications/services in a large scale, managed, cloud environment.
+- [Squbs](http://paypal.github.io/squbs/) - A suite of components enabling standardization and operationalization of Akka and Akka HTTP applications/services in a large scale, managed, cloud environment.
 
 ### Node.js
 
