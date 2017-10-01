@@ -594,8 +594,9 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ## Enterprise & Verticals
 
-- [Interact](https://interact.io/) - CRM microservices for rapid delivery of tailored solutions.
-- [Predix](https://predix.io/) - Industrial microservices platform.
+- [Interact ![c]](https://interact.io/) - CRM microservices for rapid delivery of tailored solutions.
+- [Predix ![c]](https://predix.io/) - Industrial microservices platform.
+- [YaaS ![c]](https://www.yaas.io) - SAP Hybris microservices ecosystem.
 
 ## Theory
 
