@@ -74,6 +74,8 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Lightbend ![c]](https://www.lightbend.com/) - Platform for building scalable reactive systems on the JVM.
 - [Netflix OSS](https://netflix.github.io/) - Netflix open source software ecosystem.
 - [VAMP ![c]](http://vamp.io/) - Build, deploy and manage microservices with power and ease.
+- [Istio](https://istio.io/) - An open platform to connect, manage, and secure microservices.
+
 
 ## Frameworks / Runtimes
 
