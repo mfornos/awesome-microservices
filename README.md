@@ -18,7 +18,6 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Java VM](#java-vm)
   - [Node.js](#nodejs)
   - [Perl](#perl)
-  - [Perl 6](#perl6)
   - [PHP](#php)
   - [Python](#python)
   - [Ruby](#ruby)
@@ -236,12 +235,8 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Perl
 
+- [Cro](http://cro.services/) - Libraries for creating reactive distributed systems using Perl 6.
 - [Mojolicious](http://mojolicio.us/) - Next generation web framework for Perl.
-
-### Perl6
-
-- [Cro](http://cro.services/), a set of libraries for creating
-  reactive distributed systems.
   
 ### PHP
 
