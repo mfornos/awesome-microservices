@@ -642,6 +642,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Microservices with Python, RabbitMQ and Nameko](http://brunorocha.org/python/microservices-with-python-rabbitmq-and-nameko.html)
 - [Reactive Microservices](https://github.com/theiterators/reactive-microservices) - Project showcasing different microservice communication styles using Scala, Akka, Play and other tools from Scala ecosystem.
 - [Using Packer and Ansible to build immutable infrastructure](https://blog.codeship.com/packer-ansible/)
+- [Microservices with Docker, Flask, and React](https://testdriven.io/) - In this course, you will learn how to quickly spin up a reproducible development environment with Docker to manage a number of microservices. Once the app is up and running locally, you'll learn how to deploy it to an Amazon EC2 instance. Finally, we'll look at scaling the services on Amazon EC2 Container Service (ECS).
 
 ### Books
 
