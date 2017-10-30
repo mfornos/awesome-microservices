@@ -75,6 +75,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Mantl](https://github.com/mantl/mantl) - Platform for rapidly deploying globally distributed services.
 - [Netflix OSS](https://netflix.github.io/) - Netflix open source software ecosystem.
 - [OpenWhisk](http://openwhisk.org/) - Serverless, open source cloud platform that executes functions in response to events at any scale.
+- [STUPS](https://stups.io/) - A set of tools and components by Zalando to provide a convenient and audit-compliant PaaS for multiple autonomous teams on top of AWS.
 - [VAMP ![c]](http://vamp.io/) - Build, deploy and manage microservices with power and ease.
 
 ## Frameworks / Runtimes
