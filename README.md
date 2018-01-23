@@ -627,6 +627,8 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Service Discovery in a Microservice Architecture](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/) - Overview of discovery and registration patterns.
 - [Testing Strategies in a Microservice Architecture](http://martinfowler.com/articles/microservice-testing/) - Approaches for managing the additional testing complexity of multiple independently deployable components.
 - [Your Server as a Function](http://monkey.org/~marius/funsrv.pdf) :small_orange_diamond:<sup>PDF</sup> - Describes three abstractions which combine to present a powerful programming model for building safe, modular, and efficient server software: Composable futures, services and filters.
+- [5 Ways to NOT Mess Up Your Microservices in Production](https://blog.takipi.com/5-ways-to-not-f-up-your-microservices-in-production/) - The top issues with microservices in production and how to solve them.
+
 
 ### Talks
 
