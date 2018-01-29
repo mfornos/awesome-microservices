@@ -164,6 +164,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Gorilla](http://www.gorillatoolkit.org/) - Web toolkit for the Go programming language.
 - [Iris](https://github.com/kataras/iris) - Fast, simple and efficient micro web framework for Go.
 - [Kite](https://github.com/koding/kite) - Microservices framework in Go.
+- [KrakenD](https://github.com/devopsfaith/krakend) - Framework to build ultra performance API Gateways with middlewares.
 - [Libchan](https://github.com/docker/libchan) - Ultra-lightweight networking library which lets network services communicate in the same way that goroutines communicate using channels.
 - [Micro](https://github.com/micro/micro) - A microservices toolchain in Go.
 - [Nano](https://github.com/pasztorpisti/nano) - A minimalistic, transport-agnostic and testing-friendly microservice framework.
@@ -242,7 +243,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Cro](http://cro.services/) - Libraries for creating reactive distributed systems using Perl 6.
 - [Mojolicious](http://mojolicio.us/) - Next generation web framework for Perl.
-  
+
 ### PHP
 
 - [API Platform](https://api-platform.com/) - API-first web framework on top of Symfony with JSON-LD, Schema.org and Hydra support.
@@ -290,6 +291,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Janus](https://github.com/hellofresh/janus) - An API Gateway written in Go.
 - [Keepalived](http://www.keepalived.org/) - Simple and robust facilities for loadbalancing and high-availability to Linux system and Linux based infrastructures.
 - [Kong](https://getkong.org/) - Open source management layer for APIs.
+- [KrakenD](http://krakend.io/) - Open source ultra performance API Gateway.
 - [Linkerd](https://linkerd.io/) - Resilient service mesh for cloud native apps.
 - [Neutrino](https://github.com/eBay/Neutrino) - Extensible software load balancer.
 - [OpenResty](http://openresty.org/) - Fast web application server built on top of Nginx.
