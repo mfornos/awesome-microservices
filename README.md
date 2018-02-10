@@ -235,7 +235,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Koa](http://koajs.com/) - Next generation web framework for Node.js
 - [Loopback](http://loopback.io/) - Node.js framework for creating APIs and easily connecting to backend data sources.
 - [Micro](http://github.com/zeithq/micro) - Asynchronous HTTP microservices.
-- [Micro Panda](https://github.com/zhaoyao91/micro-panda) - Node.js toolkit to help build micro services.
+- [Micro Panda](https://github.com/zhaoyao91/micro-panda) - Node.js toolkit to help build microservices.
 - [Micro-Whalla](https://github.com/czerwonkabartosz/Micro-Whalla) - A simple, fast framework for writing microservices in Node.js communicate using RPC / IPC.
 - [Moleculer](http://moleculer.services/) - Fast & powerful microservices framework for NodeJS.
 - [Restify](http://restify.com/) - Node.js module built specifically to enable you to build correct REST web services.
