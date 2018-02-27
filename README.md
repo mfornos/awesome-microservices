@@ -206,6 +206,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Restlet](http://restlet.com/) - Helps Java developers build web APIs that follow the REST architecture style.
 - [Spark](http://sparkjava.com/) - A micro-framework for creating web applications in Java 8 with minimal effort.
 - [Spring Boot](http://projects.spring.io/spring-boot/) - Makes it easy to create stand-alone, production-grade Spring based applications.
+- [Dubbo](http://dubbo.io/) - A high-performance, java based RPC framework open-sourced by Alibaba.
 
 #### Scala
 
