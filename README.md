@@ -350,6 +350,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [JobScheduler](http://www.sos-berlin.com/jobscheduler) - Open Source solution for enterprise-level workload automation. It is used to launch executable files and shell scripts and to run database procedures automatically.
 - [Rundeck](http://rundeck.org/) - Job scheduler and runbook automation. Enable self-service access to existing scripts and tools.
 - [Schedulix](http://www.schedulix.org/en) - Open source enterprise job scheduling system lays down ground-breaking standards for the professional automation of IT processes in advanced system environments.
+- [Dkron](http://dkron.io/) - Open source project similar to Chronos but with a lightweigth architecture. It uses Zookeeper, Consul or Etcd as data stores.
 
 ### Logging
 
