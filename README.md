@@ -82,6 +82,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Akka](http://akka.io/) - Toolkit and runtime for building highly concurrent, distributed, and resilient message-driven applications on the JVM.
 - [Baratine](http://baratine.io/) - Platform for building a network of loosely-coupled POJO microservices.
+- [Eclipse Vert.x](http://vertx.io) - A toolkit to build reactive and distributed systems.
 - [Erlang/OTP](https://github.com/erlang/otp) - Programming language used to build massively scalable soft real-time systems with requirements on high availability.
 - [Finagle](http://twitter.github.io/finagle) - Extensible RPC system for the JVM, used to construct high-concurrency servers.
 - [GPars](https://github.com/GPars/GPars) - Concurrency and parallelism framework for the JVM.
@@ -104,6 +105,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Apex](https://github.com/apex/apex) - Tool for deploying and managing AWS Lambda functions. With shims for languages not yet supported by Lambda, you can use Golang out of the box.
 - [CoAP](http://coap.technology/impls.html) - Constrained application protocol implementations.
+- [Eclipse Vert.x](http://vertx.io) - A toolkit to build reactive and distributed systems. Vert.x supports Java, JavaScript, Scala, Ceylon, Kotlin, Ruby and Groovy
 - [GRPC](http://www.grpc.io/) - A high performance, open source, general RPC framework that puts mobile and HTTP/2 first. Libraries in C, C++, Java, Go, Node.js, Python, Ruby, Objective-C, PHP and C#.
 - [Hprose](http://github.com/hprose) - A very newbility RPC Library, support 25+ languages now.
 
@@ -197,6 +199,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Airlift](https://github.com/airlift/airlift) - Framework for building REST services in Java.
 - [Disruptor](https://github.com/LMAX-Exchange/disruptor) - High-performance inter-thread messaging library.
 - [Dropwizard](https://dropwizard.github.io/) - Java framework for developing ops-friendly, high-performance, RESTful web services.
+- [Eclipse Vert.x](http://vertx.io) - A toolkit to build reactive and distributed systems on top of the JVM
 - [HTTP Remoting](https://github.com/palantir/http-remoting) - Libraries for defining and creating RESTish/RPC servers and clients based on Feign or Retrofit as a client and Dropwizard/Jersey with JAX-RS service definitions as a server.
 - [Ja-micro](https://github.com/Sixt/ja-micro) - Lightweight Java framework for building microservices (compatible with go-micro).
 - [Jersey](https://jersey.github.io/) - RESTful services in Java. JAX-RS reference implementation.
@@ -211,6 +214,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Akka HTTP](http://doc.akka.io/docs/akka-http/current/scala.html) - Open source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka.
 - [Colossus](https://github.com/tumblr/colossus) - I/O and microservice library for Scala.
+- [Eclipse Vert.x](http://vertx.io) - A toolkit to build reactive and distributed systems, providing a Scala API
 - [Finatra](http://twitter.github.io/finatra/) - Fast, testable, Scala HTTP services built on Twitter-Server and Finagle.
 - [Http4s](http://http4s.org/) - A minimal, idiomatic Scala interface for HTTP
 - [Play](https://www.playframework.com/) - The high velocity web framework for Java and Scala.
@@ -271,6 +275,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Ruby
 
+- [Eclipse Vert.x](http://vertx.io) - A toolkit to build reactive and distributed systems, providing a Ruby API (based on JRuby)
 - [Hanami](https://github.com/hanami) - A modern web framework for Ruby.
 - [Praxis](https://github.com/rightscale/praxis) - Framework for both designing and implementing APIs.
 - [Rails API](http://edgeguides.rubyonrails.org/api_app.html) - Rails as an API only.
@@ -285,6 +290,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Annon](https://github.com/nebo15/annon.api) - Open source API gateway with built-in API management, authentication and status pages written in Elixir.
 - [Caddy](https://caddyserver.com/) - Extensible HTTP/2 web server with automatic HTTPS.
 - [Camel](http://camel.apache.org/) - Empowers you to define routing and mediation rules in a variety of domain-specific languages, including a Java-based fluent API, Spring or Blueprint XML configuration files, and a Scala DSL.
+- [Eclipse Vert.x](http://vertx.io) - A toolkit to build reactive and distributed systems, promoting an asynchronous and non-blocking extremely well suited to handle the load of edge services.
 - [Envoy](https://github.com/lyft/envoy) - Open source edge and service proxy, from the developers at Lyft.
 - [Fabio](https://github.com/eBay/fabio) - A fast, modern, zero-conf load balancing HTTP/S router for deploying microservices managed by Consul.
 - [HAProxy](http://www.haproxy.org/) - Reliable, high Performance TCP/HTTP load balancer.
@@ -310,6 +316,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [ContainerPilot](https://github.com/joyent/containerpilot) - Service for autodiscovery and configuration of applications running in containers.
 - [Denominator](https://github.com/Netflix/denominator) - Portably control DNS clouds using java or bash.
 - [Doozer](https://github.com/ha/doozerd) - Highly-available, completely consistent store for small amounts of data. When the data changes, it can notify connected clients immediately.
+- [Eclipse Vert.x](http://vertx.io) - A toolkit to build reactive and distributed systems. Vert.x supports File, Git, Spring Server, Consul, Zookeeper, Kubernetes and Vault for [configuration](http://vertx.io/docs/vertx-config/java/); Consul, Zookeeper, Redis, Kubernetes and Docker for [service discovery](http://vertx.io/docs/vertx-service-discovery/java/).
 - [Etcd](https://github.com/coreos/etcd) - Highly-available key-value store for shared configuration and service discovery.
 - [Eureka](https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance) - REST based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers.
 - [Microphone](https://github.com/rogeralsing/Microphone) - Lightweight .NET framework to run self hosting REST services using Web Api or NancyFx on top of a Consul or Etcd cluster.
@@ -403,6 +410,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Reactivity
 
+- [Eclipse Vert.x](http://vertx.io) - A toolkit to build reactive and distributed systems. Supports RX Java 1 and 2, Reactive Streams, Kotlin co-routines and (Quasar) fibers.
 - [Reactor.io](http://projectreactor.io) - A second-generation Reactive library for building non-blocking applications on the JVM based on the Reactive Streams Specification.
 - [Reactive Kafka](https://github.com/softwaremill/reactive-kafka) - Reactive Streams API for Apache Kafka.
 - [ReactiveX](http://reactivex.io/) - API for asynchronous programming with observable streams. Available for idiomatic Java, Scala, C#, C++, Clojure, JavaScript, Python, Groovy, JRuby, and others.
@@ -410,6 +418,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Resilience
 
+- [Eclipse Vert.x Circuit Breaker](http://vertx.io/docs/vertx-circuit-breaker/java/) - Asynchronous circuit breaker for Eclipse Vert.x.
 - [Hystrix](https://github.com/Netflix/Hystrix) - Latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
 - [Pathod](http://pathod.net/) - Crafted malice for tormenting HTTP clients and servers.
 - [Raft Consensus](http://raftconsensus.github.io/) - Consensus algorithm that is designed to be easy to understand. It's equivalent to Paxos in fault-tolerance and performance.
