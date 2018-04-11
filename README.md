@@ -159,6 +159,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Gocraft](https://github.com/gocraft/web) - A toolkit for building web apps. Includes routing, middleware stacks, logging and monitoring.
 - [Goji](https://goji.io/) - Minimalistic and flexible request multiplexer for Go.
 - [Go kit](https://github.com/go-kit/kit) - Distributed programming toolkit for microservices in the modern enterprise.
+- [go-api-boilerplate](https://github.com/vardius/go-api-boilerplate) - Go Server/API boilerplate using best practices, DDD, CQRS, ES, gRPC
 - [Go-micro](https://github.com/micro/go-micro) - A pluggable RPC microservice framework.
 - [Gopencils](https://github.com/bndr/gopencils) - Easily consume REST APIs with Go.
 - [Gorilla](http://www.gorillatoolkit.org/) - Web toolkit for the Go programming language.
