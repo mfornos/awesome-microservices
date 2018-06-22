@@ -456,6 +456,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Thrift](http://thrift.apache.org/) - The Apache Thrift software framework, for scalable cross-language services development.
 
 ### Storage
+
 - [Apache Hive](https://hive.apache.org/) - Data warehouse infrastructure built on top of Hadoop.
 - [Apache Cassandra](http://cassandra.apache.org) - Column-oriented and providing high availability with no single point of failure.
 - [Apache HBase](http://hbase.apache.org) - Hadoop database for big data.
