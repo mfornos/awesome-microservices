@@ -253,8 +253,8 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Kraken](http://kraken-php.com/) - Asynchronous and fault-tolerant PHP framework for distributed applications.
 - [Lumen](https://lumen.laravel.com/) - Stunningly fast micro-framework.
 - [Phalcon](https://phalconphp.com/) - Full-stack PHP framework delivered as a C-extension.
-- [Symfony](https://symfony.com/) - Micro-framework based on the Symfony components.
 - [Slim](http://www.slimframework.com/) - Micro-framework that helps you quickly write simple yet powerful web applications and APIs.
+- [Symfony](https://symfony.com/) - Micro-framework based on the Symfony components.
 - [Upswarm](https://github.com/Zizaco/upswarm) - Multi-processed, async, fault-tolerant micro-framework for writing service-oriented applications.
 
 ### Python
