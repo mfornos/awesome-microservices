@@ -135,7 +135,9 @@ A curated list of Microservice Architecture related principles and technologies.
 ### CSharp
 
 - [Akka.NET](http://getakka.net/) - Toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET & Mono.
+- [Microdot](https://github.com/gigya/microdot) - Open source .NET microservices framework.
 - [Nancy](http://nancyfx.org/) - Lightweight web framework.
+- [Orleans](https://dotnet.github.io/orleans/) - Provides a straightforward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns.
 
 ### D
 
@@ -288,7 +290,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### API Gateways / Edge Services
 
 - [Amalgam8](https://github.com/amalgam8) - Content-based routing fabric for polyglot microservices.
-- [Ambassador](https://www.getambassador.io) - Kubernetes-native API gateway for microservices built on Envoy
+- [Ambassador](https://www.getambassador.io) - Kubernetes-native API gateway for microservices built on Envoy.
 - [Annon](https://github.com/nebo15/annon.api) - Open source API gateway with built-in API management, authentication and status pages written in Elixir.
 - [Caddy](https://caddyserver.com/) - Extensible HTTP/2 web server with automatic HTTPS.
 - [Camel](http://camel.apache.org/) - Empowers you to define routing and mediation rules in a variety of domain-specific languages, including a Java-based fluent API, Spring or Blueprint XML configuration files, and a Scala DSL.
