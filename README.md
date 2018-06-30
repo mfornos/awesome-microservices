@@ -67,6 +67,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ## Platforms
 
+- [Ballerina](https://ballerina.io) - Cloud native programming language.
 - [Cocaine](https://github.com/cocaine) - A cloud platform enabling you to build your own PaaS clouds.
 - [Deis](http://deis.io/) - Open source application platform for public and private clouds.
 - [Fabric8](http://fabric8.io/) - Open source microservices platform based on Docker, Kubernetes and Jenkins. Makes it easy to create, edit, deploy and manage microservices and go faster.
@@ -287,6 +288,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### API Gateways / Edge Services
 
 - [Amalgam8](https://github.com/amalgam8) - Content-based routing fabric for polyglot microservices.
+- [Ambassador](https://www.getambassador.io) - Kubernetes-native API gateway for microservices built on Envoy
 - [Annon](https://github.com/nebo15/annon.api) - Open source API gateway with built-in API management, authentication and status pages written in Elixir.
 - [Caddy](https://caddyserver.com/) - Extensible HTTP/2 web server with automatic HTTPS.
 - [Camel](http://camel.apache.org/) - Empowers you to define routing and mediation rules in a variety of domain-specific languages, including a Java-based fluent API, Spring or Blueprint XML configuration files, and a Scala DSL.
@@ -461,6 +463,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Thrift](http://thrift.apache.org/) - The Apache Thrift software framework, for scalable cross-language services development.
 
 ### Storage
+
 - [Apache Hive](https://hive.apache.org/) - Data warehouse infrastructure built on top of Hadoop.
 - [Apache Cassandra](http://cassandra.apache.org) - Column-oriented and providing high availability with no single point of failure.
 - [Apache HBase](http://hbase.apache.org) - Hadoop database for big data.
