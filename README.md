@@ -362,6 +362,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [JobScheduler](http://www.sos-berlin.com/jobscheduler) - Open Source solution for enterprise-level workload automation. It is used to launch executable files and shell scripts and to run database procedures automatically.
 - [Rundeck](http://rundeck.org/) - Job scheduler and runbook automation. Enable self-service access to existing scripts and tools.
 - [Schedulix](http://www.schedulix.org/en) - Open source enterprise job scheduling system lays down ground-breaking standards for the professional automation of IT processes in advanced system environments.
+- [Agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js 
 
 ### Logging
 
@@ -371,6 +372,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Kibana](https://www.elastic.co/products/kibana) - Flexible analytics and visualization platform.
 - [Logstash](https://www.elastic.co/products/logstash) - Tool for managing events and logs.
 - [Suro](https://github.com/Netflix/suro/wiki) - Distributed data pipeline which enables services for moving, aggregating, routing, storing data.
+- [Winston](https://github.com/winstonjs/winston) - A logger for just about everything for Node.js.
 
 ### Messaging
 
@@ -413,6 +415,8 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Watcher](https://www.elastic.co/products/watcher) - Alerting for Elasticsearch.
 - [Zabbix](http://www.zabbix.com/) - Open source enterprise-class monitoring solution.
 - [Zipkin](http://zipkin.io) - Distributed tracing system.
+- [PM2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
+- [Forever](https://github.com/foreverjs/forever) - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
 
 ### Reactivity
 
