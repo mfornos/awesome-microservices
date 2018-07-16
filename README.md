@@ -657,6 +657,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Microservices with Python, RabbitMQ and Nameko](http://brunorocha.org/python/microservices-with-python-rabbitmq-and-nameko.html)
 - [Reactive Microservices](https://github.com/theiterators/reactive-microservices) - Project showcasing different microservice communication styles using Scala, Akka, Play and other tools from Scala ecosystem.
 - [Using Packer and Ansible to build immutable infrastructure](https://blog.codeship.com/packer-ansible/)
+- [Scaling Microservices with Message Queues, Spring Boot and Kubernetes](https://learnk8s.io/blog/scaling-spring-boot-microservices)
 
 ### Books
 
