@@ -221,7 +221,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Finatra](http://twitter.github.io/finatra/) - Fast, testable, Scala HTTP services built on Twitter-Server and Finagle.
 - [Http4s](http://http4s.org/) - A minimal, idiomatic Scala interface for HTTP
 - [Play](https://www.playframework.com/) - The high velocity web framework for Java and Scala.
-- [Scalatra](http://www.scalatra.org/) - Simple, accessible and free web micro-framework.
+- [Scalatra](http://scalatra.org/) - Simple, accessible and free web micro-framework.
 - [Skinny Micro](https://github.com/skinny-framework/skinny-micro) - Micro-web framework to build servlet applications in Scala.
 - [Squbs](http://paypal.github.io/squbs/) - A suite of components enabling standardization and operationalization of Akka and Akka HTTP applications/services in a large scale, managed, cloud environment.
 
