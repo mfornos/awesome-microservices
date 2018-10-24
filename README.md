@@ -279,12 +279,12 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Ruby
 
+- [Grape](https://github.com/ruby-grape/grape) - An opinionated framework for creating REST-like APIs
 - [Hanami](https://github.com/hanami) - A modern web framework for Ruby.
 - [Praxis](https://github.com/rightscale/praxis) - Framework for both designing and implementing APIs.
 - [Rails API](http://edgeguides.rubyonrails.org/api_app.html) - Rails as an API only.
 - [Scorched](https://github.com/wardrop/Scorched) - Light-weight web framework for Ruby.
 - [Sinatra](http://www.sinatrarb.com/) - Sinatra is a DSL for quickly creating web applications in Ruby with minimal effort.
-- [Grape](https://github.com/ruby-grape/grape) - An opinionated framework for creating REST-like APIs
 
 ## Capabilities
 
