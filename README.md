@@ -91,6 +91,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Ice](https://zeroc.com/) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python, and more.
 - [Lagom](https://github.com/lagom/lagom) - Reactive microservices for the JVM.
 - [Light Java](https://github.com/networknt/light-java) - A fast, lightweight and more productive microservices framework.
+- [Micronaut](http://micronaut.io/) - Modern, JVM-based, full-stack framework for building modular, easily testeabke microservice and serverless applications.
 - [Microserver](https://github.com/aol/micro-server) - Java 8 native, zero configuration, standards based, battle hardened library to run Java REST microservices.
 - [Orbit](https://github.com/orbit/orbit) - Modern framework for JVM languages that makes it easier to build and maintain distributed and scalable online services.
 - [Quasar](https://github.com/puniverse/quasar) - Fibers, channels and actors for the JVM.
