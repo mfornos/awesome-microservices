@@ -455,7 +455,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Etch](http://etch.apache.org/) - Cross-platform, language and transport-independent framework for building and consuming network services.
 - [Fastjson](https://github.com/alibaba/fastjson) - Fast JSON Processor.
 - [Ffjson](https://github.com/pquerna/ffjson) - Faster JSON serialization for Go.
-- [FST](https://github.com/RuedigerMoeller/fast-serialization) - Fast java serialization drop in-replacemen.
+- [FST](https://github.com/RuedigerMoeller/fast-serialization) - Fast java serialization drop in-replacement.
 - [Jackson](https://github.com/FasterXML/jackson) -  A multi-purpose Java library for processing JSON data format.
 - [Jackson Afterburner](https://github.com/FasterXML/jackson-module-afterburner) - Jackson module that uses bytecode generation to further speed up data binding (+30-40% throughput for serialization, deserialization).
 - [Kryo](https://github.com/EsotericSoftware/kryo) - Java serialization and cloning: fast, efficient, automatic.
