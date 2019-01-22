@@ -614,8 +614,9 @@ A curated list of Microservice Architecture related principles and technologies.
 ## Enterprise & Verticals
 
 - [Interact ![c]](https://interact.io/) - CRM microservices for rapid delivery of tailored solutions.
+- [Moltin ![c]](https://moltin.com/) - eCommerce API for developers.
 - [Predix ![c]](https://predix.io/) - Industrial microservices platform.
-- [YaaS ![c]](https://www.yaas.io) - SAP Hybris microservices ecosystem.
+- [Skava ![c]](https://www.skava.com/) - Provides microservices for all the functions of your store, and the glue to hold them together.
 
 ## Theory
 
