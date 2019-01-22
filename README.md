@@ -179,7 +179,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [RPCX](https://github.com/smallnest/rpcx) - A distributed RPC service framework based on NET/RPC like Alibaba Dubbo and Weibo Motan.
 - [Sleepy](https://github.com/dougblack/sleepy) - REST for go.
 - [Vamp-router](https://github.com/magneticio/vamp-router) - Service routing, load balancing and filtering application.
-- [Zerver](https://github.com/cosiner/zerver) - RESTful API framework.
 
 ### Haskell
 
