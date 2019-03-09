@@ -643,9 +643,33 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Talks
 
+- [Deconstructing Monoliths with Domain-driven Design](https://www.infoq.com/presentations/liberty-monolith-ddd-microservices) - A talk atSpringOne Platform, June 2018.
+- [Cloud Trends](https://www.youtube.com/watch?v=EDZBYbEwhm8) - Adrian Cockcroft @ GOTO Amsterdam 2017
+- [Intro to gRPC: A Modern Toolkit for Microservice Communication](https://www.youtube.com/watch?v=RoXT_Rkg8LA) - Alan Shreve @ SIGNAL 2017
+- [Building high performance microservices with Kubernetes, Go, and gRPC](https://www.youtube.com/watch?v=YiNt4kUnnIM) - Andrew Jessup @ Google Cloud Next '17
+- [Managing Data in Microservices](https://www.youtube.com/watch?v=E8-e-3fRHBw) - Randy Shoup @ QCon 2017 
+- [Istio and Kubernetes]() - Kelsey Hightower @ DevOps Exchange London 2017
+- [DDD Today - Modeling Uncertainty](https://www.youtube.com/watch?v=8Y-XPlXOWoA) - Vaughn Vernon @ GOTO 2017
+- [The Many Meanings of Event-Driven Architecture](https://www.youtube.com/watch?v=STKCRSUsyP0) - Martin Fowler @ GOTO 2017
+- [Building Evolutionary Architectures](https://www.youtube.com/watch?v=8bEsNT7jdC4) - Patrick Kua @ GOTO 2017
+- [An Overview of Designing Microservices](https://www.youtube.com/watch?v=Ijs55IA8DIk) - Peter Dalbhanjan @ AWS Online Tech Talks (March 2017)
+- [10 Tips for failing badly at Microservices](https://www.youtube.com/watch?v=X0tjziAQfNQ) - David Schmitz @ Voxxed Days Vienna 2017
+- [Lyft's Envoy: From Monolith to Service Mesh](https://www.youtube.com/watch?v=72mPlAfHIjs) - - Matt Klein @ Microservices Practioner Summit 2017
+- [Protocol Buffers Tutorial - An Introduction to Protobufs](https://www.youtube.com/watch?v=72mPlAfHIjs) - Ten Loh @ Fullstack Academy 2016
+- [Introduction to gRPC: A general RPC framework that puts mobile and HTTP/2 first](https://www.youtube.com/watch?v=kUz2zjkKxFg) - Mete Atamel @ Devoxx Belgium 2016
+- [What I Wish I Had Known Before Scaling Uber to 1000 Services](https://www.youtube.com/watch?v=kb-m2fasdDY) - Matt Ranney @ GOTO Chicago 2016
+- [Microservices at Netflix Scale: Principles, Tradeoffs & Lessons Learned](https://www.youtube.com/watch?v=57UK46qfBLY) - Ruslan Meshenberg @ GOTO 2016
+- [Coding Microservices Effectively](https://www.youtube.com/watch?v=pbwZnzuHHao) - Adam Bien @ Devoxx Poland 2016
+- [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM) - Josh Evans @ QCon 2016
+- [Building Microservice Architectures](https://www.youtube.com/watch?v=F_BuRIAnvqE) - Neal Ford @ Voxxed Days Vienna 2016
+- [Powering Microservices with Docker, Kubernetes, Kafka and MongoDB](https://www.youtube.com/watch?v=F_BuRIAnvqE) - Andrew Morgan @ MongoDB Europe 2016
 - [Bla Bla Microservices Bla Bla](http://jonasboner.com/bla-bla-microservices-bla-bla/) - A talk at the O’Reilly Software Architecture Conference, April 2016.
+- [Monitoring Microservices: A Challenge](https://www.youtube.com/watch?v=smEuX-Hq6RI) - Adrian Cockcroft @ O’Reilly Software Architecture Conference, April 2016
+- [Evolutionary Architecture & Microservices](https://www.youtube.com/watch?v=WhHtVUlJNA0) - Rebecca Parsons @ GOTO Chicago 2015
+- [Principles Of Microservices](https://www.youtube.com/watch?v=PFQnNFe27kU) - Sam Newman @ Devoxx 2015
 - [Challenges in Implementing MicroServices](https://www.youtube.com/watch?v=yPf5MfOZPY0) - A presentation at GOTO 2015 by Fred George.
 - [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) - A presentation at GOTO Berlin 2014 by Martin Fowler.
+- [The State of the Art in Microservices](https://www.youtube.com/watch?v=pwpxq9-uw_0) - Adrian Cockcroft @ Geekdom San Francisco on January 15th, 2014
 
 ### Tutorials
 
