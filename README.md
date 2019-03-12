@@ -108,6 +108,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [CoAP](http://coap.technology/impls.html) - Constrained application protocol implementations.
 - [GRPC](http://www.grpc.io/) - A high performance, open source, general RPC framework that puts mobile and HTTP/2 first. Libraries in C, C++, Java, Go, Node.js, Python, Ruby, Objective-C, PHP and C#.
 - [Hprose](http://github.com/hprose) - A very newbility RPC Library, support 25+ languages now.
+- [Micronaut](https://micronaut.io) - A modern, JVM-based (Java, Groovy, Kotlin), full-stack framework for building modular, easily testable microservice and serverless applications
 
 ### C
 
@@ -213,6 +214,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Restlet](http://restlet.com/) - Helps Java developers build web APIs that follow the REST architecture style.
 - [Spark](http://sparkjava.com/) - A micro-framework for creating web applications in Java 8 with minimal effort.
 - [Spring Boot](http://projects.spring.io/spring-boot/) - Makes it easy to create stand-alone, production-grade Spring based applications.
+- [Micronaut](https://micronaut.io) - A modern, JVM-based (Java, Groovy, Kotlin), full-stack framework for building modular, easily testable microservice and serverless applications
 
 #### Scala
 
