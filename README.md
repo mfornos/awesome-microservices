@@ -275,6 +275,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Twisted](https://twistedmatrix.com/trac/) - Event-driven network programming engine.
 - [Web.py](https://github.com/webpy/webpy/) - Minimalist web framework for Python.
 - [Zappa](https://github.com/Miserlou/Zappa) - Framework for building and deploying server-less Python event-driven and web applications.
+- [Connexion](https://github.com/zalando/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support.
 
 ### Ruby
 
