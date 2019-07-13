@@ -247,6 +247,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Serverless](https://github.com/serverless/serverless) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS).
 - [Steriods Framework](https://github.com/99xt/steroidslibrary) - Steroids framework simplifies the development of microservices with Serverless using TypeScript by enabling the developer to emphasize more on business/domain logic rather than focusing too much on technical details.
 - [StdLib](https://stdlib.com/) - Standard library for microservices.
+- [MoleculerJS Boilerplate](https://github.com/pankod/moleculerjs-boilerplate) - A well-structured Moleculer JS Boilerplate with Typescript, CLI, Service Helpers, Swagger, Jest support and everything you'll ever need to deploy rock solid projects.
 
 ### Perl
 
