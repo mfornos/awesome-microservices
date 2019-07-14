@@ -78,6 +78,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [OpenWhisk](http://openwhisk.org/) - Serverless, open source cloud platform that executes functions in response to events at any scale.
 - [STUPS](https://stups.io/) - A set of tools and components by Zalando to provide a convenient and audit-compliant PaaS for multiple autonomous teams on top of AWS.
 - [VAMP ![c]](http://vamp.io/) - Build, deploy and manage microservices with power and ease.
+- [KintoHub](https://www.kintohub.com) - Microservice package manager empowering developers to easily build and share cloud ready features.
 
 ## Frameworks / Runtimes
 
