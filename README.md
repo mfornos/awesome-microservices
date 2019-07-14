@@ -92,7 +92,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Grenache](https://github.com/bitfinexcom/grenache) - A Bittorent-DHT based microservices framework supporting REQ/REP and PUB/SUB patterns over multiple transports.
 - [Ice](https://zeroc.com/) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python, and more.
 - [Lagom](https://github.com/lagom/lagom) - Reactive microservices for the JVM.
-- [Light Java](https://github.com/networknt/light-java) - A fast, lightweight and more productive microservices framework.
+- [Light-4j](https://github.com/networknt/light-4j) - A high throughput, low latency, small memory footprint and more productive microservices platform.
 - [Microserver](https://github.com/aol/micro-server) - Java 8 native, zero configuration, standards based, battle hardened library to run Java REST microservices.
 - [Orbit](https://github.com/orbit/orbit) - Modern framework for JVM languages that makes it easier to build and maintain distributed and scalable online services.
 - [Quasar](https://github.com/puniverse/quasar) - Fibers, channels and actors for the JVM.
