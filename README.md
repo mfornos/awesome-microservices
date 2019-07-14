@@ -630,6 +630,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ## Enterprise & Verticals
 
+- [Commercetools ![c]](https://commercetools.com/) - Headless commerce platform.
 - [Interact ![c]](https://interact.io/) - CRM microservices for rapid delivery of tailored solutions.
 - [Moltin ![c]](https://moltin.com/) - eCommerce API for developers.
 - [Predix ![c]](https://predix.io/) - Industrial microservices platform.
