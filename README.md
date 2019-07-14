@@ -634,8 +634,9 @@ A curated list of Microservice Architecture related principles and technologies.
 ## Enterprise & Verticals
 
 - [Commercetools ![c]](https://commercetools.com/) - Headless commerce platform.
+- [Flamingo](https://www.flamingo.me/) - Framework to build flexible and modern e-commerce applications.
 - [Interact ![c]](https://interact.io/) - CRM microservices for rapid delivery of tailored solutions.
-- [Moltin ![c]](https://moltin.com/) - eCommerce API for developers.
+- [Moltin ![c]](https://moltin.com/) - E-commerce API for developers.
 - [Predix ![c]](https://predix.io/) - Industrial microservices platform.
 - [Skava ![c]](https://www.skava.com/) - Provides microservices for all the functions of your store, and the glue to hold them together.
 
