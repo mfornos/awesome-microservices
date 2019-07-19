@@ -21,6 +21,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [PHP](#php)
   - [Python](#python)
   - [Ruby](#ruby)
+- [Frontend](#frontend)
 - [Capabilities](#capabilities)
   - [API Gateways / Edge Services](#api-gateways--edge-services)
   - [Configuration and Discovery](#configuration-and-discovery)
@@ -297,6 +298,10 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Rails API](http://edgeguides.rubyonrails.org/api_app.html) - Rails as an API only.
 - [Scorched](https://github.com/wardrop/Scorched) - Light-weight web framework for Ruby.
 - [Sinatra](http://www.sinatrarb.com/) - Sinatra is a DSL for quickly creating web applications in Ruby with minimal effort.
+
+## Frontend
+
+- [Awesome Micro Frontends](https://github.com/ChristianUlbrich/awesome-microfrontends) - A curated list of resources about Micro Frontends.
 
 ## Capabilities
 
