@@ -21,7 +21,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [PHP](#php)
   - [Python](#python)
   - [Ruby](#ruby)
-- [Frontend](#frontend)
+- [Frontend / UI](#frontend--ui)
 - [Capabilities](#capabilities)
   - [API Gateways / Edge Services](#api-gateways--edge-services)
   - [Configuration and Discovery](#configuration-and-discovery)
@@ -223,6 +223,8 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Spring Boot](http://projects.spring.io/spring-boot/) - Makes it easy to create stand-alone, production-grade Spring based applications.
 
 #### Kotlin
+
+- [Http4k](https://www.http4k.org/) - Lightweight but fully-featured HTTP toolkit written in pure Kotlin that enables the serving and consuming of HTTP services in a functional and consistent way.
 - [Ktor](https://ktor.io/) - Framework for building asynchronous servers and clients in connected systems using the Kotlin programming language.
 
 #### Scala
@@ -299,7 +301,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Scorched](https://github.com/wardrop/Scorched) - Light-weight web framework for Ruby.
 - [Sinatra](http://www.sinatrarb.com/) - Sinatra is a DSL for quickly creating web applications in Ruby with minimal effort.
 
-## Frontend
+## Frontend / UI
 
 - [Awesome Micro Frontends](https://github.com/ChristianUlbrich/awesome-microfrontends) - A curated list of resources about Micro Frontends.
 
@@ -448,6 +450,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Hystrix](https://github.com/Netflix/Hystrix) - Latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
 - [Pathod](http://pathod.net/) - Crafted malice for tormenting HTTP clients and servers.
 - [Raft Consensus](http://raftconsensus.github.io/) - Consensus algorithm that is designed to be easy to understand. It's equivalent to Paxos in fault-tolerance and performance.
+- [Resilience4j](https://github.com/resilience4j/resilience4j) - Fault tolerance library designed for Java8 and functional programming.
 - [Resilient HTTP](http://resilient-http.github.io/) - A smart HTTP client with super powers like fault tolerance, dynamic server discovery, auto balancing and reactive recovery, designed for distributed systems.
 - [Saboteur](https://github.com/tomakehurst/saboteur) - Causing deliberate network mayhem for better resilience.
 - [Semian](https://github.com/Shopify/semian) - Resiliency toolkit for Ruby for failing fast.
@@ -564,6 +567,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [RFC7233](https://tools.ietf.org/html/rfc7233) - Range Requests.
 - [RFC7234](https://tools.ietf.org/html/rfc7234) - Caching.
 - [RFC7235](https://tools.ietf.org/html/rfc7235) - Authentication.
+- [RFC7807](https://tools.ietf.org/html/rfc7807) - Problem Details for HTTP APIs.
 
 ### HTTP/2
 
