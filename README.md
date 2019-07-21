@@ -71,6 +71,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Ballerina](https://ballerina.io) - Cloud native programming language.
 - [Cocaine](https://github.com/cocaine) - A cloud platform enabling you to build your own PaaS clouds.
 - [Deis](http://deis.io/) - Open source application platform for public and private clouds.
+- [Express Serverless](https://www.express-serverless.io/) - An open source, Kubernetes-native, microservices and serverless platform.
 - [Fabric8](http://fabric8.io/) - Open source microservices platform based on Docker, Kubernetes and Jenkins. Makes it easy to create, edit, deploy and manage microservices and go faster.
 - [Hook.io](https://hook.io) - Open source provider of microservice and webhook hosting.
 - [KintoHub ![c]](https://www.kintohub.com) - Microservice package manager empowering developers to easily build and share cloud ready features.
@@ -309,12 +310,15 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### API Gateways / Edge Services
 
+> Note that [data and control plane](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc) components are not categorized at this moment.
+
 - [Amalgam8](https://github.com/amalgam8) - Content-based routing fabric for polyglot microservices.
 - [Ambassador](https://www.getambassador.io) - Kubernetes-native API gateway for microservices built on Envoy.
 - [Annon](https://github.com/nebo15/annon.api) - Open source API gateway with built-in API management, authentication and status pages written in Elixir.
 - [Caddy](https://caddyserver.com/) - Extensible HTTP/2 web server with automatic HTTPS.
 - [Camel](http://camel.apache.org/) - Empowers you to define routing and mediation rules in a variety of domain-specific languages, including a Java-based fluent API, Spring or Blueprint XML configuration files, and a Scala DSL.
 - [Envoy](https://github.com/lyft/envoy) - Open source edge and service proxy, from the developers at Lyft.
+- [Express Gateway](https://www.express-gateway.io/) - A microservices API gateway built on Express.js.
 - [Fabio](https://github.com/eBay/fabio) - A fast, modern, zero-conf load balancing HTTP/S router for deploying microservices managed by Consul.
 - [HAProxy](http://www.haproxy.org/) - Reliable, high Performance TCP/HTTP load balancer.
 - [Istio](https://istio.io/) - An open platform to connect, manage, and secure microservices.
