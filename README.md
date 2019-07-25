@@ -536,6 +536,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [VCR](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. See the list of ports for implementations in other languages.
 - [Wilma](https://github.com/epam/Wilma) - Combined HTTP/HTTPS service stub and transparent proxy solution.
 - [WireMock](http://wiremock.org/) - Flexible library for stubbing and mocking web services. Unlike general purpose mocking tools it works by creating an actual HTTP server that your code under test can connect to as it would a real web service.
+- [Hoverfly](https://github.com/spectolabs/hoverfly) - Lightweight service virtualization/API simulation tool for developers and testers.
 
 ## Continuous Integration and Continuous Delivery
 
