@@ -407,6 +407,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Apollo](http://activemq.apache.org/apollo/) - Faster, more reliable, easier to maintain messaging broker built from the foundations of the original ActiveMQ.
 - [Ascoltatori](https://github.com/mcollina/ascoltatori) - Pub/sub library for Node.
 - [Beanstalk](http://kr.github.io/beanstalkd/) - Simple, fast work queue.
+- [Crossbar](https://github.com/crossbario/crossbar) - Open source networking platform for distributed and microservice applications. It implements the open Web Application Messaging Protocol (WAMP).
 - [Disque](https://github.com/antirez/disque) - Distributed message broker.
 - [Eventuate](http://eventuate.io/) - A platform for developing asynchronous microservices solving the distributed data management problems.
 - [Kafka](http://kafka.apache.org/) - Publish-subscribe messaging rethought as a distributed commit log.
