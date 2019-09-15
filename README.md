@@ -279,7 +279,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Slim](http://www.slimframework.com/) - Micro-framework that helps you quickly write simple yet powerful web applications and APIs.
 - [Symfony](https://symfony.com/) - Micro-framework based on the Symfony components.
 - [Upswarm](https://github.com/Zizaco/upswarm) - Multi-processed, async, fault-tolerant micro-framework for writing service-oriented applications.
-- [Swoft](https://github.com/swoft-cloud/swoft) - PHP Microservice Coroutine Framework
+- [Swoft](https://github.com/swoft-cloud/swoft/) - PHP Microservice Coroutine Framework
 
 ### Python
 
