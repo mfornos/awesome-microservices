@@ -38,6 +38,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Storage](#storage)
   - [Testing](#testing)
 - [Continuous Integration and Continuous Delivery](#continuous-integration-and-continuous-delivery)
+- [Demos & Examples](#demos--examples)
 - [Documentation & Modeling](#documentation--modeling)
   - [REST APIs](#rest-apis)
 - [Standards / Recommendations](#standards--recommendations)
@@ -543,6 +544,11 @@ A curated list of Microservice Architecture related principles and technologies.
 ## Continuous Integration and Continuous Delivery
 
 - [Awesome CI/CD DevOps](https://github.com/ciandcd/awesome-ciandcd) - A curated list of awesome tools for continuous integration, continuous delivery and DevOps.
+
+## Demos & Examples
+
+- [Webstack-micro](https://github.com/ferbs/webstack-micro) Sample/demo for teams migrating from an existing monolithic web app, showing how to set up API Gateway, centralized authentication, and background workers.
+
 
 ## Documentation & Modeling
 
