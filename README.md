@@ -24,20 +24,20 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Frontend / UI](#frontend--ui)
 - [Capabilities](#capabilities)
   - [API Gateways / Edge Services](#api-gateways--edge-services)
-  - [Configuration and Discovery](#configuration-and-discovery)
-  - [Coordination and Governance](#coordination-and-governance)
+  - [Configuration & Discovery](#configuration--discovery)
+  - [Coordination & Governance](#coordination--governance)
   - [Elasticity](#elasticity)
   - [Job Schedulers / Workload Automation](#job-schedulers--workload-automation)
   - [Logging](#logging)
   - [Messaging](#messaging)
-  - [Monitoring and Debugging](#monitoring-and-debugging)
+  - [Monitoring & Debugging](#monitoring--debugging)
   - [Reactivity](#reactivity)
   - [Resilience](#resilience)
   - [Security](#security)
   - [Serialization](#serialization)
   - [Storage](#storage)
   - [Testing](#testing)
-- [Continuous Integration and Continuous Delivery](#continuous-integration-and-continuous-delivery)
+- [Continuous Integration & Delivery](#continuous-integration--delivery)
 - [Web API Modeling & Documentation](#web-api-modeling--documentation)
   - [GraphQL](#graphql)
   - [JSON](#json)
@@ -340,7 +340,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Vulcand](https://github.com/vulcand/vulcand) - Programmatic load balancer backed by Etcd.
 - [Zuul](https://github.com/Netflix/zuul) - An edge service that provides dynamic routing, monitoring, resiliency, security, and more.
 
-### Configuration and Discovery
+### Configuration & Discovery
 
 - [Central Dogma](https://line.github.io/centraldogma/) - Open-source highly-available version-controlled service configuration repository based on Git, ZooKeeper and HTTP/2.
 - [Consul](https://www.consul.io/) - Service discovery and configuration made easy. Distributed, highly available, and datacenter-aware.
@@ -357,7 +357,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Spring Cloud Config](http://cloud.spring.io/spring-cloud-config/) - Provides server and client-side support for externalized configuration in a distributed system.
 - [ZooKeeper](https://zookeeper.apache.org/) - Open source server which enables highly reliable distributed coordination.
 
-### Coordination and Governance
+### Coordination & Governance
 
 - [AWS Step Functions ![c]](https://aws.amazon.com/step-functions/) - Coordinate the components of distributed applications and microservices using visual workflows.
 - [Azuqua ![c]](https://azuqua.com/) - Orchestration and governance platform for distributed applications.
@@ -425,7 +425,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [RocketMQ](https://github.com/apache/incubator-rocketmq) - A low latency, reliable, scalable, easy to use message oriented middleware born from alibaba massive messaging business.
 - [VerneMQ](https://verne.mq) - Open source, scalable, Erlang-based MQTT broker.
 
-### Monitoring and Debugging
+### Monitoring & Debugging
 
 - [Beats](https://www.elastic.co/products/beats) - Lightweight shippers for Elasticsearch & Logstash.
 - [Collectd](https://collectd.org/) - The system statistics collection daemon.
@@ -543,7 +543,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Wilma](https://github.com/epam/Wilma) - Combined HTTP/HTTPS service stub and transparent proxy solution.
 - [WireMock](http://wiremock.org/) - Flexible library for stubbing and mocking web services. Unlike general purpose mocking tools it works by creating an actual HTTP server that your code under test can connect to as it would a real web service.
 
-## Continuous Integration and Continuous Delivery
+## Continuous Integration & Delivery
 
 - [Awesome CI/CD DevOps](https://github.com/ciandcd/awesome-ciandcd) - A curated list of awesome tools for continuous integration, continuous delivery and DevOps.
 
