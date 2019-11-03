@@ -38,8 +38,10 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Storage](#storage)
   - [Testing](#testing)
 - [Continuous Integration and Continuous Delivery](#continuous-integration-and-continuous-delivery)
-- [Documentation & Modeling](#documentation--modeling)
-  - [REST APIs](#rest-apis)
+- [Web API Modeling & Documentation](#web-api-modeling--documentation)
+  - [GraphQL](#graphql)
+  - [JSON](#json)
+  - [REST](#rest)
 - [Standards / Recommendations](#standards--recommendations)
   - [World Wide Web](#world-wide-web)
   - [HTTP/1.1](#http11)
@@ -545,9 +547,17 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Awesome CI/CD DevOps](https://github.com/ciandcd/awesome-ciandcd) - A curated list of awesome tools for continuous integration, continuous delivery and DevOps.
 
-## Documentation & Modeling
+## Web API Modeling & Documentation
 
-### REST APIs
+### GraphQL
+
+- [GraphQL](http://graphql.org/) - Query language designed to build client applications by providing an intuitive and flexible syntax and system for describing their data requirements and interactions.
+
+### JSON
+
+- [JSON:API](https://jsonapi.org/) - A specification for how a client should request that resources be fetched or modified, and how a server should respond to those requests.
+
+### REST
 
 - [Aglio](https://github.com/danielgtaylor/aglio) - API Blueprint renderer with theme support that outputs static HTML.
 - [API Blueprint](https://apiblueprint.org/) - Tools for your whole API lifecycle. Use it to discuss your API with others. Generate documentation automatically. Or a test suite. Or even some code.
@@ -613,7 +623,6 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [HAL](https://tools.ietf.org/html/draft-kelly-json-hal-07) - The JSON Hypertext Application Language (HAL) is a standard which establishes conventions for expressing hypermedia controls, such as links, with JSON. <sup>DRAFT</sup>
 - [Hydra](http://www.hydra-cg.com/) - Specifications for interoperable, hypermedia-driven Web APIs.
-- [GraphQL](http://graphql.org/) - Query language designed to build client applications by providing an intuitive and flexible syntax and system for describing their data requirements and interactions. <sup>DRAFT</sup>
 - [WADL](http://www.w3.org/Submission/wadl/) - The Web Application Description Language specification.
 - [WSDL](http://www.w3.org/TR/wsdl20/) - The Web Services Description Language Version 2.0 spec.
 
