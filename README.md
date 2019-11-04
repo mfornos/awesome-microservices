@@ -87,6 +87,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Akka](http://akka.io/) - Toolkit and runtime for building highly concurrent, distributed, and resilient message-driven applications on the JVM.
 - [Axon ![c]](https://axoniq.io/) - An end-to-end development and infrastructure platform for easy development and running of any DDD, CQRS and Event Sourcing applications on JVM.
 - [Baratine](http://baratine.io/) - Platform for building a network of loosely-coupled POJO microservices.
+- [Eclipse Microprofile](https://microprofile.io/) - An open forum to optimize Enterprise Java for a microservices architecture by innovating across multiple implementations and collaborating on common areas of interest with a goal of standardization.
 - [Erlang/OTP](https://github.com/erlang/otp) - Programming language used to build massively scalable soft real-time systems with requirements on high availability.
 - [Finagle](http://twitter.github.io/finagle) - Extensible RPC system for the JVM, used to construct high-concurrency servers.
 - [Flogo](https://github.com/TIBCOSoftware/flogo) - Flogo is an open source framework to simplify building efficient & modern serverless functions and edge microservices.
@@ -98,13 +99,15 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Micro](https://micro.mu/) - A microservice development runtime.
 - [Microserver](https://github.com/aol/micro-server) - Java 8 native, zero configuration, standards based, battle hardened library to run Java REST microservices.
 - [Moleculer](http://moleculer.services/) - Fast & powerful microservices framework for Node.js, Java, Go and Ruby.
+- [Open Liberty](https://openliberty.io/) - A lightweight open framework for building fast and efficient cloud-native Java microservices.
 - [Orbit](https://github.com/orbit/orbit) - Modern framework for JVM languages that makes it easier to build and maintain distributed and scalable online services.
+- [SmallRye](https://smallrye.io/) - APIs and implementations tailored for cloud development, including Eclipse MicroProfile.
+- [Thorntail](https://thorntail.io/) - An innovative approach to packaging and running Java EE applications by packaging them with just enough of the server runtime to "java -jar" your application.
 - [Quasar](https://github.com/puniverse/quasar) - Fibers, channels and actors for the JVM.
 - [ScaleCube](https://github.com/scalecube/scalecube) - Toolkit for building reactive microservices for the JVM: low-latency, high-throughput, scalable and resilient.
 - [Vert.X](http://vertx.io/) - Toolkit for building reactive applications on the JVM.
 - [Vert.X Toolbox](https://github.com/vert-x3/vertx-microservices-toolbox) - A set of Vert.x components to build reactive microservice applications.
 - [Wangle](https://github.com/facebook/wangle) - A framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
-- [WildFly Swarm](http://wildfly-swarm.io/) - Microservices starting with just enough Java EE runtime, based on [Eclipse MicroProfile](https://projects.eclipse.org/proposals/eclipse-microprofile).
 
 ## Service Toolkits
 
@@ -436,6 +439,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [IOpipe ![c]](https://www.iopipe.com/) - Application performance monitoring for Amazon Lambda.
 - [Jaeger](https://www.jaegertracing.io/) - An open source, end-to-end distributed tracing
 - [Microservice Graph Explorer](https://github.com/hootsuite/microservice-graph-explorer) - Navigate and explore all of the microservices in your application in real time using the real application connections.
+- [OpenTracing](https://opentracing.io/) - Vendor-neutral APIs and instrumentation for distributed tracing.
 - [Parallec](https://github.com/eBay/parallec) - Fast parallel asynchronous HTTP/SSH/TCP/Ping client Java library.
 - [Prometheus](http://prometheus.io/) - An open source service monitoring system and time series database.
 - [REST Commander](https://github.com/eBay/restcommander) - Fast parallel asynchronous HTTP client as a service to monitor and manage HTTP endpoints.
@@ -623,6 +627,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [HAL](https://tools.ietf.org/html/draft-kelly-json-hal-07) - The JSON Hypertext Application Language (HAL) is a standard which establishes conventions for expressing hypermedia controls, such as links, with JSON. <sup>DRAFT</sup>
 - [Hydra](http://www.hydra-cg.com/) - Specifications for interoperable, hypermedia-driven Web APIs.
+- [OpenAPI](https://github.com/OAI/openapi-specification/) - The OpenAPI Specification (OAS) defines a standard, programming language-agnostic interface description for REST APIs, which allows both humans and computers to discover and understand the capabilities of a service without requiring access to source code, additional documentation, or inspection of network traffic.
 - [WADL](http://www.w3.org/Submission/wadl/) - The Web Application Description Language specification.
 - [WSDL](http://www.w3.org/TR/wsdl20/) - The Web Services Description Language Version 2.0 spec.
 
@@ -672,6 +677,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Articles & Papers
 
+- [A sidecar for your service mesh](https://www.abhishek-tiwari.com/a-sidecar-for-your-service-mesh/) - A short service mesh introduction.
 - [AKF Scale Cube](http://akfpartners.com/techblog/2008/05/08/splitting-applications-or-services-for-scale/) - Model depicting the dimensions to scale a service.
 - [Benchmark Requirements for Microservices Architecture Research](https://goo.gl/14ElnV) :small_orange_diamond:<sup>PDF</sup> - Set of requirements that may be useful in selecting a community-owned architecture benchmark to support repeatable microservices research.
 - [Building Microservices? Here is What You Should Know](https://cloudncode.blog/2016/07/22/msa-getting-started/) - A practical overview, based on real-world experience, of what one would need to know in order to build Microservices.
