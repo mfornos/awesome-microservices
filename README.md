@@ -280,14 +280,15 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Lumen](https://lumen.laravel.com/) - Stunningly fast micro-framework.
 - [Phalcon](https://phalconphp.com/) - Full-stack PHP framework delivered as a C-extension.
 - [Slim](http://www.slimframework.com/) - Micro-framework that helps you quickly write simple yet powerful web applications and APIs.
+- [Swoft](https://github.com/swoft-cloud/swoft/) - PHP microservices coroutine framework for building high-performance web systems, APIs, middleware, and basic services.
 - [Symfony](https://symfony.com/) - Micro-framework based on the Symfony components.
 - [Upswarm](https://github.com/Zizaco/upswarm) - Multi-processed, async, fault-tolerant micro-framework for writing service-oriented applications.
-- [Swoft](https://github.com/swoft-cloud/swoft/) - PHP Microservice Coroutine Framework
 
 ### Python
 
 - [Aiohttp](http://aiohttp.readthedocs.io/en/stable/) - HTTP client/server for asyncio.
 - [Bottle](https://bottlepy.org) - Fast, simple and lightweight WSGI micro web-framework for Python.
+- [Connexion](https://github.com/zalando/connexion) - Swagger/OpenAPI framework for Python on top of Flask with automatic endpoint validation and OAuth2 support.
 - [Falcon](https://falconframework.org/) - Bare-metal Python web API framework for building very fast app backends and microservices.
 - [Flask](http://flask.pocoo.org/) - Python framework for microservices based on Werkzeug and Jinja 2.
 - [Nameko](https://github.com/onefinestay/nameko) - Python framework for building microservices.
@@ -296,7 +297,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Twisted](https://twistedmatrix.com/trac/) - Event-driven network programming engine.
 - [Web.py](https://github.com/webpy/webpy/) - Minimalist web framework for Python.
 - [Zappa](https://github.com/Miserlou/Zappa) - Framework for building and deploying server-less Python event-driven and web applications.
-- [Connexion](https://github.com/zalando/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support.
 
 ### Ruby
 
@@ -390,11 +390,11 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Celery](http://www.celeryproject.org) - Asynchronous task queue/job queue based on distributed message passing. Focused on real-time operation and supports scheduling.
 - [Chronos](https://github.com/mesos/chronos) - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules.
+- [Dkron](http://dkron.io/) - Distributed, fault tolerant job scheduling system.
 - [Fenzo](https://github.com/Netflix/Fenzo) - Extensible scheduler for Mesos frameworks.
 - [JobScheduler](http://www.sos-berlin.com/jobscheduler) - Open Source solution for enterprise-level workload automation. It is used to launch executable files and shell scripts and to run database procedures automatically.
 - [Rundeck](http://rundeck.org/) - Job scheduler and runbook automation. Enable self-service access to existing scripts and tools.
 - [Schedulix](http://www.schedulix.org/en) - Open source enterprise job scheduling system lays down ground-breaking standards for the professional automation of IT processes in advanced system environments.
-- [Dkron](http://dkron.io/) - Open source project similar to Chronos but with a lightweigth architecture. It uses Zookeeper, Consul or Etcd as data stores.
 
 ### Logging
 
@@ -761,8 +761,9 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Luna](http://www.luna-lang.org/) - Visual and textual functional programming language with a focus on productivity, collaboration and development ergonomics.
 - [MultiChain](http://www.multichain.com/) - Open platform for building blockchains.
 - [Node-RED](http://nodered.org/) - Visual tool for wiring together hardware devices, APIs and online services in new and interesting ways.
-- [ops](https://ops.city) - Free open source tool to build, run and deploy existing linux applications as unikernels.
+- [Ops](https://ops.city) - Free open source tool to build, run and deploy existing linux applications as unikernels.
 - [Pony](http://www.ponylang.org/) - Open source, object-oriented, actor-model, capabilities-secure, high performance programming language.
+- [Solid](https://solid.inrupt.com/) - Empowers users and organizations to separate their data from the applications that use it. It allows people to look at the same data with different apps at the same time. It opens brand new avenues for creativity, problem-solving, and commerce.
 
 ## License
 
