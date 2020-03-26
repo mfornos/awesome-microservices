@@ -71,7 +71,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ## Platforms
 
 - [Ballerina](https://ballerina.io) - Cloud native programming language.
-- [Dapr](https://dapr.io) - Open Source runtime for writing highly performant microservices using any programming language.
+- [Dapr](https://dapr.io) - Open source runtime for writing highly performant microservices using any programming language.
 - [Express Serverless](https://www.express-serverless.io/) - An open source, Kubernetes-native, microservices and serverless platform.
 - [Hook.io](https://hook.io) - Open source provider of microservice and webhook hosting.
 - [KintoHub ![c]](https://www.kintohub.com) - Microservice package manager empowering developers to easily build and share cloud ready features.
