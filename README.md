@@ -721,9 +721,12 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Talks
 
+- [10 Tips For Failing Badly at Microservices](https://www.youtube.com/watch?v=X0tjziAQfNQ) - A presentation at Voxxed Days by David Schmitz.
 - [Bla Bla Microservices Bla Bla](http://jonasboner.com/bla-bla-microservices-bla-bla/) - A talk at the O’Reilly Software Architecture Conference, April 2016.
 - [Challenges in Implementing MicroServices](https://www.youtube.com/watch?v=yPf5MfOZPY0) - A presentation at GOTO 2015 by Fred George.
+- [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM) - A presentation at QCon 2016 by Josh Evans.
 - [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) - A presentation at GOTO Berlin 2014 by Martin Fowler.
+- [Principles Of Microservices](https://www.youtube.com/watch?v=PFQnNFe27kU) - A presentation at Devoxx Belgium by Sam Newman.
 
 ### Tutorials
 
