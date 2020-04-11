@@ -47,6 +47,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [World Wide Web](#world-wide-web)
   - [HTTP/1.1](#http11)
   - [HTTP/2](#http2)
+  - [QUIC](#quic)
   - [CoAP](#coap)
   - [RPC](#rpc)
   - [Messaging](#messaging-1)
