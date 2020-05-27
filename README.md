@@ -74,6 +74,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Dapr](https://dapr.io) - Open source runtime for writing highly performant microservices using any programming language.
 - [Express Serverless](https://www.express-serverless.io/) - An open source, Kubernetes-native, microservices and serverless platform.
 - [Hook.io](https://hook.io) - Open source provider of microservice and webhook hosting.
+- [Jolie](https://jolie-lang.org) - Open source microservice-oriented programming language.
 - [KintoHub ![c]](https://www.kintohub.com) - Microservice package manager empowering developers to easily build and share cloud ready features.
 - [Lightbend ![c]](https://www.lightbend.com/) - Platform for building scalable reactive systems on the JVM.
 - [M3O](https://micro.mu/) - A serverless platform for microservices development.
