@@ -683,6 +683,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Microservices: lessons from the frontline](https://www.thoughtworks.com/insights/blog/microservices-lessons-frontline)
 - [Monolith first](http://martinfowler.com/bliki/MonolithFirst.html)
 - [Scaling microservices at Gilt with Scala, Docker and AWS](http://www.infoq.com/news/2015/04/scaling-microservices-gilt)
+- [From a Monolithic Big Data System to a Microservices Event-Driven Architecture: Challenges and Lessons Learned](https://www.researchgate.net/publication/341822188_From_a_Monolithic_Big_Data_System_to_a_Microservices_Event-Driven_Architecture)
 
 ## Enterprise & Verticals
 
