@@ -152,6 +152,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Microdot](https://github.com/gigya/microdot) - Open source .NET microservices framework.
 - [Nancy](http://nancyfx.org/) - Lightweight web framework.
 - [Orleans](https://dotnet.github.io/orleans/) - Provides a straightforward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns.
+- [Tye](https://github.com/dotnet/tye) - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
 
 ### D
 
