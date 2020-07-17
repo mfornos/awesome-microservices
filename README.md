@@ -216,6 +216,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 #### Java
 
+- [ActiveRPC](https://rpc.activej.io) - Lightweight and fast library for complex high-load distributed applications and Memcached-like solutions.
 - [Airlift](https://github.com/airlift/airlift) - Framework for building REST services in Java.
 - [Armeria](https://line.github.io/armeria/) - Open-source asynchronous HTTP/2 RPC/REST client/server library built on top of Java 8, Netty, Thrift and gRPC.
 - [Disruptor](https://github.com/LMAX-Exchange/disruptor) - High-performance inter-thread messaging library.
