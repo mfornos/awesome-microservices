@@ -360,7 +360,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Traffic Server](https://github.com/apache/trafficserver) - High-performance building block for cloud services.
 - [Tyk](https://tyk.io/) - Open source, fast and scalable API gateway, portal and API management platform.
 - [Vulcand](https://github.com/vulcand/vulcand) - Programmatic load balancer backed by Etcd.
-- [Zuul](https://github.com/Netflix/zuul) - An edge service that provides dynamic routing, monitoring, resiliency, security, and more.
 
 ### Configuration & Discovery
 
