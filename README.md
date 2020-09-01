@@ -771,6 +771,7 @@ A curated list of Microservice Architecture related principles and technologies.
   + Book 5: Monitoring & Management with Docker & Containers.
 - [The Tao of Microservices](https://www.manning.com/books/the-tao-of-microservices) - Teaches the path to understanding how to apply microservices architecture with your own real-world projects.
 - [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action) - A practical guide that teaches how to develop large software projects with multiple independent teams.
+- [Unified Logging with Fluentd](https://www.manning.com/books/unified-logging-with-fluentd) - A guide to Fluentd for microservices.
 
 ### Sites & Organizations
 
