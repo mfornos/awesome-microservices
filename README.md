@@ -90,7 +90,6 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Akka](http://akka.io/) - Toolkit and runtime for building highly concurrent, distributed, and resilient message-driven applications on the JVM.
 - [Axon ![c]](https://axoniq.io/) - An end-to-end development and infrastructure platform for easy development and running of any DDD, CQRS and Event Sourcing applications on JVM.
-- [Baratine](http://baratine.io/) - Platform for building a network of loosely-coupled POJO microservices.
 - [Eclipse Microprofile](https://microprofile.io/) - An open forum to optimize Enterprise Java for a microservices architecture by innovating across multiple implementations and collaborating on common areas of interest with a goal of standardization.
 - [Erlang/OTP](https://github.com/erlang/otp) - Programming language used to build massively scalable soft real-time systems with requirements on high availability.
 - [Finagle](http://twitter.github.io/finagle) - Extensible RPC system for the JVM, used to construct high-concurrency servers.
@@ -281,7 +280,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Perl
 
 - [Cro](http://cro.services/) - Libraries for creating reactive distributed systems using Perl 6.
-- [Mojolicious](http://mojolicio.us/) - Next generation web framework for Perl.
+- [Mojolicious](https://mojolicious.org/) - Next generation web framework for Perl.
 
 ### PHP
 
@@ -697,7 +696,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Microservices: lessons from the frontline](https://www.thoughtworks.com/insights/blog/microservices-lessons-frontline)
 - [Monolith first](http://martinfowler.com/bliki/MonolithFirst.html)
 - [Scaling microservices at Gilt with Scala, Docker and AWS](http://www.infoq.com/news/2015/04/scaling-microservices-gilt)
-- [From a Monolithic Big Data System to a Microservices Event-Driven Architecture: Challenges and Lessons Learned](https://www.researchgate.net/publication/341822188_From_a_Monolithic_Big_Data_System_to_a_Microservices_Event-Driven_Architecture)
 
 ## Enterprise & Verticals
 
