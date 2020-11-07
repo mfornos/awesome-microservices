@@ -145,7 +145,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Poco](http://pocoproject.org/) - C++ class libraries for building network-based applications and servers.
 - [Restbed](https://github.com/Corvusoft/restbed) - Brings asynchronous RESTful functionality to C++11 applications.
 - [Served](https://github.com/datasift/served) - C++ library for building high-performance RESTful web servers.
-- [Sogou Workflow](https://github.com/sogou/workflow/blob/master/README_en.md) - Enterprise-grade programming engine, aimed to satisfy most of the backend development requirements.
+- [Sogou Workflow](https://github.com/sogou/workflow/blob/master/README_en.md) - Enterprise-grade programming engine aimed to satisfy most of the backend development requirements.
 - [ULib](https://github.com/stefanocasazza/ULib) - Highly optimized class framework for writing C++ applications.
 
 ### CSharp
