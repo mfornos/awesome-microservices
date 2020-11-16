@@ -754,6 +754,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Books
 
+- [Bootstrapping Microservices](https://www.manning.com/books/bootstrapping-microservices-with-docker-kubernetes-and-terraform) by [Ashley Davis](https://twitter.com/ashleydavis75) - A practical and project-based guide to building applications with microservices, starting with a single microservice and ending with a complete application running on a production Kubernetes cluster.
 - [Building Microservices](https://www.nginx.com/wp-content/uploads/2015/01/Building_Microservices_Nginx.pdf) :small_orange_diamond:<sup>PDF</sup> - Building Microservices: Designing Fine-grained Systems. Sam Newman. Preview Edition.
 - [Cloud Native Spring in Action](https://www.manning.com/books/cloud-native-spring-in-action) - A hands-on guide to cloud native application development using Spring Boot, Spring Cloud, Docker, and Kubernetes.
 - [Istio in Action](https://www.manning.com/books/istio-in-action) - Teaches you how to implement a full-featured Istio-based service mesh to manage a microservices application.
