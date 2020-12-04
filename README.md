@@ -67,8 +67,6 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ## Platforms
 
-- [Ballerina](https://ballerina.io) - Cloud native programming language.
-- [Dapr](https://dapr.io) - Open source runtime for writing highly performant microservices using any programming language.
 - [Express Serverless](https://www.express-serverless.io/) - An open source, Kubernetes-native, microservices and serverless platform.
 - [Hook.io](https://hook.io) - Open source provider of microservice and webhook hosting.
 - [Jolie](https://jolie-lang.org) - Open source microservice-oriented programming language.
@@ -79,12 +77,15 @@ A curated list of Microservice Architecture related principles and technologies.
 - [OpenWhisk](http://openwhisk.org/) - Serverless, open source cloud platform that executes functions in response to events at any scale.
 - [Pulumi](https://pulumi.io/) - SDK for cloud native infrastructure as code. Use your favorite language to preview and manage updates to your apps and infrastructure, and continuously deploy to any cloud (no YAML required).
 - [STUPS](https://stups.io/) - A set of tools and components by Zalando to provide a convenient and audit-compliant PaaS for multiple autonomous teams on top of AWS.
+- [Triton](https://github.com/joyent/triton) - Open-source cloud management platform that delivers next generation, container-based, service-oriented infrastructure across one or more data centers.
 - [VAMP ![c]](http://vamp.io/) - Build, deploy and manage microservices with power and ease.
 
 ## Frameworks / Runtimes
 
 - [Akka](http://akka.io/) - Toolkit and runtime for building highly concurrent, distributed, and resilient message-driven applications on the JVM.
 - [Axon ![c]](https://axoniq.io/) - An end-to-end development and infrastructure platform for easy development and running of any DDD, CQRS and Event Sourcing applications on JVM.
+- [Ballerina](https://ballerina.io) - Cloud native programming language.
+- [Dapr](https://dapr.io) - Open source runtime for writing highly performant microservices using any programming language.
 - [Eclipse Microprofile](https://microprofile.io/) - An open forum to optimize Enterprise Java for a microservices architecture by innovating across multiple implementations and collaborating on common areas of interest with a goal of standardization.
 - [Erlang/OTP](https://github.com/erlang/otp) - Programming language used to build massively scalable soft real-time systems with requirements on high availability.
 - [Finagle](http://twitter.github.io/finagle) - Extensible RPC system for the JVM, used to construct high-concurrency servers.
@@ -183,7 +184,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Kite](https://github.com/koding/kite) - Microservices framework in Go.
 - [KrakenD](https://github.com/devopsfaith/krakend) - Framework to build ultra performance API Gateways with middlewares.
 - [Libchan](https://github.com/docker/libchan) - Ultra-lightweight networking library which lets network services communicate in the same way that goroutines communicate using channels.
-- [Martini](https://github.com/go-martini/martini) - Martini is a powerful package for quickly writing modular web applications/services in Golang.
 - [Micro](https://github.com/micro/micro) - A distributed systems runtime for the cloud and beyond.
 - [Nano](https://github.com/pasztorpisti/nano) - A minimalistic, transport-agnostic and testing-friendly microservice framework.
 - [Negroni](https://github.com/codegangsta/negroni) - Idiomatic HTTP middleware for Golang.
@@ -385,7 +385,6 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Elasticity
 
-- [Galaxy](https://github.com/puniverse/galaxy) - Open source high-performance in-memory data-grid.
 - [Hazelcast](http://hazelcast.org/) - Open source in-memory data-grid. Allows you to distribute data and computation across servers, clusters and geographies, and to manage very large data sets or high data ingest rates. Mature technology.
 - [Helix](http://helix.apache.org/) - Generic cluster management framework used for the automatic management of partitioned, replicated and distributed resources hosted on a cluster of nodes.
 - [Ignite](http://ignite.apache.org/) - High-performance, integrated and distributed in-memory platform for computing and transacting on large-scale data sets in real-time, orders of magnitude faster than possible with traditional disk-based or flash technologies.
@@ -533,11 +532,9 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Datomic](http://www.datomic.com/) - Fully transactional, cloud-ready, distributed database.
 - [Druid](http://druid.io/) - Fast column-oriented distributed data store.
 - [Elasticsearch](https://www.elastic.co/products/elasticsearch) - Open source distributed, scalable, and highly available search server.
-- [Elliptics](http://reverbrain.com/elliptics/) - Fault tolerant distributed key/value storage.
 - [Geode](http://geode.incubator.apache.org/) - Open source, distributed, in-memory database for scale-out applications.
 - [Infinispan](http://infinispan.org/) - Highly concurrent key/value datastore used for caching.
 - [InfluxDB](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
-- [Manta](https://www.joyent.com/manta) - Highly scalable, distributed object storage service with integrated compute.
 - [MemSQL ![c]](http://www.memsql.com/) - High-performance, in-memory database that combines the horizontal scalability of distributed systems with the familiarity of SQL.
 - [OpenTSDB](http://opentsdb.net) - Scalable and distributed time series database written on top of Apache HBase.
 - [Parquet](https://parquet.apache.org/) - Columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
@@ -680,9 +677,9 @@ A curated list of Microservice Architecture related principles and technologies.
 ## Enterprise & Verticals
 
 - [Commercetools ![c]](https://commercetools.com/) - Headless commerce platform.
+- [Elasticpath ![c]](https://www.elasticpath.com/) - E-commerce microservices.
 - [Flamingo](https://www.flamingo.me/) - Framework to build flexible and modern e-commerce applications.
 - [Interact ![c]](https://interact.io/) - CRM microservices for rapid delivery of tailored solutions.
-- [Moltin ![c]](https://moltin.com/) - E-commerce API for developers.
 - [Predix ![c]](https://predix.io/) - Industrial microservices platform.
 - [Skava ![c]](https://www.skava.com/) - Provides microservices for all the functions of your store, and the glue to hold them together.
 
