@@ -317,7 +317,9 @@ A curated list of Microservice Architecture related principles and technologies.
 ## Frontend / UI
 
 - [Awesome Micro Frontends](https://github.com/ChristianUlbrich/awesome-microfrontends) - A curated list of resources about Micro Frontends.
+- [Electrode](https://github.com/electrode-io) - Universal React/Node.js application platform.
 - [Micro Frontends](https://micro-frontends.org) - Extending the microservice idea to frontend development.
+- [MiniApp White Paper](https://w3c.github.io/miniapp/white-paper/) - MiniApp standardization white paper.
 
 ## Capabilities
 
