@@ -311,7 +311,8 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Rust
 
-- [Are we web yet?](http://www.arewewebyet.org/) - A summary of the current state of web programming in Rust.
+- [Actix](https://actix.rs/) - Powerful, pragmatic, and extremely fast web framework for Rust.
+- [Are we web yet?](https://www.arewewebyet.org/) - A summary of the current state of web programming in Rust.
 - [Tarpc](https://github.com/google/tarpc) - RPC framework for Rust with a focus on ease of use.
 
 ## Frontend / UI
@@ -370,6 +371,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Eureka](https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance) - REST based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers.
 - [Microconfig](https://microconfig.io) - Modern and simple way of microservice configuration management.
 - [Microphone](https://github.com/rogeralsing/Microphone) - Lightweight .NET framework to run self hosting REST services using Web Api or NancyFx on top of a Consul or Etcd cluster.
+- [Nacos](https://github.com/alibaba/nacos) - Easy-to-use dynamic service discovery, configuration and service management platform.
 - [Registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker. Supports pluggable service registries, which currently includes Consul, Etcd and SkyDNS 2.
 - [Shaman](https://github.com/nanopack/shaman) - Small, lightweight, api-driven DNS server.
 - [SkyDNS](https://github.com/skynetservices/skydns) - Distributed service for announcement and discovery of services built on top of etcd. It utilizes DNS queries to discover available services.
@@ -503,6 +505,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Serialization
 
 - [Avro](https://avro.apache.org/) - Apache data serialization system providing rich data structures in a compact, fast, binary data format.
+- [Bond](https://github.com/microsoft/bond/) - Cross-platform framework for working with schematized data, broadly used at Microsoft in high scale services.
 - [BooPickle](https://github.com/ochrons/boopickle) - Binary serialization library for efficient network communication. For Scala and Scala.js
 - [Cap’n Proto](https://capnproto.org/) - Insanely fast data interchange format and capability-based RPC system.
 - [CBOR](http://cbor.io/) - Implementations of the CBOR standard (RFC 7049) in many languages.
@@ -723,7 +726,6 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ## Emerging Technologies
 
-- [Enso](https://enso.org/) - Visual and textual functional programming language with a focus on productivity, collaboration and development ergonomics.
 - [Holochain](https://holochain.org/) - A framework for distributed applications, allowing you to build apps without any network constraints. This means every user controls their own data, and it can't be sold or exposed to third parties.
 - [Ops](https://ops.city/) - Free open source tool to build, run and deploy existing linux applications as unikernels.
 - [SAFE Network](https://safenetwork.tech/) - Powered by the spare capacity of everyday computers, SAFE replaces the vulnerable structure of the existing Web with a decentralised, autonomous network. One that is secure, and accessible to everyone.
