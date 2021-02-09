@@ -312,8 +312,8 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Rust
 
+- [Are we web yet?](https://www.arewewebyet.org/) :star: - A summary of the current state of web programming in Rust.
 - [Actix](https://actix.rs/) - Powerful, pragmatic, and extremely fast web framework for Rust.
-- [Are we web yet?](https://www.arewewebyet.org/) - A summary of the current state of web programming in Rust.
 - [Tarpc](https://github.com/google/tarpc) - RPC framework for Rust with a focus on ease of use.
 
 ## Frontend / UI
