@@ -142,7 +142,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### CSharp
 
-- [Awesome Microservices .NET Core](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core
+- [Awesome Microservices .NET Core](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) :star: - A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for microservices in .NET Core.
 - [Akka.NET](http://getakka.net/) - Toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET & Mono.
 - [Microdot](https://github.com/gigya/microdot) - Open source .NET microservices framework.
 - [Nancy](http://nancyfx.org/) - Lightweight web framework.
@@ -318,7 +318,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ## Frontend / UI
 
-- [Awesome Micro Frontends](https://github.com/ChristianUlbrich/awesome-microfrontends) - A curated list of resources about Micro Frontends.
+- [Awesome Micro Frontends](https://github.com/ChristianUlbrich/awesome-microfrontends) :star: - A curated list of resources about Micro Frontends.
 - [Electrode](https://github.com/electrode-io) - Universal React/Node.js application platform.
 - [Micro Frontends](https://micro-frontends.org) - Extending the microservice idea to frontend development.
 - [MiniApp White Paper](https://w3c.github.io/miniapp/white-paper/) - MiniApp standardization white paper.
@@ -482,7 +482,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Resilience
 
-- [Awesome Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) - A curated list of awesome chaos engineering resources.
+- [Awesome Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star: - A curated list of awesome chaos engineering resources.
 - [Hystrix](https://github.com/Netflix/Hystrix) - Latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
 - [Pathod](http://pathod.net/) - Crafted malice for tormenting HTTP clients and servers.
 - [Raft Consensus](http://raftconsensus.github.io/) - Consensus algorithm that is designed to be easy to understand. It's equivalent to Paxos in fault-tolerance and performance.
@@ -567,7 +567,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ## Continuous Integration & Delivery
 
-- [Awesome CI/CD DevOps](https://github.com/ciandcd/awesome-ciandcd) - A curated list of awesome tools for continuous integration, continuous delivery and DevOps.
+- [Awesome CI/CD DevOps](https://github.com/ciandcd/awesome-ciandcd) :star: - A curated list of awesome tools for continuous integration, continuous delivery and DevOps.
 
 ## Web API Modeling & Documentation
 
