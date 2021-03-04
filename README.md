@@ -732,6 +732,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Ops](https://ops.city/) - Free open source tool to build, run and deploy existing linux applications as unikernels.
 - [SAFE Network](https://safenetwork.tech/) - Powered by the spare capacity of everyday computers, SAFE replaces the vulnerable structure of the existing Web with a decentralised, autonomous network. One that is secure, and accessible to everyone.
 - [Solid](https://solid.inrupt.com/) - Empowers users and organizations to separate their data from the applications that use it. It allows people to look at the same data with different apps at the same time. It opens brand new avenues for creativity, problem-solving, and commerce.
+- [Unison](https://www.unisonweb.org/) - Open source functional programming language based on a simple idea with big implications: code is content-addressed and immutable.
 
 ## License
 
