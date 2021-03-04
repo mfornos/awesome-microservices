@@ -137,7 +137,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Poco](http://pocoproject.org/) - C++ class libraries for building network-based applications and servers.
 - [Restbed](https://github.com/Corvusoft/restbed) - Brings asynchronous RESTful functionality to C++11 applications.
 - [Served](https://github.com/datasift/served) - C++ library for building high-performance RESTful web servers.
-- [Sogou Workflow](https://github.com/sogou/workflow/blob/master/README_en.md) - Enterprise-grade programming engine aimed to satisfy most of the backend development requirements.
+- [Sogou Workflow](https://github.com/sogou/workflow) - Enterprise-grade programming engine aimed to satisfy most of the backend development requirements.
 - [ULib](https://github.com/stefanocasazza/ULib) - Highly optimized class framework for writing C++ applications.
 
 ### CSharp
@@ -545,7 +545,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [InfluxDB](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
 - [MemSQL ![c]](http://www.memsql.com/) - High-performance, in-memory database that combines the horizontal scalability of distributed systems with the familiarity of SQL.
 - [OpenTSDB](http://opentsdb.net) - Scalable and distributed time series database written on top of Apache HBase.
-- [Parquet](https://parquet.apache.org/) - Columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
+- [Parquet](https://github.com/apache/parquet-format) - Columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
 - [Reborn](https://github.com/reborndb/reborn) - Distributed database fully compatible with redis protocol.
 - [RethinkDB](http://rethinkdb.com/) - Open source, scalable database that makes building realtime apps easier.
 - [Secure Scuttlebutt](https://github.com/ssbc/docs) - P2P database of message-feeds.
