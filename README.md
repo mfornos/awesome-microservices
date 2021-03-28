@@ -728,6 +728,9 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Microservice Patterns](http://microservices.io/) - Microservice architecture patterns and best practices.
 - [Microservice Antipatterns and Pitfalls](https://www.oreilly.com/ideas/microservices-antipatterns-and-pitfalls) - Microservice mostly known antipatterns and pitfalls.
 
+### Books
+- [Spring Boot in Practice](https://www.manning.com/books/spring-boot-in-practice)
+
 ## Emerging Technologies
 
 - [Holochain](https://holochain.org/) - A framework for distributed applications, allowing you to build apps without any network constraints. This means every user controls their own data, and it can't be sold or exposed to third parties.
