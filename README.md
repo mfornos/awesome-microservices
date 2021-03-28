@@ -729,7 +729,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Microservice Antipatterns and Pitfalls](https://www.oreilly.com/ideas/microservices-antipatterns-and-pitfalls) - Microservice mostly known antipatterns and pitfalls.
 
 ### Books
-- [Spring Boot in Practice](https://www.manning.com/books/spring-boot-in-practice)
+- [Spring Boot in Practice](https://www.manning.com/books/spring-boot-in-practice) - Develop, Secure, and Deploy microservices services with Spring Boot
 
 ## Emerging Technologies
 
