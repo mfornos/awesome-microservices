@@ -179,6 +179,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Go kit](https://github.com/go-kit/kit) - Distributed programming toolkit for microservices in the modern enterprise.
 - [go-api-boilerplate](https://github.com/vardius/go-api-boilerplate) - Go Server/API boilerplate using best practices, DDD, CQRS, ES, gRPC
 - [Go-micro](https://github.com/micro/go-micro) - A distributed systems development framework.
+- [go-zero](https://github.com/tal-tech/go-zero) - A web and rpc framework with a builtin tool that greatly improves the development productivity.
 - [Gopencils](https://github.com/bndr/gopencils) - Easily consume REST APIs with Go.
 - [Gorilla](http://www.gorillatoolkit.org/) - Web toolkit for the Go programming language.
 - [Iris](https://github.com/kataras/iris) - Fast, simple and efficient micro web framework for Go.
