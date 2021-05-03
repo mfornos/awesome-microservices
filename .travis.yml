@@ -1,6 +1,6 @@
 language: ruby
 rvm:
-  - head
+  - 3.0.1
 before_script:
   - gem install awesome_bot
 script:
