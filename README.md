@@ -286,6 +286,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Swoft](https://github.com/swoft-cloud/swoft/) - PHP microservices coroutine framework for building high-performance web systems, APIs, middleware, and basic services.
 - [Symfony](https://symfony.com/) - Micro-framework based on the Symfony components.
 - [Upswarm](https://github.com/Zizaco/upswarm) - Multi-processed, async, fault-tolerant micro-framework for writing service-oriented applications.
+- [Ecotone](https://docs.ecotone.tech/) - Framework based on architectural principles of DDD, CQRS and Event Sourcing that provides building blocks to create scalable and extensible applications. 
 
 ### Python
 
