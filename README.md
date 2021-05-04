@@ -97,6 +97,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Ice](https://zeroc.com/) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python, and more.
 - [Lagom](https://github.com/lagom/lagom) - Reactive microservices for the JVM.
 - [Light-4j](https://github.com/networknt/light-4j) - A high throughput, low latency, small memory footprint and more productive microservices platform.
+- [MicroBootstrap](https://github.com/mehdihadeli/MicroBootstrap) - MicroBootstrap is a framework for quickly and conveniently creating microservices on .NET Core.
 - [Micronaut](http://micronaut.io/) - A modern, JVM-based, full-stack framework for building modular, easily testable microservice applications.
 - [Microserver](https://github.com/aol/micro-server) - Java 8 native, zero configuration, standards based, battle hardened library to run Java REST microservices.
 - [Moleculer](http://moleculer.services/) - Fast & powerful microservices framework for Node.js, Java, Go and Ruby.
