@@ -629,7 +629,6 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### RPC
 
-- [BERT-RPC 1.0](http://bert-rpc.org/) - An attempt to specify a flexible binary serialization and RPC protocol that are compatible with the philosophies of dynamic languages.
 - [JSON-RPC 2.0](http://www.jsonrpc.org/specification) - A stateless, light-weight remote procedure call (RPC) protocol.
 
 ### Messaging
