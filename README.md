@@ -67,6 +67,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ## Platforms
 
+- [Capact](https://github.com/capactio/capact) - An open-source platform to manage applications and infrastructure in a unified way.
 - [Express Serverless](https://www.express-serverless.io/) - An open source, Kubernetes-native, microservices and serverless platform.
 - [Hook.io](https://hook.io) - Open source provider of microservice and webhook hosting.
 - [Jolie](https://jolie-lang.org) - Open source microservice-oriented programming language.
