@@ -730,6 +730,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Microservices Resource Guide](http://martinfowler.com/microservices/) - Martin Fowler's choice of articles, videos, books, and podcasts that can teach you more about the microservices architectural style.
 - [Microservice Patterns](http://microservices.io/) - Microservice architecture patterns and best practices.
 - [Microservice Antipatterns and Pitfalls](https://www.oreilly.com/ideas/microservices-antipatterns-and-pitfalls) - Microservice mostly known antipatterns and pitfalls.
+- [all DevOps news](https://alldevopsnews.com/) - The DevOps & Cloud news aggregator platform.
 
 ## Emerging Technologies
 
