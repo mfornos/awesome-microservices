@@ -45,6 +45,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [REST](#rest)
 - [Standards / Recommendations](#standards--recommendations)
   - [World Wide Web](#world-wide-web)
+  - [Self-sovereignty & Decentralisation](#self-sovereignty--decentralisation)
   - [HTTP/1.1](#http11)
   - [HTTP/2](#http2)
   - [QUIC](#quic)
@@ -52,6 +53,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [RPC](#rpc)
   - [Messaging](#messaging-1)
   - [Security](#security-1)
+  - [Web APIs](#web-apis)
   - [Service Discovery](#service-discovery)
   - [Data Formats](#data-formats)
   - [Vocabularies](#vocabularies)
@@ -61,7 +63,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Theory](#theory)
   - [Articles & Papers](#articles--papers)
   - [Sites & Organizations](#sites--organizations)
-- [Emerging Technologies](#emerging-technologies)
 - [License](#license)
 - [Contributing](#contributing)
 
@@ -604,6 +605,13 @@ A curated list of Microservice Architecture related principles and technologies.
 - [RFC6570](https://tools.ietf.org/html/rfc6570) - URI Template.
 - [RFC7320](https://tools.ietf.org/html/rfc7320) - URI Design and Ownership.
 
+### Self-sovereignty & Decentralisation
+
+- [DID](https://www.w3.org/TR/did-core/) - W3C specification of Decentralized identifiers (DIDs): a new type of identifier that enables verifiable, decentralized digital identity.
+- [DIDComm](https://identity.foundation/didcomm-messaging/spec/) - Private communication methodology built atop the decentralized design of DIDs.
+- [DIDComm Protocols](https://didcomm.org/) - Registry of protocols built on DIDComm, for high-trust, self-sovereign interactions over any transport.
+- [IDSA](https://internationaldataspaces.org/) - The International Data Spaces Association (IDSA) is on a mission to create the future of the global, digital economy with International Data Spaces (IDS), a secure, sovereign system of data sharing in which all participants can realize the full value of their data.
+
 ### HTTP/1.1
 
 - [RFC7230](https://tools.ietf.org/html/rfc7230) - Message Syntax and Routing.
@@ -646,19 +654,24 @@ A curated list of Microservice Architecture related principles and technologies.
 - [RFC6066](https://tools.ietf.org/html/rfc6066) - TLS Extensions.
 - [RFC6347](https://tools.ietf.org/html/rfc6347) - Datagram Transport Layer Security Version 1.2.
 - [RFC6749](https://tools.ietf.org/html/rfc6749) - The OAuth 2.0 authorization framework.
+- [RFC6962](https://tools.ietf.org/html/rfc6962) - Certificate transparency.
 - [RFC7515](https://tools.ietf.org/html/rfc7515) - JSON Web Signature (JWS) represents content secured with digital signatures or Message Authentication Codes (MACs) using JSON-based data structures.
 - [RFC7519](https://tools.ietf.org/html/rfc7519) - JSON Web Token (JWT) is a compact, URL-safe means of representing claims to be transferred between two parties.
 - [RFC7642](https://tools.ietf.org/html/rfc7642) - SCIM: Definitions, overview, concepts, and requirements.
 - [RFC7643](https://tools.ietf.org/html/rfc7643) - SCIM: Core Schema, provides a platform-neutral schema and extension model for representing users and groups.
 - [RFC7644](https://tools.ietf.org/html/rfc7644) - SCIM: Protocol, an application-level, REST protocol for provisioning and managing identity data on the web.
 
-### Service Discovery
+### Web APIs
 
 - [HAL](https://tools.ietf.org/html/draft-kelly-json-hal-07) - The JSON Hypertext Application Language (HAL) is a standard which establishes conventions for expressing hypermedia controls, such as links, with JSON. <sup>DRAFT</sup>
 - [Hydra](http://www.hydra-cg.com/) - Specifications for interoperable, hypermedia-driven Web APIs.
 - [OpenAPI](https://github.com/OAI/openapi-specification/) - The OpenAPI Specification (OAS) defines a standard, programming language-agnostic interface description for REST APIs, which allows both humans and computers to discover and understand the capabilities of a service without requiring access to source code, additional documentation, or inspection of network traffic.
 - [WADL](http://www.w3.org/Submission/wadl/) - The Web Application Description Language specification.
 - [WSDL](http://www.w3.org/TR/wsdl20/) - The Web Services Description Language Version 2.0 spec.
+
+### Service Discovery
+- [DNS-SD](https://datatracker.ietf.org/doc/html/rfc6763) - Mechanism for clients to discover a list of named instances of a service, using standard DNS queries.
+- [RFC2782](https://datatracker.ietf.org/doc/html/rfc2782) - A DNS RR for specifying the location of services (DNS SRV).
 
 ### Data Formats
 
@@ -730,14 +743,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Microservices Resource Guide](http://martinfowler.com/microservices/) - Martin Fowler's choice of articles, videos, books, and podcasts that can teach you more about the microservices architectural style.
 - [Microservice Patterns](http://microservices.io/) - Microservice architecture patterns and best practices.
 - [Microservice Antipatterns and Pitfalls](https://www.oreilly.com/ideas/microservices-antipatterns-and-pitfalls) - Microservice mostly known antipatterns and pitfalls.
-
-## Emerging Technologies
-
-- [Holochain](https://holochain.org/) - A framework for distributed applications, allowing you to build apps without any network constraints. This means every user controls their own data, and it can't be sold or exposed to third parties.
-- [Ops](https://ops.city/) - Free open source tool to build, run and deploy existing linux applications as unikernels.
-- [SAFE Network](https://safenetwork.tech/) - Powered by the spare capacity of everyday computers, SAFE replaces the vulnerable structure of the existing Web with a decentralised, autonomous network. One that is secure, and accessible to everyone.
-- [Solid](https://solid.inrupt.com/) - Empowers users and organizations to separate their data from the applications that use it. It allows people to look at the same data with different apps at the same time. It opens brand new avenues for creativity, problem-solving, and commerce.
-- [Unison](https://www.unisonweb.org/) - Open source functional programming language based on a simple idea with big implications: code is content-addressed and immutable.
 
 ## License
 
