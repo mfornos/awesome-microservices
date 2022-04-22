@@ -536,6 +536,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Aerospike (c)](http://www.aerospike.com/) - High performance NoSQL database delivering speed at scale.
 - [ArangoDB](https://www.arangodb.com/) - A distributed free and open source database with a flexible data model for documents, graphs, and key-values.
 - [AtlasDB](https://github.com/palantir/atlasdb) - Transactional layer on top of a key value store.
+- [Citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension.
 - [ClickHouse](https://clickhouse.yandex/) - Column-oriented database management system that allows generating analytical data reports in real time.
 - [CockroachDB (c)](https://www.cockroachlabs.com/) - A cloud-native SQL database modelled after Google Spanner.
 - [Couchbase](http://www.couchbase.com/) - A distributed database engineered for performance, scalability, and simplified administration.
