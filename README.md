@@ -68,6 +68,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ## Platforms
 
+- [Cyclic.sh](https://app.cyclic.sh/) - Simple serverless platform and dev tools for node.js services with Express.js support.
 - [Express Serverless](https://www.express-serverless.io/) - An open source, Kubernetes-native, microservices and serverless platform.
 - [Hook.io](https://hook.io) - Open source provider of microservice and webhook hosting.
 - [Jolie](https://jolie-lang.org) - Open source microservice-oriented programming language.
