@@ -68,7 +68,6 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ## Platforms
 
-- [Cyclic.sh](https://app.cyclic.sh/) - Simple serverless platform and dev tools for node.js services with Express.js support.
 - [Express Serverless](https://www.express-serverless.io/) - An open source, Kubernetes-native, microservices and serverless platform.
 - [Hook.io](https://hook.io) - Open source provider of microservice and webhook hosting.
 - [Jolie](https://jolie-lang.org) - Open source microservice-oriented programming language.
@@ -255,6 +254,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [BeeMS](https://github.com/umuplus/beems) - A Bee Queue based minimalist toolkit for building fast, decentralized, scalable and fault tolerant microservices.
 - [ClaudiaJS](https://claudiajs.com/) - Easy to deploy Node.js projects to AWS Lambda and API Gateway.
 - [Cote](https://github.com/dashersw/cote) - A Node.js library for building zero-configuration microservices.
+- [Cyclic.sh](https://app.cyclic.sh/) - Simple serverless platform and dev tools for node.js services with Express.js support.
 - [Express](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
 - [Fastify](https://www.fastify.io/) - Fastify, Fast and low overhead web framework, for Node.js.
 - [FeathersJS](http://feathersjs.com/) - An open source REST and realtime API layer for modern applications.
