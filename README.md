@@ -101,6 +101,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Micronaut](http://micronaut.io/) - A modern, JVM-based, full-stack framework for building modular, easily testable microservice applications.
 - [Microserver](https://github.com/aol/micro-server) - Java 8 native, zero configuration, standards based, battle hardened library to run Java REST microservices.
 - [Moleculer](http://moleculer.services/) - Fast & powerful microservices framework for Node.js, Java, Go and Ruby.
+- [Nango](https://www.nango.dev) - Open-source & language agnostic native integrations framework.
 - [Open Liberty](https://openliberty.io/) - A lightweight open framework for building fast and efficient cloud-native Java microservices.
 - [Orbit](https://github.com/orbit/orbit) - Modern framework for JVM languages that makes it easier to build and maintain distributed and scalable online services.
 - [SmallRye](https://smallrye.io/) - APIs and implementations tailored for cloud development, including Eclipse MicroProfile.
