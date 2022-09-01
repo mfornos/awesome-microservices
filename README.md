@@ -451,6 +451,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Pulsar](https://pulsar.apache.org/) - Distributed pub-sub messaging system.
 - [Qpid](https://qpid.apache.org/) - Cross-platform messaging components built on AMQP.
 - [RabbitMQ](https://www.rabbitmq.com/) - Open source Erlang-based message broker that just works.
+- [Redpanda](https://github.com/redpanda-data/redpanda/) - Streaming data platform for developers: Kafka API compatible, 10x faster, no ZooKeeper and no JVM.
 - [RocketMQ](https://github.com/apache/incubator-rocketmq) - A low latency, reliable, scalable, easy to use message oriented middleware born from alibaba massive messaging business.
 - [VerneMQ](https://verne.mq) - Open source, scalable, Erlang-based MQTT broker.
 
