@@ -60,6 +60,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Enterprise & Verticals](#enterprise--verticals)
 - [Theory](#theory)
   - [Articles & Papers](#articles--papers)
+  - [Books](#books)
   - [Sites & Organizations](#sites--organizations)
 - [Emerging Technologies](#emerging-technologies)
 - [License](#license)
@@ -725,6 +726,9 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Microservices - The Journey So Far and Challenges Ahead](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8354433) :small_orange_diamond:<sup>PDF</sup> - Overview of the state of microservices in both industrial and academia.
 
 ### Books
+
+- [Designing Microservices](https://www.manning.com/books/designing-microservices) - Book about designing microservices based on the principles of loose coupling, high cohesion, and isolation.
+- [Helidon in Action](https://www.manning.com/books/helidon-in-action) - Book about how to build cloud native applications with Helidon.
 
 ### Sites & Organizations
 
