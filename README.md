@@ -573,7 +573,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Wilma](https://github.com/epam/Wilma) - Combined HTTP/HTTPS service stub and transparent proxy solution.
 - [WireMock](http://wiremock.org/) - Flexible library for stubbing and mocking web services. Unlike general purpose mocking tools it works by creating an actual HTTP server that your code under test can connect to as it would a real web service.
 - [Hoverfly](https://github.com/spectolabs/hoverfly) - Lightweight service virtualization/API simulation tool for developers and testers.
-- [RestQA](https://github.com/restqa/restqa) - A tool to manage microservice unit test, mock, performance test locally using a best in class Developer experience.
 
 ## Continuous Integration & Delivery
 
