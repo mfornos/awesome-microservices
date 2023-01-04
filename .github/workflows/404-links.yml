@@ -1,0 +1,14 @@
+name: Dead link checker
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    types: [assigned, opened, synchronize, reopened]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Check links
+      uses: restqa/404-links@2.2.0
