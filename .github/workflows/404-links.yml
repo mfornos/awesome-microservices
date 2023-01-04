@@ -1,4 +1,4 @@
-name: Dead link checker
+name: Link linter
 
 on:
   push:

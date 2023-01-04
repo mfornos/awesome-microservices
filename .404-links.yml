@@ -1,0 +1,9 @@
+delay:
+  'https://github.com': 500 #Avoiding Github rate limit by delaying the request -> 500ms
+ignore: 
+  urls: # Array of url to ignore
+  - https://swagger.io/
+  - https://www.graylog.org/
+  - https://riak.com/posts/technical/microservices-please-dont/
+
+
