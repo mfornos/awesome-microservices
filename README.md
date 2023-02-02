@@ -267,7 +267,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Micro Panda](https://github.com/zhaoyao91/micro-panda) - Node.js toolkit to help build microservices.
 - [Micro-Whalla](https://github.com/czerwonkabartosz/Micro-Whalla) - A simple, fast framework for writing microservices in Node.js communicate using RPC / IPC.
 - [Restify](http://restify.com/) - Node.js module built specifically to enable you to build correct REST web services.
-- [Seneca](http://senecajs.org/) - A microservices toolkit for Node.js
+- [Seneca](https://github.com/senecajs/seneca) - A microservices toolkit for Node.js
 - [Serverless](https://github.com/serverless/serverless) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS).
 - [Steriods Framework](https://github.com/99xt/steroidslibrary) - Steroids framework simplifies the development of microservices with Serverless using TypeScript by enabling the developer to emphasize more on business/domain logic rather than focusing too much on technical details.
 
@@ -640,8 +640,8 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Messaging
 
-- [AMQP](http://www.amqp.org/) - Advanced Message Queuing Protocol.
-- [MQTT](http://mqtt.org/) - MQ Telemetry Transport.
+- [AMQP](https://www.amqp.org/) - Advanced Message Queuing Protocol.
+- [MQTT](https://mqtt.org/ - MQ Telemetry Transport.
 - [STOMP](https://stomp.github.io/) - Simple Text Oriented Messaging Protocol.
 
 ### Security
