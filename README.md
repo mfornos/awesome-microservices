@@ -81,6 +81,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Svix](https://svix.com) - Webhooks service that sends webhooks to your users with full retry schedules, exponential backoff, signature verification, and event types.
 - [Triton](https://github.com/joyent/triton) - Open-source cloud management platform that delivers next generation, container-based, service-oriented infrastructure across one or more data centers.
 - [VAMP (c)](http://vamp.io/) - Build, deploy and manage microservices with power and ease.
+- [Wing](https://www.winglang.io/) - Cloud-oriented programming language. It allows developers to build distributed systems that fully leverage the power of the cloud without having to worry about the underlying infrastructure.
 
 ## Frameworks / Runtimes
 
