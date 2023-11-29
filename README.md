@@ -178,6 +178,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Gizmo](https://github.com/nytimes/gizmo) - Microservices toolkit.
 - [Goa](https://github.com/goadesign/goa) - Design-based HTTP microservices in Go.
 - [Gocraft](https://github.com/gocraft/web) - A toolkit for building web apps. Includes routing, middleware stacks, logging and monitoring.
+- [GoFr](https://github.com/gofr-dev/gofr) - An opinionated microservice development framework emphasizing scalability and robustness. Designed to simplify the development of microservices.
 - [Goji](https://goji.io/) - Minimalistic and flexible request multiplexer for Go.
 - [Go Chassis](https://github.com/go-chassis/go-chassis) - A framework for rapid development of microservices in Go that is easy to integrate with some cloud ecosystems.
 - [Go kit](https://github.com/go-kit/kit) - Distributed programming toolkit for microservices in the modern enterprise.
