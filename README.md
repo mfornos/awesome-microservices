@@ -254,7 +254,6 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Node.js
 
 - [Actionhero](http://www.actionherojs.com/) - Multi-transport Node.js API server with integrated cluster capabilities and delayed tasks.
-- [Baucis](https://github.com/wprl/baucis) - To build and maintain scalable HATEOAS/Level 3 REST APIs.
 - [BeeMS](https://github.com/umuplus/beems) - A Bee Queue based minimalist toolkit for building fast, decentralized, scalable and fault tolerant microservices.
 - [ClaudiaJS](https://claudiajs.com/) - Easy to deploy Node.js projects to AWS Lambda and API Gateway.
 - [Cote](https://github.com/dashersw/cote) - A Node.js library for building zero-configuration microservices.
@@ -681,7 +680,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Data Formats
 
 - [RFC4627](https://tools.ietf.org/html/rfc4627) - JavaScript Object Notation (JSON).
-- [RFC7049](http://tools.ietf.org/search/rfc7049) - Concise Binary Object Representation (CBOR).
+- [RFC7049](https://tools.ietf.org/html/rfc7049) - Concise Binary Object Representation (CBOR).
 - [BSON](http://bsonspec.org/) - Binary JSON (BSON).
 - [JSON-LD](http://json-ld.org/) - JSON for Linking Data.
 - [SBE](https://github.com/FIXTradingCommunity/fix-simple-binary-encoding) - Simple Binary Encoding (SBE).
@@ -710,7 +709,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Equinox](https://www.infosysequinox.com/) - Infosys Equinox is a human-centric commerce and marketing platform that supports rich, hyper-personalized experiences across any channel and touchpoint.
 - [Flamingo](https://www.flamingo.me/) - Framework to build flexible and modern e-commerce applications.
 - [Medusa](https://medusajs.com/) - Headless open source commerce platform.
-- [Predix](https://predix.io/) - Industrial microservices platform.
 
 ## Theory
 
@@ -724,7 +722,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Canary Release](http://martinfowler.com/bliki/CanaryRelease.html) - Technique to reduce the risk of introducing a new software version in production by slowly rolling out the change to a small subset of users before rolling it out to the entire infrastructure and making it available to everybody.
 - [CAP Theorem](http://blog.thislongrun.com/2015/03/the-cap-theorem-series.html) -  States that it is impossible for a distributed computer system to simultaneously provide all three of the following guarantees: Consistency, Availability and Partition tolerance.
 - [Formal Foundations of Serverless Computing](https://arxiv.org/pdf/1902.05870.pdf) :small_orange_diamond:<sup>PDF</sup> - The serverless computing abstraction exposes several low-level operational details that make it hard for programmers to write and reason about their code. This paper sheds light on this problem by presenting λ, an operational semantics of the essence of serverless computing.
-- [Introducing Domain-Oriented Microservice Architecture](https://www.uber.com/blog/microservice-architecture/) - Introduction to Uber Engineering generalized approach to microservice architectures, named “Domain-Oriented Microservice Architecture” (DOMA).
 - [Java Microservices: A Practical Guide](https://www.marcobehler.com/guides/java-microservices-a-practical-guide) - You can use this guide to understand what Java microservices are, how you architect and build them. Also: A look at Java microservice libraries & common questions.
 - [Microservice Architecture](http://martinfowler.com/articles/microservices.html) - Particular way of designing software applications as suites of independently deployable services.
 - [Microservices – Please, don’t](https://riak.com/posts/technical/microservices-please-dont/) - Critical advice about some problems regarding a microservices approach.
