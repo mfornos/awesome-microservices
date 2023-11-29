@@ -395,6 +395,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Cadence](https://cadenceworkflow.io/) - Fault-oblivious stateful code platform.
 - [Conductor](https://github.com/Netflix/conductor) - A microservices orchestration engine.
 - [Fission Workflows](https://github.com/fission/fission-workflows) - Workflow-based, reliable function composition for serverless functions.
+- [Kestra](https://github.com/kestra-io/kestra) - Open source microservices event-driven, language-agnostic orchestration and scheduling platform.
 - [Temporal](https://github.com/temporalio/temporal) - Open source microservices orchestration platform for running mission critical code at any scale.
 - [Zeebe](https://camunda.com/platform/zeebe/) - Define, orchestrate, and monitor business processes across microservices.
 
