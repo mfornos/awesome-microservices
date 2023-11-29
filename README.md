@@ -616,7 +616,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Self-sovereignty & Decentralisation
 
 - [DID](https://www.w3.org/TR/did-core/) - W3C specification of Decentralized identifiers (DIDs): a new type of identifier that enables verifiable, decentralized digital identity.
-- [DIDComm](https://identity.foundation/didcomm-messaging/spec/) - Private communication methodology built atop the decentralized design of DIDs.
+- [DIDComm](https://identity.foundation/didcomm-messaging/spec/v2.1/) - Private communication methodology built atop the decentralized design of DIDs.
 - [DIDComm Protocols](https://didcomm.org/) - Registry of protocols built on DIDComm, for high-trust, self-sovereign interactions over any transport.
 - [IDSA](https://internationaldataspaces.org/) - The International Data Spaces Association (IDSA) is on a mission to create the future of the global, digital economy with International Data Spaces (IDS), a secure, sovereign system of data sharing in which all participants can realize the full value of their data.
 
@@ -714,6 +714,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Articles & Papers
 
+- [Autonomy, Hyperconnectivity, and Residual Causality](https://doi.org/10.3390/philosophies6040081) - Philosophical introduction to the design of adaptive hyperliminal systems through complexity science theories.
 - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) :star: - An updated and organized reading list for illustrating the patterns of scalable, reliable, and performant large-scale systems. Concepts are explained in the articles of prominent engineers and credible references. Case studies are taken from battle-tested systems that serve millions to billions of users.
 - [A Sidecar for Your Service Mesh](https://www.abhishek-tiwari.com/a-sidecar-for-your-service-mesh/) - A short service mesh introduction.
 - [AKF Scale Cube](http://akfpartners.com/techblog/2008/05/08/splitting-applications-or-services-for-scale/) - Model depicting the dimensions to scale a service.
