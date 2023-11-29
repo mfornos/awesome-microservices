@@ -616,7 +616,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Self-sovereignty & Decentralisation
 
 - [DID](https://www.w3.org/TR/did-core/) - W3C specification of Decentralized identifiers (DIDs): a new type of identifier that enables verifiable, decentralized digital identity.
-- [DIDComm](https://identity.foundation/didcomm-messaging/spec/v2.1/) - Private communication methodology built atop the decentralized design of DIDs.
+- [DIDComm](https://github.com/decentralized-identity/didcomm-messaging) - Private communication methodology built atop the decentralized design of DIDs.
 - [DIDComm Protocols](https://didcomm.org/) - Registry of protocols built on DIDComm, for high-trust, self-sovereign interactions over any transport.
 - [IDSA](https://internationaldataspaces.org/) - The International Data Spaces Association (IDSA) is on a mission to create the future of the global, digital economy with International Data Spaces (IDS), a secure, sovereign system of data sharing in which all participants can realize the full value of their data.
 
