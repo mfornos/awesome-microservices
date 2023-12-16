@@ -420,6 +420,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Light OAuth2](https://github.com/networknt/light-oauth2) - A fast, lightweight and cloud native OAuth 2.0 authorization microservices based on light-java.
 - [OAuth](http://oauth.net/2/) - Provides specific authorization flows for web applications, desktop applications, mobile phones, and living room devices. Many implementations.
 - [OpenID Connect](https://openid.net/certified-open-id-developer-tools/) - Libraries, products, and tools implementing current OpenID specifications and related specs.
+- [Open Ziti](https://openziti.io/) - Zero trust security and overlay networking as pure open source software.
 - [ORY](https://www.ory.sh/) - Open source identity infrastructure and services.
 - [SCIM](https://simplecloud.info/) - System for Cross-domain Identity Management.
 - [Vault](https://www.vaultproject.io/) - Secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets in modern computing.
@@ -550,7 +551,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Messaging
 
 - [AMQP](https://www.amqp.org/) - Advanced Message Queuing Protocol.
-- [MQTT](https://mqtt.org/ - MQ Telemetry Transport.
+- [MQTT](https://mqtt.org/) - MQ Telemetry Transport.
 - [STOMP](https://stomp.github.io/) - Simple Text Oriented Messaging Protocol.
 
 ### Security
