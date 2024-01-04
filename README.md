@@ -239,6 +239,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Slim](http://www.slimframework.com/) - Micro-framework that helps you quickly write simple yet powerful web applications and APIs.
 - [Swoft](https://github.com/swoft-cloud/swoft/) - PHP microservices coroutine framework for building high-performance web systems, APIs, middleware, and basic services.
 - [Symfony](https://symfony.com/) - Micro-framework based on the Symfony components.
+- [Spiral](https://spiral.dev/) - Spiral is a framework built on PHP 8.1, uniquely designed for long-running applications using [RoadRunner](https://roadrunner.dev/). It offers advanced features like integration with the [Temporal workflow engine](https://temporal.io/) and [Centrifugo websocket server](https://centrifugal.dev/), enhancing its capabilities for real-time, high-load environments. This framework is particularly effective for microservices architecture, providing robust support for REST APIs and gRPC services.
 
 ### Python
 
