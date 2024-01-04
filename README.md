@@ -484,6 +484,10 @@ A curated list of Microservice Architecture related principles and technologies.
 - [WireMock](http://wiremock.org/) - Flexible library for stubbing and mocking web services. Unlike general purpose mocking tools it works by creating an actual HTTP server that your code under test can connect to as it would a real web service.
 - [Hoverfly](https://github.com/spectolabs/hoverfly) - Lightweight service virtualization/API simulation tool for developers and testers.
 
+### Workflow engines
+
+- [Temporal](https://temporal.io/) - A distributed, scalable, durable, and highly available orchestration engine used to execute asynchronous long-running business logic (Workflows) in a scalable and resilient way.
+
 ## Continuous Integration & Delivery
 
 - [Awesome CI/CD DevOps](https://github.com/ciandcd/awesome-ciandcd) :star: - A curated list of awesome tools for continuous integration, continuous delivery and DevOps.
