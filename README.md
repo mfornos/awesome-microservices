@@ -291,7 +291,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Envoy](https://github.com/lyft/envoy) - Open source edge and service proxy, from the developers at Lyft.
 - [HAProxy](https://github.com/haproxy/haproxy) - Reliable, high Performance TCP/HTTP load balancer.
 - [Istio](https://istio.io/) - An open platform to connect, manage, and secure microservices.
-- [Janus](https://github.com/hellofresh/janus) - An API Gateway written in Go.
 - [Keepalived](http://www.keepalived.org/) - Simple and robust facilities for loadbalancing and high-availability to Linux system and Linux based infrastructures.
 - [Kong](https://github.com/kong/kong) - Open source management layer for APIs.
 - [KrakenD](http://krakend.io/) - Open source ultra performance API Gateway.
