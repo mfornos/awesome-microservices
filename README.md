@@ -424,6 +424,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [ORY](https://www.ory.sh/) - Open source identity infrastructure and services.
 - [SCIM](https://simplecloud.info/) - System for Cross-domain Identity Management.
 - [Vault](https://www.vaultproject.io/) - Secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets in modern computing.
+- [Oso](https://www.osohq.com/) - Authorization as a service for Microservices applications
 
 ### Serialization
 
