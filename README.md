@@ -216,6 +216,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Express](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
 - [Fastify](https://www.fastify.io/) - Fastify, Fast and low overhead web framework, for Node.js.
 - [FeathersJS](http://feathersjs.com/) - An open source REST and realtime API layer for modern applications.
+- [Godspeed](https://godspeed.systems/) - The (only) Nodejs meta-framework for better, easier and faster development.
 - [Hono](https://hono.dev/) - Small, simple, and ultrafast web framework for the Edges. It works on any JavaScript runtime.
 - [Koa](http://koajs.com/) - Next generation web framework for Node.js
 - [Loopback](http://loopback.io/) - Node.js framework for creating APIs and easily connecting to backend data sources.
@@ -223,6 +224,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [NestJS](https://docs.nestjs.com/) - A Node.js framework for building efficient and scalable server-side applications with a built-in microservices support.
 - [Seneca](https://github.com/senecajs/seneca) - A microservices toolkit for Node.js
 - [Serverless](https://github.com/serverless/serverless) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS).
+  
 
 ### Perl
 
