@@ -223,6 +223,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [NestJS](https://docs.nestjs.com/) - A Node.js framework for building efficient and scalable server-side applications with a built-in microservices support.
 - [Seneca](https://github.com/senecajs/seneca) - A microservices toolkit for Node.js
 - [Serverless](https://github.com/serverless/serverless) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS).
+- [tRPC](https://github.com/trpc/trpc) - End-to-end typesafe APIs.
 
 ### Perl
 
@@ -336,12 +337,12 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Hazelcast](http://hazelcast.org/) - Open source in-memory data-grid. Allows you to distribute data and computation across servers, clusters and geographies, and to manage very large data sets or high data ingest rates. Mature technology.
 - [Helix](http://helix.apache.org/) - Generic cluster management framework used for the automatic management of partitioned, replicated and distributed resources hosted on a cluster of nodes.
 - [Ignite](http://ignite.apache.org/) - High-performance, integrated and distributed in-memory platform for computing and transacting on large-scale data sets in real-time, orders of magnitude faster than possible with traditional disk-based or flash technologies.
-- [Valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project.
 - [Libp2p](https://libp2p.io/) - A framework and suite of protocols for building peer-to-peer network applications.
 - [Mesos](https://mesos.apache.org/) - Abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
 - [Nomad](https://www.nomadproject.io/) - Distributed, highly available, datacenter-aware scheduler.
 - [Redisson](https://github.com/mrniko/redisson) - Distributed and scalable Java data structures on top of Redis server.
 - [Serf](https://www.serf.io/) - Decentralized solution for cluster membership, failure detection and orchestration.
+- [Valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project.
 - [Zenoh](https://zenoh.io/) - Pub/sub/query protocol unifying data in motion, data at rest and computations. Efficiently blends traditional pub/sub with geo distributed storage, queries and computations.
 
 ### Job Schedulers / Workload Automation
