@@ -427,6 +427,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [ORY](https://www.ory.sh/) - Open source identity infrastructure and services.
 - [SCIM](https://simplecloud.info/) - System for Cross-domain Identity Management.
 - [Vault](https://www.vaultproject.io/) - Secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets in modern computing.
+- [Oso](https://www.osohq.com/) - Authorization as a service for Microservices applications
 
 ### Serialization
 
@@ -636,6 +637,8 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Testing Strategies in a Microservice Architecture](http://martinfowler.com/articles/microservice-testing/) - Approaches for managing the additional testing complexity of multiple independently deployable components.
 - [Your Server as a Function](http://monkey.org/~marius/funsrv.pdf) :small_orange_diamond:<sup>PDF</sup> - Describes three abstractions which combine to present a powerful programming model for building safe, modular, and efficient server software: Composable futures, services and filters.
 - [Microservices - The Journey So Far and Challenges Ahead](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8354433) :small_orange_diamond:<sup>PDF</sup> - Overview of the state of microservices in both industrial and academia.
+- [Authorization in Microservices](https://www.osohq.com/academy/microservices-authorization) - A guide to architecture decisions and tradeoffs when implementing application authorization in a microservices environment. 
+
 
 ### Sites & Organizations
 
