@@ -270,6 +270,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Actix](https://actix.rs/) - Powerful, pragmatic, and extremely fast web framework for Rust.
 - [Tarpc](https://github.com/google/tarpc) - RPC framework for Rust with a focus on ease of use.
 - [Tower](https://github.com/tower-rs/tower) - Library of modular and reusable components for building robust networking clients and servers.
+- [Wtx](https://github.com/c410-f3r/wtx) - HTTP/2 client/server framework.
 
 ## Frontend / UI
 
