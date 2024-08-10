@@ -212,7 +212,6 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Node.js
 
 - [Actionhero](http://www.actionherojs.com/) - Multi-transport Node.js API server with integrated cluster capabilities and delayed tasks.
-- [Cyclic.sh (c)](https://app.cyclic.sh/) - Simple serverless platform and dev tools for node.js services with Express.js support.
 - [Express](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
 - [Fastify](https://www.fastify.io/) - Fastify, Fast and low overhead web framework, for Node.js.
 - [FeathersJS](http://feathersjs.com/) - An open source REST and realtime API layer for modern applications.
@@ -606,7 +605,6 @@ A curated list of Microservice Architecture related principles and technologies.
 ## Enterprise & Verticals
 
 - [Commercetools](https://commercetools.com/) - Headless commerce platform.
-- [Elasticpath](https://www.elasticpath.com/) - E-commerce microservices.
 - [Equinox](https://www.infosysequinox.com/) - Infosys Equinox is a human-centric commerce and marketing platform that supports rich, hyper-personalized experiences across any channel and touchpoint.
 - [Flamingo](https://www.flamingo.me/) - Framework to build flexible and modern e-commerce applications.
 - [Medusa](https://medusajs.com/) - Headless open source commerce platform.
@@ -633,10 +631,8 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Reactive Streams](http://www.reactive-streams.org/) - Initiative to provide a standard for asynchronous stream processing with non-blocking back pressure.
 - [ROCAS](http://resources.1060research.com/docs/2015/Resource-Oriented-Computing-Adaptive-Systems-ROCAS-1.2.pdf) :small_orange_diamond:<sup>PDF</sup> - Resource Oriented Computing for Adaptive Systems.
 - [SECO](http://ceur-ws.org/Vol-746/IWSECO2011-6-DengYu.pdf) :small_orange_diamond:<sup>PDF</sup> - Understanding software ecosystems: a strategic modeling approach.
-- [Service Discovery in a Microservice Architecture](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/) - Overview of discovery and registration patterns.
 - [Testing Strategies in a Microservice Architecture](http://martinfowler.com/articles/microservice-testing/) - Approaches for managing the additional testing complexity of multiple independently deployable components.
 - [Your Server as a Function](http://monkey.org/~marius/funsrv.pdf) :small_orange_diamond:<sup>PDF</sup> - Describes three abstractions which combine to present a powerful programming model for building safe, modular, and efficient server software: Composable futures, services and filters.
-- [Microservices - The Journey So Far and Challenges Ahead](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8354433) :small_orange_diamond:<sup>PDF</sup> - Overview of the state of microservices in both industrial and academia.
 
 ### Sites & Organizations
 
