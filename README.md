@@ -95,6 +95,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Moleculer](http://moleculer.services/) - Fast & powerful microservices framework for Node.js, Java, Go and Ruby.
 - [Open Liberty](https://openliberty.io/) - A lightweight open framework for building fast and efficient cloud-native Java microservices.
 - [Orbit](https://github.com/orbit/orbit) - Modern framework for JVM languages that makes it easier to build and maintain distributed and scalable online services.
+- [Pears](https://github.com/holepunchto/pear) - Peer-to-peer runtime, development and deployment.
 - [SmallRye](https://smallrye.io/) - APIs and implementations tailored for cloud development, including Eclipse MicroProfile.
 - [Spin](https://github.com/fermyon/spin) - An open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly.
 - [ScaleCube](https://github.com/scalecube/scalecube) - Toolkit for building reactive microservices for the JVM: low-latency, high-throughput, scalable and resilient.
@@ -460,7 +461,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension.
 - [ClickHouse](https://clickhouse.yandex/) - Column-oriented database management system that allows generating analytical data reports in real time.
 - [CockroachDB (c)](https://www.cockroachlabs.com/) - A cloud-native SQL database modelled after Google Spanner.
-- [Couchbase](https://www.couchbase.com/) - A distributed database engineered for performance, scalability, and simplified administration.
+- [Couchbase](https://couchbase.com/) - A distributed database engineered for performance, scalability, and simplified administration.
 - [Crate (c)](https://crate.io/) - Scalable SQL database with the NoSQL goodies.
 - [Datomic](http://www.datomic.com/) - Fully transactional, cloud-ready, distributed database.
 - [Druid](http://druid.io/) - Fast column-oriented distributed data store.
