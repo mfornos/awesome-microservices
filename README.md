@@ -460,7 +460,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension.
 - [ClickHouse](https://clickhouse.yandex/) - Column-oriented database management system that allows generating analytical data reports in real time.
 - [CockroachDB (c)](https://www.cockroachlabs.com/) - A cloud-native SQL database modelled after Google Spanner.
-- [Couchbase](http://www.couchbase.com/) - A distributed database engineered for performance, scalability, and simplified administration.
+- [Couchbase](https://www.couchbase.com/) - A distributed database engineered for performance, scalability, and simplified administration.
 - [Crate (c)](https://crate.io/) - Scalable SQL database with the NoSQL goodies.
 - [Datomic](http://www.datomic.com/) - Fully transactional, cloud-ready, distributed database.
 - [Druid](http://druid.io/) - Fast column-oriented distributed data store.
