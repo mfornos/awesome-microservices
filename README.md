@@ -108,7 +108,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Polyglot
 
 - [GRPC](http://www.grpc.io/) - A high performance, open source, general RPC framework that puts mobile and HTTP/2 first. Libraries in C, C++, Java, Go, Node.js, Python, Ruby, Objective-C, PHP and C#.
-- [Hprose](http://github.com/hprose) - A very newbility RPC Library, support 25+ languages now.
+- [Hprose](http://github.com/hprose) - A very newability RPC Library, support 25+ languages now.
 
 ### C
 
