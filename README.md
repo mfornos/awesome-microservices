@@ -92,6 +92,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Ice](https://zeroc.com/) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python, and more.
 - [Light-4j](https://github.com/networknt/light-4j) - A high throughput, low latency, small memory footprint and more productive microservices platform.
 - [Micronaut](http://micronaut.io/) - A modern, JVM-based, full-stack framework for building modular, easily testable microservice applications.
+- [Modus](https://github.com/hypermodeinc/modus) - An open source, serverless framework for building intelligent functions and APIs, powered by WebAssembly.
 - [Moleculer](http://moleculer.services/) - Fast & powerful microservices framework for Node.js, Java, Go and Ruby.
 - [Open Liberty](https://openliberty.io/) - A lightweight open framework for building fast and efficient cloud-native Java microservices.
 - [Orbit](https://github.com/orbit/orbit) - Modern framework for JVM languages that makes it easier to build and maintain distributed and scalable online services.
