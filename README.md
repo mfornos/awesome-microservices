@@ -67,6 +67,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ## Platforms
 
+- [Agentfield](https://github.com/Agent-Field/agentfield) - Open source control plane for deploying AI agents as distributed microservices, with built-in service discovery, durable workflows, and observability.
 - [Jolie](https://jolie-lang.org) - Open source microservice-oriented programming language.
 - [Kalix (c)](https://www.kalix.io/) - Platform as a Service that abstracts away the complexity of event-driven microservices.
 - [Lightbend (c)](https://www.lightbend.com/) - Platform for building scalable reactive systems on the JVM.
