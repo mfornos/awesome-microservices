@@ -612,6 +612,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Equinox](https://www.infosysequinox.com/) - Infosys Equinox is a human-centric commerce and marketing platform that supports rich, hyper-personalized experiences across any channel and touchpoint.
 - [Flamingo](https://www.flamingo.me/) - Framework to build flexible and modern e-commerce applications.
 - [Medusa](https://medusajs.com/) - Headless open source commerce platform.
+- [Vedika API](https://vedika.io) - B2B microservice API platform for Vedic astrology calculations with AI-powered chatbot. 108+ REST endpoints, 22 languages, 97% accuracy, multi-agent swarm intelligence.
 
 ## Theory
 
