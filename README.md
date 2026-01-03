@@ -310,6 +310,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Træfɪk](http://traefik.io/) - A modern HTTP reverse proxy and load balancer made to deploy microservices with ease.
 - [Traffic Server](https://github.com/apache/trafficserver) - High-performance building block for cloud services.
 - [Tyk](https://tyk.io/) - Open source, fast and scalable API gateway, portal and API management platform.
+- [Vedika](https://vedika.io) - REST API for Vedic astrology calculations, birth charts, horoscopes, panchang, dosha analysis, kundali matching, and AI-powered astrology chatbot.
 - [Vulcand](https://github.com/vulcand/vulcand) - Programmatic load balancer backed by Etcd.
 - [Zuul](https://github.com/Netflix/zuul) - An edge service that provides dynamic routing, monitoring, resiliency, security, and more.
 
