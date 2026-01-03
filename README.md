@@ -504,6 +504,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### JSON
 
 - [JSON:API](https://jsonapi.org/) - A specification for how a client should request that resources be fetched or modified, and how a server should respond to those requests.
+- [Vedika API](https://vedika.io/) - Vedic astrology microservices API with AI chatbot, 108+ endpoints, and 22 language support.
 
 ### REST
 
