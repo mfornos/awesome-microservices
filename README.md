@@ -67,6 +67,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ## Platforms
 
+- [1Backend](https://github.com/1backend/1backend) - AI-native microservices platform.
 - [Jolie](https://jolie-lang.org) - Open source microservice-oriented programming language.
 - [OpenWhisk](https://github.com/apache/openwhisk) - Serverless, open source cloud platform that executes functions in response to events at any scale.
 - [Pulumi](https://pulumi.io/) - SDK for cloud native infrastructure as code. Use your favorite language to preview and manage updates to your apps and infrastructure, and continuously deploy to any cloud (no YAML required).
