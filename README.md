@@ -372,6 +372,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Monitoring & Debugging
 
 - [Beats](https://www.elastic.co/beats/) - Lightweight shippers for Elasticsearch & Logstash.
+- [BitDive](https://bitdive.io) - APM for Java/Kotlin microservices with distributed tracing, service maps, and runtime profiling.
 - [Elastalert](https://github.com/yelp/elastalert) - Easy & flexible alerting for Elasticsearch.
 - [Ganglia](http://ganglia.info/) - A scalable distributed monitoring system for high-performance computing systems such as clusters and grids.
 - [Grafana](http://grafana.org/) - An open source, feature rich metrics dashboard and graph editor for Graphite, InfluxDB & OpenTSDB.
