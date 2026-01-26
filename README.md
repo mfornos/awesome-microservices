@@ -386,6 +386,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Zabbix](http://www.zabbix.com/) - Open source enterprise-class monitoring solution.
 - [Zipkin](http://zipkin.io) - Distributed tracing system.
 
+- [What Broke Today](https://whatbroke.today) - AI-powered outage aggregator tracking 100+ cloud services with real-time Telegram alerts.
 ### Reactivity
 
 - [Reactor.io](https://github.com/reactor) - A second-generation Reactive library for building non-blocking applications on the JVM based on the Reactive Streams Specification.
