@@ -412,7 +412,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Open Ziti](https://openziti.io/) - Zero trust security and overlay networking as pure open source software.
 - [ORY](https://www.ory.sh/) - Open source identity infrastructure and services.
 - [SCIM](https://simplecloud.info/) - System for Cross-domain Identity Management.
-- [KeyEnv](https://keyenv.com/) - CLI-first secrets manager that replaces .env files with encrypted, team-shared environment variables. Supports runtime injection and role-based access control.
+- [KeyEnv](https://keyenv.dev) - CLI-first secrets manager that replaces .env files with encrypted, team-shared environment variables. Supports runtime injection and role-based access control.
 - [Vault](https://www.vaultproject.io/) - Secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets in modern computing.
 
 ### Serialization
