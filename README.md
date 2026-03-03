@@ -272,6 +272,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 > Note that [data and control plane](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc) components are not categorized at this moment.
 
+- [Agent Gateway](https://github.com/OzorOwn/agent-gateway) - Unified REST API gateway for 39+ AI agent services including crypto, DeFi, code execution, scraping, and webhooks.
 - [Ambassador (c)](https://www.getambassador.io) - Kubernetes-native API gateway for microservices built on Envoy.
 - [APIcast](https://github.com/3scale/APIcast) - APIcast is an API gateway built on top of NGINX. It is part of the Red Hat 3scale API Management Platform.
 - [Bunker Web](https://github.com/bunkerity/bunkerweb) - Web app hosting and reverse proxy secure by default.
