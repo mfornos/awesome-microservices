@@ -371,6 +371,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Monitoring & Debugging
 
+- [API Status Check](https://apistatuscheck.com/) - Third-party API status aggregator that monitors 2,000+ services, helping microservice teams track the health of external API dependencies.
 - [Beats](https://www.elastic.co/beats/) - Lightweight shippers for Elasticsearch & Logstash.
 - [Elastalert](https://github.com/yelp/elastalert) - Easy & flexible alerting for Elasticsearch.
 - [Ganglia](http://ganglia.info/) - A scalable distributed monitoring system for high-performance computing systems such as clusters and grids.
