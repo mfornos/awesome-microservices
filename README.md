@@ -498,6 +498,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Scalar](https://github.com/scalar/scalar) - Open-source API platform: beautiful API references and 1st-class OpenAPI/Swagger support.
 - [Slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API.
 - [Spring REST Docs](http://projects.spring.io/spring-restdocs/) - Document RESTful services by combining hand-written documentation with auto-generated snippets produced with Spring MVC Test.
+- [spec2cli](https://github.com/lucianfialho/spec2cli) - Turn any OpenAPI/Swagger spec into a CLI at runtime, no code generation needed.
 - [Swagger](https://swagger.io/) - A simple yet powerful representation of your RESTful API.
 
 ## Standards / Recommendations
