@@ -64,6 +64,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Sites & Organizations](#sites--organizations)
 - [License](#license)
 - [Contributing](#contributing)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts implementing microservice-style multi-agent orchestration with task delegation, health checks, and quality gates. MIT licensed.
 
 ## Platforms
 
