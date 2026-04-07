@@ -211,6 +211,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Seneca](https://github.com/senecajs/seneca) - A microservices toolkit for Node.js
 - [Serverless](https://github.com/serverless/serverless) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS).
 - [tRPC](https://github.com/trpc/trpc) - End-to-end typesafe APIs.
+- [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine CLI. Source 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native.
 
 ### Perl
 
