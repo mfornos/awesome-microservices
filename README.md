@@ -65,6 +65,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [License](#license)
 - [Contributing](#contributing)
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=mfornos_awesome-microservices) - Follow developers on GitHub and get a feed of what they star and build.
 ## Platforms
 
 - [1Backend](https://github.com/1backend/1backend) - AI-native microservices platform.
