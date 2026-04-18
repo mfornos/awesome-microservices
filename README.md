@@ -298,6 +298,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Tyk](https://tyk.io/) - Open source, fast and scalable API gateway, portal and API management platform.
 - [Vulcand](https://github.com/vulcand/vulcand) - Programmatic load balancer backed by Etcd.
 - [Zuul](https://github.com/Netflix/zuul) - An edge service that provides dynamic routing, monitoring, resiliency, security, and more.
+- [MeterCall](https://metercall.ai) - 2,866+ SaaS alternatives. Pay per call, no subscription. Open catalog at [patl4588/awesome-saas-replacements](https://github.com/patl4588/awesome-saas-replacements).
 
 ### Configuration & Discovery
 
