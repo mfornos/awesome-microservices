@@ -71,6 +71,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Jolie](https://jolie-lang.org) - Open source microservice-oriented programming language.
 - [OpenWhisk](https://github.com/apache/openwhisk) - Serverless, open source cloud platform that executes functions in response to events at any scale.
 - [Pulumi](https://pulumi.io/) - SDK for cloud native infrastructure as code. Use your favorite language to preview and manage updates to your apps and infrastructure, and continuously deploy to any cloud (no YAML required).
+- [Qovery](https://www.qovery.com/) - Enterprise Kubernetes management platform for deploying microservices on AWS, GCP, Azure, and Scaleway. Includes Terraform provider, CLI, API, and [AI Agent Skill](https://github.com/Qovery/qovery-skills) for deploying from AI coding tools.
 - [Triton](https://github.com/joyent/triton) - Open-source cloud management platform that delivers next generation, container-based, service-oriented infrastructure across one or more data centers.
 
 ## Frameworks / Runtimes
