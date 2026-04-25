@@ -385,6 +385,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [SkyWalking](https://skywalking.apache.org/) - Application performance monitor tool for distributed systems, especially designed for microservices, cloud native and container-based (Docker, K8s, Mesos) architectures.
 - [Zabbix](http://www.zabbix.com/) - Open source enterprise-class monitoring solution.
 - [Zipkin](http://zipkin.io) - Distributed tracing system.
+- [KubeStellar Console](https://console.kubestellar.io) - AI-powered multi-cluster Kubernetes dashboard with real-time observability, 150+ monitoring cards, and CNCF integrations.
 
 ### Reactivity
 
