@@ -385,6 +385,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [SkyWalking](https://skywalking.apache.org/) - Application performance monitor tool for distributed systems, especially designed for microservices, cloud native and container-based (Docker, K8s, Mesos) architectures.
 - [Zabbix](http://www.zabbix.com/) - Open source enterprise-class monitoring solution.
 - [Zipkin](http://zipkin.io) - Distributed tracing system.
+- [tracemaid](https://github.com/karthyick/tracemaid) - Auto-generate Mermaid call graphs from OpenTelemetry traces. Visualizes microservice request paths, span timing, and parent-child relationships from existing OTel instrumentation.
 
 ### Reactivity
 
