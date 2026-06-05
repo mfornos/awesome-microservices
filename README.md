@@ -461,6 +461,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Testing
 
+- [flakybin](https://github.com/mikluko/flakybin) - A deterministic HTTP fault-injection server that fails endpoints (status codes, hangs, connection drops) on a seed-reproducible schedule to test uptime monitors and retry logic.
 - [Goreplay](https://github.com/buger/goreplay) - A tool for capturing and replaying live HTTP traffic into a test environment.
 - [Mitmproxy](https://mitmproxy.org/) - An interactive console program that allows traffic flows to be intercepted, inspected, modified and replayed.
 - [Mountebank](http://www.mbtest.org/) - Cross-platform, multi-protocol test doubles over the wire.
