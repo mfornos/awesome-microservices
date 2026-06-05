@@ -411,6 +411,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [OpenID Connect](https://openid.net/certified-open-id-developer-tools/) - Libraries, products, and tools implementing current OpenID specifications and related specs.
 - [Open Ziti](https://openziti.io/) - Zero trust security and overlay networking as pure open source software.
 - [ORY](https://www.ory.sh/) - Open source identity infrastructure and services.
+- [OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) — Runtime defense layer for AI agent memory poisoning (OWASP ASI06). Detects tampered memory entries, prompt injection in memory paths, and secret leakage. YAML policies, microsecond latency, zero external dependencies.
 - [SCIM](https://simplecloud.info/) - System for Cross-domain Identity Management.
 - [Vault](https://www.vaultproject.io/) - Secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets in modern computing.
 
@@ -449,8 +450,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Datomic](http://www.datomic.com/) - Fully transactional, cloud-ready, distributed database.
 - [Druid](http://druid.io/) - Fast column-oriented distributed data store.
 - [Elasticsearch](https://www.elastic.co/elasticsearch) - Open source distributed, scalable, and highly available search server.
-- **[OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard)** — Runtime defense layer for AI agent memory poisoning (OWASP ASI06). Detects tampered memory entries, prompt injection in memory paths, and secret leakage. YAML-defined policies (block/warn/strip), sub-100μs latency, zero external dependencies. `pip install agent-memory-guard`
-
 - [Geode](http://geode.incubator.apache.org/) - Open source, distributed, in-memory database for scale-out applications.
 - [Infinispan](http://infinispan.org/) - Highly concurrent key/value datastore used for caching.
 - [InfluxDB](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
