@@ -460,6 +460,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Trino](https://trino.io/) - Fast distributed SQL query engine for big data analytics that helps you explore your data universe.
 
 ### Testing
+- [BreakShield CI](https://breakshield-ci.vercel.app) - Detects breaking API contract changes between microservices using AST analysis.
 
 - [Goreplay](https://github.com/buger/goreplay) - A tool for capturing and replaying live HTTP traffic into a test environment.
 - [Mitmproxy](https://mitmproxy.org/) - An interactive console program that allows traffic flows to be intercepted, inspected, modified and replayed.
