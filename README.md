@@ -430,10 +430,12 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Jackson](https://github.com/FasterXML/jackson) -  A multi-purpose Java library for processing JSON data format.
 - [Jackson Afterburner](https://github.com/FasterXML/jackson-module-afterburner) - Jackson module that uses bytecode generation to further speed up data binding (+30-40% throughput for serialization, deserialization).
 - [Kryo](https://github.com/EsotericSoftware/kryo) - Java serialization and cloning: fast, efficient, automatic.
+- [Lite³](https://github.com/fastserial/lite3) - JSON-compatible zero-copy serialization format.
 - [MessagePack](http://msgpack.org/) - Efficient binary serialization format.
 - [Protostuff](https://github.com/protostuff/protostuff) - A serialization library with built-in support for forward-backward compatibility (schema evolution) and validation.
 - [SBinary](https://github.com/harrah/sbinary) - Library for describing binary formats for Scala types.
 - [Thrift](http://thrift.apache.org/) - The Apache Thrift software framework, for scalable cross-language services development.
+- [yyjson](https://github.com/ibireme/yyjson) - The fastest JSON library in C.
 
 ### Storage
 
