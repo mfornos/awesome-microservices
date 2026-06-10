@@ -29,6 +29,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Workflow Orchestration](#workflow-orchestration)
   - [Elasticity](#elasticity)
   - [Job Schedulers / Workload Automation](#job-schedulers--workload-automation)
+  - [Local Development](#local-development)
   - [Logging](#logging)
   - [Messaging](#messaging)
   - [Monitoring & Debugging](#monitoring--debugging)
@@ -341,6 +342,10 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Faktory](https://github.com/contribsys/faktory) - Language-agnostic persistent background job server.
 - [Rundeck (c)](http://rundeck.org/) - Job scheduler and runbook automation. Enable self-service access to existing scripts and tools.
 - [Schedulix](https://github.com/schedulix/schedulix) - Open source enterprise job scheduling system lays down ground-breaking standards for the professional automation of IT processes in advanced system environments.
+
+### Local Development
+
+- [mirrord](https://metalbear.com/mirrord/) - Run local code as if it were a pod in a remote Kubernetes cluster.
 
 ### Logging
 
