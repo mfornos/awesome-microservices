@@ -236,6 +236,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Falcon](https://falconframework.org/) - Bare-metal Python web API framework for building very fast app backends and microservices.
 - [FastAPI](https://fastapi.tiangolo.com/) - Modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
 - [Flask](http://flask.pocoo.org/) - Python framework for microservices based on Werkzeug and Jinja 2.
+- [lite-bootstrap](https://github.com/modern-python/lite-bootstrap) - Toolkit for bootstrapping production-ready microservices with OpenTelemetry, Prometheus, Sentry, and health checks for FastAPI, Litestar, and FastStream.
 - [Nameko](https://github.com/onefinestay/nameko) - Python framework for building microservices.
 - [Sanic](https://github.com/sanic-org/sanic) - Sanic is a Flask-like Python 3.5+ web server that's written to go fast.
 - [Tornado](http://www.tornadoweb.org/) - Web framework and asynchronous networking library.
