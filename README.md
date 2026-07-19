@@ -92,6 +92,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Micronaut](http://micronaut.io/) - A modern, JVM-based, full-stack framework for building modular, easily testable microservice applications.
 - [Moleculer](http://moleculer.services/) - Fast & powerful microservices framework for Node.js, Java, Go and Ruby.
 - [Open Liberty](https://openliberty.io/) - A lightweight open framework for building fast and efficient cloud-native Java microservices.
+- [Orion](https://github.com/GoPlasmatic/Orion) - Declarative services runtime in Rust; REST/Kafka endpoints defined as JSON workflows, with built-in observability, rate limiting and circuit breakers.
 - [Pears](https://github.com/holepunchto/pear) - Peer-to-peer runtime, development and deployment.
 - [SmallRye](https://smallrye.io/) - APIs and implementations tailored for cloud development, including Eclipse MicroProfile.
 - [Spin](https://github.com/fermyon/spin) - An open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly.
