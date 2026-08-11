@@ -91,6 +91,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Light-4j](https://github.com/networknt/light-4j) - A high throughput, low latency, small memory footprint and more productive microservices platform.
 - [Micronaut](http://micronaut.io/) - A modern, JVM-based, full-stack framework for building modular, easily testable microservice applications.
 - [Moleculer](http://moleculer.services/) - Fast & powerful microservices framework for Node.js, Java, Go and Ruby.
+- [Mycel](https://github.com/matutetandil/mycel) - Declarative runtime for microservices defined in HCL configuration instead of code, speaking REST, GraphQL, gRPC, message queues and databases.
 - [Open Liberty](https://openliberty.io/) - A lightweight open framework for building fast and efficient cloud-native Java microservices.
 - [Pears](https://github.com/holepunchto/pear) - Peer-to-peer runtime, development and deployment.
 - [SmallRye](https://smallrye.io/) - APIs and implementations tailored for cloud development, including Eclipse MicroProfile.
