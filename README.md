@@ -318,6 +318,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Conductor](https://github.com/Netflix/conductor) - A microservices orchestration engine.
 - [Inngest](https://github.com/inngest/inngest) - Durable functions for reliable background logic, from background jobs to complex workflows.
 - [Kestra](https://github.com/kestra-io/kestra) - Open source microservices event-driven, language-agnostic orchestration and scheduling platform.
+- [Restate](https://github.com/restatedev/restate) - Open-source runtime for building resilient distributed applications, combining orchestration, state, messaging/RPC, and durable execution.
 - [Temporal](https://github.com/temporalio/temporal) - Open source microservices orchestration platform for running mission critical code at any scale.
 - [Zeebe](https://camunda.com/platform/zeebe/) - Define, orchestrate, and monitor business processes across microservices.
 
@@ -371,6 +372,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Pulsar](https://pulsar.apache.org/) - Distributed pub-sub messaging system.
 - [RabbitMQ](https://www.rabbitmq.com/) - Open source Erlang-based message broker that just works.
 - [Redpanda](https://github.com/redpanda-data/redpanda/) - Streaming data platform for developers: Kafka API compatible, 10x faster, no ZooKeeper and no JVM.
+- [Restate](https://github.com/restatedev/restate) - Open-source runtime for resilient distributed applications, providing durable RPC and messaging, keyed concurrency control, and built-in idempotency.
 - [RocketMQ](https://github.com/apache/incubator-rocketmq) - A low latency, reliable, scalable, easy to use message oriented middleware born from alibaba massive messaging business.
 
 ### Monitoring & Debugging
