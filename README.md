@@ -407,6 +407,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Security
 
+- [Casdoor](https://github.com/casdoor/casdoor) - Self-hosted identity and access management platform with a web UI. OAuth 2.0, OIDC, SAML 2.0, CAS and LDAP identity provider with SCIM provisioning and MFA.
 - [Cerbos Hub](https://www.cerbos.dev/product-cerbos-hub) - Authorization management system for authoring, testing, and deploying access policies. Built scalable, fine-grained authorization in a microservice architecture.
 - [Dex](https://github.com/coreos/dex) - Opinionated auth/directory service with pluggable connectors. OpenID Connect provider and third-party OAuth 2.0 delegation.
 - [JWT](http://jwt.io/) - JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties.
