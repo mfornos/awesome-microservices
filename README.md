@@ -105,6 +105,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Polyglot
 
+- [Graftcode](https://github.com/grft-dev/graftcode) - Integration-free development layer that lets you call methods across languages and runtimes as if they were local, without hand-writing REST, gRPC, or Thrift integration code.
 - [GRPC](http://www.grpc.io/) - A high performance, open source, general RPC framework that puts mobile and HTTP/2 first. Libraries in C, C++, Java, Go, Node.js, Python, Ruby, Objective-C, PHP and C#.
 
 ### C
