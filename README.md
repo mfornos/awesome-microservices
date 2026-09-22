@@ -463,6 +463,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Testing
 
+- [DriftWire](https://github.com/Haswell119/driftwire) - Detect API contract drift: validate a live API against its OpenAPI spec, or diff two spec versions for breaking changes.
 - [Goreplay](https://github.com/buger/goreplay) - A tool for capturing and replaying live HTTP traffic into a test environment.
 - [Keploy](https://keploy.io) - Open-source tool for API testing and mocking by capturing real traffic and converting it into test cases and stubs, enabling reliable microservice testing.
 - [Mitmproxy](https://mitmproxy.org/) - An interactive console program that allows traffic flows to be intercepted, inspected, modified and replayed.
