@@ -496,6 +496,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### REST
 
 - [API Blueprint](https://apiblueprint.org/) - Tools for your whole API lifecycle. Use it to discuss your API with others. Generate documentation automatically. Or a test suite. Or even some code.
+- [Cortex](https://github.com/cortex-docs/cortex) - Generates interactive documentation, typed SDKs, and MCP servers from OpenAPI and other API specifications.
 - [OpenAPI](https://www.openapis.org/) - The OpenAPI Specification (OAS) provides a consistent means to carry information through each stage of the API lifecycle.
 - [RAML](http://raml.org/) - RESTful API Modeling Language, a simple and succinct way of describing practically-RESTful APIs.
 - [ReDoc](https://github.com/Redocly/redoc) - OpenAPI/Swagger-generated API Documentation.
