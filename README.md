@@ -69,6 +69,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ## Platforms
 
 - [1Backend](https://github.com/1backend/1backend) - AI-native microservices platform.
+- [Backbone Community](https://github.com/get-backbone/backbone-community) - Want to write product domain services in ~15 minutes instead of building SaaS plumbing for months? Start from templates with auth, audit, metrics, throttling, fault tolerance and observability built in - with a golden path from local development to production, scale and security. Free Community Edition; upgrade to [Backbone](https://backbonehq.io/) when you're ready.
 - [Jolie](https://jolie-lang.org) - Open source microservice-oriented programming language.
 - [OpenWhisk](https://github.com/apache/openwhisk) - Serverless, open source cloud platform that executes functions in response to events at any scale.
 - [Pulumi](https://pulumi.io/) - SDK for cloud native infrastructure as code. Use your favorite language to preview and manage updates to your apps and infrastructure, and continuously deploy to any cloud (no YAML required).
