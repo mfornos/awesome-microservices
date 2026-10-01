@@ -466,6 +466,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Goreplay](https://github.com/buger/goreplay) - A tool for capturing and replaying live HTTP traffic into a test environment.
 - [Keploy](https://keploy.io) - Open-source tool for API testing and mocking by capturing real traffic and converting it into test cases and stubs, enabling reliable microservice testing.
 - [Mitmproxy](https://mitmproxy.org/) - An interactive console program that allows traffic flows to be intercepted, inspected, modified and replayed.
+- [MockRelay](https://github.com/sswivell/mock-relay) - Local HTTP proxy that records real API traffic to plain JSON fixtures and replays them offline, ranking candidates by specificity so the most specific recorded response wins.
 - [MockServer](https://www.mock-server.com) - Mocking, debugging proxy and chaos engineering for multiple protocols (HTTP, gRPC, GraphQL, LLM, MCP, Kafka, TCP and more); mock dependencies, record/replay traffic, verify requests, and inject faults for integration and resilience testing.
 - [Mountebank](http://www.mbtest.org/) - Cross-platform, multi-protocol test doubles over the wire.
 - [Pact](https://docs.pact.io) - Contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
