@@ -80,6 +80,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Axon (c)](https://axoniq.io/) - An end-to-end development and infrastructure platform for easy development and running of any DDD, CQRS and Event Sourcing applications on JVM.
 - [Ballerina](https://ballerina.io) - Cloud native programming language.
 - [Bun](https://bun.sh/) - Fast all-in-one JavaScript runtime.
+- [Cratis Chronicle](https://github.com/Cratis/Chronicle) - Event sourcing database and runtime for .NET with projections, reactors and reducers, and pluggable storage on MongoDB, PostgreSQL, SQL Server or SQLite.
 - [Dapr](https://dapr.io) - Open source runtime for writing highly performant microservices using any programming language.
 - [Deno](https://deno.land/) - JavaScript, TypeScript, and WebAssembly runtime with secure defaults and a great developer experience.
 - [Eclipse Microprofile](https://microprofile.io/) - An open forum to optimize Enterprise Java for a microservices architecture by innovating across multiple implementations and collaborating on common areas of interest with a goal of standardization.
