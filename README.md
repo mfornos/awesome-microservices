@@ -345,6 +345,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Local Development
 
 - [mirrord](https://metalbear.com/mirrord/) - Run local code as if it were a pod in a remote Kubernetes cluster.
+- [TDK CLI](https://github.com/tdk-landscape/tdk-cli-core) - Start local services on Docker and Tilt from one service.json per service, without Kubernetes.
 
 ### Logging
 
