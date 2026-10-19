@@ -186,6 +186,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Jersey](https://github.com/eclipse-ee4j/jersey) - RESTful services in Java. JAX-RS reference implementation.
 - [Quarkus](https://quarkus.io/) - A Kubernetes Native Java stack tailored for OpenJDK HotSpot and GraalVM, crafted from the best of breed Java libraries and standards.
 - [Ratpack](https://ratpack.io/) - Set of Java libraries that facilitate fast, efficient, evolvable and well tested HTTP applications. specific support for the Groovy language is provided.
+- [REST-in-peace](https://github.com/shrinivas93/REST-in-peace) - Declarative REST client with compile-time code generation, built-in retry/circuit-breaker/cache, and GraalVM native-image support.
 - [Spring Boot](http://projects.spring.io/spring-boot/) - Makes it easy to create stand-alone, production-grade Spring based applications.
 
 #### Kotlin
