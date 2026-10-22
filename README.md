@@ -344,6 +344,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Local Development
 
+- [Flisk](https://github.com/flisk-sh/flisk) - Generate and run microservice stacks locally from one service.json per service, with Docker and Tilt hot reload.
 - [mirrord](https://metalbear.com/mirrord/) - Run local code as if it were a pod in a remote Kubernetes cluster.
 
 ### Logging
