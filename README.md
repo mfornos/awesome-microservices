@@ -120,6 +120,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Enduro/X](https://github.com/endurox-dev/endurox/) - XATMI based service framework for GNU/Linux.
 - [Pistache](https://github.com/oktal/pistache) - A high-performance REST toolkit written in C++.
 - [Poco](http://pocoproject.org/) - C++ class libraries for building network-based applications and servers.
+- [qb](https://github.com/isndev/qb) - C++20 actor framework for high-performance services on Linux, macOS and Windows (x86-64 and arm64), with HTTP/1.1-3, WebSocket, PostgreSQL and Redis modules.
 - [Sogou Workflow](https://github.com/sogou/workflow) - Enterprise-grade programming engine aimed to satisfy most of the backend development requirements.
 - [uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications.
 
