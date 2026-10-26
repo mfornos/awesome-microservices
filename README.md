@@ -345,6 +345,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Local Development
 
 - [mirrord](https://metalbear.com/mirrord/) - Run local code as if it were a pod in a remote Kubernetes cluster.
+- [Spring Boot Multi-Region HA](https://github.com/tuannx/spring-boot-multi-region-ha) - Docker Compose stack that simulates a cross-region database failover so teams can rehearse recovery drills locally.
 
 ### Logging
 
