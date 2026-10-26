@@ -337,6 +337,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Job Schedulers / Workload Automation
 
 - [Celery](https://github.com/celery/celery) - Asynchronous task queue/job queue based on distributed message passing. Focused on real-time operation and supports scheduling.
+- [cronstable](https://github.com/ptweezy/cronstable) - Job scheduler with retries, alerts, run history, DAG workflows, and leader election across replicas.
 - [Dkron](http://dkron.io/) - Distributed, fault tolerant job scheduling system.
 - [Faktory](https://github.com/contribsys/faktory) - Language-agnostic persistent background job server.
 - [Rundeck (c)](http://rundeck.org/) - Job scheduler and runbook automation. Enable self-service access to existing scripts and tools.
