@@ -316,6 +316,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [AWS Step Functions (c)](https://aws.amazon.com/step-functions/) - Coordinate the components of distributed applications and microservices using visual workflows.
 - [Cadence](https://cadenceworkflow.io/) - Fault-oblivious stateful code platform.
 - [Conductor](https://github.com/Netflix/conductor) - A microservices orchestration engine.
+- [Heym](https://github.com/heymrun/heym) - Self-hosted runtime for agent workflows and service integrations, with approval checkpoints, retries, execution traces, and MCP tools (MIT with Commons Clause).
 - [Inngest](https://github.com/inngest/inngest) - Durable functions for reliable background logic, from background jobs to complex workflows.
 - [Kestra](https://github.com/kestra-io/kestra) - Open source microservices event-driven, language-agnostic orchestration and scheduling platform.
 - [Temporal](https://github.com/temporalio/temporal) - Open source microservices orchestration platform for running mission critical code at any scale.
