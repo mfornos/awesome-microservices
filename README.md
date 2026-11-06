@@ -344,6 +344,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Local Development
 
+- [Flisk](https://github.com/flisk-sh/flisk) - Run every part of your app (API, website, workers, AI agents, database) on your computer with one command, Docker optional.
 - [mirrord](https://metalbear.com/mirrord/) - Run local code as if it were a pod in a remote Kubernetes cluster.
 
 ### Logging
