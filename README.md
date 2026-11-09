@@ -362,6 +362,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Aeron](https://github.com/real-logic/Aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport.
 - [Beanstalk](https://beanstalkd.github.io/) - Simple, fast work queue.
 - [Bull](https://github.com/OptimalBits/bull) - Fast and reliable Redis-based queue for Node.
+- [TurboPulse](https://github.com/Saiop68/turbopulse) - High-performance native Rust background queue and rate limiter for Node.js with embedded in-memory and Redis cluster support.
 - [Crossbar](https://github.com/crossbario/crossbar) - Open source networking platform for distributed and microservice applications. It implements the open Web Application Messaging Protocol (WAMP).
 - [Kafka](http://kafka.apache.org/) - Publish-subscribe messaging rethought as a distributed commit log.
 - [Malamute](https://github.com/zeromq/malamute) - ZeroMQ enterprise messaging broker.
