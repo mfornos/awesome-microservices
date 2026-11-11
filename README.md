@@ -148,6 +148,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Chi](https://github.com/go-chi/chi) - Lightweight, idiomatic and composable router for building Go HTTP services.
 - [Echo](https://echo.labstack.com/) - Fast and unfancy HTTP server framework for Go. Up to 10x faster than the rest.
 - [Fiber](https://github.com/gofiber/fiber) - Express inspired web framework built on top of Fasthttp, the fastest HTTP engine for Go. Designed to ease things up for fast development with zero memory allocation and performance in mind.
+- [Forge](https://github.com/reliant-labs/forge) - Opinionated Go + React framework for Connect RPC services: protobuf and SQL migrations generate the handlers, ORM, typed clients and tests, with tracing, auth, health probes and graceful shutdown built in.
 - [Gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance, up to 40 times faster.
 - [Goa](https://github.com/goadesign/goa) - Design-based HTTP microservices in Go.
 - [GoFr](https://github.com/gofr-dev/gofr) - An opinionated microservice development framework emphasizing scalability and robustness. Designed to simplify the development of microservices.
