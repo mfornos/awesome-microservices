@@ -401,6 +401,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Resilience
 
 - [Awesome Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) :star: - A curated list of awesome chaos engineering resources.
+- [pyresilience](https://github.com/AhsanSheraz/pyresilience) - Fault tolerance library for Python that combines retry, circuit breaker, timeout, fallback, bulkhead, rate limiter, and cache in one decorator.
 - [Raft Consensus](https://raft.github.io/) - Consensus algorithm that is designed to be easy to understand. It's equivalent to Paxos in fault-tolerance and performance.
 - [Resilience4j](https://github.com/resilience4j/resilience4j) - Fault tolerance library designed for Java8 and functional programming.
 - [Svix](https://svix.com) - Webhooks service that sends webhooks to your users with full retry schedules, exponential backoff, signature verification, and event types.
