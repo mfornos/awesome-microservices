@@ -341,6 +341,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Faktory](https://github.com/contribsys/faktory) - Language-agnostic persistent background job server.
 - [Rundeck (c)](http://rundeck.org/) - Job scheduler and runbook automation. Enable self-service access to existing scripts and tools.
 - [Schedulix](https://github.com/schedulix/schedulix) - Open source enterprise job scheduling system lays down ground-breaking standards for the professional automation of IT processes in advanced system environments.
+- [Workhorse](https://github.com/stablemates/workhorse) - Durable task queue for PostgreSQL, with an embedded operator dashboard, durable waits, task groups, and concurrency and rate limits for each key. Workers in multiple languages.
 
 ### Local Development
 
