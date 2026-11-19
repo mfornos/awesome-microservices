@@ -87,6 +87,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Finagle](http://twitter.github.io/finagle) - Extensible RPC system for the JVM, used to construct high-concurrency servers.
 - [Gleam](https://gleam.run/) - A friendly language for building type-safe, scalable systems.
 - [GraalVM](https://www.graalvm.org/) - High-performance runtime that provides significant improvements in application performance and efficiency which is ideal for microservices.
+- [Graftcode](https://github.com/grft-dev/graftcode) - Runtime for calling public methods across JS/TS, .NET/netcore, JVM, Node, Python, PHP, and Ruby. Strongly typed clients install via standard package managers. The same client can call a module in-process or as a remote microservice by changing settings. Built-in MCP support exposes the same methods as tools. Transports are binary and include HTTP/2, WebSocket, and TCP/IP, with [open-source plugins](https://github.com/grft-dev/graftcode-extensions) for Kafka, RabbitMQ, Amazon SQS, Azure Service Bus, and Google Pub/Sub.
 - [Helidon](https://helidon.io/) - Collection of Java libraries for writing microservices that run on a fast web core powered by Netty.
 - [Ice](https://github.com/zeroc-ice/ice) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python, and more.
 - [Light-4j](https://github.com/networknt/light-4j) - A high throughput, low latency, small memory footprint and more productive microservices platform.
