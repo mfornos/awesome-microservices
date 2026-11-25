@@ -2,6 +2,8 @@
 
 A curated list of Microservice Architecture related principles and technologies.
 
+<a href="README.zh-CN.md">简体中文</a>
+
 **Table of Contents**
 
 - [Platforms](#platforms)
